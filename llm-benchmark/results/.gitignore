@@ -1,0 +1,2 @@
+# Benchmark run outputs are local; keep the dir, ignore the runs.
+*.json

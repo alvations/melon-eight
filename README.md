@@ -137,6 +137,24 @@ model included):** [`docs/REPRODUCE.md`](docs/REPRODUCE.md). Audio pipeline:
 [`docs/AUDIO.md`](docs/AUDIO.md). Reviewer panel and its reviews:
 [`docs/reviews/`](docs/reviews/).
 
+## Benchmark an LLM against it
+
+Can a language model *remember a place*? [`llm-benchmark/`](llm-benchmark/) points a
+local Hugging Face `transformers` model at the deployed game and measures how many
+rounds it needs to escape each arc, across all **3 arcs × 3 difficulties × 2
+reading levels**. The model plays exactly like a human (the server owns
+correctness; the answer is never in the payload), so it is a genuine memory test.
+
+```bash
+cd llm-benchmark && pip install -r requirements.txt
+python benchmark.py --base-url http://127.0.0.1:5000 --agent random     # baseline, no model
+python benchmark.py --base-url http://127.0.0.1:5000 \
+    --agent llm --model google/gemma-3n-e4b-it                          # a local model plays
+```
+
+See [`llm-benchmark/README.md`](llm-benchmark/README.md) for the agent protocol,
+the sample prompt, and how to plug in your own model.
+
 ---
 
 ## Run it locally
@@ -303,6 +321,7 @@ templates/         the page
 static/            style (skins), client logic, live audio, the "8" share art
 scripts/           i18n pipeline, deploy, audio measure/render, screenshot + video
 tests/             unit/API tests + the headless-browser emulation harness
+llm-benchmark/     drive a local LLM against the deployed game as a memory benchmark
 docs/              design, testing, audio, localization, reviews, ownership
 package.json       the Node dev tool-chain (Playwright) for the test/capture tools
 Dockerfile         container image for Hugging Face Spaces and other hosts

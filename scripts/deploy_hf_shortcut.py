@@ -93,7 +93,7 @@ def main() -> None:
         ignore_patterns=[
             ".git*", "**/__pycache__/**", "*.pyc", ".venv/**", "venv/**", ".env",
             "tests/**", "scripts/**", "package.json", "package-lock.json",
-            "node_modules/**", "*.cjs", "docs/**", "CLAUDE.md",
+            "node_modules/**", "*.cjs", "docs/**", "CLAUDE.md", "llm-benchmark/**",
             "data/i18n/src/**", "data/i18n/lines.json", "data/i18n/levels.json",
             "static/audio/**", "shots/**", "video/**",
             "theme-out/**", "sfx-out/**", "audio-out/**", "*.webm",

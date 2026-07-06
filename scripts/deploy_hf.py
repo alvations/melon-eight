@@ -65,6 +65,8 @@ def main() -> None:
             # dev tool-chain and tests (not used at runtime)
             "tests/**", "scripts/**", "package.json", "package-lock.json",
             "node_modules/**", "*.cjs",
+            # the LLM benchmark harness (a dev/research tool, not the game runtime)
+            "llm-benchmark/**",
             # docs, reviews, and the agent brief (GitHub keeps these)
             "docs/**", "CLAUDE.md",
             # translation SOURCE + audit: the server loads only data/i18n/compiled/

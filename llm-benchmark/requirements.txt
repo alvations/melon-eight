@@ -1,0 +1,9 @@
+# Core harness (all you need for the random/always_go_on baselines):
+requests>=2.28
+
+# For `--agent llm` (drive a local Hugging Face model as the player).
+# Install a torch build that matches your hardware (CPU works for small models;
+# a GPU is much faster). See https://pytorch.org for the right wheel.
+transformers>=4.44
+torch>=2.1
+accelerate>=0.30
