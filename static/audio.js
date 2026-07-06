@@ -473,7 +473,7 @@ class Ambience {
     // the whole game sits at one level: the low-frequency coach needs the most
     // lift (sub-bass reads quiet), the stairwell the least. See
     // scripts/measure_audio.cjs for how these were derived.
-    const BUS = { landing: 1, hallway: 2.2, coach: 1.0, stairway: 1.48 };
+    const BUS = { landing: 1, hallway: 2.2, coach: 0.8, stairway: 1.48 };
     const busLevel = BUS[skin] || 2.2;
     if (skin === "coach") this._coach(bus);
     else if (skin === "stairway") this._stairway(bus);
