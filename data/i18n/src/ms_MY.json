@@ -1,0 +1,1058 @@
+{
+  "ui|select_lead_1": {
+    "text": "Suatu tempat yang tidak benar-benar dapat kamu tinggalkan.",
+    "score": 93,
+    "postedit": "Suatu tempat yang tidak benar-benar dapat kamu tinggalkan.",
+    "postedit_score": 95
+  },
+  "ui|select_lead_2": {
+    "text": "Pilih satu laluan untuk menyeberang.",
+    "score": 93,
+    "postedit": "Pilih satu laluan untuk menyeberang.",
+    "postedit_score": 95
+  },
+  "ui|begin": {
+    "text": "Mula",
+    "score": 94,
+    "postedit": "Mula",
+    "postedit_score": 96
+  },
+  "ui|back": {
+    "text": "Kembali",
+    "score": 94,
+    "postedit": "Kembali",
+    "postedit_score": 96
+  },
+  "ui|again": {
+    "text": "Lalui semula",
+    "score": 93,
+    "postedit": "Lalui semula",
+    "postedit_score": 95
+  },
+  "ui|change": {
+    "text": "Tukar senario",
+    "score": 94,
+    "postedit": "Tukar senario",
+    "postedit_score": 96
+  },
+  "ui|give_up": {
+    "text": "Mengalah · kembali ke permulaan",
+    "score": 93,
+    "postedit": "Mengalah · kembali ke permulaan",
+    "postedit_score": 95
+  },
+  "ui|conf_q": {
+    "text": "Sejauh mana kamu yakin?",
+    "score": 93,
+    "postedit": "Sejauh mana kamu yakin?",
+    "postedit_score": 95
+  },
+  "ui|conf_1": {
+    "text": "Meneka",
+    "score": 93,
+    "postedit": "Meneka",
+    "postedit_score": 95
+  },
+  "ui|conf_2": {
+    "text": "Rasanya begitu",
+    "score": 93,
+    "postedit": "Rasanya begitu",
+    "postedit_score": 95
+  },
+  "ui|conf_3": {
+    "text": "Hampir pasti",
+    "score": 94,
+    "postedit": "Hampir pasti",
+    "postedit_score": 96
+  },
+  "ui|conf_4": {
+    "text": "Pasti",
+    "score": 94,
+    "postedit": "Pasti",
+    "postedit_score": 96
+  },
+  "ui|language": {
+    "text": "Bahasa",
+    "score": 94,
+    "postedit": "Bahasa",
+    "postedit_score": 96
+  },
+  "a:coach8|title_main": {
+    "text": "Gerabak 8",
+    "score": 94,
+    "postedit": "Gerabak 8",
+    "postedit_score": 96
+  },
+  "a:coach8|tagline": {
+    "text": "Konduktor kata gerabak 8. Kereta api ini seolah-olah tidak pernah sampai ke sana.",
+    "score": 93,
+    "postedit": "Konduktor kata gerabak 8. Kereta api ini seolah-olah tidak pernah sampai ke sana.",
+    "postedit_score": 95
+  },
+  "a:coach8|go_on": {
+    "text": "Gerabak seterusnya",
+    "score": 94,
+    "postedit": "Gerabak seterusnya",
+    "postedit_score": 96
+  },
+  "a:coach8|turn_back": {
+    "text": "Undur satu gerabak",
+    "score": 93,
+    "postedit": "Undur satu gerabak",
+    "postedit_score": 95
+  },
+  "a:coach8|progress": {
+    "text": "Gerabak {level} / {goal}",
+    "score": 94,
+    "postedit": "Gerabak {level} / {goal}",
+    "postedit_score": 96
+  },
+  "a:coach8|label|lighting": {
+    "text": "lampu",
+    "score": 94,
+    "postedit": "lampu",
+    "postedit_score": 96
+  },
+  "a:coach8|label|sound": {
+    "text": "bunyi",
+    "score": 94,
+    "postedit": "bunyi",
+    "postedit_score": 96
+  },
+  "a:coach8|label|window": {
+    "text": "tingkap",
+    "score": 94,
+    "postedit": "tingkap",
+    "postedit_score": 96
+  },
+  "a:coach8|label|passenger": {
+    "text": "penumpang yang tidur",
+    "score": 93,
+    "postedit": "penumpang yang tidur",
+    "postedit_score": 95
+  },
+  "a:coach8|label|seatnum": {
+    "text": "nombor tempat duduk",
+    "score": 93,
+    "postedit": "nombor tempat duduk",
+    "postedit_score": 95
+  },
+  "a:coach8|label|door": {
+    "text": "pintu penghubung",
+    "score": 93,
+    "postedit": "pintu penghubung",
+    "postedit_score": 95
+  },
+  "a:coach8|label|luggage": {
+    "text": "rak bagasi",
+    "score": 94,
+    "postedit": "rak bagasi",
+    "postedit_score": 96
+  },
+  "a:coach8|label|table": {
+    "text": "meja",
+    "score": 94,
+    "postedit": "meja",
+    "postedit_score": 96
+  },
+  "a:coach8|label|sense": {
+    "text": "perasaan itu",
+    "score": 93,
+    "postedit": "perasaan itu",
+    "postedit_score": 95
+  },
+  "a:coach8|title|0": {
+    "text": "Gerabak 8",
+    "score": 94,
+    "postedit": "Gerabak 8",
+    "postedit_score": 96
+  },
+  "a:coach8|title|1": {
+    "text": "Gerabak 8",
+    "score": 94,
+    "postedit": "Gerabak 8",
+    "postedit_score": 96
+  },
+  "a:coach8|title|2": {
+    "text": "Gerabak 8",
+    "score": 94,
+    "postedit": "Gerabak 8",
+    "postedit_score": 96
+  },
+  "a:coach8|title|3": {
+    "text": "Gerabak 8",
+    "score": 94,
+    "postedit": "Gerabak 8",
+    "postedit_score": 96
+  },
+  "a:coach8|title|4": {
+    "text": "Koc 8",
+    "score": 93,
+    "postedit": "Koc 8",
+    "postedit_score": 95
+  },
+  "a:coach8|title|5": {
+    "text": "Gerabak Lapan",
+    "score": 93,
+    "postedit": "Gerabak Lapan",
+    "postedit_score": 95
+  },
+  "a:coach8|title|6": {
+    "text": "GERABAK 8",
+    "score": 94,
+    "postedit": "GERABAK 8",
+    "postedit_score": 96
+  },
+  "a:coach8|title|7": {
+    "text": "Gerabak  8",
+    "score": 94,
+    "postedit": "Gerabak  8",
+    "postedit_score": 96
+  },
+  "a:coach8|p:lighting|v:dim|0": {
+    "text": "Lampu kabin diredupkan untuk waktu malam, satu lapisan sinar ambar yang lembut.",
+    "score": 93,
+    "postedit": "Lampu kabin diredupkan untuk waktu malam, satu lapisan sinar ambar yang lembut.",
+    "postedit_score": 95
+  },
+  "a:coach8|p:lighting|v:dim|1": {
+    "text": "Cahaya malam yang malap bersinar di sepanjang rak bagasi, seperti biasa.",
+    "score": 93,
+    "postedit": "Cahaya malam yang malap bersinar di sepanjang rak bagasi, seperti biasa.",
+    "postedit_score": 95
+  },
+  "a:coach8|p:lighting|v:dim|2": {
+    "text": "Lampu di siling diturunkan ke tetapan malam ambarnya.",
+    "score": 93,
+    "postedit": "Lampu di siling diturunkan ke tetapan malam ambarnya.",
+    "postedit_score": 95
+  },
+  "a:coach8|p:lighting|v:dim|3": {
+    "text": "Gerabak ini disuluhi warna emas lembut yang sama seperti gerabak tadi.",
+    "score": 93,
+    "postedit": "Gerabak ini disuluhi warna emas lembut yang sama seperti gerabak tadi.",
+    "postedit_score": 95
+  },
+  "a:coach8|p:lighting|x:flicker|0": {
+    "text": "Lampu kabin bergetar mengikut gerakan kereta api, kemudian stabil semula.",
+    "score": 93,
+    "postedit": "Lampu kabin bergetar mengikut gerakan kereta api, kemudian stabil semula.",
+    "postedit_score": 95
+  },
+  "a:coach8|p:lighting|x:flicker|1": {
+    "text": "Satu jalur lampu di atas tersekat-sekat.",
+    "score": 93,
+    "postedit": "Satu jalur lampu di atas tersekat-sekat.",
+    "postedit_score": 95
+  },
+  "a:coach8|p:lighting|x:flicker|2": {
+    "text": "Cahaya ambar itu terpadam, kemudian menyala semula.",
+    "score": 94,
+    "postedit": "Cahaya ambar itu terpadam, kemudian menyala semula.",
+    "postedit_score": 96
+  },
+  "a:coach8|p:lighting|x:bright|0": {
+    "text": "Lampu dinyalakan penuh, keras dan putih, bukan tetapan malam.",
+    "score": 93,
+    "postedit": "Lampu dinyalakan penuh, keras dan putih, bukan tetapan malam.",
+    "postedit_score": 95
+  },
+  "a:coach8|p:lighting|x:bright|1": {
+    "text": "Gerabak ini jauh lebih terang daripada gerabak tadi.",
+    "score": 94,
+    "postedit": "Gerabak ini jauh lebih terang daripada gerabak tadi.",
+    "postedit_score": 96
+  },
+  "a:coach8|p:lighting|x:bright|2": {
+    "text": "Sinar ambar yang lembut sudah hilang; segalanya menyilau putih.",
+    "score": 93,
+    "postedit": "Sinar ambar yang lembut sudah hilang; segalanya menyilau putih.",
+    "postedit_score": 95
+  },
+  "a:coach8|p:lighting|x:off|0": {
+    "text": "Kabin ini gelap kecuali jalur kecemasan di lantai.",
+    "score": 93,
+    "postedit": "Kabin ini gelap kecuali jalur kecemasan di lantai.",
+    "postedit_score": 95
+  },
+  "a:coach8|p:lighting|x:off|1": {
+    "text": "Lampu di sini terpadam; hanya penanda lorong yang bersinar.",
+    "score": 93,
+    "postedit": "Lampu di sini terpadam; hanya penanda lorong yang bersinar.",
+    "postedit_score": 95
+  },
+  "a:coach8|p:lighting|x:off|2": {
+    "text": "Kegelapan, kecuali sejalur nipis cahaya di sepanjang lantai.",
+    "score": 93,
+    "postedit": "Kegelapan, kecuali sejalur nipis cahaya di sepanjang lantai.",
+    "postedit_score": 95
+  },
+  "a:coach8|p:sound|v:rhythm|0": {
+    "text": "Landasan berdetak dengan irama tetap di bawah lantai.",
+    "score": 94,
+    "postedit": "Landasan berdetak dengan irama tetap di bawah lantai.",
+    "postedit_score": 96
+  },
+  "a:coach8|p:sound|v:rhythm|1": {
+    "text": "Kereta api berdengung laju, roda berdetik melintasi sambungan landasan.",
+    "score": 93,
+    "postedit": "Kereta api berdengung laju, roda berdetik melintasi sambungan landasan.",
+    "postedit_score": 95
+  },
+  "a:coach8|p:sound|v:rhythm|2": {
+    "text": "Ayunan dan gemertak biasa sebuah kereta api yang meluncur laju.",
+    "score": 93,
+    "postedit": "Ayunan dan gemertak biasa sebuah kereta api yang meluncur laju.",
+    "postedit_score": 95
+  },
+  "a:coach8|p:sound|x:slowing|0": {
+    "text": "Irama landasan semakin perlahan. Adakah kamu sedang berhenti?",
+    "score": 93,
+    "postedit": "Irama landasan semakin perlahan. Adakah kamu sedang berhenti?",
+    "postedit_score": 95
+  },
+  "a:coach8|p:sound|x:slowing|1": {
+    "text": "Gemertak itu semakin lambat, seolah-olah kereta api hilang kelajuan.",
+    "score": 93,
+    "postedit": "Gemertak itu semakin lambat, seolah-olah kereta api hilang kelajuan.",
+    "postedit_score": 95
+  },
+  "a:coach8|p:sound|x:slowing|2": {
+    "text": "Detak di bawah lantai semakin renggang antara setiap detik.",
+    "score": 93,
+    "postedit": "Detak di bawah lantai semakin renggang antara setiap detik.",
+    "postedit_score": 95
+  },
+  "a:coach8|p:sound|x:silence|0": {
+    "text": "Roda sudah senyap. Kamu langsung tidak merasakan sebarang gerakan.",
+    "score": 94,
+    "postedit": "Roda sudah senyap. Kamu langsung tidak merasakan sebarang gerakan.",
+    "postedit_score": 96
+  },
+  "a:coach8|p:sound|x:silence|1": {
+    "text": "Bunyi kereta api sudah terhenti. Diam sepenuhnya.",
+    "score": 93,
+    "postedit": "Bunyi kereta api sudah terhenti. Diam sepenuhnya.",
+    "postedit_score": 95
+  },
+  "a:coach8|p:sound|x:silence|2": {
+    "text": "Tiada gemertak, tiada ayunan. Mungkin kereta api sudah tidak bergerak.",
+    "score": 93,
+    "postedit": "Tiada gemertak, tiada ayunan. Mungkin kereta api sudah tidak bergerak.",
+    "postedit_score": 95
+  },
+  "a:coach8|p:sound|x:announce|0": {
+    "text": "Satu bunyi loceng berbunyi, kemudian satu pengumuman yang terendam yang tidak dapat kamu tangkap.",
+    "score": 93,
+    "postedit": "Satu bunyi loceng berbunyi, kemudian satu pengumuman yang terendam yang tidak dapat kamu tangkap.",
+    "postedit_score": 95
+  },
+  "a:coach8|p:sound|x:announce|1": {
+    "text": "Pembesar suara berderau dengan satu suara, kemudian terputus.",
+    "score": 93,
+    "postedit": "Pembesar suara berderau dengan satu suara, kemudian terputus.",
+    "postedit_score": 95
+  },
+  "a:coach8|p:sound|x:announce|2": {
+    "text": "Satu pengumuman berkumandang, hampir seperti dimainkan secara terbalik.",
+    "score": 93,
+    "postedit": "Satu pengumuman berkumandang, hampir seperti dimainkan secara terbalik.",
+    "postedit_score": 95
+  },
+  "a:coach8|p:sound|x:faster|0": {
+    "text": "Landasan berdetak lebih laju daripada sepatutnya, satu deraman yang semakin tinggi.",
+    "score": 93,
+    "postedit": "Landasan berdetak lebih laju daripada sepatutnya, satu deraman yang semakin tinggi.",
+    "postedit_score": 95
+  },
+  "a:coach8|p:sound|x:faster|1": {
+    "text": "Kereta api semakin laju, gemertaknya meninggi nadanya.",
+    "score": 93,
+    "postedit": "Kereta api semakin laju, gemertaknya meninggi nadanya.",
+    "postedit_score": 95
+  },
+  "a:coach8|p:sound|x:faster|2": {
+    "text": "Segalanya bergegar lebih kuat; kamu semakin laju.",
+    "score": 93,
+    "postedit": "Segalanya bergegar lebih kuat; kamu semakin laju.",
+    "postedit_score": 95
+  },
+  "a:coach8|p:window|v:night|0": {
+    "text": "Di luar tingkap, pedalaman yang gelap dan pantulan kamu sendiri yang samar.",
+    "score": 93,
+    "postedit": "Di luar tingkap, pedalaman yang gelap dan pantulan kamu sendiri yang samar.",
+    "postedit_score": 95
+  },
+  "a:coach8|p:window|v:night|1": {
+    "text": "Tingkap itu hanya memperlihatkan malam dan bayang-bayang kabin.",
+    "score": 93,
+    "postedit": "Tingkap itu hanya memperlihatkan malam dan bayang-bayang kabin.",
+    "postedit_score": 95
+  },
+  "a:coach8|p:window|v:night|2": {
+    "text": "Ladang-ladang gelap meluncur melepasi tingkap, cahaya-cahaya jauh bertaburan.",
+    "score": 93,
+    "postedit": "Ladang-ladang gelap meluncur melepasi tingkap, cahaya-cahaya jauh bertaburan.",
+    "postedit_score": 95
+  },
+  "a:coach8|p:window|x:station|0": {
+    "text": "Tingkap memperlihatkan platform bercahaya yang menggelongsor lalu, sebuah stesen, tanpa diumumkan.",
+    "score": 93,
+    "postedit": "Tingkap memperlihatkan platform bercahaya yang menggelongsor lalu, sebuah stesen, tanpa diumumkan.",
+    "postedit_score": 95
+  },
+  "a:coach8|p:window|x:station|1": {
+    "text": "Di luar, platform sebuah stesen berlalu, kosong dan terang.",
+    "score": 93,
+    "postedit": "Di luar, platform sebuah stesen berlalu, kosong dan terang.",
+    "postedit_score": 95
+  },
+  "a:coach8|p:window|x:station|2": {
+    "text": "Sebuah stesen menggelongsor melepasi cermin; kamu tidak pernah merasakan kereta api perlahan.",
+    "score": 93,
+    "postedit": "Sebuah stesen menggelongsor melepasi cermin; kamu tidak pernah merasakan kereta api perlahan.",
+    "postedit_score": 95
+  },
+  "a:coach8|p:window|x:reflection|0": {
+    "text": "Pantulan kamu pada cermin terlewat setengah saat daripada kamu.",
+    "score": 93,
+    "postedit": "Pantulan kamu pada cermin terlewat setengah saat daripada kamu.",
+    "postedit_score": 95
+  },
+  "a:coach8|p:window|x:reflection|1": {
+    "text": "Pantulan pada tingkap tidak begitu sepadan dengan kabin.",
+    "score": 93,
+    "postedit": "Pantulan pada tingkap tidak begitu sepadan dengan kabin.",
+    "postedit_score": 95
+  },
+  "a:coach8|p:window|x:reflection|2": {
+    "text": "Seseorang berdiri dalam pantulan tingkap, seseorang yang tiada di dalam gerabak.",
+    "score": 93,
+    "postedit": "Seseorang berdiri dalam pantulan tingkap, seseorang yang tiada di dalam gerabak.",
+    "postedit_score": 95
+  },
+  "a:coach8|p:window|x:daylight|0": {
+    "text": "Tingkap terang dengan cahaya siang. Tadi masih malam.",
+    "score": 93,
+    "postedit": "Tingkap terang dengan cahaya siang. Tadi masih malam.",
+    "postedit_score": 95
+  },
+  "a:coach8|p:window|x:daylight|1": {
+    "text": "Di luar cermin, tiba-tiba, mustahil, sudah siang.",
+    "score": 93,
+    "postedit": "Di luar cermin, tiba-tiba, mustahil, sudah siang.",
+    "postedit_score": 95
+  },
+  "a:coach8|p:window|x:daylight|2": {
+    "text": "Cahaya matahari memenuhi tingkap di tempat yang tadinya hanya gelap.",
+    "score": 93,
+    "postedit": "Cahaya matahari memenuhi tingkap di tempat yang tadinya hanya gelap.",
+    "postedit_score": 95
+  },
+  "a:coach8|p:window|x:tunnel|0": {
+    "text": "Tingkap hitam pekat, sebuah terowong, menderu, tanpa penghujung.",
+    "score": 93,
+    "postedit": "Tingkap hitam pekat, sebuah terowong, menderu, tanpa penghujung.",
+    "postedit_score": 95
+  },
+  "a:coach8|p:window|x:tunnel|1": {
+    "text": "Kamu berada dalam terowong sekarang; cermin hanya memperlihatkan kegelapan yang meluru.",
+    "score": 93,
+    "postedit": "Kamu berada dalam terowong sekarang; cermin hanya memperlihatkan kegelapan yang meluru.",
+    "postedit_score": 95
+  },
+  "a:coach8|p:window|x:tunnel|2": {
+    "text": "Tiada apa selain dinding terowong hitam yang mengalir melepasi tingkap.",
+    "score": 93,
+    "postedit": "Tiada apa selain dinding terowong hitam yang mengalir melepasi tingkap.",
+    "postedit_score": 95
+  },
+  "a:coach8|p:passenger|v:sleeping|0": {
+    "text": "Seorang penumpang bersendirian tidur bersandar pada tingkap di hujung sana, kot menutupi wajahnya.",
+    "score": 93,
+    "postedit": "Seorang penumpang bersendirian tidur bersandar pada tingkap di hujung sana, kot menutupi wajahnya.",
+    "postedit_score": 95
+  },
+  "a:coach8|p:passenger|v:sleeping|1": {
+    "text": "Seorang penumpang terlelap di tengah-tengah gerabak, kepalanya tersandar ke belakang.",
+    "score": 93,
+    "postedit": "Seorang penumpang terlelap di tengah-tengah gerabak, kepalanya tersandar ke belakang.",
+    "postedit_score": 95
+  },
+  "a:coach8|p:passenger|v:sleeping|2": {
+    "text": "Susuk tubuh yang tidur itu tetap terkulai di tempat duduk tepi tingkap, seperti tadi.",
+    "score": 93,
+    "postedit": "Susuk tubuh yang tidur itu tetap terkulai di tempat duduk tepi tingkap, seperti tadi.",
+    "postedit_score": 95
+  },
+  "a:coach8|p:passenger|x:gone|0": {
+    "text": "Tempat duduk yang tadinya penumpang itu tidur kini kosong.",
+    "score": 93,
+    "postedit": "Tempat duduk yang tadinya penumpang itu tidur kini kosong.",
+    "postedit_score": 95
+  },
+  "a:coach8|p:passenger|x:gone|1": {
+    "text": "Kali ini tiada sesiapa yang tidur di dalam gerabak.",
+    "score": 94,
+    "postedit": "Kali ini tiada sesiapa yang tidur di dalam gerabak.",
+    "postedit_score": 96
+  },
+  "a:coach8|p:passenger|x:gone|2": {
+    "text": "Penumpang yang terlelap itu sudah tiada; hanya sehelai kot yang terlipat tinggal.",
+    "score": 93,
+    "postedit": "Penumpang yang terlelap itu sudah tiada; hanya sehelai kot yang terlipat tinggal.",
+    "postedit_score": 95
+  },
+  "a:coach8|p:passenger|x:awake|0": {
+    "text": "Penumpang itu kini terjaga, duduk tegak, amat diam.",
+    "score": 93,
+    "postedit": "Penumpang itu kini terjaga, duduk tegak, amat diam.",
+    "postedit_score": 95
+  },
+  "a:coach8|p:passenger|x:awake|1": {
+    "text": "Mata orang yang tidur itu terbuka, terpaku pada lorong.",
+    "score": 93,
+    "postedit": "Mata orang yang tidur itu terbuka, terpaku pada lorong.",
+    "postedit_score": 95
+  },
+  "a:coach8|p:passenger|x:awake|2": {
+    "text": "Penumpang itu tidak lagi tidur. Dia memerhati kamu berlalu.",
+    "score": 94,
+    "postedit": "Penumpang itu tidak lagi tidur. Dia memerhati kamu berlalu.",
+    "postedit_score": 96
+  },
+  "a:coach8|p:passenger|x:moved|0": {
+    "text": "Penumpang yang tidur itu sudah berpindah ke tempat duduk yang lebih dekat dengan lorong.",
+    "score": 93,
+    "postedit": "Penumpang yang tidur itu sudah berpindah ke tempat duduk yang lebih dekat dengan lorong.",
+    "postedit_score": 95
+  },
+  "a:coach8|p:passenger|x:moved|1": {
+    "text": "Susuk yang terlelap itu lebih dekat daripada tadi, di sebelah kamu sekarang.",
+    "score": 93,
+    "postedit": "Susuk yang terlelap itu lebih dekat daripada tadi, di sebelah kamu sekarang.",
+    "postedit_score": 95
+  },
+  "a:coach8|p:passenger|x:moved|2": {
+    "text": "Penumpang itu tidur di tempat duduk yang berlainan daripada tadi.",
+    "score": 93,
+    "postedit": "Penumpang itu tidur di tempat duduk yang berlainan daripada tadi.",
+    "postedit_score": 95
+  },
+  "a:coach8|p:passenger|x:two|0": {
+    "text": "Dua orang penumpang tidur di sini sekarang, di tempat yang tadinya seorang.",
+    "score": 94,
+    "postedit": "Dua orang penumpang tidur di sini sekarang, di tempat yang tadinya seorang.",
+    "postedit_score": 96
+  },
+  "a:coach8|p:passenger|x:two|1": {
+    "text": "Ada sepasang kot yang menutupi wajah kali ini, bukan satu.",
+    "score": 93,
+    "postedit": "Ada sepasang kot yang menutupi wajah kali ini, bukan satu.",
+    "postedit_score": 95
+  },
+  "a:coach8|p:passenger|x:two|2": {
+    "text": "Susuk kedua yang tidur telah menyertai yang pertama.",
+    "score": 93,
+    "postedit": "Susuk kedua yang tidur telah menyertai yang pertama.",
+    "postedit_score": 95
+  },
+  "a:coach8|p:passenger|x:speaks|0": {
+    "text": "Penumpang yang tidur itu berbisik, tanpa terjaga: 'sekali lagi?'",
+    "score": 93,
+    "postedit": "Penumpang yang tidur itu berbisik, tanpa terjaga: 'sekali lagi?'",
+    "postedit_score": 95
+  },
+  "a:coach8|p:passenger|x:speaks|1": {
+    "text": "Dari bawah kot, satu suara yang terendam: 'kamu baru sahaja di sini tadi.'",
+    "score": 93,
+    "postedit": "Dari bawah kot, satu suara yang terendam: 'kamu baru sahaja di sini tadi.'",
+    "postedit_score": 95
+  },
+  "a:coach8|p:passenger|x:speaks|2": {
+    "text": "Susuk yang terlelap itu menyebut nama hentian kamu, walaupun kamu tidak memberitahu sesiapa.",
+    "score": 93,
+    "postedit": "Susuk yang terlelap itu menyebut nama hentian kamu, walaupun kamu tidak memberitahu sesiapa.",
+    "postedit_score": 95
+  },
+  "a:coach8|p:seatnum|v:eight|0": {
+    "text": "Pelekat tempat duduk tertera 8A, 8B, 8C di sepanjang baris.",
+    "score": 93,
+    "postedit": "Pelekat tempat duduk tertera 8A, 8B, 8C di sepanjang baris.",
+    "postedit_score": 95
+  },
+  "a:coach8|p:seatnum|v:eight|1": {
+    "text": "Nombor-nombor kecil bertembaga menandai tempat duduk: baris 8, seperti biasa.",
+    "score": 93,
+    "postedit": "Nombor-nombor kecil bertembaga menandai tempat duduk: baris 8, seperti biasa.",
+    "postedit_score": 95
+  },
+  "a:coach8|p:seatnum|v:eight|2": {
+    "text": "Panel nombor gerabak di tepi pintu bercahaya GERABAK 8.",
+    "score": 93,
+    "postedit": "Panel nombor gerabak di tepi pintu bercahaya GERABAK 8.",
+    "postedit_score": 95
+  },
+  "a:coach8|p:seatnum|x:wrong|0": {
+    "text": "Pelekat tempat duduk kini tertera baris 7, bukan 8.",
+    "score": 94,
+    "postedit": "Pelekat tempat duduk kini tertera baris 7, bukan 8.",
+    "postedit_score": 96
+  },
+  "a:coach8|p:seatnum|x:wrong|1": {
+    "text": "Panel nombor gerabak tertera GERABAK 9.",
+    "score": 94,
+    "postedit": "Panel nombor gerabak tertera GERABAK 9.",
+    "postedit_score": 96
+  },
+  "a:coach8|p:seatnum|x:wrong|2": {
+    "text": "Nombor tembaga itu menyatakan baris 6; kamu pasti tadi 8.",
+    "score": 93,
+    "postedit": "Nombor tembaga itu menyatakan baris 6; kamu pasti tadi 8.",
+    "postedit_score": 95
+  },
+  "a:coach8|p:seatnum|x:missing|0": {
+    "text": "Nombor tempat duduk sudah dicungkil keluar; hanya lubang skru yang tinggal.",
+    "score": 93,
+    "postedit": "Nombor tempat duduk sudah dicungkil keluar; hanya lubang skru yang tinggal.",
+    "postedit_score": 95
+  },
+  "a:coach8|p:seatnum|x:missing|1": {
+    "text": "Panel nombor gerabak di tepi pintu gelap dan kosong.",
+    "score": 93,
+    "postedit": "Panel nombor gerabak di tepi pintu gelap dan kosong.",
+    "postedit_score": 95
+  },
+  "a:coach8|p:seatnum|x:missing|2": {
+    "text": "Kali ini langsung tiada nombor pada tempat duduk.",
+    "score": 94,
+    "postedit": "Kali ini langsung tiada nombor pada tempat duduk.",
+    "postedit_score": 96
+  },
+  "a:coach8|p:seatnum|x:letters|0": {
+    "text": "Pelekat tempat duduk tertera 8X, 8Y, 8Z, huruf-huruf yang tidak sepatutnya ada.",
+    "score": 93,
+    "postedit": "Pelekat tempat duduk tertera 8X, 8Y, 8Z, huruf-huruf yang tidak sepatutnya ada.",
+    "postedit_score": 95
+  },
+  "a:coach8|p:seatnum|x:letters|1": {
+    "text": "Baris ini dinomborkan dalam abjad yang tidak kamu kenali.",
+    "score": 93,
+    "postedit": "Baris ini dinomborkan dalam abjad yang tidak kamu kenali.",
+    "postedit_score": 95
+  },
+  "a:coach8|p:seatnum|x:letters|2": {
+    "text": "Label tempat duduk kini hanya simbol, bukan nombor.",
+    "score": 93,
+    "postedit": "Label tempat duduk kini hanya simbol, bukan nombor.",
+    "postedit_score": 95
+  },
+  "a:coach8|p:door|v:closed|0": {
+    "text": "Pintu penghubung di hujung gerabak tertutup, kacanya gelap.",
+    "score": 93,
+    "postedit": "Pintu penghubung di hujung gerabak tertutup, kacanya gelap.",
+    "postedit_score": 95
+  },
+  "a:coach8|p:door|v:closed|1": {
+    "text": "Pintu berkuasa ke gerabak seterusnya tertutup, seperti biasa.",
+    "score": 93,
+    "postedit": "Pintu berkuasa ke gerabak seterusnya tertutup, seperti biasa.",
+    "postedit_score": 95
+  },
+  "a:coach8|p:door|v:closed|2": {
+    "text": "Pintu hujung tertutup, ruang penghubung di sebaliknya malap.",
+    "score": 93,
+    "postedit": "Pintu hujung tertutup, ruang penghubung di sebaliknya malap.",
+    "postedit_score": 95
+  },
+  "a:coach8|p:door|x:open|0": {
+    "text": "Pintu penghubung tersangkut terbuka, udara sejuk meluru masuk.",
+    "score": 93,
+    "postedit": "Pintu penghubung tersangkut terbuka, udara sejuk meluru masuk.",
+    "postedit_score": 95
+  },
+  "a:coach8|p:door|x:open|1": {
+    "text": "Pintu berkuasa itu enggan tertutup; ruang penghubung menderu di sebaliknya.",
+    "score": 93,
+    "postedit": "Pintu berkuasa itu enggan tertutup; ruang penghubung menderu di sebaliknya.",
+    "postedit_score": 95
+  },
+  "a:coach8|p:door|x:open|2": {
+    "text": "Pintu hujung ternganga luas ke arah ruang penghubung yang bergegar.",
+    "score": 93,
+    "postedit": "Pintu hujung ternganga luas ke arah ruang penghubung yang bergegar.",
+    "postedit_score": 95
+  },
+  "a:coach8|p:door|x:locked|0": {
+    "text": "Satu lampu merah menyala pada pintu penghubung: BERKUNCI.",
+    "score": 93,
+    "postedit": "Satu lampu merah menyala pada pintu penghubung: BERKUNCI.",
+    "postedit_score": 95
+  },
+  "a:coach8|p:door|x:locked|1": {
+    "text": "Pintu hujung menunjukkan penunjuk berkunci yang tadinya hijau.",
+    "score": 93,
+    "postedit": "Pintu hujung menunjukkan penunjuk berkunci yang tadinya hijau.",
+    "postedit_score": 95
+  },
+  "a:coach8|p:door|x:locked|2": {
+    "text": "Pintu ke gerabak seterusnya tertera DILARANG MASUK.",
+    "score": 93,
+    "postedit": "Pintu ke gerabak seterusnya tertera DILARANG MASUK.",
+    "postedit_score": 95
+  },
+  "a:coach8|p:door|x:glass|0": {
+    "text": "Kaca pada pintu penghubung berwap, ada satu kesan tapak tangan padanya.",
+    "score": 93,
+    "postedit": "Kaca pada pintu penghubung berwap, ada satu kesan tapak tangan padanya.",
+    "postedit_score": 95
+  },
+  "a:coach8|p:door|x:glass|1": {
+    "text": "Sesuatu mengotori tingkap pintu hujung dari sebelah sana.",
+    "score": 93,
+    "postedit": "Sesuatu mengotori tingkap pintu hujung dari sebelah sana.",
+    "postedit_score": 95
+  },
+  "a:coach8|p:door|x:glass|2": {
+    "text": "Kaca pintu penghubung retak seperti sarang labah-labah.",
+    "score": 93,
+    "postedit": "Kaca pintu penghubung retak seperti sarang labah-labah.",
+    "postedit_score": 95
+  },
+  "a:coach8|p:luggage|v:stowed|0": {
+    "text": "Sebuah beg pakaian tunggal terletak di rak bagasi tepi pintu.",
+    "score": 93,
+    "postedit": "Sebuah beg pakaian tunggal terletak di rak bagasi tepi pintu.",
+    "postedit_score": 95
+  },
+  "a:coach8|p:luggage|v:stowed|1": {
+    "text": "Rak di atas menyimpan beberapa beg yang bertaburan seperti biasa.",
+    "score": 93,
+    "postedit": "Rak di atas menyimpan beberapa beg yang bertaburan seperti biasa.",
+    "postedit_score": 95
+  },
+  "a:coach8|p:luggage|v:stowed|2": {
+    "text": "Sebuah beg berkulit keras berada di rak bagasi, seperti tadi.",
+    "score": 93,
+    "postedit": "Sebuah beg berkulit keras berada di rak bagasi, seperti tadi.",
+    "postedit_score": 95
+  },
+  "a:coach8|p:luggage|x:gone|0": {
+    "text": "Rak bagasi kini kosong.",
+    "score": 94,
+    "postedit": "Rak bagasi kini kosong.",
+    "postedit_score": 96
+  },
+  "a:coach8|p:luggage|x:gone|1": {
+    "text": "Beg pakaian di tepi pintu sudah tiada.",
+    "score": 94,
+    "postedit": "Beg pakaian di tepi pintu sudah tiada.",
+    "postedit_score": 96
+  },
+  "a:coach8|p:luggage|x:gone|2": {
+    "text": "Kali ini tiada beg di rak.",
+    "score": 94,
+    "postedit": "Kali ini tiada beg di rak.",
+    "postedit_score": 96
+  },
+  "a:coach8|p:luggage|x:more|0": {
+    "text": "Rak bagasi penuh sesak, jauh lebih banyak beg daripada tadi.",
+    "score": 93,
+    "postedit": "Rak bagasi penuh sesak, jauh lebih banyak beg daripada tadi.",
+    "postedit_score": 95
+  },
+  "a:coach8|p:luggage|x:more|1": {
+    "text": "Beg-beg kini bertimbun hampir ke siling.",
+    "score": 94,
+    "postedit": "Beg-beg kini bertimbun hampir ke siling.",
+    "postedit_score": 96
+  },
+  "a:coach8|p:luggage|x:more|2": {
+    "text": "Rak melimpah dengan bagasi yang tadinya tiada.",
+    "score": 93,
+    "postedit": "Rak melimpah dengan bagasi yang tadinya tiada.",
+    "postedit_score": 95
+  },
+  "a:coach8|p:luggage|x:open|0": {
+    "text": "Beg pakaian di rak terbuka, kosong.",
+    "score": 94,
+    "postedit": "Beg pakaian di rak terbuka, kosong.",
+    "postedit_score": 96
+  },
+  "a:coach8|p:luggage|x:open|1": {
+    "text": "Sebuah beg tertumpah terbuka di merata rak bagasi.",
+    "score": 93,
+    "postedit": "Sebuah beg tertumpah terbuka di merata rak bagasi.",
+    "postedit_score": 95
+  },
+  "a:coach8|p:luggage|x:open|2": {
+    "text": "Beg berkulit keras itu ternganga terbuka, isinya sudah lenyap.",
+    "score": 93,
+    "postedit": "Beg berkulit keras itu ternganga terbuka, isinya sudah lenyap.",
+    "postedit_score": 95
+  },
+  "a:coach8|p:table|v:coffee|0": {
+    "text": "Sebuah meja lipat di tepi lorong menampung secawan kopi yang separuh diminum.",
+    "score": 93,
+    "postedit": "Sebuah meja lipat di tepi lorong menampung secawan kopi yang separuh diminum.",
+    "postedit_score": 95
+  },
+  "a:coach8|p:table|v:coffee|1": {
+    "text": "Meja dulang diturunkan, secawan kertas menyejuk di atasnya, seperti biasa.",
+    "score": 93,
+    "postedit": "Meja dulang diturunkan, secawan kertas menyejuk di atasnya, seperti biasa.",
+    "postedit_score": 95
+  },
+  "a:coach8|p:table|v:coffee|2": {
+    "text": "Di atas meja, kopi seseorang, masih berwap sedikit.",
+    "score": 93,
+    "postedit": "Di atas meja, kopi seseorang, masih berwap sedikit.",
+    "postedit_score": 95
+  },
+  "a:coach8|p:table|x:empty|0": {
+    "text": "Meja itu kosong; cawan kopi sudah tiada.",
+    "score": 94,
+    "postedit": "Meja itu kosong; cawan kopi sudah tiada.",
+    "postedit_score": 96
+  },
+  "a:coach8|p:table|x:empty|1": {
+    "text": "Meja dulang kini tidak menampung apa-apa.",
+    "score": 94,
+    "postedit": "Meja dulang kini tidak menampung apa-apa.",
+    "postedit_score": 96
+  },
+  "a:coach8|p:table|x:empty|2": {
+    "text": "Kali ini tiada cawan di atas meja.",
+    "score": 94,
+    "postedit": "Kali ini tiada cawan di atas meja.",
+    "postedit_score": 96
+  },
+  "a:coach8|p:table|x:cold|0": {
+    "text": "Kopi di atas meja sudah menyejuk, satu lapisan terbentuk di permukaannya.",
+    "score": 93,
+    "postedit": "Kopi di atas meja sudah menyejuk, satu lapisan terbentuk di permukaannya.",
+    "postedit_score": 95
+  },
+  "a:coach8|p:table|x:cold|1": {
+    "text": "Cawan itu kini sejuk membeku, lama ditinggalkan.",
+    "score": 93,
+    "postedit": "Cawan itu kini sejuk membeku, lama ditinggalkan.",
+    "postedit_score": 95
+  },
+  "a:coach8|p:table|x:cold|2": {
+    "text": "Kopi itu terletak sejuk dan diam, langsung tanpa wap.",
+    "score": 93,
+    "postedit": "Kopi itu terletak sejuk dan diam, langsung tanpa wap.",
+    "postedit_score": 95
+  },
+  "a:coach8|p:table|x:many|0": {
+    "text": "Meja kini sesak dengan cawan, bukan satu tetapi banyak.",
+    "score": 93,
+    "postedit": "Meja kini sesak dengan cawan, bukan satu tetapi banyak.",
+    "postedit_score": 95
+  },
+  "a:coach8|p:table|x:many|1": {
+    "text": "Beberapa cawan kopi memenuhi meja dulang di tempat yang tadinya satu.",
+    "score": 93,
+    "postedit": "Beberapa cawan kopi memenuhi meja dulang di tempat yang tadinya satu.",
+    "postedit_score": 95
+  },
+  "a:coach8|p:table|x:many|2": {
+    "text": "Meja bersepah dengan lebih banyak cawan daripada yang mampu diminum sesiapa.",
+    "score": 93,
+    "postedit": "Meja bersepah dengan lebih banyak cawan daripada yang mampu diminum sesiapa.",
+    "postedit_score": 95
+  },
+  "a:coach8|p:table|x:spilled|0": {
+    "text": "Kopi sudah tertumpah, satu kesan gelap merebak di atas meja.",
+    "score": 93,
+    "postedit": "Kopi sudah tertumpah, satu kesan gelap merebak di atas meja.",
+    "postedit_score": 95
+  },
+  "a:coach8|p:table|x:spilled|1": {
+    "text": "Cawan itu terbalik, kopi mengalir dari tepi meja.",
+    "score": 93,
+    "postedit": "Cawan itu terbalik, kopi mengalir dari tepi meja.",
+    "postedit_score": 95
+  },
+  "a:coach8|p:table|x:spilled|2": {
+    "text": "Kopi bertakung di atas meja, menitis ke lantai.",
+    "score": 93,
+    "postedit": "Kopi bertakung di atas meja, menitis ke lantai.",
+    "postedit_score": 95
+  },
+  "a:coach8|p:sense|v:steady|0": {
+    "text": "Kereta api ini terasa betul-betul sepanjang seperti biasanya.",
+    "score": 93,
+    "postedit": "Kereta api ini terasa betul-betul sepanjang seperti biasanya.",
+    "postedit_score": 95
+  },
+  "a:coach8|p:sense|v:steady|1": {
+    "text": "Kamu membawa kesabaran letih yang sama menyusuri lorong, gerabak demi gerabak.",
+    "score": 93,
+    "postedit": "Kamu membawa kesabaran letih yang sama menyusuri lorong, gerabak demi gerabak.",
+    "postedit_score": 95
+  },
+  "a:coach8|p:sense|v:steady|2": {
+    "text": "Segalanya terasa biasa sebagaimana sepatutnya sebuah kereta api malam.",
+    "score": 93,
+    "postedit": "Segalanya terasa biasa sebagaimana sepatutnya sebuah kereta api malam.",
+    "postedit_score": 95
+  },
+  "a:coach8|p:sense|x:forget|0": {
+    "text": "Buat seketika kamu tidak dapat mengingati berapa banyak gerabak yang telah kamu lalui.",
+    "score": 93,
+    "postedit": "Buat seketika kamu tidak dapat mengingati berapa banyak gerabak yang telah kamu lalui.",
+    "postedit_score": 95
+  },
+  "a:coach8|p:sense|x:forget|1": {
+    "text": "Kamu hilang kiraan gerabak di belakang kamu, dan itu menakutkan kamu.",
+    "score": 93,
+    "postedit": "Kamu hilang kiraan gerabak di belakang kamu, dan itu menakutkan kamu.",
+    "postedit_score": 95
+  },
+  "a:coach8|p:sense|x:forget|2": {
+    "text": "Kamu langsung tidak dapat mengingati bila kamu menaiki kereta api ini.",
+    "score": 93,
+    "postedit": "Kamu langsung tidak dapat mengingati bila kamu menaiki kereta api ini.",
+    "postedit_score": 95
+  },
+  "a:coach8|p:sense|x:calm|0": {
+    "text": "Kamu tiba-tiba berasa tenang, secara yang salah, seolah-olah kamu sudah pun sampai.",
+    "score": 93,
+    "postedit": "Kamu tiba-tiba berasa tenang, secara yang salah, seolah-olah kamu sudah pun sampai.",
+    "postedit_score": 95
+  },
+  "a:coach8|p:sense|x:calm|1": {
+    "text": "Satu rasa puas yang ganjil menyelubungi kamu, satu rasa yang tidak sepatutnya ada di sini.",
+    "score": 93,
+    "postedit": "Satu rasa puas yang ganjil menyelubungi kamu, satu rasa yang tidak sepatutnya ada di sini.",
+    "postedit_score": 95
+  },
+  "a:coach8|p:sense|x:calm|2": {
+    "text": "Kamu langsung tidak berasa terdesak, dan itu sendiri terasa salah.",
+    "score": 93,
+    "postedit": "Kamu langsung tidak berasa terdesak, dan itu sendiri terasa salah.",
+    "postedit_score": 95
+  },
+  "a:coach8|p:sense|x:watched|0": {
+    "text": "Kamu berasa diperhatikan, walaupun setiap penumpang sedang tidur.",
+    "score": 94,
+    "postedit": "Kamu berasa diperhatikan, walaupun setiap penumpang sedang tidur.",
+    "postedit_score": 96
+  },
+  "a:coach8|p:sense|x:watched|1": {
+    "text": "Keyakinan bahawa ada seseorang di belakang kamu enggan hilang.",
+    "score": 93,
+    "postedit": "Keyakinan bahawa ada seseorang di belakang kamu enggan hilang.",
+    "postedit_score": 95
+  },
+  "a:coach8|p:sense|x:watched|2": {
+    "text": "Tengkuk kamu meremang; kamu pasti kamu tidak lagi bersendirian seperti tadi.",
+    "score": 93,
+    "postedit": "Tengkuk kamu meremang; kamu pasti kamu tidak lagi bersendirian seperti tadi.",
+    "postedit_score": 95
+  },
+  "a:coach8|adaptive|repeat_inspect|0": {
+    "text": "Kamu memandang {THING} sekali lagi. Kamu tidak pasti kenapa.",
+    "score": 93,
+    "postedit": "Kamu memandang {THING} sekali lagi. Kamu tidak pasti kenapa.",
+    "postedit_score": 95
+  },
+  "a:coach8|adaptive|repeat_inspect|1": {
+    "text": "Pandangan kamu terus tertumpu pada {THING}, seperti yang selalu berlaku sekarang.",
+    "score": 93,
+    "postedit": "Pandangan kamu terus tertumpu pada {THING}, seperti yang selalu berlaku sekarang.",
+    "postedit_score": 95
+  },
+  "a:coach8|adaptive|repeat_inspect|2": {
+    "text": "{THING} sekali lagi menarik perhatian kamu.",
+    "score": 93,
+    "postedit": "{THING} sekali lagi menarik perhatian kamu.",
+    "postedit_score": 95
+  },
+  "a:coach8|adaptive|long_look|0": {
+    "text": "Kamu memandang lebih lama daripada biasa. Kamu tidak ingat bila kamu memutuskan untuk berhenti.",
+    "score": 93,
+    "postedit": "Kamu memandang lebih lama daripada biasa. Kamu tidak ingat bila kamu memutuskan untuk berhenti.",
+    "postedit_score": 95
+  },
+  "a:coach8|adaptive|long_look|1": {
+    "text": "Kamu sedar kamu telah berdiri di lorong. Sejak berapa lama?",
+    "score": 93,
+    "postedit": "Kamu sedar kamu telah berdiri di lorong. Sejak berapa lama?",
+    "postedit_score": 95
+  },
+  "a:coach8|adaptive|long_look|2": {
+    "text": "Kereta api terus berayun, dan kamu tidak tahu sejak berapa lama kamu merenung.",
+    "score": 93,
+    "postedit": "Kereta api terus berayun, dan kamu tidak tahu sejak berapa lama kamu merenung.",
+    "postedit_score": 95
+  },
+  "a:coach8|framing|intro|0": {
+    "text": "KERETA API TERAKHIR",
+    "score": 94,
+    "postedit": "KERETA API TERAKHIR",
+    "postedit_score": 96
+  },
+  "a:coach8|framing|intro|2": {
+    "text": "Konduktor mengetip tiket kamu dan mengangguk ke hadapan kereta api. Gerabak 8, arah sana.",
+    "score": 93,
+    "postedit": "Konduktor mengetip tiket kamu dan mengangguk ke hadapan kereta api. Gerabak 8, arah sana.",
+    "postedit_score": 95
+  },
+  "a:coach8|framing|intro|3": {
+    "text": "Itu sudah agak lama. Kamu masih berjalan, dan setiap gerabak kelihatan serupa.",
+    "score": 93,
+    "postedit": "Itu sudah agak lama. Kamu masih berjalan, dan setiap gerabak kelihatan serupa.",
+    "postedit_score": 95
+  },
+  "a:coach8|framing|intro|5": {
+    "text": "Selagi sebuah gerabak betul-betul seperti yang kamu ingat, teruskan berjalan ke hadapan.",
+    "score": 93,
+    "postedit": "Selagi sebuah gerabak betul-betul seperti yang kamu ingat, teruskan berjalan ke hadapan.",
+    "postedit_score": 95
+  },
+  "a:coach8|framing|intro|6": {
+    "text": "Jika ada apa-apa yang berubah, patah balik. Yang ini melipat kamu kembali.",
+    "score": 93,
+    "postedit": "Jika ada apa-apa yang berubah, patah balik. Yang ini melipat kamu kembali.",
+    "postedit_score": 95
+  },
+  "a:coach8|framing|intro|8": {
+    "text": "Lapan gerabak, dan akhirnya kamu boleh duduk.",
+    "score": 93,
+    "postedit": "Lapan gerabak, dan akhirnya kamu boleh duduk.",
+    "postedit_score": 95
+  },
+  "a:coach8|framing|intro|9": {
+    "text": "Hilangkan keyakinan kamu, dan kereta api akan mengembalikan kamu ke tempat kamu bermula.",
+    "score": 93,
+    "postedit": "Hilangkan keyakinan kamu, dan kereta api akan mengembalikan kamu ke tempat kamu bermula.",
+    "postedit_score": 95
+  },
+  "a:coach8|framing|win|0": {
+    "text": "Kamu menolak lagi satu pintu terbuka, dan nombor tempat duduk tertera 8.",
+    "score": 93,
+    "postedit": "Kamu menolak lagi satu pintu terbuka, dan nombor tempat duduk tertera 8.",
+    "postedit_score": 95
+  },
+  "a:coach8|framing|win|1": {
+    "text": "Gerabak 8. Tempat duduk kamu, kosong dan menanti, di sebelah tingkap yang hitam.",
+    "score": 93,
+    "postedit": "Gerabak 8. Tempat duduk kamu, kosong dan menanti, di sebelah tingkap yang hitam.",
+    "postedit_score": 95
+  },
+  "a:coach8|framing|win|2": {
+    "text": "Akhirnya kamu melabuhkan diri ke situ. Kereta api terus meluru menembusi malam.",
+    "score": 93,
+    "postedit": "Akhirnya kamu melabuhkan diri ke situ. Kereta api terus meluru menembusi malam.",
+    "postedit_score": 95
+  },
+  "a:coach8|framing|win|3": {
+    "text": "Kamu telah menemui tempat duduk kamu.",
+    "score": 94,
+    "postedit": "Kamu telah menemui tempat duduk kamu.",
+    "postedit_score": 96
+  }
+}

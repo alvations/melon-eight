@@ -1,0 +1,1100 @@
+{
+  "a:stairway8|title_main": {
+    "text": "บันได 8",
+    "score": 95,
+    "postedit": "บันได 8",
+    "postedit_score": 96
+  },
+  "a:stairway8|tagline": {
+    "text": "ลิฟต์เสีย ลงไปแปดชั้น ทีละชานพัก",
+    "score": 94,
+    "postedit": "ลิฟต์เสีย ลงไปแปดชั้น ทีละชานพัก",
+    "postedit_score": 95
+  },
+  "a:stairway8|go_on": {
+    "text": "ลงไป",
+    "score": 95,
+    "postedit": "ลงไป",
+    "postedit_score": 96
+  },
+  "a:stairway8|turn_back": {
+    "text": "ย้อนขึ้นไป",
+    "score": 95,
+    "postedit": "ย้อนขึ้นไป",
+    "postedit_score": 96
+  },
+  "a:stairway8|progress": {
+    "text": "ชั้น {floor}   ·   ลงแล้ว {level}/{goal}",
+    "score": 95,
+    "postedit": "ชั้น {floor}   ·   ลงแล้ว {level}/{goal}",
+    "postedit_score": 96
+  },
+  "a:stairway8|label|lighting": {
+    "text": "แสงไฟ",
+    "score": 95,
+    "postedit": "แสงไฟ",
+    "postedit_score": 96
+  },
+  "a:stairway8|label|sound": {
+    "text": "เสียง",
+    "score": 95,
+    "postedit": "เสียง",
+    "postedit_score": 96
+  },
+  "a:stairway8|label|number": {
+    "text": "หมายเลขชั้น",
+    "score": 95,
+    "postedit": "หมายเลขชั้น",
+    "postedit_score": 96
+  },
+  "a:stairway8|label|door": {
+    "text": "ประตูหนีไฟ",
+    "score": 95,
+    "postedit": "ประตูหนีไฟ",
+    "postedit_score": 96
+  },
+  "a:stairway8|label|notice": {
+    "text": "ป้ายประกาศลิฟต์",
+    "score": 95,
+    "postedit": "ป้ายประกาศลิฟต์",
+    "postedit_score": 96
+  },
+  "a:stairway8|label|railing": {
+    "text": "ราวจับ",
+    "score": 95,
+    "postedit": "ราวจับ",
+    "postedit_score": 96
+  },
+  "a:stairway8|label|extinguisher": {
+    "text": "ถังดับเพลิง",
+    "score": 95,
+    "postedit": "ถังดับเพลิง",
+    "postedit_score": 96
+  },
+  "a:stairway8|label|stairs": {
+    "text": "บันไดที่ทอดลง",
+    "score": 95,
+    "postedit": "บันไดที่ทอดลง",
+    "postedit_score": 96
+  },
+  "a:stairway8|label|figure": {
+    "text": "ร่างบนบันได",
+    "score": 95,
+    "postedit": "ร่างบนบันได",
+    "postedit_score": 96
+  },
+  "a:stairway8|label|sense": {
+    "text": "ความรู้สึก",
+    "score": 95,
+    "postedit": "ความรู้สึก",
+    "postedit_score": 96
+  },
+  "a:stairway8|title|0": {
+    "text": "บันได 8",
+    "score": 95,
+    "postedit": "บันได 8",
+    "postedit_score": 96
+  },
+  "a:stairway8|title|1": {
+    "text": "บันได 8",
+    "score": 95,
+    "postedit": "บันได 8",
+    "postedit_score": 96
+  },
+  "a:stairway8|title|2": {
+    "text": "บันได 8",
+    "score": 95,
+    "postedit": "บันได 8",
+    "postedit_score": 96
+  },
+  "a:stairway8|title|3": {
+    "text": "บันได 8",
+    "score": 95,
+    "postedit": "บันได 8",
+    "postedit_score": 96
+  },
+  "a:stairway8|title|4": {
+    "text": "ช่องบันได 8",
+    "score": 95,
+    "postedit": "ช่องบันได 8",
+    "postedit_score": 96
+  },
+  "a:stairway8|title|5": {
+    "text": "บันไดแปด",
+    "score": 95,
+    "postedit": "บันไดแปด",
+    "postedit_score": 96
+  },
+  "a:stairway8|title|6": {
+    "text": "บันได 8",
+    "score": 95,
+    "postedit": "บันได 8",
+    "postedit_score": 96
+  },
+  "a:stairway8|title|7": {
+    "text": "บันได 8",
+    "score": 95,
+    "postedit": "บันได 8",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:lighting|v:steady|0": {
+    "text": "หลอดไฟในกรงเหล็กสาดแสงสม่ำเสมอไปทั่วชานพัก",
+    "score": 94,
+    "postedit": "หลอดไฟในกรงเหล็กสาดแสงสม่ำเสมอไปทั่วชานพัก",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:lighting|v:steady|1": {
+    "text": "ไฟช่องบันไดส่องสว่างสม่ำเสมออยู่เหนือหัว เหมือนเช่นเคย",
+    "score": 94,
+    "postedit": "ไฟช่องบันไดส่องสว่างสม่ำเสมออยู่เหนือหัว เหมือนเช่นเคย",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:lighting|v:steady|2": {
+    "text": "หลอดฟลูออเรสเซนต์บนชานพักเรืองแสงขาวเรียบตามปกติ",
+    "score": 94,
+    "postedit": "หลอดฟลูออเรสเซนต์บนชานพักเรืองแสงขาวเรียบตามปกติ",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:lighting|v:steady|3": {
+    "text": "แสงตกลงมาที่นี่เหมือนกับทุกชานพักที่อยู่เหนือขึ้นไป",
+    "score": 94,
+    "postedit": "แสงตกลงมาที่นี่เหมือนกับทุกชานพักที่อยู่เหนือขึ้นไป",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:lighting|x:flicker|0": {
+    "text": "หลอดไฟในกรงเหล็กกะพริบติด ๆ ดับ ๆ แล้วก็นิ่ง",
+    "score": 94,
+    "postedit": "หลอดไฟในกรงเหล็กกะพริบติด ๆ ดับ ๆ แล้วก็นิ่ง",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:lighting|x:flicker|1": {
+    "text": "ไฟช่องบันไดกะพริบในแบบที่ไม่เคยเป็นมาก่อน",
+    "score": 94,
+    "postedit": "ไฟช่องบันไดกะพริบในแบบที่ไม่เคยเป็นมาก่อน",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:lighting|x:flicker|2": {
+    "text": "เหนือหัว ไฟดับวูบครั้งหนึ่งแล้วก็ติดกลับมา",
+    "score": 94,
+    "postedit": "เหนือหัว ไฟดับวูบครั้งหนึ่งแล้วก็ติดกลับมา",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:lighting|x:dim|0": {
+    "text": "ชานพักนี้สลัวกว่าชานพักที่อยู่เหนือขึ้นไป",
+    "score": 94,
+    "postedit": "ชานพักนี้สลัวกว่าชานพักที่อยู่เหนือขึ้นไป",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:lighting|x:dim|1": {
+    "text": "ไฟที่นี่ยอมแพ้ไปครึ่งหนึ่งแล้ว มุมต่าง ๆ ยังคงมืดอยู่",
+    "score": 94,
+    "postedit": "ไฟที่นี่ยอมแพ้ไปครึ่งหนึ่งแล้ว มุมต่าง ๆ ยังคงมืดอยู่",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:lighting|x:dim|2": {
+    "text": "ความมัวสีเทาปกคลุมชานพัก",
+    "score": 94,
+    "postedit": "ความมัวสีเทาปกคลุมชานพัก",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:lighting|x:red|0": {
+    "text": "ชานพักถูกส่องด้วยแสงสีแดง หลอดไฟฉุกเฉินที่คุณจำไม่ได้",
+    "score": 94,
+    "postedit": "ชานพักถูกส่องด้วยแสงสีแดง หลอดไฟฉุกเฉินที่คุณจำไม่ได้",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:lighting|x:red|1": {
+    "text": "ทุกสิ่งอาบไปด้วยแสงฉุกเฉินสีแดงสลัว",
+    "score": 94,
+    "postedit": "ทุกสิ่งอาบไปด้วยแสงฉุกเฉินสีแดงสลัว",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:lighting|x:red|2": {
+    "text": "แสงขาวหายไป เหลือเพียงหลอดไฟสีแดง",
+    "score": 94,
+    "postedit": "แสงขาวหายไป เหลือเพียงหลอดไฟสีแดง",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:sound|v:quiet|0": {
+    "text": "เสียงฝีเท้าของคุณก้องขึ้นไปตามช่องบันไดแล้วค่อย ๆ จางหาย",
+    "score": 94,
+    "postedit": "เสียงฝีเท้าของคุณก้องขึ้นไปตามช่องบันไดแล้วค่อย ๆ จางหาย",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:sound|v:quiet|1": {
+    "text": "ช่องบันไดเงียบสงบ เว้นแต่เสียงฝีเท้าของคุณเอง",
+    "score": 94,
+    "postedit": "ช่องบันไดเงียบสงบ เว้นแต่เสียงฝีเท้าของคุณเอง",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:sound|v:quiet|2": {
+    "text": "ไกลลงไปเบื้องล่าง อาคารส่งเสียงหึ่งอยู่กับตัวเอง",
+    "score": 94,
+    "postedit": "ไกลลงไปเบื้องล่าง อาคารส่งเสียงหึ่งอยู่กับตัวเอง",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:sound|x:drip|0": {
+    "text": "น้ำหยดอยู่ที่ใดสักแห่งลงไปตามช่องบันได ติ๊ก ติ๊ก",
+    "score": 94,
+    "postedit": "น้ำหยดอยู่ที่ใดสักแห่งลงไปตามช่องบันได ติ๊ก ติ๊ก",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:sound|x:drip|1": {
+    "text": "เสียงน้ำหยดช้า ๆ ก้องขึ้นมาจากเบื้องล่าง",
+    "score": 94,
+    "postedit": "เสียงน้ำหยดช้า ๆ ก้องขึ้นมาจากเบื้องล่าง",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:sound|x:drip|2": {
+    "text": "มีบางอย่างหยดอยู่ หลายชั้นลงไป",
+    "score": 94,
+    "postedit": "มีบางอย่างหยดอยู่ หลายชั้นลงไป",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:sound|x:slam|0": {
+    "text": "ประตูบานหนึ่งกระแทกปิดดังไกลลงไปเบื้องล่าง แล้วก็เงียบ",
+    "score": 94,
+    "postedit": "ประตูบานหนึ่งกระแทกปิดดังไกลลงไปเบื้องล่าง แล้วก็เงียบ",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:sound|x:slam|1": {
+    "text": "ที่ใดสักแห่งใต้ตัวคุณ ประตูบานหนึ่งกระแทกปิด",
+    "score": 94,
+    "postedit": "ที่ใดสักแห่งใต้ตัวคุณ ประตูบานหนึ่งกระแทกปิด",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:sound|x:slam|2": {
+    "text": "ประตูหนัก ๆ บานหนึ่งปิดลงหลายชั้นเบื้องล่าง",
+    "score": 94,
+    "postedit": "ประตูหนัก ๆ บานหนึ่งปิดลงหลายชั้นเบื้องล่าง",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:sound|x:footsteps|0": {
+    "text": "เสียงฝีเท้าไต่ขึ้นมาหาคุณ แล้วก็หยุดลง",
+    "score": 94,
+    "postedit": "เสียงฝีเท้าไต่ขึ้นมาหาคุณ แล้วก็หยุดลง",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:sound|x:footsteps|1": {
+    "text": "คุณได้ยินเสียงฝีเท้าที่ไม่ใช่ของคุณอยู่บนบันไดช่วงล่าง",
+    "score": 94,
+    "postedit": "คุณได้ยินเสียงฝีเท้าที่ไม่ใช่ของคุณอยู่บนบันไดช่วงล่าง",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:sound|x:footsteps|2": {
+    "text": "ชั่วขณะหนึ่ง มีใครอีกคนอยู่บนบันได",
+    "score": 94,
+    "postedit": "ชั่วขณะหนึ่ง มีใครอีกคนอยู่บนบันได",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:sound|x:silence|0": {
+    "text": "เสียงหึ่งของอาคารหยุดลง เงียบราวกับตาย",
+    "score": 94,
+    "postedit": "เสียงหึ่งของอาคารหยุดลง เงียบราวกับตาย",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:sound|x:silence|1": {
+    "text": "มันเงียบสนิท เงียบเกินไป",
+    "score": 94,
+    "postedit": "มันเงียบสนิท เงียบเกินไป",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:sound|x:silence|2": {
+    "text": "แม้แต่เสียงก้องของฝีเท้าคุณก็ดูเหมือนจะหายไป",
+    "score": 94,
+    "postedit": "แม้แต่เสียงก้องของฝีเท้าคุณก็ดูเหมือนจะหายไป",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:number|v:eight|0": {
+    "text": "เลข 8 ตัวใหญ่ที่ทาสีไว้กำกับอยู่บนผนังชานพัก",
+    "score": 94,
+    "postedit": "เลข 8 ตัวใหญ่ที่ทาสีไว้กำกับอยู่บนผนังชานพัก",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:number|v:eight|1": {
+    "text": "หมายเลขชั้น 8 ถูกพ่นผ่านแม่แบบลงบนคอนกรีต",
+    "score": 94,
+    "postedit": "หมายเลขชั้น 8 ถูกพ่นผ่านแม่แบบลงบนคอนกรีต",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:number|v:eight|2": {
+    "text": "'8' ทาสีไว้บนผนัง มีรอยสีย้อยแข็งอยู่ใต้เส้น",
+    "score": 94,
+    "postedit": "'8' ทาสีไว้บนผนัง มีรอยสีย้อยแข็งอยู่ใต้เส้น",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:number|v:eight|3": {
+    "text": "ผนังอ่านได้ว่า 8 เหมือนกับชานพักก่อนหน้า",
+    "score": 94,
+    "postedit": "ผนังอ่านได้ว่า 8 เหมือนกับชานพักก่อนหน้า",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:number|x:wrong|0": {
+    "text": "ผนังอ่านได้ว่า 7 ทั้งที่มันเคยเป็น 8 มาตลอด",
+    "score": 94,
+    "postedit": "ผนังอ่านได้ว่า 7 ทั้งที่มันเคยเป็น 8 มาตลอด",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:number|x:wrong|1": {
+    "text": "ตอนนี้ตัวเลขที่ทาไว้เป็น 6 ไม่ใช่ 8",
+    "score": 94,
+    "postedit": "ตอนนี้ตัวเลขที่ทาไว้เป็น 6 ไม่ใช่ 8",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:number|x:wrong|2": {
+    "text": "หมายเลขชั้นเปลี่ยนไป มันบอกว่า 9",
+    "score": 94,
+    "postedit": "หมายเลขชั้นเปลี่ยนไป มันบอกว่า 9",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:number|x:basement|0": {
+    "text": "ผนังอ่านได้ว่า B ชั้นใต้ดิน คุณยังอยู่ห่างไกลจากมันนัก",
+    "score": 94,
+    "postedit": "ผนังอ่านได้ว่า B ชั้นใต้ดิน คุณยังอยู่ห่างไกลจากมันนัก",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:number|x:basement|1": {
+    "text": "ตัวเลขหายไป มีตัว 'B' ที่ทาสีไว้อยู่แทนที่",
+    "score": 94,
+    "postedit": "ตัวเลขหายไป มีตัว 'B' ที่ทาสีไว้อยู่แทนที่",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:number|x:basement|2": {
+    "text": "แม่แบบพ่นอ่านได้ว่า B ทั้งที่คุณเพิ่งเริ่มลงมาแท้ ๆ",
+    "score": 94,
+    "postedit": "แม่แบบพ่นอ่านได้ว่า B ทั้งที่คุณเพิ่งเริ่มลงมาแท้ ๆ",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:number|x:faded|0": {
+    "text": "ตัวเลขที่ทาไว้ซีดจางจนเหลือเพียงเงาสีเทาราง ๆ",
+    "score": 94,
+    "postedit": "ตัวเลขที่ทาไว้ซีดจางจนเหลือเพียงเงาสีเทาราง ๆ",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:number|x:faded|1": {
+    "text": "มีใครบางคนขัดตัวเลขออกไปครึ่งหนึ่ง",
+    "score": 94,
+    "postedit": "มีใครบางคนขัดตัวเลขออกไปครึ่งหนึ่ง",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:number|x:faded|2": {
+    "text": "เลข 8 บนผนังเกือบจะเลือนหายไปหมดแล้ว",
+    "score": 94,
+    "postedit": "เลข 8 บนผนังเกือบจะเลือนหายไปหมดแล้ว",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:number|x:reversed|0": {
+    "text": "เลข 8 ถูกทากลับด้าน ราวกับมองผ่านกระจกเงา",
+    "score": 94,
+    "postedit": "เลข 8 ถูกทากลับด้าน ราวกับมองผ่านกระจกเงา",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:number|x:reversed|1": {
+    "text": "หมายเลขชั้นกลับด้านเหมือนภาพในกระจก",
+    "score": 94,
+    "postedit": "หมายเลขชั้นกลับด้านเหมือนภาพในกระจก",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:number|x:reversed|2": {
+    "text": "ตัวเลขที่พ่นผ่านแม่แบบอ่านได้กลับด้าน",
+    "score": 94,
+    "postedit": "ตัวเลขที่พ่นผ่านแม่แบบอ่านได้กลับด้าน",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:door|v:closed|0": {
+    "text": "ประตูหนีไฟที่ไปยังชั้นนี้ปิดอยู่ กระจกเสริมลวดของมันมืดทึบ",
+    "score": 94,
+    "postedit": "ประตูหนีไฟที่ไปยังชั้นนี้ปิดอยู่ กระจกเสริมลวดของมันมืดทึบ",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:door|v:closed|1": {
+    "text": "ประตูหนีไฟสีเทาหนัก ๆ ปิดอยู่บนชานพัก",
+    "score": 94,
+    "postedit": "ประตูหนีไฟสีเทาหนัก ๆ ปิดอยู่บนชานพัก",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:door|v:closed|2": {
+    "text": "ประตูที่เปิดออกสู่ชั้นนี้ปิดอยู่ อย่างที่มันควรเป็น",
+    "score": 94,
+    "postedit": "ประตูที่เปิดออกสู่ชั้นนี้ปิดอยู่ อย่างที่มันควรเป็น",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:door|x:ajar|0": {
+    "text": "ประตูหนีไฟแง้มอยู่เล็กน้อย ช่องดำ ๆ ไร้แสง",
+    "score": 94,
+    "postedit": "ประตูหนีไฟแง้มอยู่เล็กน้อย ช่องดำ ๆ ไร้แสง",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:door|x:ajar|1": {
+    "text": "ประตูหนัก ๆ เปิดอ้าอยู่นิดหนึ่ง ทั้งที่มันไม่เคยเป็นเช่นนั้น",
+    "score": 94,
+    "postedit": "ประตูหนัก ๆ เปิดอ้าอยู่นิดหนึ่ง ทั้งที่มันไม่เคยเป็นเช่นนั้น",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:door|x:ajar|2": {
+    "text": "คราวนี้ประตูหนีไฟปิดไม่สนิท",
+    "score": 94,
+    "postedit": "คราวนี้ประตูหนีไฟปิดไม่สนิท",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:door|x:propped|0": {
+    "text": "ประตูหนีไฟถูกค้ำเปิดกว้างออกสู่ชั้นที่มืดมิด",
+    "score": 94,
+    "postedit": "ประตูหนีไฟถูกค้ำเปิดกว้างออกสู่ชั้นที่มืดมิด",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:door|x:propped|1": {
+    "text": "มีใครบางคนเอาอะไรมาขัดประตูหนีไฟให้เปิดค้างไว้",
+    "score": 94,
+    "postedit": "มีใครบางคนเอาอะไรมาขัดประตูหนีไฟให้เปิดค้างไว้",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:door|x:propped|2": {
+    "text": "ประตูเปิดกว้างเต็มที่ โดยไม่มีอะไรที่คุณมองเห็นค้ำมันไว้",
+    "score": 94,
+    "postedit": "ประตูเปิดกว้างเต็มที่ โดยไม่มีอะไรที่คุณมองเห็นค้ำมันไว้",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:door|x:window|0": {
+    "text": "ช่องกระจกเสริมลวดในประตูกลายเป็นสีดำ ถูกปิดบังไว้",
+    "score": 94,
+    "postedit": "ช่องกระจกเสริมลวดในประตูกลายเป็นสีดำ ถูกปิดบังไว้",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:door|x:window|1": {
+    "text": "ช่องหน้าต่างเล็ก ๆ ในประตูหนีไฟถูกบังไว้จากอีกฝั่ง",
+    "score": 94,
+    "postedit": "ช่องหน้าต่างเล็ก ๆ ในประตูหนีไฟถูกบังไว้จากอีกฝั่ง",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:door|x:window|2": {
+    "text": "มีบางอย่างดันแนบอยู่กับกระจกในประตู",
+    "score": 94,
+    "postedit": "มีบางอย่างดันแนบอยู่กับกระจกในประตู",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:door|x:handle|0": {
+    "text": "ตอนนี้ประตูหนีไฟไม่มีมือจับ",
+    "score": 94,
+    "postedit": "ตอนนี้ประตูหนีไฟไม่มีมือจับ",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:door|x:handle|1": {
+    "text": "ตรงที่มือจับประตูเคยอยู่ มีเพียงรูเปล่า ๆ",
+    "score": 94,
+    "postedit": "ตรงที่มือจับประตูเคยอยู่ มีเพียงรูเปล่า ๆ",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:door|x:handle|2": {
+    "text": "มือจับหายไปจากประตูหนีไฟ",
+    "score": 94,
+    "postedit": "มือจับหายไปจากประตูหนีไฟ",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:notice|v:out|0": {
+    "text": "ป้ายประกาศที่แปะไว้บนลิฟต์อ่านได้ว่า ชำรุด ใช้บันได",
+    "score": 94,
+    "postedit": "ป้ายประกาศที่แปะไว้บนลิฟต์อ่านได้ว่า ชำรุด ใช้บันได",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:notice|v:out|1": {
+    "text": "ป้ายแจ้งซ่อมยังอยู่ที่เดิม: ลิฟต์ชำรุด",
+    "score": 94,
+    "postedit": "ป้ายแจ้งซ่อมยังอยู่ที่เดิม: ลิฟต์ชำรุด",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:notice|v:out|2": {
+    "text": "ชำรุด ป้ายที่แปะขวางบานประตูลิฟต์บอกไว้เช่นนั้น",
+    "score": 94,
+    "postedit": "ชำรุด ป้ายที่แปะขวางบานประตูลิฟต์บอกไว้เช่นนั้น",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:notice|x:gone|0": {
+    "text": "ป้ายประกาศลิฟต์หายไป เหลือเพียงบานประตูโลหะเปล่า ๆ",
+    "score": 94,
+    "postedit": "ป้ายประกาศลิฟต์หายไป เหลือเพียงบานประตูโลหะเปล่า ๆ",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:notice|x:gone|1": {
+    "text": "คราวนี้ไม่มีป้ายบนลิฟต์",
+    "score": 94,
+    "postedit": "คราวนี้ไม่มีป้ายบนลิฟต์",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:notice|x:gone|2": {
+    "text": "ป้ายแจ้งซ่อมถูกปลดออกไปแล้ว",
+    "score": 94,
+    "postedit": "ป้ายแจ้งซ่อมถูกปลดออกไปแล้ว",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:notice|x:service|0": {
+    "text": "ตอนนี้ป้ายอ่านได้ว่า ลิฟต์เปิดใช้งาน",
+    "score": 94,
+    "postedit": "ตอนนี้ป้ายอ่านได้ว่า ลิฟต์เปิดใช้งาน",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:notice|x:service|1": {
+    "text": "ป้ายบอกว่าลิฟต์กลับมาใช้งานได้อีกครั้ง",
+    "score": 94,
+    "postedit": "ป้ายบอกว่าลิฟต์กลับมาใช้งานได้อีกครั้ง",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:notice|x:service|2": {
+    "text": "ชำรุด กลายเป็น กลับมาใช้งานได้",
+    "score": 94,
+    "postedit": "ชำรุด กลายเป็น กลับมาใช้งานได้",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:notice|x:wording|0": {
+    "text": "ป้ายอ่านได้ว่า ห้ามใช้บันได",
+    "score": 94,
+    "postedit": "ป้ายอ่านได้ว่า ห้ามใช้บันได",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:notice|x:wording|1": {
+    "text": "ป้ายเตือนว่า ปิดบันได ทั้งที่เมื่อก่อนไม่เคยเป็นเช่นนั้น",
+    "score": 94,
+    "postedit": "ป้ายเตือนว่า ปิดบันได ทั้งที่เมื่อก่อนไม่เคยเป็นเช่นนั้น",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:notice|x:wording|2": {
+    "text": "ตอนนี้ป้ายบอกคุณว่าอย่าใช้บันไดเด็ดขาด",
+    "score": 94,
+    "postedit": "ตอนนี้ป้ายบอกคุณว่าอย่าใช้บันไดเด็ดขาด",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:notice|x:arrow|0": {
+    "text": "ลูกศรบนป้ายชี้ขึ้น ไม่ใช่ลง",
+    "score": 94,
+    "postedit": "ลูกศรบนป้ายชี้ขึ้น ไม่ใช่ลง",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:notice|x:arrow|1": {
+    "text": "ลูกศรบนป้ายพลิกกลับไปชี้ขึ้นทางบันได",
+    "score": 94,
+    "postedit": "ลูกศรบนป้ายพลิกกลับไปชี้ขึ้นทางบันได",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:notice|x:arrow|2": {
+    "text": "ตอนนี้ป้ายชี้นำให้คุณขึ้นไปข้างบน",
+    "score": 94,
+    "postedit": "ตอนนี้ป้ายชี้นำให้คุณขึ้นไปข้างบน",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:railing|v:cold|0": {
+    "text": "ราวจับเหล็กทอดตัวเย็นเยียบและต่อเนื่องไม่ขาดสายอยู่ใต้มือของคุณ",
+    "score": 94,
+    "postedit": "ราวจับเหล็กทอดตัวเย็นเยียบและต่อเนื่องไม่ขาดสายอยู่ใต้มือของคุณ",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:railing|v:cold|1": {
+    "text": "ราวจับที่ทาสีไว้อยู่ตรงที่มันเคยอยู่เสมอ",
+    "score": 94,
+    "postedit": "ราวจับที่ทาสีไว้อยู่ตรงที่มันเคยอยู่เสมอ",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:railing|v:cold|2": {
+    "text": "มือของคุณสัมผัสราวจับ ต่อเนื่องไปตลอดช่วงบันได",
+    "score": 94,
+    "postedit": "มือของคุณสัมผัสราวจับ ต่อเนื่องไปตลอดช่วงบันได",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:railing|x:gap|0": {
+    "text": "ราวจับส่วนหนึ่งหายไปตรงเหนือช่องที่ทิ่มลงไป",
+    "score": 94,
+    "postedit": "ราวจับส่วนหนึ่งหายไปตรงเหนือช่องที่ทิ่มลงไป",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:railing|x:gap|1": {
+    "text": "ราวจับมีช่องโหว่ตรงที่ท่อนหนึ่งถูกถอดออกไป",
+    "score": 94,
+    "postedit": "ราวจับมีช่องโหว่ตรงที่ท่อนหนึ่งถูกถอดออกไป",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:railing|x:gap|2": {
+    "text": "ราวจับบางส่วนไม่ได้อยู่ตรงนั้นเสียเฉย ๆ",
+    "score": 94,
+    "postedit": "ราวจับบางส่วนไม่ได้อยู่ตรงนั้นเสียเฉย ๆ",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:railing|x:wet|0": {
+    "text": "ราวจับเปียก ทั้งที่ไม่มีอะไรหยดลงบนมัน",
+    "score": 94,
+    "postedit": "ราวจับเปียก ทั้งที่ไม่มีอะไรหยดลงบนมัน",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:railing|x:wet|1": {
+    "text": "มือของคุณเปื้อนความชื้นเมื่อยกออกจากราว",
+    "score": 94,
+    "postedit": "มือของคุณเปื้อนความชื้นเมื่อยกออกจากราว",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:railing|x:wet|2": {
+    "text": "ราวจับลื่นอยู่ใต้ฝ่ามือของคุณ",
+    "score": 94,
+    "postedit": "ราวจับลื่นอยู่ใต้ฝ่ามือของคุณ",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:railing|x:paint|0": {
+    "text": "ราวจับเป็นคนละสีกับช่วงบันไดที่อยู่เหนือขึ้นไป",
+    "score": 94,
+    "postedit": "ราวจับเป็นคนละสีกับช่วงบันไดที่อยู่เหนือขึ้นไป",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:railing|x:paint|1": {
+    "text": "มีใครบางคนทาสีราวจับช่วงนี้ใหม่",
+    "score": 94,
+    "postedit": "มีใครบางคนทาสีราวจับช่วงนี้ใหม่",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:railing|x:paint|2": {
+    "text": "สีของราวตรงนี้เป็นสีเขียว ไม่ใช่สีเทา",
+    "score": 94,
+    "postedit": "สีของราวตรงนี้เป็นสีเขียว ไม่ใช่สีเทา",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:extinguisher|v:present|0": {
+    "text": "ถังดับเพลิงแขวนอยู่บนขายึดข้างประตู",
+    "score": 94,
+    "postedit": "ถังดับเพลิงแขวนอยู่บนขายึดข้างประตู",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:extinguisher|v:present|1": {
+    "text": "ถังดับเพลิงสีแดงอยู่ในตำแหน่งของมันบนผนัง",
+    "score": 94,
+    "postedit": "ถังดับเพลิงสีแดงอยู่ในตำแหน่งของมันบนผนัง",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:extinguisher|v:present|2": {
+    "text": "ถังดับเพลิงประจำชานพักวางอยู่บนตะขอของมัน",
+    "score": 94,
+    "postedit": "ถังดับเพลิงประจำชานพักวางอยู่บนตะขอของมัน",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:extinguisher|x:gone|0": {
+    "text": "ขายึดถังดับเพลิงว่างเปล่า",
+    "score": 94,
+    "postedit": "ขายึดถังดับเพลิงว่างเปล่า",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:extinguisher|x:gone|1": {
+    "text": "ถังดับเพลิงหายไป เหลือเพียงขายึด",
+    "score": 94,
+    "postedit": "ถังดับเพลิงหายไป เหลือเพียงขายึด",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:extinguisher|x:gone|2": {
+    "text": "คราวนี้ไม่มีถังดับเพลิงบนผนัง",
+    "score": 94,
+    "postedit": "คราวนี้ไม่มีถังดับเพลิงบนผนัง",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:extinguisher|x:floor|0": {
+    "text": "ถังดับเพลิงนอนตะแคงอยู่บนพื้น",
+    "score": 94,
+    "postedit": "ถังดับเพลิงนอนตะแคงอยู่บนพื้น",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:extinguisher|x:floor|1": {
+    "text": "ถังดับเพลิงถูกวางลงไว้บนชานพัก",
+    "score": 94,
+    "postedit": "ถังดับเพลิงถูกวางลงไว้บนชานพัก",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:extinguisher|x:floor|2": {
+    "text": "ถังดับเพลิงตั้งอยู่หลวม ๆ พิงผนัง หลุดจากตะขอของมัน",
+    "score": 94,
+    "postedit": "ถังดับเพลิงตั้งอยู่หลวม ๆ พิงผนัง หลุดจากตะขอของมัน",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:extinguisher|x:gauge|0": {
+    "text": "เกจวัดแรงดันของถังดับเพลิงชี้อยู่ในช่องแดง",
+    "score": 94,
+    "postedit": "เกจวัดแรงดันของถังดับเพลิงชี้อยู่ในช่องแดง",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:extinguisher|x:gauge|1": {
+    "text": "เข็มบนถังดับเพลิงจมลึกอยู่ในช่องแดง",
+    "score": 94,
+    "postedit": "เข็มบนถังดับเพลิงจมลึกอยู่ในช่องแดง",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:extinguisher|x:gauge|2": {
+    "text": "เกจของถังดับเพลิงตกลงไปที่ว่างเปล่า",
+    "score": 94,
+    "postedit": "เกจของถังดับเพลิงตกลงไปที่ว่างเปล่า",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:stairs|v:clear|0": {
+    "text": "บันไดช่วงที่ทอดลงโล่งสะดวก ขั้นบันไดเรียบเสมอและแห้ง",
+    "score": 94,
+    "postedit": "บันไดช่วงที่ทอดลงโล่งสะดวก ขั้นบันไดเรียบเสมอและแห้ง",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:stairs|v:clear|1": {
+    "text": "บันไดทอดลงเหมือนเช่นเคย ไม่มีอะไรอยู่บนนั้น",
+    "score": 94,
+    "postedit": "บันไดทอดลงเหมือนเช่นเคย ไม่มีอะไรอยู่บนนั้น",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:stairs|v:clear|2": {
+    "text": "บันไดช่วงถัดไปดิ่งลงไป สะอาดและว่างเปล่า",
+    "score": 94,
+    "postedit": "บันไดช่วงถัดไปดิ่งลงไป สะอาดและว่างเปล่า",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:stairs|x:wet|0": {
+    "text": "ขั้นบันไดเบื้องล่างเป็นประกายเปียกชื้นในแสงไฟ",
+    "score": 94,
+    "postedit": "ขั้นบันไดเบื้องล่างเป็นประกายเปียกชื้นในแสงไฟ",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:stairs|x:wet|1": {
+    "text": "บันไดช่วงถัดไปลื่นเพราะน้ำ",
+    "score": 94,
+    "postedit": "บันไดช่วงถัดไปลื่นเพราะน้ำ",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:stairs|x:wet|2": {
+    "text": "บันไดที่ทอดลงเปียก ทั้งที่คุณไม่เห็นอะไรหกเลย",
+    "score": 94,
+    "postedit": "บันไดที่ทอดลงเปียก ทั้งที่คุณไม่เห็นอะไรหกเลย",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:stairs|x:missing|0": {
+    "text": "ขั้นบันไดขั้นหนึ่งในช่วงล่างหายไป",
+    "score": 94,
+    "postedit": "ขั้นบันไดขั้นหนึ่งในช่วงล่างหายไป",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:stairs|x:missing|1": {
+    "text": "มีช่องโหว่บนบันไดตรงที่ควรจะมีขั้นบันได",
+    "score": 94,
+    "postedit": "มีช่องโหว่บนบันไดตรงที่ควรจะมีขั้นบันได",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:stairs|x:missing|2": {
+    "text": "ลูกนอนขั้นหนึ่งหายไปจากบันไดช่วงที่ทอดลง",
+    "score": 94,
+    "postedit": "ลูกนอนขั้นหนึ่งหายไปจากบันไดช่วงที่ทอดลง",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:stairs|x:up|0": {
+    "text": "ลูกศรที่พ่นผ่านแม่แบบไว้บนขั้นบันไดชี้ขึ้น ไม่ใช่ลง",
+    "score": 94,
+    "postedit": "ลูกศรที่พ่นผ่านแม่แบบไว้บนขั้นบันไดชี้ขึ้น ไม่ใช่ลง",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:stairs|x:up|1": {
+    "text": "ทิศทางที่ทาไว้บนบันไดกลับด้านแล้ว",
+    "score": 94,
+    "postedit": "ทิศทางที่ทาไว้บนบันไดกลับด้านแล้ว",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:stairs|x:up|2": {
+    "text": "ตอนนี้ขั้นบันไดดูเหมือนจะพาขึ้นไป ทั้งที่คุณกำลังเดินลง",
+    "score": 94,
+    "postedit": "ตอนนี้ขั้นบันไดดูเหมือนจะพาขึ้นไป ทั้งที่คุณกำลังเดินลง",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:stairs|x:debris|0": {
+    "text": "มีบางอย่างถูกทิ้งไว้บนขั้นบันไดเบื้องล่าง อาจจะเป็นกระเป๋า",
+    "score": 94,
+    "postedit": "มีบางอย่างถูกทิ้งไว้บนขั้นบันไดเบื้องล่าง อาจจะเป็นกระเป๋า",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:stairs|x:debris|1": {
+    "text": "มีเศษของกระจัดกระจายอยู่ทั่วบันไดช่วงถัดไป",
+    "score": 94,
+    "postedit": "มีเศษของกระจัดกระจายอยู่ทั่วบันไดช่วงถัดไป",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:stairs|x:debris|2": {
+    "text": "เงาดำ ๆ รูปหนึ่งอยู่กลางบันไดช่วงที่ทอดลง",
+    "score": 94,
+    "postedit": "เงาดำ ๆ รูปหนึ่งอยู่กลางบันไดช่วงที่ทอดลง",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:figure|v:below|0": {
+    "text": "ไกลลงไปเบื้องล่าง มีอีกคนหนึ่งกำลังวนลงไปตามช่องบันได นำหน้าอยู่หนึ่งหรือสองช่วงเสมอ",
+    "score": 94,
+    "postedit": "ไกลลงไปเบื้องล่าง มีอีกคนหนึ่งกำลังวนลงไปตามช่องบันได นำหน้าอยู่หนึ่งหรือสองช่วงเสมอ",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:figure|v:below|1": {
+    "text": "ร่างหนึ่งเดินลงไปตามช่องบันไดข้างหน้าคุณ รักษาระยะห่างเท่าเดิมไว้",
+    "score": 94,
+    "postedit": "ร่างหนึ่งเดินลงไปตามช่องบันไดข้างหน้าคุณ รักษาระยะห่างเท่าเดิมไว้",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:figure|v:below|2": {
+    "text": "มีใครบางคนอยู่บนบันไดเบื้องล่าง เดินลงด้วยจังหวะเดียวกับคุณ ไม่เคยเข้าใกล้ขึ้น",
+    "score": 94,
+    "postedit": "มีใครบางคนอยู่บนบันไดเบื้องล่าง เดินลงด้วยจังหวะเดียวกับคุณ ไม่เคยเข้าใกล้ขึ้น",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:figure|x:facing|0": {
+    "text": "ร่างเบื้องล่างหยุดลงแล้ว มันกำลังแหงนมองขึ้นมาที่คุณ",
+    "score": 94,
+    "postedit": "ร่างเบื้องล่างหยุดลงแล้ว มันกำลังแหงนมองขึ้นมาที่คุณ",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:figure|x:facing|1": {
+    "text": "ลงไปตามช่องบันได ร่างนั้นยืนนิ่ง ใบหน้าเงยขึ้นมาทางคุณ",
+    "score": 94,
+    "postedit": "ลงไปตามช่องบันได ร่างนั้นยืนนิ่ง ใบหน้าเงยขึ้นมาทางคุณ",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:figure|x:facing|2": {
+    "text": "ผู้ที่อยู่บนบันไดไม่ได้เดินลงในตอนนี้ มันกำลังเฝ้ามองคุณ",
+    "score": 94,
+    "postedit": "ผู้ที่อยู่บนบันไดไม่ได้เดินลงในตอนนี้ มันกำลังเฝ้ามองคุณ",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:figure|x:closer|0": {
+    "text": "ร่างบนบันไดอยู่ใกล้กว่าเดิมมาก เพียงหนึ่งช่วงบันไดลงไป",
+    "score": 94,
+    "postedit": "ร่างบนบันไดอยู่ใกล้กว่าเดิมมาก เพียงหนึ่งช่วงบันไดลงไป",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:figure|x:closer|1": {
+    "text": "ร่างที่เดินลงไปได้ย่นระยะเข้ามาแล้ว มันเกือบจะถึงชานพักของคุณ",
+    "score": 94,
+    "postedit": "ร่างที่เดินลงไปได้ย่นระยะเข้ามาแล้ว มันเกือบจะถึงชานพักของคุณ",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:figure|x:closer|2": {
+    "text": "ไม่ว่าใครที่อยู่เบื้องล่าง ตอนนี้อยู่ต่ำลงไปเพียงไม่กี่ขั้น",
+    "score": 94,
+    "postedit": "ไม่ว่าใครที่อยู่เบื้องล่าง ตอนนี้อยู่ต่ำลงไปเพียงไม่กี่ขั้น",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:figure|x:gone|0": {
+    "text": "ช่องบันไดเบื้องล่างว่างเปล่า ไม่ว่าใครที่เดินลงไปก็หายไปแล้ว",
+    "score": 94,
+    "postedit": "ช่องบันไดเบื้องล่างว่างเปล่า ไม่ว่าใครที่เดินลงไปก็หายไปแล้ว",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:figure|x:gone|1": {
+    "text": "คราวนี้ไม่มีร่างใดอยู่บนบันได",
+    "score": 94,
+    "postedit": "คราวนี้ไม่มีร่างใดอยู่บนบันได",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:figure|x:gone|2": {
+    "text": "ผู้ที่อยู่ข้างหน้าคุณหายไปจากช่องบันได",
+    "score": 94,
+    "postedit": "ผู้ที่อยู่ข้างหน้าคุณหายไปจากช่องบันได",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:figure|x:ascending|0": {
+    "text": "ตอนนี้ร่างนั้นกำลังไต่ขึ้น เดินขึ้นบันไดมาหาคุณ",
+    "score": 94,
+    "postedit": "ตอนนี้ร่างนั้นกำลังไต่ขึ้น เดินขึ้นบันไดมาหาคุณ",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:figure|x:ascending|1": {
+    "text": "เสียงฝีเท้าดังขึ้นมา: ร่างเบื้องล่างกำลังขึ้น ไม่ใช่ลง",
+    "score": 94,
+    "postedit": "เสียงฝีเท้าดังขึ้นมา: ร่างเบื้องล่างกำลังขึ้น ไม่ใช่ลง",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:figure|x:ascending|2": {
+    "text": "ผู้ที่อยู่บนบันไดหันกลับมาและกำลังเดินขึ้นมา",
+    "score": 94,
+    "postedit": "ผู้ที่อยู่บนบันไดหันกลับมาและกำลังเดินขึ้นมา",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:figure|x:knows|0": {
+    "text": "ร่างเบื้องล่างแหงนมองขึ้นมาและยกมือขึ้น ราวกับว่ามันเฝ้ารอคุณอยู่",
+    "score": 94,
+    "postedit": "ร่างเบื้องล่างแหงนมองขึ้นมาและยกมือขึ้น ราวกับว่ามันเฝ้ารอคุณอยู่",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:figure|x:knows|1": {
+    "text": "ร่างนั้นขยับปากพูดอะไรบางอย่างขึ้นมาตามช่องบันได อาจจะเป็นคำว่า 'อีกแล้ว'",
+    "score": 94,
+    "postedit": "ร่างนั้นขยับปากพูดอะไรบางอย่างขึ้นมาตามช่องบันได อาจจะเป็นคำว่า 'อีกแล้ว'",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:figure|x:knows|2": {
+    "text": "มันกวักมือเรียกคุณลงไป ช้า ๆ อย่างมั่นใจ ราวกับว่ามันรู้จักคุณ",
+    "score": 94,
+    "postedit": "มันกวักมือเรียกคุณลงไป ช้า ๆ อย่างมั่นใจ ราวกับว่ามันรู้จักคุณ",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:sense|v:steady|0": {
+    "text": "ช่องบันไดรู้สึกลึกเท่าที่มันเคยเป็นมาตลอดเป๊ะ",
+    "score": 94,
+    "postedit": "ช่องบันไดรู้สึกลึกเท่าที่มันเคยเป็นมาตลอดเป๊ะ",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:sense|v:steady|1": {
+    "text": "คุณแบกความระแวดระวังเดิม ๆ เดินลงไปช่วงแล้วช่วงเล่า",
+    "score": 94,
+    "postedit": "คุณแบกความระแวดระวังเดิม ๆ เดินลงไปช่วงแล้วช่วงเล่า",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:sense|v:steady|2": {
+    "text": "ทุกอย่างรู้สึกธรรมดา เท่าที่ทั้งหมดนี้จะธรรมดาได้",
+    "score": 94,
+    "postedit": "ทุกอย่างรู้สึกธรรมดา เท่าที่ทั้งหมดนี้จะธรรมดาได้",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:sense|x:deeper|0": {
+    "text": "ช่องบันไดรู้สึกลึกกว่าที่ควร ชั้นล่างสุดอยู่ไกลออกไปกว่าเดิม",
+    "score": 94,
+    "postedit": "ช่องบันไดรู้สึกลึกกว่าที่ควร ชั้นล่างสุดอยู่ไกลออกไปกว่าเดิม",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:sense|x:deeper|1": {
+    "text": "คุณรู้สึกว่าตัวเองลงมามากกว่าแปดชั้นไปไกลแล้ว",
+    "score": 94,
+    "postedit": "คุณรู้สึกว่าตัวเองลงมามากกว่าแปดชั้นไปไกลแล้ว",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:sense|x:deeper|2": {
+    "text": "ก้นบันไดดูเหมือนจะเลื่อนถอยห่างออกไปอีก",
+    "score": 94,
+    "postedit": "ก้นบันไดดูเหมือนจะเลื่อนถอยห่างออกไปอีก",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:sense|x:forget|0": {
+    "text": "ชั่วขณะหนึ่ง คุณจำไม่ได้ว่าเดินผ่านชานพักมากี่แห่งแล้ว",
+    "score": 94,
+    "postedit": "ชั่วขณะหนึ่ง คุณจำไม่ได้ว่าเดินผ่านชานพักมากี่แห่งแล้ว",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:sense|x:forget|1": {
+    "text": "คุณนับช่วงบันไดที่อยู่เหนือคุณไม่ถ้วน และมันทำให้คุณหวาดกลัว",
+    "score": 94,
+    "postedit": "คุณนับช่วงบันไดที่อยู่เหนือคุณไม่ถ้วน และมันทำให้คุณหวาดกลัว",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:sense|x:forget|2": {
+    "text": "คุณนึกไม่ออกว่าเริ่มลงมาจากชั้นไหน",
+    "score": 94,
+    "postedit": "คุณนึกไม่ออกว่าเริ่มลงมาจากชั้นไหน",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:sense|x:up|0": {
+    "text": "ชั่วพริบตาหนึ่ง คุณแน่ใจว่าตัวเองกำลังไต่ขึ้น ไม่ใช่ลง",
+    "score": 94,
+    "postedit": "ชั่วพริบตาหนึ่ง คุณแน่ใจว่าตัวเองกำลังไต่ขึ้น ไม่ใช่ลง",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:sense|x:up|1": {
+    "text": "ความรู้สึกผิดปกติเข้าครอบงำคุณ: ว่าทางลงคือทางขึ้นมาตลอด",
+    "score": 94,
+    "postedit": "ความรู้สึกผิดปกติเข้าครอบงำคุณ: ว่าทางลงคือทางขึ้นมาตลอด",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:sense|x:up|2": {
+    "text": "คุณรู้สึกวูบหนึ่งอย่างเยือกเย็นว่า คุณกำลังไปผิดทาง",
+    "score": 94,
+    "postedit": "คุณรู้สึกวูบหนึ่งอย่างเยือกเย็นว่า คุณกำลังไปผิดทาง",
+    "postedit_score": 95
+  },
+  "a:stairway8|adaptive|repeat_inspect|0": {
+    "text": "คุณตรวจดู {THING} อีกครั้ง คุณเองก็ไม่แน่ใจว่าทำไม",
+    "score": 94,
+    "postedit": "คุณตรวจดู {THING} อีกครั้ง คุณเองก็ไม่แน่ใจว่าทำไม",
+    "postedit_score": 95
+  },
+  "a:stairway8|adaptive|repeat_inspect|1": {
+    "text": "สายตาของคุณพุ่งตรงไปที่ {THING} อย่างที่มันมักเป็นเช่นนั้นเสมอในตอนนี้",
+    "score": 94,
+    "postedit": "สายตาของคุณพุ่งตรงไปที่ {THING} อย่างที่มันมักเป็นเช่นนั้นเสมอในตอนนี้",
+    "postedit_score": 95
+  },
+  "a:stairway8|adaptive|repeat_inspect|2": {
+    "text": "{THING} ดึงความสนใจของคุณอีกครั้ง",
+    "score": 94,
+    "postedit": "{THING} ดึงความสนใจของคุณอีกครั้ง",
+    "postedit_score": 95
+  },
+  "a:stairway8|adaptive|long_look|0": {
+    "text": "คุณมองอยู่นานกว่าปกติ คุณจำไม่ได้ว่าตัดสินใจหยุดตอนไหน",
+    "score": 94,
+    "postedit": "คุณมองอยู่นานกว่าปกติ คุณจำไม่ได้ว่าตัดสินใจหยุดตอนไหน",
+    "postedit_score": 95
+  },
+  "a:stairway8|adaptive|long_look|1": {
+    "text": "คุณเพิ่งรู้ตัวว่ายืนอยู่บนชานพักมาพักหนึ่ง นานแค่ไหนแล้วนะ",
+    "score": 94,
+    "postedit": "คุณเพิ่งรู้ตัวว่ายืนอยู่บนชานพักมาพักหนึ่ง นานแค่ไหนแล้วนะ",
+    "postedit_score": 95
+  },
+  "a:stairway8|adaptive|long_look|2": {
+    "text": "เวลาลื่นไหลไป คุณจ้องมองลงไปตามช่องบันได และไม่รู้ว่านานแค่ไหนแล้ว",
+    "score": 94,
+    "postedit": "เวลาลื่นไหลไป คุณจ้องมองลงไปตามช่องบันได และไม่รู้ว่านานแค่ไหนแล้ว",
+    "postedit_score": 95
+  },
+  "a:stairway8|framing|intro|0": {
+    "text": "ชำรุด",
+    "score": 95,
+    "postedit": "ชำรุด",
+    "postedit_score": 96
+  },
+  "a:stairway8|framing|intro|2": {
+    "text": "คุณกดปุ่มเรียกลิฟต์ ไม่มีอะไรเกิดขึ้น มีป้ายประกาศแปะขวางบานประตูอยู่:",
+    "score": 94,
+    "postedit": "คุณกดปุ่มเรียกลิฟต์ ไม่มีอะไรเกิดขึ้น มีป้ายประกาศแปะขวางบานประตูอยู่:",
+    "postedit_score": 95
+  },
+  "a:stairway8|framing|intro|3": {
+    "text": "ลิฟต์ชำรุด ใช้บันได",
+    "score": 94,
+    "postedit": "ลิฟต์ชำรุด ใช้บันได",
+    "postedit_score": 95
+  },
+  "a:stairway8|framing|intro|5": {
+    "text": "ตราบใดที่ชานพักหนึ่งยังเหมือนกับที่คุณจำได้ทุกประการ ก็ลงต่อไป",
+    "score": 94,
+    "postedit": "ตราบใดที่ชานพักหนึ่งยังเหมือนกับที่คุณจำได้ทุกประการ ก็ลงต่อไป",
+    "postedit_score": 95
+  },
+  "a:stairway8|framing|intro|6": {
+    "text": "หากมีสิ่งใดเปลี่ยนไป ช่องบันไดได้หมุนคุณกลับทิศแล้ว จงไต่ย้อนขึ้นไป",
+    "score": 94,
+    "postedit": "หากมีสิ่งใดเปลี่ยนไป ช่องบันไดได้หมุนคุณกลับทิศแล้ว จงไต่ย้อนขึ้นไป",
+    "postedit_score": 95
+  },
+  "a:stairway8|framing|intro|8": {
+    "text": "ชั้นล่างสุดคือทางออก",
+    "score": 94,
+    "postedit": "ชั้นล่างสุดคือทางออก",
+    "postedit_score": 95
+  },
+  "a:stairway8|framing|intro|9": {
+    "text": "หากนับชานพักสับสน คุณก็จะกลับไปอยู่ชั้นบนสุด",
+    "score": 94,
+    "postedit": "หากนับชานพักสับสน คุณก็จะกลับไปอยู่ชั้นบนสุด",
+    "postedit_score": 95
+  },
+  "a:stairway8|framing|win|0": {
+    "text": "บันไดช่วงสุดท้ายเปิดออกสู่ล็อบบี้",
+    "score": 94,
+    "postedit": "บันไดช่วงสุดท้ายเปิดออกสู่ล็อบบี้",
+    "postedit_score": 95
+  },
+  "a:stairway8|framing|win|1": {
+    "text": "แสงกลางวันลอดผ่านประตู ถนน ลิฟต์ที่อยู่ข้างหลังคุณ ยังคงเงียบสนิท",
+    "score": 94,
+    "postedit": "แสงกลางวันลอดผ่านประตู ถนน ลิฟต์ที่อยู่ข้างหลังคุณ ยังคงเงียบสนิท",
+    "postedit_score": 95
+  },
+  "a:stairway8|framing|win|2": {
+    "text": "ลงมาแปดชั้น และความทรงจำของคุณยึดกุมทุกชานพักไว้ได้",
+    "score": 94,
+    "postedit": "ลงมาแปดชั้น และความทรงจำของคุณยึดกุมทุกชานพักไว้ได้",
+    "postedit_score": 95
+  },
+  "a:stairway8|framing|win|3": {
+    "text": "ชั้นล่างสุด",
+    "score": 95,
+    "postedit": "ชั้นล่างสุด",
+    "postedit_score": 96
+  }
+}

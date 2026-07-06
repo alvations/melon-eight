@@ -1,0 +1,480 @@
+{
+  "_comment": "Stairway arc. Same schema and mechanic as hallway-eight, different skin and story: the elevator is out, so you descend eight flights on foot. Each landing should be identical -- go back up if a landing has changed, keep descending if it hasn't.",
+  "meta": {
+    "id": "stairway8",
+    "title": "Stairway 8",
+    "tagline": "The elevator is out. Eight floors down, one landing at a time.",
+    "skin": "stairway",
+    "go_on": "Descend",
+    "turn_back": "Back up",
+    "axis": "vertical",
+    "unit": "landing",
+    "progress": "Floor {floor}   ·   {level}/{goal} down",
+    "share_prompt": "Leave the door open below.",
+    "attempt": "{n} times down these stairs, and this time they let you out.",
+    "attempt_first": "First descent, and the stair never turned you back.",
+    "labels": {
+      "lighting": "light",
+      "sound": "sound",
+      "number": "floor number",
+      "door": "fire door",
+      "notice": "elevator notice",
+      "railing": "handrail",
+      "extinguisher": "extinguisher",
+      "stairs": "stairs down",
+      "figure": "figure on the stairs",
+      "sense": "feeling"
+    },
+    "npc_prop": "figure",
+    "late_props": ["extinguisher", "railing"]
+  },
+  "title_variants": [
+    "Stairway 8",
+    "Stairway 8",
+    "Stairway 8",
+    "Stairway 8",
+    "Stairwell 8",
+    "Stairway Eight",
+    "STAIRWAY 8",
+    "Stairway  8"
+  ],
+  "sign_variants": [
+    "OUT OF ORDER"
+  ],
+  "anchor_order": [
+    "lighting",
+    "sound",
+    "number",
+    "door",
+    "notice",
+    "figure",
+    "railing",
+    "extinguisher",
+    "stairs",
+    "sense"
+  ],
+  "properties": {
+    "lighting": {
+      "baseline": "steady",
+      "values": {
+        "steady": [
+          "A caged bulb throws steady light across the landing.",
+          "The stairwell light burns evenly overhead, as always.",
+          "The fluorescent strip on the landing glows its usual flat white.",
+          "Light falls here the same as every landing above."
+        ]
+      },
+      "anomalies": {
+        "flicker": [
+          "The caged bulb stutters, then steadies.",
+          "The stairwell light flickers in a way it hasn't before.",
+          "Overhead, the light trips once and comes back."
+        ],
+        "dim": [
+          "This landing is dimmer than the ones above it.",
+          "The light here has half given up; the corners stay dark.",
+          "A grey murk hangs over the landing."
+        ],
+        "red": [
+          "The landing is lit red, an emergency bulb you don't remember.",
+          "Everything wears a low red emergency glow.",
+          "The white light is gone; only a red bulb remains."
+        ]
+      }
+    },
+    "sound": {
+      "baseline": "quiet",
+      "values": {
+        "quiet": [
+          "Your footsteps echo up the shaft and fade.",
+          "The stairwell is quiet but for your own steps.",
+          "Far below, the building hums to itself."
+        ]
+      },
+      "anomalies": {
+        "drip": [
+          "Water drips somewhere down the shaft. Tick. Tick.",
+          "A slow drip echoes up from below.",
+          "Something is dripping, floors down."
+        ],
+        "slam": [
+          "A door slams far below, then silence.",
+          "Somewhere beneath you a door bangs shut.",
+          "A heavy door closes several floors down."
+        ],
+        "footsteps": [
+          "Footsteps climb toward you, then stop.",
+          "You hear steps that aren't yours on the flight below.",
+          "For a moment, someone else is on the stairs."
+        ],
+        "silence": [
+          "The building's hum has stopped. Dead quiet.",
+          "It is completely silent. Too silent.",
+          "Even the echo of your steps seems to vanish."
+        ]
+      }
+    },
+    "number": {
+      "baseline": "eight",
+      "values": {
+        "eight": [
+          "A large painted 8 marks the landing wall.",
+          "The floor number, 8, is stencilled on the concrete.",
+          "'8' is painted on the wall, drips frozen beneath the strokes.",
+          "The wall reads 8, the same as the landing before."
+        ]
+      },
+      "anomalies": {
+        "wrong": [
+          "The wall reads 7. It has always read 8.",
+          "The painted number is a 6 now, not an 8.",
+          "The floor number has changed: it says 9."
+        ],
+        "basement": [
+          "The wall reads B. Basement. You are nowhere near it.",
+          "The number is gone; a painted 'B' stands in its place.",
+          "The stencil reads B, though you've barely started down."
+        ],
+        "faded": [
+          "The painted number has faded to a grey ghost.",
+          "Someone has scrubbed the number half away.",
+          "The 8 on the wall is almost gone."
+        ],
+        "reversed": [
+          "The 8 is painted backwards, as if seen in a mirror.",
+          "The floor number is mirror-reversed.",
+          "The stencilled number reads the wrong way round."
+        ]
+      }
+    },
+    "door": {
+      "baseline": "closed",
+      "values": {
+        "closed": [
+          "The fire door to the floor is shut, its wired glass dark.",
+          "The heavy grey fire door stands closed on the landing.",
+          "The door onto the floor is closed, the way it should be."
+        ]
+      },
+      "anomalies": {
+        "ajar": [
+          "The fire door hangs slightly ajar. A black gap, no light.",
+          "The heavy door is open a crack; it never is.",
+          "The fire door isn't quite shut this time."
+        ],
+        "propped": [
+          "The fire door is propped wide open onto a dark floor.",
+          "Someone has wedged the fire door open.",
+          "The door stands fully open, held by nothing you can see."
+        ],
+        "window": [
+          "The wired-glass window in the door has gone black, covered.",
+          "The little window in the fire door is blocked from the other side.",
+          "Something presses against the glass in the door."
+        ],
+        "handle": [
+          "The fire door has no handle now.",
+          "Where the door handle was, only bare holes.",
+          "The handle is missing from the fire door."
+        ]
+      }
+    },
+    "notice": {
+      "baseline": "out",
+      "values": {
+        "out": [
+          "A taped notice on the elevator reads OUT OF ORDER, USE STAIRS.",
+          "The repair notice is still there: elevator out of order.",
+          "OUT OF ORDER, says the sign taped across the elevator doors."
+        ]
+      },
+      "anomalies": {
+        "gone": [
+          "The elevator notice is gone. Just bare metal doors.",
+          "No sign on the elevator this time.",
+          "The repair notice has been taken down."
+        ],
+        "service": [
+          "The notice now reads ELEVATOR IN SERVICE.",
+          "The sign says the elevator is working again.",
+          "OUT OF ORDER has become BACK IN SERVICE."
+        ],
+        "wording": [
+          "The notice reads DO NOT USE STAIRS.",
+          "The sign warns STAIRS CLOSED, it never did before.",
+          "The notice now tells you not to take the stairs at all."
+        ],
+        "arrow": [
+          "The arrow on the notice points up, not down.",
+          "The sign's arrow has flipped to point back up the stairs.",
+          "The notice directs you upward now."
+        ]
+      }
+    },
+    "railing": {
+      "baseline": "cold",
+      "values": {
+        "cold": [
+          "The steel handrail runs cold and unbroken under your hand.",
+          "The painted railing is right where it always is.",
+          "Your hand finds the handrail, continuous along the flight."
+        ]
+      },
+      "anomalies": {
+        "gap": [
+          "A section of the handrail is missing over the drop.",
+          "The railing has a gap where a length has been removed.",
+          "Part of the handrail simply isn't there."
+        ],
+        "wet": [
+          "The handrail is wet, though nothing drips on it.",
+          "Your hand comes away damp from the rail.",
+          "The railing is slick under your palm."
+        ],
+        "paint": [
+          "The railing is a different colour than the flights above.",
+          "Someone has repainted this stretch of handrail.",
+          "The rail's paint is green here, not grey."
+        ]
+      }
+    },
+    "extinguisher": {
+      "baseline": "present",
+      "values": {
+        "present": [
+          "A fire extinguisher hangs on its bracket beside the door.",
+          "The red extinguisher is in its place on the wall.",
+          "The landing's fire extinguisher sits on its hook."
+        ]
+      },
+      "anomalies": {
+        "gone": [
+          "The extinguisher bracket is empty.",
+          "The fire extinguisher is gone; only the bracket remains.",
+          "No extinguisher on the wall this time."
+        ],
+        "floor": [
+          "The extinguisher lies on the floor, on its side.",
+          "The fire extinguisher has been set down on the landing.",
+          "The extinguisher stands loose against the wall, off its hook."
+        ],
+        "gauge": [
+          "The extinguisher's pressure gauge reads in the red.",
+          "The needle on the extinguisher sits deep in the red.",
+          "The extinguisher's gauge has dropped to empty."
+        ]
+      }
+    },
+    "stairs": {
+      "baseline": "clear",
+      "values": {
+        "clear": [
+          "The flight down is clear, its steps even and dry.",
+          "The stairs descend as always, nothing on them.",
+          "The next flight drops away, clean and empty."
+        ]
+      },
+      "anomalies": {
+        "wet": [
+          "The steps below shine wet in the light.",
+          "The next flight is slick with water.",
+          "The stairs down are wet, though you saw no spill."
+        ],
+        "missing": [
+          "One of the steps in the flight below is missing.",
+          "There's a gap in the stairs where a step should be.",
+          "A tread is gone from the flight down."
+        ],
+        "up": [
+          "The arrow stencilled on the steps points UP, not down.",
+          "The direction painted on the stairs has reversed.",
+          "The steps seem to lead up now, though you are going down."
+        ],
+        "debris": [
+          "Something has been left on the steps below, a bag, maybe.",
+          "There's debris scattered across the next flight.",
+          "A dark shape sits partway down the flight."
+        ]
+      }
+    },
+    "figure": {
+      "baseline": "below",
+      "values": {
+        "below": [
+          "Far below, someone else winds down the stairwell, always a flight or two ahead.",
+          "A figure descends the shaft ahead of you, keeping the same distance.",
+          "Someone is on the stairs below, going down at your pace, never closer."
+        ]
+      },
+      "anomalies": {
+        "facing": [
+          "The figure below has stopped. It is looking up at you.",
+          "Down the shaft, the figure stands still, face turned up toward you.",
+          "The one on the stairs isn't descending now. It's watching you."
+        ],
+        "closer": [
+          "The figure on the stairs is much closer than before, just a flight down.",
+          "The descending figure has closed the distance; it's nearly on your landing.",
+          "Whoever is below is only a few steps down now."
+        ],
+        "gone": [
+          "The stairwell below is empty. Whoever was descending is gone.",
+          "There is no figure on the stairs this time.",
+          "The one ahead of you has vanished from the shaft."
+        ],
+        "ascending": [
+          "The figure is climbing now, coming up the stairs toward you.",
+          "Footsteps rise: the figure below is ascending, not descending.",
+          "The one on the stairs has turned around and is coming up."
+        ],
+        "knows": [
+          "The figure below looks up and lifts a hand, as if it has been waiting for you.",
+          "The figure mouths something up the shaft. It might be 'again.'",
+          "It beckons you down, slow and certain, as though it knows you."
+        ]
+      }
+    },
+    "sense": {
+      "baseline": "steady",
+      "values": {
+        "steady": [
+          "The shaft feels exactly as deep as it always has.",
+          "You carry the same wariness down flight after flight.",
+          "Everything feels ordinary, as far as any of this is ordinary."
+        ]
+      },
+      "anomalies": {
+        "deeper": [
+          "The shaft feels deeper than it should, the ground floor further off.",
+          "You feel you've descended far more than eight floors.",
+          "The bottom seems to have moved further away."
+        ],
+        "forget": [
+          "For a moment you can't remember how many landings you've passed.",
+          "You lose count of the flights above you, and it frightens you.",
+          "You can't recall which floor you started on."
+        ],
+        "up": [
+          "For an instant you're certain you've been climbing, not descending.",
+          "A wrong feeling grips you: that down has been up all along.",
+          "You feel, briefly and coldly, that you are going the wrong way."
+        ]
+      }
+    }
+  },
+  "adaptive": {
+    "repeat_inspect": [
+      "You check the {THING} again. You aren't sure why.",
+      "Your eyes go straight to the {THING}, the way they always seem to now.",
+      "The {THING} draws your attention once more."
+    ],
+    "long_look": [
+      "You spend longer looking than usual. You don't remember deciding to stop.",
+      "You realise you've been standing on the landing. For how long?",
+      "Time slips. You were staring down the shaft, and you don't know for how long."
+    ]
+  },
+  "framing": {
+    "cutscene": [
+      "Something on the landing changed, and you went down past it.",
+      "If a landing is not exactly as you remember, go back up. If it is, keep going down."
+    ],
+    "intro": [
+      "OUT OF ORDER",
+      "",
+      "You press the call button. Nothing. A notice is taped across the doors:",
+      "ELEVATOR OUT OF ORDER, USE STAIRS.",
+      "",
+      "While a landing is exactly as you remember it, keep descending.",
+      "If anything has changed, the stairwell has turned you around. Climb back up.",
+      "",
+      "The ground floor is the way out.",
+      "Lose count of the landings, and you'll be back at the top."
+    ],
+    "win": [
+      "The last flight opens onto the lobby.",
+      "Daylight through the doors. The street. The elevator behind you, still dead.",
+      "Eight floors down, and your memory held every landing.",
+      "Ground floor."
+    ]
+  },
+  "act2": {
+    "flashbacks": [
+      "You came up in the lift once. You remember the doors closing on a face.",
+      "There was a floor you were visiting. You cannot say the number now, only that you did not want to go.",
+      "The figure below waved up at you the first time, and you told yourself it was meant for someone else.",
+      "You have read these scratches before. One of them is a tally, and it goes past eight.",
+      "You were sure the ground floor was next. You have been sure before."
+    ],
+    "exit": {
+      "tempt": "A landing door hangs open below, and past it the stairs seem to drop straight to the street. A shortcut down.",
+      "action": "take the shortcut",
+      "ending": "climb"
+    },
+    "endings": {
+      "climb": [
+        "You take the shortcut door, sure it drops you at the ground.",
+        "The number on the wall is higher than the floor you began on.",
+        "The flight down has become a flight up, and every door from here opens onto stairs that only rise."
+      ]
+    },
+    "touch": {
+      "door": {
+        "verb": "try the landing door",
+        "reaction": [
+          "The bar gives a finger's width and stops, a chain you cannot see holding it.",
+          "Behind it, faintly, the sound of the same stairwell going down."
+        ],
+        "herring": [
+          "The paint on it is tacky, freshly done, though the sign beside it is yellow with age.",
+          "A cold draft comes up through the gap, carrying nothing you can name."
+        ],
+        "fold": [
+          "It swings open onto a landing you passed three floors ago. The count is gone. You are at the top again."
+        ]
+      },
+      "railing": {
+        "verb": "grip the handrail",
+        "reaction": [
+          "It is colder than the air, and it hums faintly, the way a rail does when someone far below holds it too.",
+          "Your hand leaves no print on it, though it should."
+        ],
+        "herring": [
+          "Cold, where you left it warm a landing ago. It means nothing.",
+          "It is a shade of green you do not remember it being. The light down here is bad."
+        ],
+        "fold": [
+          "You follow it down with your eyes, and your feet follow your eyes, and you are climbing again, at the start."
+        ]
+      },
+      "notice": {
+        "verb": "read the notice",
+        "reaction": [
+          "LIFT OUT OF ORDER, USE STAIRS. Someone has underlined USE, twice, hard.",
+          "Below the print, in pencil, a hand has written a number and crossed it out."
+        ],
+        "herring": [
+          "The tape holding it is fresh, still shiny. Notices like this are always being replaced.",
+          "The paper is warm, as if just off a machine. Buildings are strange at night."
+        ],
+        "fold": [
+          "You read to the bottom and the bottom says START, and it is."
+        ]
+      },
+      "figure": {
+        "verb": "call down the stairwell",
+        "reaction": [
+          "Your voice comes back a beat late, in your own tone.",
+          "Far below, a face tips up toward the sound, or the shadow of one."
+        ],
+        "herring": [
+          "The coat down there is the colour of yours. Most coats are.",
+          "It is a landing nearer than when you called. You have been walking, after all."
+        ],
+        "fold": [
+          "It climbs to meet you, unhurried, and when it reaches your landing you are somehow back at the top, alone."
+        ]
+      }
+    }
+  }
+}

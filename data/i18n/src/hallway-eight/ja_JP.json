@@ -1,0 +1,1106 @@
+{
+ "a:hallway-eight|act2|end|lobby|0": {
+  "postedit": "通りを思い描きながら、光る扉を押し開ける。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "通りを思い描きながら、光る扉を押し開ける。"
+ },
+ "a:hallway-eight|act2|end|lobby|1": {
+  "postedit": "そこは始まりのロビーだった。ガラスはまだ施錠され、その向こうの夜はまだ黒い。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "そこは始まりのロビーだった。ガラスはまだ施錠され、その向こうの夜はまだ黒い。"
+ },
+ "a:hallway-eight|act2|end|lobby|2": {
+  "postedit": "歩いてきた廊下は、ただ消えている。もう外への道を持たない建物の、その始まりに、あなたは戻っている。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "歩いてきた廊下は、ただ消えている。もう外への道を持たない建物の、その始まりに、あなたは戻っている。"
+ },
+ "a:hallway-eight|act2|exit|action": {
+  "postedit": "扉を抜ける",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "扉を抜ける"
+ },
+ "a:hallway-eight|act2|exit|tempt": {
+  "postedit": "前方の扉が開いている。その上で、緑のEXITが低く唸って光っている。通りは、きっとその先だ。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "前方の扉が開いている。その上で、緑のEXITが低く唸って光っている。通りは、きっとその先だ。"
+ },
+ "a:hallway-eight|act2|flashback|0": {
+  "postedit": "数枚後ろの扉で、まだ卓上ランプが灯っている。輪染みのそばで、冷めきったコーヒー。時計は、時計には読めない時刻を指している。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "数枚後ろの扉で、まだ卓上ランプが灯っている。輪染みのそばで、冷めきったコーヒー。時計は、時計には読めない時刻を指している。"
+ },
+ "a:hallway-eight|act2|flashback|1": {
+  "postedit": "まだたどり着いていない部屋で、電話が震えている。画面の名前は、ほとんどあなたのものだ。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "まだたどり着いていない部屋で、電話が震えている。画面の名前は、ほとんどあなたのものだ。"
+ },
+ "a:hallway-eight|act2|flashback|2": {
+  "postedit": "六時にはロビーの扉の前にいた。もう忘れてしまった何かのために、引き返したのだ。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "六時にはロビーの扉の前にいた。もう忘れてしまった何かのために、引き返したのだ。"
+ },
+ "a:hallway-eight|act2|flashback|3": {
+  "postedit": "灰色の男は、ずっと昔に一度だけ防火扉を押さえてくれた。そして、置き去りにしようとする相手を見るような目で、あなたを見た。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "灰色の男は、ずっと昔に一度だけ防火扉を押さえてくれた。そして、置き去りにしようとする相手を見るような目で、あなたを見た。"
+ },
+ "a:hallway-eight|act2|flashback|4": {
+  "postedit": "前に八まで数えたことがある。ほとんど確かだ。そこに届いたことは一度もない、とも、ほとんど確かだ。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "前に八まで数えたことがある。ほとんど確かだ。そこに届いたことは一度もない、とも、ほとんど確かだ。"
+ },
+ "a:hallway-eight|act2|t:camera|fold|0": {
+  "postedit": "カメラは来た道を戻るあなたの手を追い、あなたの足はカメラを追い、あなたはまた始まりにいる。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "カメラは来た道を戻るあなたの手を追い、あなたの足はカメラを追い、あなたはまた始まりにいる。"
+ },
+ "a:hallway-eight|act2|t:camera|herring|0": {
+  "postedit": "覚えのない赤い光が一度だけ点滅する。たぶんずっと点いていたのだ。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "覚えのない赤い光が一度だけ点滅する。たぶんずっと点いていたのだ。"
+ },
+ "a:hallway-eight|act2|t:camera|herring|1": {
+  "postedit": "一瞬、レンズが曇る、内側から息を吹きかけられたように。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "一瞬、レンズが曇る、内側から息を吹きかけられたように。"
+ },
+ "a:hallway-eight|act2|t:camera|reaction|0": {
+  "postedit": "カメラが急がずに向きを変え、あなたに据わる。ほかには何も動かない。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "カメラが急がずに向きを変え、あなたに据わる。ほかには何も動かない。"
+ },
+ "a:hallway-eight|act2|t:camera|reaction|1": {
+  "postedit": "レンズがあなたの目の高さまで傾き、辛抱強くそこに留まる。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "レンズがあなたの目の高さまで傾き、辛抱強くそこに留まる。"
+ },
+ "a:hallway-eight|act2|t:camera|verb": {
+  "postedit": "カメラに手を振る",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "カメラに手を振る"
+ },
+ "a:hallway-eight|act2|t:door|fold|0": {
+  "postedit": "扉は、もう歩いてきた廊下の一区間へと開く。頭の中の数字は消えている。あなたはまた始まりにいる。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "扉は、もう歩いてきた廊下の一区間へと開く。頭の中の数字は消えている。あなたはまた始まりにいる。"
+ },
+ "a:hallway-eight|act2|t:door|herring|0": {
+  "postedit": "金属が温かい、施錠された扉であるべきよりも温かい。たぶん何の意味もない。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "金属が温かい、施錠された扉であるべきよりも温かい。たぶん何の意味もない。"
+ },
+ "a:hallway-eight|act2|t:door|herring|1": {
+  "postedit": "扉の下から風が漏れる、さっきまでなかったのに。あるいは、あったのに気づかなかっただけか。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "扉の下から風が漏れる、さっきまでなかったのに。あるいは、あったのに気づかなかっただけか。"
+ },
+ "a:hallway-eight|act2|t:door|reaction|0": {
+  "postedit": "取っ手が少し回って止まる、まるで向こう側から押さえられているように。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "取っ手が少し回って止まる、まるで向こう側から押さえられているように。"
+ },
+ "a:hallway-eight|act2|t:door|reaction|1": {
+  "postedit": "耳を当てる。向こう側の何かが静まる、人が入ってきたときの部屋のように。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "耳を当てる。向こう側の何かが静まる、人が入ってきたときの部屋のように。"
+ },
+ "a:hallway-eight|act2|t:door|verb": {
+  "postedit": "保守扉を試す",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "保守扉を試す"
+ },
+ "a:hallway-eight|act2|t:figure|fold|0": {
+  "postedit": "男はついに振り返り、それはよく知りすぎた顔で、それを見たとたん、あなたは始まりに戻される。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "男はついに振り返り、それはよく知りすぎた顔で、それを見たとたん、あなたは始まりに戻される。"
+ },
+ "a:hallway-eight|act2|t:figure|herring|0": {
+  "postedit": "一瞬、そのスーツがあなたのものに見える。灰色は灰色だ。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "一瞬、そのスーツがあなたのものに見える。灰色は灰色だ。"
+ },
+ "a:hallway-eight|act2|t:figure|herring|1": {
+  "postedit": "呼びかけたときより少し近い。ただ歩いているだけ、のはずだ。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "呼びかけたときより少し近い。ただ歩いているだけ、のはずだ。"
+ },
+ "a:hallway-eight|act2|t:figure|reaction|0": {
+  "postedit": "あなたの声は廊下の先へ下りていき、戻ってこない。男は振り向かない。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "あなたの声は廊下の先へ下りていき、戻ってこない。男は振り向かない。"
+ },
+ "a:hallway-eight|act2|t:figure|reaction|1": {
+  "postedit": "男は半歩だけ足を止める、雑踏で自分の名を聞いたときのように。それから、また歩き出す。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "男は半歩だけ足を止める、雑踏で自分の名を聞いたときのように。それから、また歩き出す。"
+ },
+ "a:hallway-eight|act2|t:figure|verb": {
+  "postedit": "灰色の男に呼びかける",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "灰色の男に呼びかける"
+ },
+ "a:hallway-eight|act2|t:poster|fold|0": {
+  "postedit": "点だけがすべてになるまで顔を寄せ、身を引くと、廊下はあなたの周りでやり直しになっている。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "点だけがすべてになるまで顔を寄せ、身を引くと、廊下はあなたの周りでやり直しになっている。"
+ },
+ "a:hallway-eight|act2|t:poster|herring|0": {
+  "postedit": "インクはまだ粘つく。刷りたてだ。何の意味もない、意味などないと分かっているのに、それでも手が引っ込む。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "インクはまだ粘つく。刷りたてだ。何の意味もない、意味などないと分かっているのに、それでも手が引っ込む。"
+ },
+ "a:hallway-eight|act2|t:poster|herring|1": {
+  "postedit": "さっきまで色あせて見えたのに、色が鮮やかすぎる。光のいたずらだ。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "さっきまで色あせて見えたのに、色が鮮やかすぎる。光のいたずらだ。"
+ },
+ "a:hallway-eight|act2|t:poster|reaction|0": {
+  "postedit": "間近では、砂浜はただのインクの点だ。行くはずだった場所。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "間近では、砂浜はただのインクの点だ。行くはずだった場所。"
+ },
+ "a:hallway-eight|act2|t:poster|reaction|1": {
+  "postedit": "隅は何度も剥がされ、また押しつけられて、紙が柔らかくなっている。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "隅は何度も剥がされ、また押しつけられて、紙が柔らかくなっている。"
+ },
+ "a:hallway-eight|act2|t:poster|verb": {
+  "postedit": "ポスターに顔を近づける",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "ポスターに顔を近づける"
+ },
+ "a:hallway-eight|adaptive|long_look|0": {
+  "postedit": "いつもより長く見てしまう。立ち止まった覚えはない。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "いつもより長く見てしまう。立ち止まった覚えはない。"
+ },
+ "a:hallway-eight|adaptive|long_look|1": {
+  "postedit": "立ち尽くしていたと気づく。いつから？",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "立ち尽くしていたと気づく。いつから？"
+ },
+ "a:hallway-eight|adaptive|long_look|2": {
+  "postedit": "時間が滑る。見つめていた、どれほどの間かわからない。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "時間が滑る。見つめていた、どれほどの間かわからない。"
+ },
+ "a:hallway-eight|adaptive|repeat_inspect|0": {
+  "postedit": "また{THING}に目が行く。理由はよくわからない。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "また{THING}に目が行く。理由はよくわからない。"
+ },
+ "a:hallway-eight|adaptive|repeat_inspect|1": {
+  "postedit": "視線はまっすぐ{THING}へ向かう。最近はいつもそうだ。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "視線はまっすぐ{THING}へ向かう。最近はいつもそうだ。"
+ },
+ "a:hallway-eight|adaptive|repeat_inspect|2": {
+  "postedit": "{THING}がまた目を引く。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "{THING}がまた目を引く。"
+ },
+ "a:hallway-eight|attempt": {
+  "postedit": "この廊下を{n}回。今回は、扉が開いた。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "この廊下を{n}回。今回は、扉が開いた。"
+ },
+ "a:hallway-eight|attempt_first": {
+  "postedit": "一度で、廊下はあなたを通した。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "一度で、廊下はあなたを通した。"
+ },
+ "a:hallway-eight|framing|cutscene|0": {
+  "postedit": "廊下の何かが変わっていたのに、あなたは気づかず通り過ぎた。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "廊下の何かが変わっていたのに、あなたは気づかず通り過ぎた。"
+ },
+ "a:hallway-eight|framing|cutscene|1": {
+  "postedit": "一区画が記憶と少しでも違えば、引き返せ。同じなら、進め。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "一区画が記憶と少しでも違えば、引き返せ。同じなら、進め。"
+ },
+ "a:hallway-eight|framing|intro|0": {
+  "postedit": "時間外",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "時間外"
+ },
+ "a:hallway-eight|framing|intro|2": {
+  "postedit": "遅くまで残りすぎた。ロビーの扉は施錠され、明かりは半分落ちている。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "遅くまで残りすぎた。ロビーの扉は施錠され、明かりは半分落ちている。"
+ },
+ "a:hallway-eight|framing|intro|3": {
+  "postedit": "その上に手書きの札が下がっている。非常口、廊下ヲ使エ。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "その上に手書きの札が下がっている。非常口、廊下ヲ使エ。"
+ },
+ "a:hallway-eight|framing|intro|5": {
+  "postedit": "廊下の一区間が記憶とまったく同じなら、進め。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "廊下の一区間が記憶とまったく同じなら、進め。"
+ },
+ "a:hallway-eight|framing|intro|6": {
+  "postedit": "何かが変わっていれば、道は折り返している。来た道を引き返せ。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "何かが変わっていれば、道は折り返している。来た道を引き返せ。"
+ },
+ "a:hallway-eight|framing|intro|8": {
+  "postedit": "八番目の防火扉が外へ通じている。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "八番目の防火扉が外へ通じている。"
+ },
+ "a:hallway-eight|framing|intro|9": {
+  "postedit": "見たものを見失えば、建物はあなたを振り出しに戻す。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "見たものを見失えば、建物はあなたを振り出しに戻す。"
+ },
+ "a:hallway-eight|framing|win|0": {
+  "postedit": "八番目の防火扉が、あなたの手の下で開く。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "八番目の防火扉が、あなたの手の下で開く。"
+ },
+ "a:hallway-eight|framing|win|1": {
+  "postedit": "冷たい空気。通りへ下りる階段。街は、まだそこにある。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "冷たい空気。通りへ下りる階段。街は、まだそこにある。"
+ },
+ "a:hallway-eight|framing|win|2": {
+  "postedit": "廊下には終わりがないのではと、思い始めていた。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "廊下には終わりがないのではと、思い始めていた。"
+ },
+ "a:hallway-eight|framing|win|3": {
+  "postedit": "外に出た。",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "外に出た。"
+ },
+ "a:hallway-eight|go_on": {
+  "postedit": "進む",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "進む"
+ },
+ "a:hallway-eight|label|camera": {
+  "postedit": "監視カメラ",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "監視カメラ"
+ },
+ "a:hallway-eight|label|door": {
+  "postedit": "保守扉",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "保守扉"
+ },
+ "a:hallway-eight|label|figure": {
+  "postedit": "廊下の男",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "廊下の男"
+ },
+ "a:hallway-eight|label|floor": {
+  "postedit": "床",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "床"
+ },
+ "a:hallway-eight|label|lighting": {
+  "postedit": "照明",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "照明"
+ },
+ "a:hallway-eight|label|poster": {
+  "postedit": "ポスター",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "ポスター"
+ },
+ "a:hallway-eight|label|sense": {
+  "postedit": "この感じ",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "この感じ"
+ },
+ "a:hallway-eight|label|sign": {
+  "postedit": "非常口の標示",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "非常口の標示"
+ },
+ "a:hallway-eight|label|sound": {
+  "postedit": "音",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "音"
+ },
+ "a:hallway-eight|p:camera|v:away|0": {
+  "postedit": "隅の小さな監視カメラが廊下の先を向いている。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "隅の小さな監視カメラが廊下の先を向いている。"
+ },
+ "a:hallway-eight|p:camera|v:away|1": {
+  "postedit": "監視カメラが突き当たりを見張り、あなたから顔をそむけている。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "監視カメラが突き当たりを見張り、あなたから顔をそむけている。"
+ },
+ "a:hallway-eight|p:camera|v:away|2": {
+  "postedit": "隅の上のほうで、カメラはいつものように前を向いている。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "隅の上のほうで、カメラはいつものように前を向いている。"
+ },
+ "a:hallway-eight|p:camera|x:atyou|0": {
+  "postedit": "監視カメラが向きを変えた。まっすぐあなたを指している。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "監視カメラが向きを変えた。まっすぐあなたを指している。"
+ },
+ "a:hallway-eight|p:camera|x:atyou|1": {
+  "postedit": "監視カメラが今、あなたのほうへ見下ろすように傾いている。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "監視カメラが今、あなたのほうへ見下ろすように傾いている。"
+ },
+ "a:hallway-eight|p:camera|x:atyou|2": {
+  "postedit": "隅のカメラがこちらを向き、そのレンズがあなたの目の高さにある。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "隅のカメラがこちらを向き、そのレンズがあなたの目の高さにある。"
+ },
+ "a:hallway-eight|p:camera|x:red|0": {
+  "postedit": "カメラで赤い光が点滅している。点滅したことなどなかった。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "カメラで赤い光が点滅している。点滅したことなどなかった。"
+ },
+ "a:hallway-eight|p:camera|x:red|1": {
+  "postedit": "カメラの録画ランプが初めて赤く光っている。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "カメラの録画ランプが初めて赤く光っている。"
+ },
+ "a:hallway-eight|p:camera|x:red|2": {
+  "postedit": "カメラの小さなLEDが赤く脈打っている。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "カメラの小さなLEDが赤く脈打っている。"
+ },
+ "a:hallway-eight|p:door|v:closed|0": {
+  "postedit": "灰色の保守扉が左の壁に閉じたまま収まっている。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "灰色の保守扉が左の壁に閉じたまま収まっている。"
+ },
+ "a:hallway-eight|p:door|v:closed|1": {
+  "postedit": "左手の保守扉は、いつものように閉じている。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "左手の保守扉は、いつものように閉じている。"
+ },
+ "a:hallway-eight|p:door|v:closed|2": {
+  "postedit": "保守扉がある、固く閉ざされて。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "保守扉がある、固く閉ざされて。"
+ },
+ "a:hallway-eight|p:door|x:ajar|0": {
+  "postedit": "保守扉がわずかに開いている。奥は暗闇だ。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "保守扉がわずかに開いている。奥は暗闇だ。"
+ },
+ "a:hallway-eight|p:door|x:ajar|1": {
+  "postedit": "保守扉が少しだけ開いている、開いたところなど見たこともないのに。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "保守扉が少しだけ開いている、開いたところなど見たこともないのに。"
+ },
+ "a:hallway-eight|p:door|x:ajar|2": {
+  "postedit": "灰色の扉が半開きだ。ぴたりと閉じているはずの所に、細く黒い隙間がある。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "灰色の扉が半開きだ。ぴたりと閉じているはずの所に、細く黒い隙間がある。"
+ },
+ "a:hallway-eight|p:door|x:gone|0": {
+  "postedit": "左の壁に保守扉がない。ただ滑らかな壁があるだけだ。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "左の壁に保守扉がない。ただ滑らかな壁があるだけだ。"
+ },
+ "a:hallway-eight|p:door|x:gone|1": {
+  "postedit": "保守扉がすっかり消えている。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "保守扉がすっかり消えている。"
+ },
+ "a:hallway-eight|p:door|x:gone|2": {
+  "postedit": "左の壁は途切れなく続き、扉などまったくない。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "左の壁は途切れなく続き、扉などまったくない。"
+ },
+ "a:hallway-eight|p:figure|v:distant|0": {
+  "postedit": "廊下のはるか先で、灰色のスーツの男があなたから遠ざかっていく。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "廊下のはるか先で、灰色のスーツの男があなたから遠ざかっていく。"
+ },
+ "a:hallway-eight|p:figure|v:distant|1": {
+  "postedit": "スーツ姿の人影が遠くの前方を、背を向けて進んでいく。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "スーツ姿の人影が遠くの前方を、背を向けて進んでいく。"
+ },
+ "a:hallway-eight|p:figure|v:distant|2": {
+  "postedit": "灰色の男はいつものように前方にいて、歩き続けている。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "灰色の男はいつものように前方にいて、歩き続けている。"
+ },
+ "a:hallway-eight|p:figure|v:distant|3": {
+  "postedit": "廊下の先で、スーツの男が消失点へと遠ざかっていく。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "廊下の先で、スーツの男が消失点へと遠ざかっていく。"
+ },
+ "a:hallway-eight|p:figure|x:closer|0": {
+  "postedit": "灰色のスーツの男が、あるべき位置よりずっと近い。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "灰色のスーツの男が、あるべき位置よりずっと近い。"
+ },
+ "a:hallway-eight|p:figure|x:closer|1": {
+  "postedit": "スーツ姿の人影が途中で立ち止まり、前より近い。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "スーツ姿の人影が途中で立ち止まり、前より近い。"
+ },
+ "a:hallway-eight|p:figure|x:closer|2": {
+  "postedit": "灰色の男は今や数歩先にいて、まだ背を向けたままだ。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "灰色の男は今や数歩先にいて、まだ背を向けたままだ。"
+ },
+ "a:hallway-eight|p:figure|x:facing|0": {
+  "postedit": "灰色のスーツの男が立ち止まった。こちらを向いている。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "灰色のスーツの男が立ち止まった。こちらを向いている。"
+ },
+ "a:hallway-eight|p:figure|x:facing|1": {
+  "postedit": "廊下の先で、スーツ姿の人影が動かず、こちらを見ている。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "廊下の先で、スーツ姿の人影が動かず、こちらを見ている。"
+ },
+ "a:hallway-eight|p:figure|x:facing|2": {
+  "postedit": "灰色の男は歩いていない。あなたを見つめている。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "灰色の男は歩いていない。あなたを見つめている。"
+ },
+ "a:hallway-eight|p:figure|x:gone|0": {
+  "postedit": "前方の廊下には誰もいない。歩いている者はいない。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "前方の廊下には誰もいない。歩いている者はいない。"
+ },
+ "a:hallway-eight|p:figure|x:gone|1": {
+  "postedit": "今回は前方に人影がない。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "今回は前方に人影がない。"
+ },
+ "a:hallway-eight|p:figure|x:gone|2": {
+  "postedit": "灰色のスーツの男は、どこにも見当たらない。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "灰色のスーツの男は、どこにも見当たらない。"
+ },
+ "a:hallway-eight|p:figure|x:knows|0": {
+  "postedit": "灰色の男が振り返り、片手を上げた、まるであなたを知っているかのように。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "灰色の男が振り返り、片手を上げた、まるであなたを知っているかのように。"
+ },
+ "a:hallway-eight|p:figure|x:knows|1": {
+  "postedit": "スーツ姿の人影がこちらを向き、ゆっくりと意図ありげに手招きする。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "スーツ姿の人影がこちらを向き、ゆっくりと意図ありげに手招きする。"
+ },
+ "a:hallway-eight|p:figure|x:knows|2": {
+  "postedit": "男が廊下の先で何かを口の形だけで告げる。「また」と言ったのかもしれない。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "男が廊下の先で何かを口の形だけで告げる。「また」と言ったのかもしれない。"
+ },
+ "a:hallway-eight|p:floor|v:dry|0": {
+  "postedit": "灰色の床タイルが、乾いてくすんだまま先へ続いている。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "灰色の床タイルが、乾いてくすんだまま先へ続いている。"
+ },
+ "a:hallway-eight|p:floor|v:dry|1": {
+  "postedit": "足もとには、いつもの擦り切れた灰色のタイル。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "足もとには、いつもの擦り切れた灰色のタイル。"
+ },
+ "a:hallway-eight|p:floor|v:dry|2": {
+  "postedit": "タイルの床は乾いていて、何も映さない。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "タイルの床は乾いていて、何も映さない。"
+ },
+ "a:hallway-eight|p:floor|x:cracked|0": {
+  "postedit": "前にはなかったひびが、床タイルを横切って走っている。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "前にはなかったひびが、床タイルを横切って走っている。"
+ },
+ "a:hallway-eight|p:floor|x:cracked|1": {
+  "postedit": "床タイルの一枚が、真ん中から割れている。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "床タイルの一枚が、真ん中から割れている。"
+ },
+ "a:hallway-eight|p:floor|x:cracked|2": {
+  "postedit": "前方でタイルがぎざぎざの線を描いて砕けている。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "前方でタイルがぎざぎざの線を描いて砕けている。"
+ },
+ "a:hallway-eight|p:floor|x:wet|0": {
+  "postedit": "前方のタイルが、濡れた暗いつやを帯びて光っている。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "前方のタイルが、濡れた暗いつやを帯びて光っている。"
+ },
+ "a:hallway-eight|p:floor|x:wet|1": {
+  "postedit": "床が濡れている、誰かが掃除したところなど見ていないのに。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "床が濡れている、誰かが掃除したところなど見ていないのに。"
+ },
+ "a:hallway-eight|p:floor|x:wet|2": {
+  "postedit": "水の薄い膜がタイルの上に広がっている。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "水の薄い膜がタイルの上に広がっている。"
+ },
+ "a:hallway-eight|p:lighting|v:steady|0": {
+  "postedit": "頭上で蛍光灯が低く唸っている。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "頭上で蛍光灯が低く唸っている。"
+ },
+ "a:hallway-eight|p:lighting|v:steady|1": {
+  "postedit": "天井の明かりが一定の均等な光を放っている。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "天井の明かりが一定の均等な光を放っている。"
+ },
+ "a:hallway-eight|p:lighting|v:steady|2": {
+  "postedit": "頭上の蛍光灯がいつもの調子でジーと鳴っている。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "頭上の蛍光灯がいつもの調子でジーと鳴っている。"
+ },
+ "a:hallway-eight|p:lighting|v:steady|3": {
+  "postedit": "照明は平板でとりたてて何もない、いつものとおりだ。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "照明は平板でとりたてて何もない、いつものとおりだ。"
+ },
+ "a:hallway-eight|p:lighting|x:dim|0": {
+  "postedit": "廊下が記憶より少しだけ暗く見える。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "廊下が記憶より少しだけ暗く見える。"
+ },
+ "a:hallway-eight|p:lighting|x:dim|1": {
+  "postedit": "ここの明かりは薄暗い、半分があきらめたかのように。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "ここの明かりは薄暗い、半分があきらめたかのように。"
+ },
+ "a:hallway-eight|p:lighting|x:dim|2": {
+  "postedit": "灰色の薄暗がりがすべてを覆っている。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "灰色の薄暗がりがすべてを覆っている。"
+ },
+ "a:hallway-eight|p:lighting|x:flicker|0": {
+  "postedit": "蛍光灯の一本が明滅し、それから落ち着く。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "蛍光灯の一本が明滅し、それから落ち着く。"
+ },
+ "a:hallway-eight|p:lighting|x:flicker|1": {
+  "postedit": "明かりが一度、二度とちらつき、やがて安定する。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "明かりが一度、二度とちらつき、やがて安定する。"
+ },
+ "a:hallway-eight|p:lighting|x:flicker|2": {
+  "postedit": "天井の明かりに、前にはなかったかすかなちらつきがある。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "天井の明かりに、前にはなかったかすかなちらつきがある。"
+ },
+ "a:hallway-eight|p:lighting|x:warm|0": {
+  "postedit": "光に温かみのある黄みがかった色合いがある。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "光に温かみのある黄みがかった色合いがある。"
+ },
+ "a:hallway-eight|p:lighting|x:warm|1": {
+  "postedit": "蛍光灯が妙に琥珀色に光り、まるで夕暮れのようだ。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "蛍光灯が妙に琥珀色に光り、まるで夕暮れのようだ。"
+ },
+ "a:hallway-eight|p:lighting|x:warm|2": {
+  "postedit": "いつもの冷たい白が、かすかに金色に変わっている。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "いつもの冷たい白が、かすかに金色に変わっている。"
+ },
+ "a:hallway-eight|p:poster|v:travel|0": {
+  "postedit": "色あせた旅行ポスターが壁に貼りついている、砂浜、青い空。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "色あせた旅行ポスターが壁に貼りついている、砂浜、青い空。"
+ },
+ "a:hallway-eight|p:poster|v:travel|1": {
+  "postedit": "日の当たる海岸の古いポスターが、まだ壁に貼られている。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "日の当たる海岸の古いポスターが、まだ壁に貼られている。"
+ },
+ "a:hallway-eight|p:poster|v:travel|2": {
+  "postedit": "壁には、どこか暖かい土地を宣伝するあの色あせた広告。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "壁には、どこか暖かい土地を宣伝するあの色あせた広告。"
+ },
+ "a:hallway-eight|p:poster|v:travel|3": {
+  "postedit": "旅行ポスターがいつものように少し傾いて掛かっている。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "旅行ポスターがいつものように少し傾いて掛かっている。"
+ },
+ "a:hallway-eight|p:poster|x:gone|0": {
+  "postedit": "壁には何もない。ポスターがあった場所に、色の薄い四角が残っている。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "壁には何もない。ポスターがあった場所に、色の薄い四角が残っている。"
+ },
+ "a:hallway-eight|p:poster|x:gone|1": {
+  "postedit": "旅行ポスターは消え、テープだけが残っている。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "旅行ポスターは消え、テープだけが残っている。"
+ },
+ "a:hallway-eight|p:poster|x:gone|2": {
+  "postedit": "今、壁には何も掛かっていない。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "今、壁には何も掛かっていない。"
+ },
+ "a:hallway-eight|p:poster|x:mountains|0": {
+  "postedit": "ポスターには砂浜ではなく、雪をかぶった山々が写っている。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "ポスターには砂浜ではなく、雪をかぶった山々が写っている。"
+ },
+ "a:hallway-eight|p:poster|x:mountains|1": {
+  "postedit": "海岸のポスターが、今は灰色の山々の写真になっている。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "海岸のポスターが、今は灰色の山々の写真になっている。"
+ },
+ "a:hallway-eight|p:poster|x:mountains|2": {
+  "postedit": "広告には、厚い雲の下の冷たい山頂が写っている。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "広告には、厚い雲の下の冷たい山頂が写っている。"
+ },
+ "a:hallway-eight|p:poster|x:upside|0": {
+  "postedit": "旅行ポスターが上下逆さまに掛かっている。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "旅行ポスターが上下逆さまに掛かっている。"
+ },
+ "a:hallway-eight|p:poster|x:upside|1": {
+  "postedit": "ポスターの砂浜が逆さになり、空が下にある。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "ポスターの砂浜が逆さになり、空が下にある。"
+ },
+ "a:hallway-eight|p:poster|x:upside|2": {
+  "postedit": "誰かがポスターを裏返したのか、上下が逆に掛かっている。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "誰かがポスターを裏返したのか、上下が逆に掛かっている。"
+ },
+ "a:hallway-eight|p:sense|v:steady|0": {
+  "postedit": "廊下はいつもとまったく同じ長さに感じられる。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "廊下はいつもとまったく同じ長さに感じられる。"
+ },
+ "a:hallway-eight|p:sense|v:steady|1": {
+  "postedit": "ロビーからずっと抱えている、あの低い不安をそのまま引きずっている。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "ロビーからずっと抱えている、あの低い不安をそのまま引きずっている。"
+ },
+ "a:hallway-eight|p:sense|v:steady|2": {
+  "postedit": "すべてが普通に感じられる、この場所が普通でありうる限りの普通さで。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "すべてが普通に感じられる、この場所が普通でありうる限りの普通さで。"
+ },
+ "a:hallway-eight|p:sense|x:calm|0": {
+  "postedit": "不意に、場違いなほど落ち着いた気分になる、もう逃げおおせたかのように。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "不意に、場違いなほど落ち着いた気分になる、もう逃げおおせたかのように。"
+ },
+ "a:hallway-eight|p:sense|x:calm|1": {
+  "postedit": "ここにあるはずのない奇妙な安堵が、あなたを包む。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "ここにあるはずのない奇妙な安堵が、あなたを包む。"
+ },
+ "a:hallway-eight|p:sense|x:calm|2": {
+  "postedit": "恐れがまったく湧いてこない、そしてそれ自体が何かおかしい。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "恐れがまったく湧いてこない、そしてそれ自体が何かおかしい。"
+ },
+ "a:hallway-eight|p:sense|x:forget|0": {
+  "postedit": "一瞬、いくつの扉を通り過ぎたか思い出せなくなる。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "一瞬、いくつの扉を通り過ぎたか思い出せなくなる。"
+ },
+ "a:hallway-eight|p:sense|x:forget|1": {
+  "postedit": "廊下の数がわからなくなり、それが不安を誘う。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "廊下の数がわからなくなり、それが不安を誘う。"
+ },
+ "a:hallway-eight|p:sense|x:forget|2": {
+  "postedit": "そもそもなぜここにいるのか、まるで思い出せない。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "そもそもなぜここにいるのか、まるで思い出せない。"
+ },
+ "a:hallway-eight|p:sense|x:longer|0": {
+  "postedit": "今回、廊下がなぜか長く感じられる、理由は言えないが。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "今回、廊下がなぜか長く感じられる、理由は言えないが。"
+ },
+ "a:hallway-eight|p:sense|x:longer|1": {
+  "postedit": "突き当たりが、あるべきよりも遠くに思える。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "突き当たりが、あるべきよりも遠くに思える。"
+ },
+ "a:hallway-eight|p:sense|x:longer|2": {
+  "postedit": "壁が、さっきの一区間から伸びたように感じられる。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "壁が、さっきの一区間から伸びたように感じられる。"
+ },
+ "a:hallway-eight|p:sign|v:exit|0": {
+  "postedit": "突き当たりで{SIGN}の標示が明るく光っている。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "突き当たりで{SIGN}の標示が明るく光っている。"
+ },
+ "a:hallway-eight|p:sign|v:exit|1": {
+  "postedit": "前方、{SIGN}の標示が廊下の上に掛かっている。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "前方、{SIGN}の標示が廊下の上に掛かっている。"
+ },
+ "a:hallway-eight|p:sign|v:exit|2": {
+  "postedit": "緑色の{SIGN}の標示が、あるべきとおりに道を示している。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "緑色の{SIGN}の標示が、あるべきとおりに道を示している。"
+ },
+ "a:hallway-eight|p:sign|v:exit|3": {
+  "postedit": "遠くに{SIGN}の標示が見分けられる。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "遠くに{SIGN}の標示が見分けられる。"
+ },
+ "a:hallway-eight|p:sign|x:dark|0": {
+  "postedit": "非常口の標示が暗い。文字の奥に光がない。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "非常口の標示が暗い。文字の奥に光がない。"
+ },
+ "a:hallway-eight|p:sign|x:dark|1": {
+  "postedit": "非常口の標示が消えている。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "非常口の標示が消えている。"
+ },
+ "a:hallway-eight|p:sign|x:dark|2": {
+  "postedit": "非常口の標示が光っているはずの場所に、死んだ板があるだけだ。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "非常口の標示が光っているはずの場所に、死んだ板があるだけだ。"
+ },
+ "a:hallway-eight|p:sign|x:number|0": {
+  "postedit": "標示にはEXIT 3とある。数字などなかったはずだ。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "標示にはEXIT 3とある。数字などなかったはずだ。"
+ },
+ "a:hallway-eight|p:sign|x:number|1": {
+  "postedit": "標示に数字が現れている。EXIT 3。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "標示に数字が現れている。EXIT 3。"
+ },
+ "a:hallway-eight|p:sign|x:number|2": {
+  "postedit": "非常口の標示に、覚えのない数字がついている。3。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "非常口の標示に、覚えのない数字がついている。3。"
+ },
+ "a:hallway-eight|p:sign|x:reversed|0": {
+  "postedit": "非常口の標示が逆方向を指している、EXIT ←。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "非常口の標示が逆方向を指している、EXIT ←。"
+ },
+ "a:hallway-eight|p:sign|x:reversed|1": {
+  "postedit": "非常口の標示の矢印が、今は来た道の方を指している。←。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "非常口の標示の矢印が、今は来た道の方を指している。←。"
+ },
+ "a:hallway-eight|p:sign|x:reversed|2": {
+  "postedit": "EXIT ←。矢印が反転している。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "EXIT ←。矢印が反転している。"
+ },
+ "a:hallway-eight|p:sound|v:vent|0": {
+  "postedit": "どこかで換気が低く絶え間ない息を吐いている。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "どこかで換気が低く絶え間ない息を吐いている。"
+ },
+ "a:hallway-eight|p:sound|v:vent|1": {
+  "postedit": "空調が壁の中で唸り、相変わらず一定だ。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "空調が壁の中で唸り、相変わらず一定だ。"
+ },
+ "a:hallway-eight|p:sound|v:vent|2": {
+  "postedit": "遠くの換気の聞き慣れた低い唸りが聞こえる。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "遠くの換気の聞き慣れた低い唸りが聞こえる。"
+ },
+ "a:hallway-eight|p:sound|x:drip|0": {
+  "postedit": "見えないどこかで、水がゆっくりとしたたっている。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "見えないどこかで、水がゆっくりとしたたっている。"
+ },
+ "a:hallway-eight|p:sound|x:drip|1": {
+  "postedit": "水がしたたっている、どこからかはわからない。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "水がしたたっている、どこからかはわからない。"
+ },
+ "a:hallway-eight|p:sound|x:drip|2": {
+  "postedit": "ポタ、ポタ。近くで何かがしたたっている。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "ポタ、ポタ。近くで何かがしたたっている。"
+ },
+ "a:hallway-eight|p:sound|x:footsteps|0": {
+  "postedit": "背後のどこかで足音が響き、それから止まる。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "背後のどこかで足音が響き、それから止まる。"
+ },
+ "a:hallway-eight|p:sound|x:footsteps|1": {
+  "postedit": "自分のものではない足音が聞こえる。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "自分のものではない足音が聞こえる。"
+ },
+ "a:hallway-eight|p:sound|x:footsteps|2": {
+  "postedit": "一瞬、足音が二人分になる。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "一瞬、足音が二人分になる。"
+ },
+ "a:hallway-eight|p:sound|x:silence|0": {
+  "postedit": "換気が止まった。静けさが耳を圧してくる。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "換気が止まった。静けさが耳を圧してくる。"
+ },
+ "a:hallway-eight|p:sound|x:silence|1": {
+  "postedit": "完全に静かだ。静かすぎる。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "完全に静かだ。静かすぎる。"
+ },
+ "a:hallway-eight|p:sound|x:silence|2": {
+  "postedit": "唸りが消えているのに気づく。その静けさは何かおかしい。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "唸りが消えているのに気づく。その静けさは何かおかしい。"
+ },
+ "a:hallway-eight|progress": {
+  "postedit": "廊下 {level} / {goal}",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "廊下 {level} / {goal}"
+ },
+ "a:hallway-eight|share_prompt": {
+  "postedit": "扉を開けたままに。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "扉を開けたままに。"
+ },
+ "a:hallway-eight|tagline": {
+  "postedit": "時間外に閉じ込められた。廊下をたどって非常口へ。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "時間外に閉じ込められた。廊下をたどって非常口へ。"
+ },
+ "a:hallway-eight|title_main": {
+  "postedit": "廊下8",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "廊下8"
+ },
+ "a:hallway-eight|title|0": {
+  "postedit": "廊下8",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "廊下8"
+ },
+ "a:hallway-eight|title|1": {
+  "postedit": "廊下8",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "廊下8"
+ },
+ "a:hallway-eight|title|2": {
+  "postedit": "廊下8",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "廊下8"
+ },
+ "a:hallway-eight|title|3": {
+  "postedit": "廊下8",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "廊下8"
+ },
+ "a:hallway-eight|title|4": {
+  "postedit": "通路8",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "通路8"
+ },
+ "a:hallway-eight|title|5": {
+  "postedit": "廊下八",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "廊下八"
+ },
+ "a:hallway-eight|title|6": {
+  "postedit": "廊下8",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "廊下8"
+ },
+ "a:hallway-eight|title|7": {
+  "postedit": "廊下 8",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "廊下 8"
+ },
+ "a:hallway-eight|turn_back": {
+  "postedit": "引き返す",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "引き返す"
+ }
+}

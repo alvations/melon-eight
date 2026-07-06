@@ -1,0 +1,2114 @@
+{
+ "a:coach8|act2|end|platform|0": {
+  "postedit": "승강장으로 내려서자 등 뒤로 문이 쉬익 닫힌다.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "승강장으로 내려서자 등 뒤로 문이 쉬익 닫힌다."
+ },
+ "a:coach8|act2|end|platform|1": {
+  "postedit": "열차가 너를 두고 터널 속으로 미끄러져 사라진다.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "열차가 너를 두고 터널 속으로 미끄러져 사라진다."
+ },
+ "a:coach8|act2|end|platform|2": {
+  "postedit": "텅 빈 승강장의 표지는 네가 들어 본 적 없는 역이고, 안내판에 뜬 유일한 열차는 방금 떠난 그 열차다.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "텅 빈 승강장의 표지는 네가 들어 본 적 없는 역이고, 안내판에 뜬 유일한 열차는 방금 떠난 그 열차다."
+ },
+ "a:coach8|act2|exit|action": {
+  "postedit": "승강장으로 내려서기",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "승강장으로 내려서기"
+ },
+ "a:coach8|act2|exit|tempt": {
+  "postedit": "열차가 느려지고, 객차 끝의 문이 불 밝힌 승강장으로 열린다. 그저 내려서기만 하면, 너는 벗어난다.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "열차가 느려지고, 객차 끝의 문이 불 밝힌 승강장으로 열린다. 그저 내려서기만 하면, 너는 벗어난다."
+ },
+ "a:coach8|act2|exit|utterance": {
+  "postedit": "승객이 마침내 당신 쪽으로 돌아서더니, 당신이 이미 아는 목소리로 말한다. \"당신은 내릴 정거장을 지나쳤어요.\"",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "승객이 마침내 당신 쪽으로 돌아서더니, 당신이 이미 아는 목소리로 말한다. \"당신은 내릴 정거장을 지나쳤어요.\""
+ },
+ "a:coach8|act2|flashback|0": {
+  "postedit": "전에는 자리가 있었다, 저 뒤쪽에, 외투를 걸쳐 둔 채로. 너는 8호차를 찾으려 일어섰다.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "전에는 자리가 있었다, 저 뒤쪽에, 외투를 걸쳐 둔 채로. 너는 8호차를 찾으려 일어섰다."
+ },
+ "a:coach8|act2|flashback|1": {
+  "postedit": "종착역에서 누군가 너를 마중 나오기로 했다. 그 이름이 붙잡히지 않는다.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "종착역에서 누군가 너를 마중 나오기로 했다. 그 이름이 붙잡히지 않는다."
+ },
+ "a:coach8|act2|flashback|2": {
+  "postedit": "잠든 승객의 외투가 네 것과 똑같다. 너는 다시 보지 않는다.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "잠든 승객의 외투가 네 것과 똑같다. 너는 다시 보지 않는다."
+ },
+ "a:coach8|act2|flashback|3": {
+  "postedit": "탁자에 긁어 새긴 글씨가 네 필체다. 「또」라고, 아니면 「여덟」이라고 적혀 있다.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "탁자에 긁어 새긴 글씨가 네 필체다. 「또」라고, 아니면 「여덟」이라고 적혀 있다."
+ },
+ "a:coach8|act2|flashback|4": {
+  "postedit": "다음 역이 네 역이라고 확신했다. 다음 역은 언제나 다음 역이다.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "다음 역이 네 역이라고 확신했다. 다음 역은 언제나 다음 역이다."
+ },
+ "a:coach8|act2|t:luggage|fold|0": {
+  "postedit": "안에는 객차들의 행렬이, 작게 접혀 멀어지며 들어 있다. 고개를 드니 너는 다시 첫 번째 객차에 있다.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "안에는 객차들의 행렬이, 작게 접혀 멀어지며 들어 있다. 고개를 드니 너는 다시 첫 번째 객차에 있다."
+ },
+ "a:coach8|act2|t:luggage|herring|0": {
+  "postedit": "꼬리표의 잉크가 아직 젖어 있다. 아마 늘 젖어 있었을 것이다.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "꼬리표의 잉크가 아직 젖어 있다. 아마 늘 젖어 있었을 것이다."
+ },
+ "a:coach8|act2|t:luggage|herring|1": {
+  "postedit": "꼬리표에 네 이니셜이, 네 필체로 적혀 있다. 흔한 이니셜이다.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "꼬리표에 네 이니셜이, 네 필체로 적혀 있다. 흔한 이니셜이다."
+ },
+ "a:coach8|act2|t:luggage|reaction|0": {
+  "postedit": "누군가의 개어 둔 셔츠, 문고본 한 권, 표 조각. 어딘가로 가는, 평범한 물건들.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "누군가의 개어 둔 셔츠, 문고본 한 권, 표 조각. 어딘가로 가는, 평범한 물건들."
+ },
+ "a:coach8|act2|t:luggage|reaction|1": {
+  "postedit": "보기보다 무겁고, 끝까지 열리려 하지 않는다.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "보기보다 무겁고, 끝까지 열리려 하지 않는다."
+ },
+ "a:coach8|act2|t:luggage|verb": {
+  "postedit": "짐 가방 열어 보기",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "짐 가방 열어 보기"
+ },
+ "a:coach8|act2|t:passenger|fold|0": {
+  "postedit": "그가 잠결에 네 이름을 부른다, 또렷하게, 한 번, 그 소리가 너를 첫 번째 객차로 실어 나른다.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "그가 잠결에 네 이름을 부른다, 또렷하게, 한 번, 그 소리가 너를 첫 번째 객차로 실어 나른다."
+ },
+ "a:coach8|act2|t:passenger|herring|0": {
+  "postedit": "그의 외투가 네 것과 같은 재단이다. 외투야 외투다.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "그의 외투가 네 것과 같은 재단이다. 외투야 외투다."
+ },
+ "a:coach8|act2|t:passenger|herring|1": {
+  "postedit": "한순간 후드 밑의 얼굴이 너를 향한다. 그러다 아니게 된다.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "한순간 후드 밑의 얼굴이 너를 향한다. 그러다 아니게 된다."
+ },
+ "a:coach8|act2|t:passenger|reaction|0": {
+  "postedit": "웅얼거림, 붙잡을 수 있는 말은 없다. 그는 깨지 않는다.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "웅얼거림, 붙잡을 수 있는 말은 없다. 그는 깨지 않는다."
+ },
+ "a:coach8|act2|t:passenger|reaction|1": {
+  "postedit": "그가 뒤척이다 다시 자리를 잡고, 숨결이 네 것과 박자를 맞춘다.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "그가 뒤척이다 다시 자리를 잡고, 숨결이 네 것과 박자를 맞춘다."
+ },
+ "a:coach8|act2|t:passenger|verb": {
+  "postedit": "잠든 승객을 슬쩍 건드리기",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "잠든 승객을 슬쩍 건드리기"
+ },
+ "a:coach8|act2|t:table|fold|0": {
+  "postedit": "손가락으로 개수 표시를 따라가다 수를 놓치고, 그 놓침이 너를 1호차로 돌려놓는다.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "손가락으로 개수 표시를 따라가다 수를 놓치고, 그 놓침이 너를 1호차로 돌려놓는다."
+ },
+ "a:coach8|act2|t:table|herring|0": {
+  "postedit": "그 옆에 아직 젖은 커피 자국 하나, 누군가 방금 떠난 것처럼. 사람들이 방금 떠났다.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "그 옆에 아직 젖은 커피 자국 하나, 누군가 방금 떠난 것처럼. 사람들이 방금 떠났다."
+ },
+ "a:coach8|act2|t:table|herring|1": {
+  "postedit": "긁힌 자국이 생생해 보인다, 몇 분 전에 낸 것처럼. 아니면 세월에 닳아 반들거리거나. 분간이 안 된다.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "긁힌 자국이 생생해 보인다, 몇 분 전에 낸 것처럼. 아니면 세월에 닳아 반들거리거나. 분간이 안 된다."
+ },
+ "a:coach8|act2|t:table|reaction|0": {
+  "postedit": "열쇠나 못으로 표면에 파 낸 글자들. 대개는 「또」. 그리고 개수 표시 하나.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "열쇠나 못으로 표면에 파 낸 글자들. 대개는 「또」. 그리고 개수 표시 하나."
+ },
+ "a:coach8|act2|t:table|reaction|1": {
+  "postedit": "새로 낸 자국 아래로, 더 오래된 것들이, 손길에 거의 반반해질 만큼 닳아 있다.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "새로 낸 자국 아래로, 더 오래된 것들이, 손길에 거의 반반해질 만큼 닳아 있다."
+ },
+ "a:coach8|act2|t:table|verb": {
+  "postedit": "긁어 새긴 글씨를 읽기",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "긁어 새긴 글씨를 읽기"
+ },
+ "a:coach8|act2|t:window|fold|0": {
+  "postedit": "어둠밖에 남지 않을 때까지 바라보고, 객차가 네 반영을 두른 채 처음으로 돌아간다.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "어둠밖에 남지 않을 때까지 바라보고, 객차가 네 반영을 두른 채 처음으로 돌아간다."
+ },
+ "a:coach8|act2|t:window|herring|0": {
+  "postedit": "유리에 손자국 하나가 서렸다 사라진다, 네 것이 아닌. 아니면 네 것이거나.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "유리에 손자국 하나가 서렸다 사라진다, 네 것이 아닌. 아니면 네 것이거나."
+ },
+ "a:coach8|act2|t:window|herring|1": {
+  "postedit": "저 밖의 불빛들, 마을일 수도, 아니면 열차가 겹쳐 비친 것일 수도.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "저 밖의 불빛들, 마을일 수도, 아니면 열차가 겹쳐 비친 것일 수도."
+ },
+ "a:coach8|act2|t:window|reaction|0": {
+  "postedit": "유리에 비친 네 모습이 반 초 늦게 따라온다.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "유리에 비친 네 모습이 반 초 늦게 따라온다."
+ },
+ "a:coach8|act2|t:window|reaction|1": {
+  "postedit": "새까만 유리, 터널, 그러다 읽기엔 너무 빠르게 스쳐 가는 승강장 하나.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "새까만 유리, 터널, 그러다 읽기엔 너무 빠르게 스쳐 가는 승강장 하나."
+ },
+ "a:coach8|act2|t:window|verb": {
+  "postedit": "창밖을 내다보기",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "창밖을 내다보기"
+ },
+ "a:coach8|adaptive|long_look|0": {
+  "postedit": "여느 때보다 오래 바라본다. 언제 멈춰 섰는지 기억나지 않는다.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "여느 때보다 오래 바라본다. 언제 멈춰 섰는지 기억나지 않는다."
+ },
+ "a:coach8|adaptive|long_look|1": {
+  "postedit": "통로에 서 있었다는 걸 깨닫는다. 얼마나 오래?",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "통로에 서 있었다는 걸 깨닫는다. 얼마나 오래?"
+ },
+ "a:coach8|adaptive|long_look|2": {
+  "postedit": "열차가 계속 흔들리고, 네가 얼마나 오래 바라보고 있었는지 알 수 없다.",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "열차가 계속 흔들리고, 네가 얼마나 오래 바라보고 있었는지 알 수 없다."
+ },
+ "a:coach8|adaptive|repeat_inspect|0": {
+  "postedit": "다시 {THING}에 눈길이 간다. 왜인지는 잘 모르겠다.",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "다시 {THING}에 눈길이 간다. 왜인지는 잘 모르겠다."
+ },
+ "a:coach8|adaptive|repeat_inspect|1": {
+  "postedit": "네 시선은 곧장 {THING}에 닿는다, 요즘은 늘 그렇듯이.",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "네 시선은 곧장 {THING}에 닿는다, 요즘은 늘 그렇듯이."
+ },
+ "a:coach8|adaptive|repeat_inspect|2": {
+  "postedit": "다시 {THING}에 눈길이 머문다.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "다시 {THING}에 눈길이 머문다."
+ },
+ "a:coach8|attempt": {
+  "postedit": "이 열차를 {n}번. 이번엔 네 정거장에 닿았다.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "이 열차를 {n}번. 이번엔 네 정거장에 닿았다."
+ },
+ "a:coach8|attempt_first": {
+  "postedit": "첫 탑승에, 열차는 되돌아가지 않았다.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "첫 탑승에, 열차는 되돌아가지 않았다."
+ },
+ "a:coach8|framing|cutscene|0": {
+  "postedit": "객차의 무언가가 바뀌었는데, 너는 알아채지 못하고 나아갔다.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "객차의 무언가가 바뀌었는데, 너는 알아채지 못하고 나아갔다."
+ },
+ "a:coach8|framing|cutscene|1": {
+  "postedit": "객차가 기억과 조금이라도 다르면, 돌아가라. 같으면, 계속 나아가라.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "객차가 기억과 조금이라도 다르면, 돌아가라. 같으면, 계속 나아가라."
+ },
+ "a:coach8|framing|intro|0": {
+  "postedit": "막차",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "막차"
+ },
+ "a:coach8|framing|intro|2": {
+  "postedit": "차장이 표를 찍고 열차 앞쪽으로 고갯짓을 했다. 8호차, 저쪽이라고.",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "차장이 표를 찍고 열차 앞쪽으로 고갯짓을 했다. 8호차, 저쪽이라고."
+ },
+ "a:coach8|framing|intro|3": {
+  "postedit": "그건 한참 전이었다. 너는 아직도 걷고 있고, 객차마다 똑같아 보인다.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "그건 한참 전이었다. 너는 아직도 걷고 있고, 객차마다 똑같아 보인다."
+ },
+ "a:coach8|framing|intro|5": {
+  "postedit": "한 칸이 기억과 정확히 같다면, 계속 앞으로 걸어라.",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "한 칸이 기억과 정확히 같다면, 계속 앞으로 걸어라."
+ },
+ "a:coach8|framing|intro|6": {
+  "postedit": "무언가 달라졌다면, 돌아서라. 이 칸이 너를 되접고 있는 것이다.",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "무언가 달라졌다면, 돌아서라. 이 칸이 너를 되접고 있는 것이다."
+ },
+ "a:coach8|framing|intro|8": {
+  "postedit": "여덟 칸이면, 마침내 자리에 앉을 수 있다.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "여덟 칸이면, 마침내 자리에 앉을 수 있다."
+ },
+ "a:coach8|framing|intro|9": {
+  "postedit": "확신을 잃으면, 열차는 너를 출발점으로 되돌려 놓는다.",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "확신을 잃으면, 열차는 너를 출발점으로 되돌려 놓는다."
+ },
+ "a:coach8|framing|win|0": {
+  "postedit": "문을 하나 더 밀어 열자, 좌석 번호가 8이라고 적혀 있다.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "문을 하나 더 밀어 열자, 좌석 번호가 8이라고 적혀 있다."
+ },
+ "a:coach8|framing|win|1": {
+  "postedit": "8호차. 네 자리가, 비어서 너를 기다리며, 새까만 창문 옆에 있다.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "8호차. 네 자리가, 비어서 너를 기다리며, 새까만 창문 옆에 있다."
+ },
+ "a:coach8|framing|win|2": {
+  "postedit": "마침내 너는 그 자리에 몸을 묻는다. 열차는 밤을 가르며 내달린다.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "마침내 너는 그 자리에 몸을 묻는다. 열차는 밤을 가르며 내달린다."
+ },
+ "a:coach8|framing|win|3": {
+  "postedit": "네 자리를 찾았다.",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "네 자리를 찾았다."
+ },
+ "a:coach8|go_on": {
+  "postedit": "다음 칸으로",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "다음 칸으로"
+ },
+ "a:coach8|label|door": {
+  "postedit": "연결문",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "연결문"
+ },
+ "a:coach8|label|lighting": {
+  "postedit": "조명",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "조명"
+ },
+ "a:coach8|label|luggage": {
+  "postedit": "짐 선반",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "짐 선반"
+ },
+ "a:coach8|label|passenger": {
+  "postedit": "잠든 승객",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "잠든 승객"
+ },
+ "a:coach8|label|seatnum": {
+  "postedit": "좌석 번호",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "좌석 번호"
+ },
+ "a:coach8|label|sense": {
+  "postedit": "이 느낌",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "이 느낌"
+ },
+ "a:coach8|label|sound": {
+  "postedit": "소리",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "소리"
+ },
+ "a:coach8|label|table": {
+  "postedit": "탁자",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "탁자"
+ },
+ "a:coach8|label|window": {
+  "postedit": "창문",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "창문"
+ },
+ "a:coach8|p:door|v:closed|0": {
+  "postedit": "객차 끝의 연결문이 닫혀 있고, 유리가 어둡다.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "객차 끝의 연결문이 닫혀 있고, 유리가 어둡다."
+ },
+ "a:coach8|p:door|v:closed|1": {
+  "postedit": "다음 칸으로 가는 자동문이 여느 때처럼 닫혀 있다.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "다음 칸으로 가는 자동문이 여느 때처럼 닫혀 있다."
+ },
+ "a:coach8|p:door|v:closed|2": {
+  "postedit": "끝의 문이 닫혀 있고, 그 너머 연결통로가 어둑하다.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "끝의 문이 닫혀 있고, 그 너머 연결통로가 어둑하다."
+ },
+ "a:coach8|p:door|x:glass|0": {
+  "postedit": "연결문 유리가 뿌옇게 서려 있고, 그 위에 손자국이 하나 있다.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "연결문 유리가 뿌옇게 서려 있고, 그 위에 손자국이 하나 있다."
+ },
+ "a:coach8|p:door|x:glass|1": {
+  "postedit": "무언가가 끝 문의 유리창을 반대편에서 문질러 흐려 놓았다.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "무언가가 끝 문의 유리창을 반대편에서 문질러 흐려 놓았다."
+ },
+ "a:coach8|p:door|x:glass|2": {
+  "postedit": "연결문 유리가 거미줄 모양으로 금이 가 있다.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "연결문 유리가 거미줄 모양으로 금이 가 있다."
+ },
+ "a:coach8|p:door|x:locked|0": {
+  "postedit": "연결문에 빨간 불이 켜져 있다: 잠김.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "연결문에 빨간 불이 켜져 있다: 잠김."
+ },
+ "a:coach8|p:door|x:locked|1": {
+  "postedit": "끝의 문에 잠김 표시등이 떠 있다, 전에는 초록이던 것이.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "끝의 문에 잠김 표시등이 떠 있다, 전에는 초록이던 것이."
+ },
+ "a:coach8|p:door|x:locked|2": {
+  "postedit": "다음 칸으로 가는 문에 「출입 금지」라고 적혀 있다.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "다음 칸으로 가는 문에 「출입 금지」라고 적혀 있다."
+ },
+ "a:coach8|p:door|x:open|0": {
+  "postedit": "연결문이 열린 채 걸려 있고, 찬 바람이 밀려 들어온다.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "연결문이 열린 채 걸려 있고, 찬 바람이 밀려 들어온다."
+ },
+ "a:coach8|p:door|x:open|1": {
+  "postedit": "자동문이 닫히지 않고, 그 너머 연결통로가 굉음을 낸다.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "자동문이 닫히지 않고, 그 너머 연결통로가 굉음을 낸다."
+ },
+ "a:coach8|p:door|x:open|2": {
+  "postedit": "끝의 문이 흔들리는 연결통로를 향해 활짝 벌어져 있다.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "끝의 문이 흔들리는 연결통로를 향해 활짝 벌어져 있다."
+ },
+ "a:coach8|p:lighting|v:dim|0": {
+  "postedit": "객실 조명이 야간용으로 어둑하게 낮춰져, 부드러운 호박색이 감돈다.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "객실 조명이 야간용으로 어둑하게 낮춰져, 부드러운 호박색이 감돈다."
+ },
+ "a:coach8|p:lighting|v:dim|1": {
+  "postedit": "낮은 야간 조명이 짐 선반을 따라 빛난다, 늘 그렇듯이.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "낮은 야간 조명이 짐 선반을 따라 빛난다, 늘 그렇듯이."
+ },
+ "a:coach8|p:lighting|v:dim|2": {
+  "postedit": "머리 위 조명이 호박색 야간 모드로 낮춰져 있다.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "머리 위 조명이 호박색 야간 모드로 낮춰져 있다."
+ },
+ "a:coach8|p:lighting|v:dim|3": {
+  "postedit": "이 칸은 앞 칸과 똑같은 부드러운 금빛으로 밝혀져 있다.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "이 칸은 앞 칸과 똑같은 부드러운 금빛으로 밝혀져 있다."
+ },
+ "a:coach8|p:lighting|x:bright|0": {
+  "postedit": "조명이 최대로 켜져 있다, 야간 모드가 아니라 희고 날카롭게.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "조명이 최대로 켜져 있다, 야간 모드가 아니라 희고 날카롭게."
+ },
+ "a:coach8|p:lighting|x:bright|1": {
+  "postedit": "이 칸은 앞 칸보다 훨씬 밝다.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "이 칸은 앞 칸보다 훨씬 밝다."
+ },
+ "a:coach8|p:lighting|x:bright|2": {
+  "postedit": "부드러운 호박색은 사라지고, 모든 것이 하얗게 번쩍인다.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "부드러운 호박색은 사라지고, 모든 것이 하얗게 번쩍인다."
+ },
+ "a:coach8|p:lighting|x:flicker|0": {
+  "postedit": "객실 조명이 열차의 흔들림을 따라 깜빡이다가 이내 안정된다.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "객실 조명이 열차의 흔들림을 따라 깜빡이다가 이내 안정된다."
+ },
+ "a:coach8|p:lighting|x:flicker|1": {
+  "postedit": "머리 위 조명 한 줄이 끊겼다 켜졌다 한다.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "머리 위 조명 한 줄이 끊겼다 켜졌다 한다."
+ },
+ "a:coach8|p:lighting|x:flicker|2": {
+  "postedit": "호박색 불이 툭 꺼졌다가 다시 켜진다.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "호박색 불이 툭 꺼졌다가 다시 켜진다."
+ },
+ "a:coach8|p:lighting|x:off|0": {
+  "postedit": "객실은 바닥의 비상 유도등만 빼면 캄캄하다.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "객실은 바닥의 비상 유도등만 빼면 캄캄하다."
+ },
+ "a:coach8|p:lighting|x:off|1": {
+  "postedit": "이곳은 조명이 꺼져 있고, 통로 표시등만 빛난다.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "이곳은 조명이 꺼져 있고, 통로 표시등만 빛난다."
+ },
+ "a:coach8|p:lighting|x:off|2": {
+  "postedit": "어둠, 바닥을 따라 난 가느다란 빛줄기 하나만 빼고.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "어둠, 바닥을 따라 난 가느다란 빛줄기 하나만 빼고."
+ },
+ "a:coach8|p:luggage|v:stowed|0": {
+  "postedit": "문 옆 짐 선반에 여행 가방 하나가 놓여 있다.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "문 옆 짐 선반에 여행 가방 하나가 놓여 있다."
+ },
+ "a:coach8|p:luggage|v:stowed|1": {
+  "postedit": "머리 위 선반에 늘 그렇듯 가방 몇 개가 흩어져 놓여 있다.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "머리 위 선반에 늘 그렇듯 가방 몇 개가 흩어져 놓여 있다."
+ },
+ "a:coach8|p:luggage|v:stowed|2": {
+  "postedit": "딱딱한 여행 가방 하나가 전처럼 짐 선반에 실려 있다.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "딱딱한 여행 가방 하나가 전처럼 짐 선반에 실려 있다."
+ },
+ "a:coach8|p:luggage|x:gone|0": {
+  "postedit": "짐 선반이 이제 비어 있다.",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "짐 선반이 이제 비어 있다."
+ },
+ "a:coach8|p:luggage|x:gone|1": {
+  "postedit": "문 옆의 여행 가방이 사라졌다.",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "문 옆의 여행 가방이 사라졌다."
+ },
+ "a:coach8|p:luggage|x:gone|2": {
+  "postedit": "이번에는 선반에 가방이 하나도 없다.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "이번에는 선반에 가방이 하나도 없다."
+ },
+ "a:coach8|p:luggage|x:more|0": {
+  "postedit": "짐 선반이 가득 차 있다, 전보다 훨씬 많은 가방으로.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "짐 선반이 가득 차 있다, 전보다 훨씬 많은 가방으로."
+ },
+ "a:coach8|p:luggage|x:more|1": {
+  "postedit": "가방들이 이제 거의 천장까지 쌓여 있다.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "가방들이 이제 거의 천장까지 쌓여 있다."
+ },
+ "a:coach8|p:luggage|x:more|2": {
+  "postedit": "선반이 원래 없던 짐으로 넘쳐난다.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "선반이 원래 없던 짐으로 넘쳐난다."
+ },
+ "a:coach8|p:luggage|x:open|0": {
+  "postedit": "선반 위 여행 가방이 텅 빈 채 열려 있다.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "선반 위 여행 가방이 텅 빈 채 열려 있다."
+ },
+ "a:coach8|p:luggage|x:open|1": {
+  "postedit": "가방 하나가 짐 선반 위로 열려 쏟아져 있다.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "가방 하나가 짐 선반 위로 열려 쏟아져 있다."
+ },
+ "a:coach8|p:luggage|x:open|2": {
+  "postedit": "딱딱한 여행 가방이 활짝 열린 채, 안의 물건은 사라져 있다.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "딱딱한 여행 가방이 활짝 열린 채, 안의 물건은 사라져 있다."
+ },
+ "a:coach8|p:passenger|v:sleeping|0": {
+  "postedit": "승객 한 명이 저편 창문에 기대 홀로 잠들어 있고, 외투로 얼굴을 덮고 있다.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "승객 한 명이 저편 창문에 기대 홀로 잠들어 있고, 외투로 얼굴을 덮고 있다."
+ },
+ "a:coach8|p:passenger|v:sleeping|1": {
+  "postedit": "승객 한 명이 객차 중간쯤에서 고개를 뒤로 젖힌 채 졸고 있다.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "승객 한 명이 객차 중간쯤에서 고개를 뒤로 젖힌 채 졸고 있다."
+ },
+ "a:coach8|p:passenger|v:sleeping|2": {
+  "postedit": "그 잠든 형체가 전과 같이 창가 자리에 늘어져 있다.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "그 잠든 형체가 전과 같이 창가 자리에 늘어져 있다."
+ },
+ "a:coach8|p:passenger|x:awake|0": {
+  "postedit": "승객이 이제 깨어 있다, 허리를 곧게 펴고, 미동도 없이.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "승객이 이제 깨어 있다, 허리를 곧게 펴고, 미동도 없이."
+ },
+ "a:coach8|p:passenger|x:awake|1": {
+  "postedit": "잠들었던 이의 눈이 뜨여, 통로를 응시하고 있다.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "잠들었던 이의 눈이 뜨여, 통로를 응시하고 있다."
+ },
+ "a:coach8|p:passenger|x:awake|2": {
+  "postedit": "승객은 더는 잠들어 있지 않다. 네가 지나가는 것을 지켜본다.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "승객은 더는 잠들어 있지 않다. 네가 지나가는 것을 지켜본다."
+ },
+ "a:coach8|p:passenger|x:gone|0": {
+  "postedit": "승객이 잠들어 있던 자리가 이제 비어 있다.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "승객이 잠들어 있던 자리가 이제 비어 있다."
+ },
+ "a:coach8|p:passenger|x:gone|1": {
+  "postedit": "이번에는 객차 안에 잠든 사람이 없다.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "이번에는 객차 안에 잠든 사람이 없다."
+ },
+ "a:coach8|p:passenger|x:gone|2": {
+  "postedit": "졸던 승객은 사라지고, 개어 놓은 외투만 남아 있다.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "졸던 승객은 사라지고, 개어 놓은 외투만 남아 있다."
+ },
+ "a:coach8|p:passenger|x:moved|0": {
+  "postedit": "잠든 승객이 통로에 더 가까운 자리로 옮겨 갔다.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "잠든 승객이 통로에 더 가까운 자리로 옮겨 갔다."
+ },
+ "a:coach8|p:passenger|x:moved|1": {
+  "postedit": "졸고 있는 형체가 전보다 가깝다, 이제 네 쪽에 있다.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "졸고 있는 형체가 전보다 가깝다, 이제 네 쪽에 있다."
+ },
+ "a:coach8|p:passenger|x:moved|2": {
+  "postedit": "승객이 조금 전과는 다른 자리에서 잠들어 있다.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "승객이 조금 전과는 다른 자리에서 잠들어 있다."
+ },
+ "a:coach8|p:passenger|x:speaks|0": {
+  "postedit": "잠든 승객이 깨지 않은 채 중얼거린다: 「또야?」",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "잠든 승객이 깨지 않은 채 중얼거린다: 「또야?」"
+ },
+ "a:coach8|p:passenger|x:speaks|1": {
+  "postedit": "외투 밑에서 먹먹한 목소리가 들린다: 「방금 여기 있었잖아.」",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "외투 밑에서 먹먹한 목소리가 들린다: 「방금 여기 있었잖아.」"
+ },
+ "a:coach8|p:passenger|x:speaks|2": {
+  "postedit": "졸던 형체가 네가 내릴 역 이름을 말한다, 아무에게도 말한 적 없는데.",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "졸던 형체가 네가 내릴 역 이름을 말한다, 아무에게도 말한 적 없는데."
+ },
+ "a:coach8|p:passenger|x:two|0": {
+  "postedit": "한 명이던 자리에 이제 두 승객이 잠들어 있다.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "한 명이던 자리에 이제 두 승객이 잠들어 있다."
+ },
+ "a:coach8|p:passenger|x:two|1": {
+  "postedit": "이번에는 얼굴을 덮은 외투가 하나가 아니라 둘이다.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "이번에는 얼굴을 덮은 외투가 하나가 아니라 둘이다."
+ },
+ "a:coach8|p:passenger|x:two|2": {
+  "postedit": "두 번째 잠든 형체가 첫 번째 곁에 늘었다.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "두 번째 잠든 형체가 첫 번째 곁에 늘었다."
+ },
+ "a:coach8|p:seatnum|v:eight|0": {
+  "postedit": "좌석 스티커가 줄을 따라 8A, 8B, 8C라고 적혀 있다.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "좌석 스티커가 줄을 따라 8A, 8B, 8C라고 적혀 있다."
+ },
+ "a:coach8|p:seatnum|v:eight|1": {
+  "postedit": "작은 놋쇠 번호가 좌석을 표시한다: 8열, 늘 그렇듯이.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "작은 놋쇠 번호가 좌석을 표시한다: 8열, 늘 그렇듯이."
+ },
+ "a:coach8|p:seatnum|v:eight|2": {
+  "postedit": "문 옆 객차 번호판에 8호차라고 불이 들어와 있다.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "문 옆 객차 번호판에 8호차라고 불이 들어와 있다."
+ },
+ "a:coach8|p:seatnum|x:letters|0": {
+  "postedit": "좌석 스티커가 8X, 8Y, 8Z라고, 있어서는 안 될 글자들로 적혀 있다.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "좌석 스티커가 8X, 8Y, 8Z라고, 있어서는 안 될 글자들로 적혀 있다."
+ },
+ "a:coach8|p:seatnum|x:letters|1": {
+  "postedit": "그 열은 네가 알아보지 못하는 문자로 번호가 매겨져 있다.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "그 열은 네가 알아보지 못하는 문자로 번호가 매겨져 있다."
+ },
+ "a:coach8|p:seatnum|x:letters|2": {
+  "postedit": "좌석 표시가 이제는 숫자가 아니라 그저 기호일 뿐이다.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "좌석 표시가 이제는 숫자가 아니라 그저 기호일 뿐이다."
+ },
+ "a:coach8|p:seatnum|x:missing|0": {
+  "postedit": "좌석 번호가 뜯겨 나가고, 나사 구멍만 휑하니 남아 있다.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "좌석 번호가 뜯겨 나가고, 나사 구멍만 휑하니 남아 있다."
+ },
+ "a:coach8|p:seatnum|x:missing|1": {
+  "postedit": "문 옆 객차 번호판이 꺼진 채 텅 비어 있다.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "문 옆 객차 번호판이 꺼진 채 텅 비어 있다."
+ },
+ "a:coach8|p:seatnum|x:missing|2": {
+  "postedit": "이번에는 좌석에 번호가 아예 하나도 없다.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "이번에는 좌석에 번호가 아예 하나도 없다."
+ },
+ "a:coach8|p:seatnum|x:wrong|0": {
+  "postedit": "좌석 스티커가 이제 8열이 아니라 7열이라고 적혀 있다.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "좌석 스티커가 이제 8열이 아니라 7열이라고 적혀 있다."
+ },
+ "a:coach8|p:seatnum|x:wrong|1": {
+  "postedit": "객차 번호판에 9호차라고 떠 있다.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "객차 번호판에 9호차라고 떠 있다."
+ },
+ "a:coach8|p:seatnum|x:wrong|2": {
+  "postedit": "놋쇠 번호는 6열이라고 하는데, 너는 8열이라 확신했었다.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "놋쇠 번호는 6열이라고 하는데, 너는 8열이라 확신했었다."
+ },
+ "a:coach8|p:sense|v:steady|0": {
+  "postedit": "열차가 여느 때와 똑같은 길이로 느껴진다.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "열차가 여느 때와 똑같은 길이로 느껴진다."
+ },
+ "a:coach8|p:sense|v:steady|1": {
+  "postedit": "너는 똑같은 지친 인내를 안고 통로를 걷는다, 칸에서 칸으로.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "너는 똑같은 지친 인내를 안고 통로를 걷는다, 칸에서 칸으로."
+ },
+ "a:coach8|p:sense|v:steady|2": {
+  "postedit": "모든 것이 야간열차가 마땅히 그래야 할 만큼 평범하게 느껴진다.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "모든 것이 야간열차가 마땅히 그래야 할 만큼 평범하게 느껴진다."
+ },
+ "a:coach8|p:sense|x:calm|0": {
+  "postedit": "문득, 이상하리만치 마음이 놓인다, 마치 이미 도착한 것처럼.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "문득, 이상하리만치 마음이 놓인다, 마치 이미 도착한 것처럼."
+ },
+ "a:coach8|p:sense|x:calm|1": {
+  "postedit": "여기 있을 리 없는 이상한 만족감이 너를 감싼다.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "여기 있을 리 없는 이상한 만족감이 너를 감싼다."
+ },
+ "a:coach8|p:sense|x:calm|2": {
+  "postedit": "아무런 조급함도 들지 않고, 그것 자체가 잘못된 느낌이다.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "아무런 조급함도 들지 않고, 그것 자체가 잘못된 느낌이다."
+ },
+ "a:coach8|p:sense|x:forget|0": {
+  "postedit": "한순간, 몇 칸을 지나왔는지 기억나지 않는다.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "한순간, 몇 칸을 지나왔는지 기억나지 않는다."
+ },
+ "a:coach8|p:sense|x:forget|1": {
+  "postedit": "등 뒤의 객차 수를 세다 놓치고, 그것이 너를 두렵게 한다.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "등 뒤의 객차 수를 세다 놓치고, 그것이 너를 두렵게 한다."
+ },
+ "a:coach8|p:sense|x:forget|2": {
+  "postedit": "이 열차에 올라탄 기억이 도무지 나지 않는다.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "이 열차에 올라탄 기억이 도무지 나지 않는다."
+ },
+ "a:coach8|p:sense|x:watched|0": {
+  "postedit": "지켜보는 시선이 느껴진다, 승객들은 모두 잠들어 있는데도.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "지켜보는 시선이 느껴진다, 승객들은 모두 잠들어 있는데도."
+ },
+ "a:coach8|p:sense|x:watched|1": {
+  "postedit": "등 뒤에 누군가 있다는 확신이 떠나지 않는다.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "등 뒤에 누군가 있다는 확신이 떠나지 않는다."
+ },
+ "a:coach8|p:sense|x:watched|2": {
+  "postedit": "목덜미가 곤두선다; 이제 예전처럼 혼자가 아니라는 확신이 든다.",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "목덜미가 곤두선다; 이제 예전처럼 혼자가 아니라는 확신이 든다."
+ },
+ "a:coach8|p:sound|v:rhythm|0": {
+  "postedit": "바닥 아래에서 선로가 한결같은 리듬을 두드린다.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "바닥 아래에서 선로가 한결같은 리듬을 두드린다."
+ },
+ "a:coach8|p:sound|v:rhythm|1": {
+  "postedit": "열차가 웅웅거리며 나아가고, 바퀴가 이음매를 넘으며 딸깍거린다.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "열차가 웅웅거리며 나아가고, 바퀴가 이음매를 넘으며 딸깍거린다."
+ },
+ "a:coach8|p:sound|v:rhythm|2": {
+  "postedit": "빠르게 달리는 열차의 익숙한 흔들림과 덜컹거림.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "빠르게 달리는 열차의 익숙한 흔들림과 덜컹거림."
+ },
+ "a:coach8|p:sound|x:announce|0": {
+  "postedit": "신호음이 울리고, 뒤이어 알아들을 수 없는 먹먹한 안내방송이 나온다.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "신호음이 울리고, 뒤이어 알아들을 수 없는 먹먹한 안내방송이 나온다."
+ },
+ "a:coach8|p:sound|x:announce|1": {
+  "postedit": "방송에서 목소리가 지직거리다가 뚝 끊긴다.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "방송에서 목소리가 지직거리다가 뚝 끊긴다."
+ },
+ "a:coach8|p:sound|x:announce|2": {
+  "postedit": "안내방송이 흘러나온다, 거의 거꾸로 재생되는 듯이.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "안내방송이 흘러나온다, 거의 거꾸로 재생되는 듯이."
+ },
+ "a:coach8|p:sound|x:faster|0": {
+  "postedit": "선로가 마땅한 것보다 빠르게 두드리며, 점점 높아지는 쇳소리를 낸다.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "선로가 마땅한 것보다 빠르게 두드리며, 점점 높아지는 쇳소리를 낸다."
+ },
+ "a:coach8|p:sound|x:faster|1": {
+  "postedit": "열차가 속도를 올리고, 덜컹임의 음이 점점 높아진다.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "열차가 속도를 올리고, 덜컹임의 음이 점점 높아진다."
+ },
+ "a:coach8|p:sound|x:faster|2": {
+  "postedit": "모든 것이 더 심하게 덜덜거린다; 속도가 붙고 있다.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "모든 것이 더 심하게 덜덜거린다; 속도가 붙고 있다."
+ },
+ "a:coach8|p:sound|x:silence|0": {
+  "postedit": "바퀴 소리가 멎었다. 아무런 움직임도 느껴지지 않는다.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "바퀴 소리가 멎었다. 아무런 움직임도 느껴지지 않는다."
+ },
+ "a:coach8|p:sound|x:silence|1": {
+  "postedit": "열차 소리가 멈췄다. 죽은 듯 고요하다.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "열차 소리가 멈췄다. 죽은 듯 고요하다."
+ },
+ "a:coach8|p:sound|x:silence|2": {
+  "postedit": "덜컹임도, 흔들림도 없다. 열차는 아예 움직이지 않는지도 모른다.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "덜컹임도, 흔들림도 없다. 열차는 아예 움직이지 않는지도 모른다."
+ },
+ "a:coach8|p:sound|x:slowing|0": {
+  "postedit": "선로의 리듬이 느려지고 있다. 멈추는 건가?",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "선로의 리듬이 느려지고 있다. 멈추는 건가?"
+ },
+ "a:coach8|p:sound|x:slowing|1": {
+  "postedit": "덜컹임이 늘어진다, 마치 열차가 속도를 잃는 듯이.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "덜컹임이 늘어진다, 마치 열차가 속도를 잃는 듯이."
+ },
+ "a:coach8|p:sound|x:slowing|2": {
+  "postedit": "바닥 아래 박자가 한 번과 다음 번 사이로 더 길게 늘어진다.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "바닥 아래 박자가 한 번과 다음 번 사이로 더 길게 늘어진다."
+ },
+ "a:coach8|p:table|v:coffee|0": {
+  "postedit": "통로 옆 접이식 탁자에 반쯤 마신 커피가 놓여 있다.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "통로 옆 접이식 탁자에 반쯤 마신 커피가 놓여 있다."
+ },
+ "a:coach8|p:table|v:coffee|1": {
+  "postedit": "탁자가 내려져 있고, 그 위에서 종이컵이 식어 간다, 늘 그렇듯이.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "탁자가 내려져 있고, 그 위에서 종이컵이 식어 간다, 늘 그렇듯이."
+ },
+ "a:coach8|p:table|v:coffee|2": {
+  "postedit": "탁자 위에 누군가의 커피가, 아직 희미하게 김을 올리고 있다.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "탁자 위에 누군가의 커피가, 아직 희미하게 김을 올리고 있다."
+ },
+ "a:coach8|p:table|x:cold|0": {
+  "postedit": "탁자 위 커피가 식어, 표면에 막이 앉았다.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "탁자 위 커피가 식어, 표면에 막이 앉았다."
+ },
+ "a:coach8|p:table|x:cold|1": {
+  "postedit": "컵은 이제 차갑게 식었다, 오래 방치된 채로.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "컵은 이제 차갑게 식었다, 오래 방치된 채로."
+ },
+ "a:coach8|p:table|x:cold|2": {
+  "postedit": "커피가 차갑고 고요하게 놓여 있다, 김 한 오라기 없이.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "커피가 차갑고 고요하게 놓여 있다, 김 한 오라기 없이."
+ },
+ "a:coach8|p:table|x:empty|0": {
+  "postedit": "탁자가 비어 있다; 커피 컵이 사라졌다.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "탁자가 비어 있다; 커피 컵이 사라졌다."
+ },
+ "a:coach8|p:table|x:empty|1": {
+  "postedit": "탁자에 이제 아무것도 없다.",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "탁자에 이제 아무것도 없다."
+ },
+ "a:coach8|p:table|x:empty|2": {
+  "postedit": "이번에는 탁자에 컵이 없다.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "이번에는 탁자에 컵이 없다."
+ },
+ "a:coach8|p:table|x:many|0": {
+  "postedit": "탁자가 이제 컵으로 가득하다, 하나가 아니라 여럿.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "탁자가 이제 컵으로 가득하다, 하나가 아니라 여럿."
+ },
+ "a:coach8|p:table|x:many|1": {
+  "postedit": "커피 하나가 있던 탁자에 이제 여러 잔이 빼곡하다.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "커피 하나가 있던 탁자에 이제 여러 잔이 빼곡하다."
+ },
+ "a:coach8|p:table|x:many|2": {
+  "postedit": "탁자가 누구도 다 마실 수 없을 만큼 많은 컵으로 어질러져 있다.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "탁자가 누구도 다 마실 수 없을 만큼 많은 컵으로 어질러져 있다."
+ },
+ "a:coach8|p:table|x:spilled|0": {
+  "postedit": "커피가 쏟아져, 검은 얼룩이 탁자 위로 번진다.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "커피가 쏟아져, 검은 얼룩이 탁자 위로 번진다."
+ },
+ "a:coach8|p:table|x:spilled|1": {
+  "postedit": "컵이 쓰러져, 커피가 탁자 가장자리로 흘러내린다.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "컵이 쓰러져, 커피가 탁자 가장자리로 흘러내린다."
+ },
+ "a:coach8|p:table|x:spilled|2": {
+  "postedit": "커피가 탁자 위에 고여, 바닥으로 뚝뚝 떨어진다.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "커피가 탁자 위에 고여, 바닥으로 뚝뚝 떨어진다."
+ },
+ "a:coach8|p:window|v:night|0": {
+  "postedit": "창밖으로 새까만 들판과 희미한 네 그림자가 비친다.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "창밖으로 새까만 들판과 희미한 네 그림자가 비친다."
+ },
+ "a:coach8|p:window|v:night|1": {
+  "postedit": "창문에는 밤과 객실의 유령 같은 그림자만 비친다.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "창문에는 밤과 객실의 유령 같은 그림자만 비친다."
+ },
+ "a:coach8|p:window|v:night|2": {
+  "postedit": "어두운 들판이 창밖으로 스쳐 지나가고, 먼 불빛들이 흩어져 있다.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "어두운 들판이 창밖으로 스쳐 지나가고, 먼 불빛들이 흩어져 있다."
+ },
+ "a:coach8|p:window|x:daylight|0": {
+  "postedit": "창문이 대낮처럼 환하다. 조금 전만 해도 밤이었다.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "창문이 대낮처럼 환하다. 조금 전만 해도 밤이었다."
+ },
+ "a:coach8|p:window|x:daylight|1": {
+  "postedit": "유리창 밖은 문득, 있을 수 없게도, 대낮이다.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "유리창 밖은 문득, 있을 수 없게도, 대낮이다."
+ },
+ "a:coach8|p:window|x:daylight|2": {
+  "postedit": "어둠뿐이던 창문에 햇빛이 가득하다.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "어둠뿐이던 창문에 햇빛이 가득하다."
+ },
+ "a:coach8|p:window|x:reflection|0": {
+  "postedit": "유리창에 비친 네 그림자가 너보다 반 박자 늦다.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "유리창에 비친 네 그림자가 너보다 반 박자 늦다."
+ },
+ "a:coach8|p:window|x:reflection|1": {
+  "postedit": "창문에 비친 모습이 객실과 딱 맞아떨어지지 않는다.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "창문에 비친 모습이 객실과 딱 맞아떨어지지 않는다."
+ },
+ "a:coach8|p:window|x:reflection|2": {
+  "postedit": "창문의 반사 속에는 객실에는 없는 누군가가 서 있다.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "창문의 반사 속에는 객실에는 없는 누군가가 서 있다."
+ },
+ "a:coach8|p:window|x:station|0": {
+  "postedit": "창밖으로 불 밝힌 승강장이 미끄러져 지나간다, 역 하나, 아무 안내도 없이.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "창밖으로 불 밝힌 승강장이 미끄러져 지나간다, 역 하나, 아무 안내도 없이."
+ },
+ "a:coach8|p:window|x:station|1": {
+  "postedit": "밖으로 역 승강장 하나가 지나간다, 텅 비고 환하게.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "밖으로 역 승강장 하나가 지나간다, 텅 비고 환하게."
+ },
+ "a:coach8|p:window|x:station|2": {
+  "postedit": "역 하나가 유리창 밖으로 미끄러진다; 열차가 느려지는 건 전혀 느끼지 못했다.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "역 하나가 유리창 밖으로 미끄러진다; 열차가 느려지는 건 전혀 느끼지 못했다."
+ },
+ "a:coach8|p:window|x:tunnel|0": {
+  "postedit": "창문은 완전한 검은색, 굉음을 내는 터널, 끝이 보이지 않는다.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "창문은 완전한 검은색, 굉음을 내는 터널, 끝이 보이지 않는다."
+ },
+ "a:coach8|p:window|x:tunnel|1": {
+  "postedit": "지금 너는 터널 안에 있다; 유리창에는 내달리는 어둠만 보인다.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "지금 너는 터널 안에 있다; 유리창에는 내달리는 어둠만 보인다."
+ },
+ "a:coach8|p:window|x:tunnel|2": {
+  "postedit": "창밖으로는 검은 터널 벽만 흘러 지나간다.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "창밖으로는 검은 터널 벽만 흘러 지나간다."
+ },
+ "a:coach8|progress": {
+  "postedit": "객차 {level} / {goal}",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "객차 {level} / {goal}"
+ },
+ "a:coach8|share_prompt": {
+  "postedit": "문을 잡아 둬.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "문을 잡아 둬."
+ },
+ "a:coach8|tagline": {
+  "postedit": "차장은 8호차라고 했다. 그런데 열차는 좀처럼 그곳에 닿지 않는다.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "차장은 8호차라고 했다. 그런데 열차는 좀처럼 그곳에 닿지 않는다."
+ },
+ "a:coach8|title_main": {
+  "postedit": "8호차",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "8호차"
+ },
+ "a:coach8|title|0": {
+  "postedit": "8호차",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "8호차"
+ },
+ "a:coach8|title|1": {
+  "postedit": "8호차",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "8호차"
+ },
+ "a:coach8|title|2": {
+  "postedit": "8호차",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "8호차"
+ },
+ "a:coach8|title|3": {
+  "postedit": "8호차",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "8호차"
+ },
+ "a:coach8|title|4": {
+  "postedit": "제8호차",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "제8호차"
+ },
+ "a:coach8|title|5": {
+  "postedit": "여덟 번째 객차",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "여덟 번째 객차"
+ },
+ "a:coach8|title|6": {
+  "postedit": "8호차",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "8호차"
+ },
+ "a:coach8|title|7": {
+  "postedit": "8호차",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "8호차"
+ },
+ "a:coach8|turn_back": {
+  "postedit": "한 칸 뒤로",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "한 칸 뒤로"
+ },
+ "ui|a11y_close": {
+  "postedit": "닫기",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "닫기"
+ },
+ "ui|a11y_settings": {
+  "postedit": "화면 설정",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "화면 설정"
+ },
+ "ui|a11y_sound_off": {
+  "postedit": "소리 꺼짐",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "소리 꺼짐"
+ },
+ "ui|a11y_sound_on": {
+  "postedit": "소리 켜짐",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "소리 켜짐"
+ },
+ "ui|ach_d_cold": {
+  "postedit": "다시 보지 않고 빠져나간다.",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "다시 보지 않고 빠져나간다."
+ },
+ "ui|ach_d_eight_times": {
+  "postedit": "한 곳을 여덟 번 벗어난다.",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "한 곳을 여덟 번 벗어난다."
+ },
+ "ui|ach_d_end_coach8": {
+  "postedit": "Coach 8의 또 다른 결말을 찾는다.",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "Coach 8의 또 다른 결말을 찾는다."
+ },
+ "ui|ach_d_end_hallway-eight": {
+  "postedit": "Hallway 8의 또 다른 결말을 찾는다.",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "Hallway 8의 또 다른 결말을 찾는다."
+ },
+ "ui|ach_d_end_stairway8": {
+  "postedit": "Stairway 8의 또 다른 결말을 찾는다.",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "Stairway 8의 또 다른 결말을 찾는다."
+ },
+ "ui|ach_d_flash_coach8": {
+  "postedit": "Coach 8의 모든 조각을 본다.",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "Coach 8의 모든 조각을 본다."
+ },
+ "ui|ach_d_flash_hallway-eight": {
+  "postedit": "Hallway 8의 모든 조각을 본다.",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "Hallway 8의 모든 조각을 본다."
+ },
+ "ui|ach_d_flash_stairway8": {
+  "postedit": "Stairway 8의 모든 조각을 본다.",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "Stairway 8의 모든 조각을 본다."
+ },
+ "ui|ach_d_flawless": {
+  "postedit": "한 번도 되돌아가지 않고 한 곳을 벗어난다.",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "한 번도 되돌아가지 않고 한 곳을 벗어난다."
+ },
+ "ui|ach_d_hard_all": {
+  "postedit": "셋 다 어려움에서 빠져나간다.",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "셋 다 어려움에서 빠져나간다."
+ },
+ "ui|ach_d_hard_coach8": {
+  "postedit": "어려움에서 Coach 8을 빠져나간다.",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "어려움에서 Coach 8을 빠져나간다."
+ },
+ "ui|ach_d_hard_hallway-eight": {
+  "postedit": "어려움에서 Hallway 8을 빠져나간다.",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "어려움에서 Hallway 8을 빠져나간다."
+ },
+ "ui|ach_d_hard_stairway8": {
+  "postedit": "어려움에서 Stairway 8을 빠져나간다.",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "어려움에서 Stairway 8을 빠져나간다."
+ },
+ "ui|ach_d_insane_all": {
+  "postedit": "셋 다 광기에서 빠져나간다.",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "셋 다 광기에서 빠져나간다."
+ },
+ "ui|ach_d_insane_coach8": {
+  "postedit": "광기에서 Coach 8을 빠져나간다.",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "광기에서 Coach 8을 빠져나간다."
+ },
+ "ui|ach_d_insane_hallway-eight": {
+  "postedit": "광기에서 Hallway 8을 빠져나간다.",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "광기에서 Hallway 8을 빠져나간다."
+ },
+ "ui|ach_d_insane_stairway8": {
+  "postedit": "광기에서 Stairway 8을 빠져나간다.",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "광기에서 Stairway 8을 빠져나간다."
+ },
+ "ui|ach_d_melon": {
+  "postedit": "불이 꺼지지 않게 해줘서 고마워요. Melon Labs 모두가.",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "불이 꺼지지 않게 해줘서 고마워요. Melon Labs 모두가."
+ },
+ "ui|ach_d_nerve": {
+  "postedit": "마지막 문에서 돌아서고, 그게 옳다.",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "마지막 문에서 돌아서고, 그게 옳다."
+ },
+ "ui|ach_d_npc_knows": {
+  "postedit": "늘 앞서 있는 그가 너를 알아본다.",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "늘 앞서 있는 그가 너를 알아본다."
+ },
+ "ui|ach_d_opening_night": {
+  "postedit": "문을 연 그날에 플레이한다.",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "문을 연 그날에 플레이한다."
+ },
+ "ui|ach_d_out_all": {
+  "postedit": "세 곳 모두를 벗어난다.",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "세 곳 모두를 벗어난다."
+ },
+ "ui|ach_d_out_coach8": {
+  "postedit": "열차에서 내려선다.",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "열차에서 내려선다."
+ },
+ "ui|ach_d_out_hallway-eight": {
+  "postedit": "복도를 벗어난다.",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "복도를 벗어난다."
+ },
+ "ui|ach_d_out_stairway8": {
+  "postedit": "1층에 다다른다.",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "1층에 다다른다."
+ },
+ "ui|ach_d_shared": {
+  "postedit": "이곳을 다른 누군가에게 보낸다.",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "이곳을 다른 누군가에게 보낸다."
+ },
+ "ui|ach_d_steady": {
+  "postedit": "한 번도 짐작하지 않고 빠져나간다.",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "한 번도 짐작하지 않고 빠져나간다."
+ },
+ "ui|ach_d_streak": {
+  "postedit": "무결점 탈출 세 번 연속.",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "무결점 탈출 세 번 연속."
+ },
+ "ui|ach_d_total_recall": {
+  "postedit": "어디에서든 마지막 조각 하나까지 모두 본다.",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "어디에서든 마지막 조각 하나까지 모두 본다."
+ },
+ "ui|ach_empty": {
+  "postedit": "아직 아무것도 없다. 한 곳을 빠져나가면 시작된다.",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "아직 아무것도 없다. 한 곳을 빠져나가면 시작된다."
+ },
+ "ui|ach_flash": {
+  "postedit": "회상",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "회상"
+ },
+ "ui|ach_load": {
+  "postedit": "불러오기",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "불러오기"
+ },
+ "ui|ach_locked": {
+  "postedit": "잠김",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "잠김"
+ },
+ "ui|ach_n_cold": {
+  "postedit": "단번에",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "단번에"
+ },
+ "ui|ach_n_eight_times": {
+  "postedit": "여덟 번을 지나",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "여덟 번을 지나"
+ },
+ "ui|ach_n_end_coach8": {
+  "postedit": "네 것이 아닌 승강장",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "네 것이 아닌 승강장"
+ },
+ "ui|ach_n_end_hallway-eight": {
+  "postedit": "열리지 않는 로비",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "열리지 않는 로비"
+ },
+ "ui|ach_n_end_stairway8": {
+  "postedit": "오르기만 하는 계단",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "오르기만 하는 계단"
+ },
+ "ui|ach_n_flash_coach8": {
+  "postedit": "객차, 기억되다",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "객차, 기억되다"
+ },
+ "ui|ach_n_flash_hallway-eight": {
+  "postedit": "복도, 기억되다",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "복도, 기억되다"
+ },
+ "ui|ach_n_flash_stairway8": {
+  "postedit": "계단, 기억되다",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "계단, 기억되다"
+ },
+ "ui|ach_n_flawless": {
+  "postedit": "흠 없이",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "흠 없이"
+ },
+ "ui|ach_n_hard_all": {
+  "postedit": "이제 무른 곳은 없다",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "이제 무른 곳은 없다"
+ },
+ "ui|ach_n_hard_coach8": {
+  "postedit": "Coach, 더 어렵게",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "Coach, 더 어렵게"
+ },
+ "ui|ach_n_hard_hallway-eight": {
+  "postedit": "Hallway, 더 어렵게",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "Hallway, 더 어렵게"
+ },
+ "ui|ach_n_hard_stairway8": {
+  "postedit": "Stairway, 더 어렵게",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "Stairway, 더 어렵게"
+ },
+ "ui|ach_n_insane_all": {
+  "postedit": "아무것도 믿지 마라",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "아무것도 믿지 마라"
+ },
+ "ui|ach_n_insane_coach8": {
+  "postedit": "Coach, 다시 짜인",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "Coach, 다시 짜인"
+ },
+ "ui|ach_n_insane_hallway-eight": {
+  "postedit": "Hallway, 다시 짜인",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "Hallway, 다시 짜인"
+ },
+ "ui|ach_n_insane_stairway8": {
+  "postedit": "Stairway, 다시 짜인",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "Stairway, 다시 짜인"
+ },
+ "ui|ach_n_melon": {
+  "postedit": "Melon 서포터",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "Melon 서포터"
+ },
+ "ui|ach_n_nerve": {
+  "postedit": "배짱",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "배짱"
+ },
+ "ui|ach_n_npc_knows": {
+  "postedit": "그것은 너를 안다",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "그것은 너를 안다"
+ },
+ "ui|ach_n_opening_night": {
+  "postedit": "문을 연 첫날",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "문을 연 첫날"
+ },
+ "ui|ach_n_out_all": {
+  "postedit": "끝까지 나가다",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "끝까지 나가다"
+ },
+ "ui|ach_n_out_coach8": {
+  "postedit": "Coach 8 밖으로",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "Coach 8 밖으로"
+ },
+ "ui|ach_n_out_hallway-eight": {
+  "postedit": "Hallway 8 밖으로",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "Hallway 8 밖으로"
+ },
+ "ui|ach_n_out_stairway8": {
+  "postedit": "Stairway 8 밖으로",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "Stairway 8 밖으로"
+ },
+ "ui|ach_n_shared": {
+  "postedit": "누군가에게 건네다",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "누군가에게 건네다"
+ },
+ "ui|ach_n_steady": {
+  "postedit": "흔들림 없이",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "흔들림 없이"
+ },
+ "ui|ach_n_streak": {
+  "postedit": "연속",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "연속"
+ },
+ "ui|ach_n_total_recall": {
+  "postedit": "완전한 기억",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "완전한 기억"
+ },
+ "ui|ach_open": {
+  "postedit": "업적",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "업적"
+ },
+ "ui|ach_progress": {
+  "postedit": "{total}개 중 {n}개 달성",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "{total}개 중 {n}개 달성"
+ },
+ "ui|ach_save": {
+  "postedit": "저장",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "저장"
+ },
+ "ui|ach_section": {
+  "postedit": "업적",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "업적"
+ },
+ "ui|again": {
+  "postedit": "다시 걷기",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "다시 걷기"
+ },
+ "ui|age_normal": {
+  "postedit": "보통",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "보통"
+ },
+ "ui|age_simple": {
+  "postedit": "쉬운 말",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "쉬운 말"
+ },
+ "ui|back": {
+  "postedit": "뒤로",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "뒤로"
+ },
+ "ui|begin": {
+  "postedit": "시작",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "시작"
+ },
+ "ui|change": {
+  "postedit": "시나리오 바꾸기",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "시나리오 바꾸기"
+ },
+ "ui|col_recall": {
+  "postedit": "이 조각을 떠올리다",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "이 조각을 떠올리다"
+ },
+ "ui|col_recall_empty": {
+  "postedit": "언젠가 본 조각. 그 말들은 이미 흐릿해지고 있다.",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "언젠가 본 조각. 그 말들은 이미 흐릿해지고 있다."
+ },
+ "ui|col_section": {
+  "postedit": "회상",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "회상"
+ },
+ "ui|conf_1": {
+  "postedit": "찍는 중",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "찍는 중"
+ },
+ "ui|conf_2": {
+  "postedit": "아마도",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "아마도"
+ },
+ "ui|conf_3": {
+  "postedit": "거의 확실",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "거의 확실"
+ },
+ "ui|conf_4": {
+  "postedit": "확실",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "확실"
+ },
+ "ui|conf_q": {
+  "postedit": "얼마나 확신하나?",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "얼마나 확신하나?"
+ },
+ "ui|diff_easy": {
+  "postedit": "쉬움",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "쉬움"
+ },
+ "ui|diff_hard": {
+  "postedit": "어려움",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "어려움"
+ },
+ "ui|diff_hint_hard": {
+  "postedit": "어려움은 새로운 종류의 변화를 더한다.",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "어려움은 새로운 종류의 변화를 더한다."
+ },
+ "ui|diff_hint_insane": {
+  "postedit": "광기는 무엇이 정상인지를 매번 새로 짠다.",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "광기는 무엇이 정상인지를 매번 새로 짠다."
+ },
+ "ui|diff_hint_locked": {
+  "postedit": "한 번 빠져나가면 어려움이 열린다.",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "한 번 빠져나가면 어려움이 열린다."
+ },
+ "ui|diff_insane": {
+  "postedit": "광기",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "광기"
+ },
+ "ui|diff_normal": {
+  "postedit": "보통",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "보통"
+ },
+ "ui|end_credits": {
+  "postedit": "엔딩 크레딧",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "엔딩 크레딧"
+ },
+ "ui|ending_back": {
+  "postedit": "처음으로 돌아가기",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "처음으로 돌아가기"
+ },
+ "ui|erase": {
+  "postedit": "지우기",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "지우기"
+ },
+ "ui|erase_body": {
+  "postedit": "이곳이 당신에 대해 기억하는 모든 것이 사라집니다. 모아 둔 조각도, 얻은 표식도, 지나온 모든 회차도. 되돌릴 수 없습니다.",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "이곳이 당신에 대해 기억하는 모든 것이 사라집니다. 모아 둔 조각도, 얻은 표식도, 지나온 모든 회차도. 되돌릴 수 없습니다."
+ },
+ "ui|erase_cancel": {
+  "postedit": "그대로 두기",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "그대로 두기"
+ },
+ "ui|erase_title": {
+  "postedit": "기억을 지울까요?",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "기억을 지울까요?"
+ },
+ "ui|fold_1": {
+  "postedit": "네가 한 일이다. 무언가에 손을 뻗었고, 그곳이 길을 접어 되돌렸다.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "네가 한 일이다. 무언가에 손을 뻗었고, 그곳이 길을 접어 되돌렸다."
+ },
+ "ui|fold_2": {
+  "postedit": "찾은 것을 꼭 만질 필요는 없다. 보고 싶으면 봐도 되지만, 잘못 만지면 여기로 돌아온다.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "찾은 것을 꼭 만질 필요는 없다. 보고 싶으면 봐도 되지만, 잘못 만지면 여기로 돌아온다."
+ },
+ "ui|fold_hide": {
+  "postedit": "다시 보지 않기.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "다시 보지 않기."
+ },
+ "ui|fold_title": {
+  "postedit": "다시 처음으로.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "다시 처음으로."
+ },
+ "ui|furthest": {
+  "postedit": "최고 도달 {n}",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "최고 도달 {n}"
+ },
+ "ui|give_up": {
+  "postedit": "포기 · 처음으로",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "포기 · 처음으로"
+ },
+ "ui|hesitate_1": {
+  "postedit": "망설인다. 다시 본다.",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "망설인다. 다시 본다."
+ },
+ "ui|hesitate_2": {
+  "postedit": "확신이 서지 않는다. 다시 살펴본다.",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "확신이 서지 않는다. 다시 살펴본다."
+ },
+ "ui|hesitate_3": {
+  "postedit": "의심이 발을 멈추게 한다. 한 번 더 읽는다.",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "의심이 발을 멈추게 한다. 한 번 더 읽는다."
+ },
+ "ui|hesitate_4": {
+  "postedit": "머뭇거리며 다시 한 번 눈길을 옮긴다.",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "머뭇거리며 다시 한 번 눈길을 옮긴다."
+ },
+ "ui|instructions": {
+  "postedit": "게임 방법",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "게임 방법"
+ },
+ "ui|language": {
+  "postedit": "언어",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "언어"
+ },
+ "ui|look_back": {
+  "postedit": "돌아보기.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "돌아보기."
+ },
+ "ui|mem_title": {
+  "postedit": "기억",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "기억"
+ },
+ "ui|nudge_arcs": {
+  "postedit": "다른 두 곳도 8이라 불린다.",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "다른 두 곳도 8이라 불린다."
+ },
+ "ui|nudge_eight": {
+  "postedit": "한 곳에서 여덟 번 벗어나는 것은 또 다른 기억이다.",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "한 곳에서 여덟 번 벗어나는 것은 또 다른 기억이다."
+ },
+ "ui|nudge_frags": {
+  "postedit": "여기엔 아직 보지 못한 기억이 {n}개 있다.",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "여기엔 아직 보지 못한 기억이 {n}개 있다."
+ },
+ "ui|promo_bad": {
+  "postedit": "이 코드는 여기서 아무 효과가 없다.",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "이 코드는 여기서 아무 효과가 없다."
+ },
+ "ui|promo_go": {
+  "postedit": "사용",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "사용"
+ },
+ "ui|promo_have": {
+  "postedit": "이미 사용됨.",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "이미 사용됨."
+ },
+ "ui|promo_hint": {
+  "postedit": "코드",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "코드"
+ },
+ "ui|promo_ok": {
+  "postedit": "해제됨.",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "해제됨."
+ },
+ "ui|read_cold": {
+  "postedit": "다시 보지 않고 걸어 나왔다.",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "다시 보지 않고 걸어 나왔다."
+ },
+ "ui|read_nerve": {
+  "postedit": "맨 마지막 문에서 돌아섰고, 당신이 옳았다.",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "맨 마지막 문에서 돌아섰고, 당신이 옳았다."
+ },
+ "ui|read_steady": {
+  "postedit": "단 한 번도 짐작이라 말하지 않았다.",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "단 한 번도 짐작이라 말하지 않았다."
+ },
+ "ui|rec_cold": {
+  "postedit": "다시 보지 않고 빠져나갔다.",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "다시 보지 않고 빠져나갔다."
+ },
+ "ui|rec_nerve": {
+  "postedit": "마지막 문에서 돌아섰고, 그게 옳았다.",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "마지막 문에서 돌아섰고, 그게 옳았다."
+ },
+ "ui|rec_section": {
+  "postedit": "기록",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "기록"
+ },
+ "ui|rec_steady": {
+  "postedit": "한 번도 짐작하지 않고 빠져나갔다.",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "한 번도 짐작하지 않고 빠져나갔다."
+ },
+ "ui|rec_streak": {
+  "postedit": "리셋 없는 탈출 연속: {n}",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "리셋 없는 탈출 연속: {n}"
+ },
+ "ui|rules_plain": {
+  "postedit": "뭔가 달라졌어? 돌아가. 그대로야? 계속 가. 여덟 번 연속이면 빠져나가.",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "뭔가 달라졌어? 돌아가. 그대로야? 계속 가. 여덟 번 연속이면 빠져나가."
+ },
+ "ui|select_lead_1": {
+  "postedit": "좀처럼 떠날 수 없는 어떤 곳.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "좀처럼 떠날 수 없는 어떤 곳."
+ },
+ "ui|select_lead_2": {
+  "postedit": "지나갈 길을 하나 골라라.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "지나갈 길을 하나 골라라."
+ },
+ "ui|set_age": {
+  "postedit": "읽기",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "읽기"
+ },
+ "ui|set_bright": {
+  "postedit": "밝기",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "밝기"
+ },
+ "ui|set_diff": {
+  "postedit": "난이도",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "난이도"
+ },
+ "ui|set_done": {
+  "postedit": "완료",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "완료"
+ },
+ "ui|set_motion": {
+  "postedit": "움직임 줄이기",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "움직임 줄이기"
+ },
+ "ui|set_text": {
+  "postedit": "글자 크기",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "글자 크기"
+ },
+ "ui|settings_title": {
+  "postedit": "화면",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "화면"
+ },
+ "ui|share_1": {
+  "postedit": "좀처럼 떠날 수 없는 곳이 있다. 나는 나왔다. 이제 네 차례다.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "좀처럼 떠날 수 없는 곳이 있다. 나는 나왔다. 이제 네 차례다."
+ },
+ "ui|share_2": {
+  "postedit": "좀처럼 떠날 수 없는 곳에서 누군가 문을 찾았다. 네 문을 찾아라.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "좀처럼 떠날 수 없는 곳에서 누군가 문을 찾았다. 네 문을 찾아라."
+ },
+ "ui|share_3": {
+  "postedit": "너를 의심할 기회는 여덟 번. 옳은 쪽을 믿었다. 이제 너다.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "너를 의심할 기회는 여덟 번. 옳은 쪽을 믿었다. 이제 너다."
+ },
+ "ui|share_4": {
+  "postedit": "이제 나가는 길을 안다. 어디인지는 말하지 않겠다. 와서 봐라.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "이제 나가는 길을 안다. 어디인지는 말하지 않겠다. 와서 봐라."
+ },
+ "ui|share_5": {
+  "postedit": "고요한 곳, 여덟 개의 작은 의심, 지나갈 길은 하나. 나는 찾았다. 너는?",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "고요한 곳, 여덟 개의 작은 의심, 지나갈 길은 하나. 나는 찾았다. 너는?"
+ },
+ "ui|share_6": {
+  "postedit": "여덟 번 걸으며 기억하는 것을 믿었다. 네가 할 수 있는지 보자.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "여덟 번 걸으며 기억하는 것을 믿었다. 네가 할 수 있는지 보자."
+ },
+ "ui|share_7": {
+  "postedit": "나가는 길은 무엇을 기억하느냐에 달려 있다. 나는 기억했다. 이제 네가 해봐라.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "나가는 길은 무엇을 기억하느냐에 달려 있다. 나는 기억했다. 이제 네가 해봐라."
+ },
+ "ui|share_8": {
+  "postedit": "나와 찬 공기 사이에 여덟 개의 문이 있었다. 모두 열었다. 이제 네 차례다.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "나와 찬 공기 사이에 여덟 개의 문이 있었다. 모두 열었다. 이제 네 차례다."
+ },
+ "ui|share_copied": {
+  "postedit": "링크 복사됨",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "링크 복사됨"
+ },
+ "ui|share_copy": {
+  "postedit": "링크 복사",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "링크 복사"
+ },
+ "ui|share_native": {
+  "postedit": "공유",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "공유"
+ },
+ "ui|view_credits": {
+  "postedit": "크레딧 보기",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "크레딧 보기"
+ }
+}

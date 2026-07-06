@@ -1,0 +1,327 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>8</title>
+  <meta name="description" content="Somewhere you can't quite leave. Go on while it matches your memory, turn back the moment it changes. Eight in a row and you are out." />
+
+  <!-- Favicon: the 8, the game's whole identity. -->
+  <link rel="icon" type="image/png" href="{{ url_for('static', filename='img/icon-512.png') }}" />
+  <link rel="apple-touch-icon" href="{{ url_for('static', filename='img/icon-180.png') }}" />
+
+  <!-- Social share card: when a winner passes the link on, it should look like
+       the place, not a bare URL. Absolute URLs so scrapers can fetch them. -->
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="8" />
+  <meta property="og:description" content="Somewhere you can't quite leave. Go on while it matches your memory, turn back the moment it changes. Eight in a row and you are out." />
+  <meta property="og:image" content="{{ url_for('static', filename='img/og.png', _external=True) }}" />
+  <meta property="og:image:width" content="1200" />
+  <meta property="og:image:height" content="630" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="8" />
+  <meta name="twitter:description" content="Somewhere you can't quite leave. Turn back if it changed, go on if it didn't." />
+  <meta name="twitter:image" content="{{ url_for('static', filename='img/og.png', _external=True) }}" />
+
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}" />
+</head>
+<body data-skin="hallway">
+  <button id="sound-toggle" class="sound-toggle" aria-label="Toggle sound">🔊</button>
+  <button id="settings-toggle" class="settings-toggle" aria-label="Display settings">
+    <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor"
+         stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+      <circle cx="12" cy="12" r="3"/>
+      <path d="M19.4 13a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 1 1-2.83 2.83l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-4 0v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 1 1-2.83-2.83l.06-.06a1.65 1.65 0 0 0 .33-1.82 1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1 0-4h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 1 1 2.83-2.83l.06.06a1.65 1.65 0 0 0 1.82.33H9a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 4 0v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 1 1 2.83 2.83l-.06.06a1.65 1.65 0 0 0-.33 1.82V9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 0 4h-.09a1.65 1.65 0 0 0-1.51 1z"/>
+    </svg>
+  </button>
+  <!-- Collection entry: a quiet corner icon (a small board) shown only on the
+       selection screen, so the collection lives off the landing's main path and
+       out of the loop. Keeps the opening screen empty of chrome. -->
+  <button id="ach-open" class="ach-corner-toggle hidden" aria-label="Achievements">
+    <svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor"
+         stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+      <rect x="4" y="4" width="7" height="7" rx="1"/>
+      <rect x="13" y="4" width="7" height="7" rx="1"/>
+      <rect x="4" y="13" width="7" height="7" rx="1"/>
+      <path d="M16.5 13.5l1 2 2 .3-1.5 1.4.4 2-1.9-1-1.8 1 .4-2-1.5-1.4 2-.3z"/>
+    </svg>
+  </button>
+
+  <!-- Display / accessibility settings. Defaults are exactly the current look. -->
+  <div id="settings" class="learn-overlay hidden" role="dialog" aria-modal="true"
+       aria-labelledby="settings-title">
+    <div class="learn-panel settings-panel">
+      <p id="settings-title" class="learn-title"></p>
+      <div class="set-group set-group-wide">
+        <span id="set-text-label" class="set-label"></span>
+        <div class="set-slider">
+          <span class="set-end" style="font-size:0.8rem">A</span>
+          <input type="range" id="set-text" class="set-range" min="0" max="2" step="1"
+                 value="0" aria-labelledby="set-text-label" />
+          <span class="set-end" style="font-size:1.25rem">A</span>
+        </div>
+      </div>
+      <div class="set-group set-group-wide">
+        <span id="set-bright-label" class="set-label"></span>
+        <div class="set-slider">
+          <span class="set-end swatch" style="opacity:.4"></span>
+          <input type="range" id="set-bright" class="set-range" min="0" max="2" step="1"
+                 value="0" aria-labelledby="set-bright-label" />
+          <span class="set-end swatch" style="opacity:1"></span>
+        </div>
+      </div>
+      <label id="set-motion-row" class="fold-hide-row">
+        <input type="checkbox" id="set-motion" />
+        <span id="set-motion-label"></span>
+      </label>
+      <div class="set-group set-group-wide">
+        <span id="set-diff-label" class="set-label"></span>
+        <div class="set-opts set-words" data-set="diff" role="group" aria-labelledby="set-diff-label">
+          <button data-val="easy" data-diff="easy"></button>
+          <button data-val="normal" data-diff="normal"></button>
+          <button data-val="hard" data-diff="hard" id="set-diff-hard"></button>
+          <button data-val="insane" data-diff="insane" id="set-diff-insane" class="hidden"></button>
+        </div>
+      </div>
+      <p id="set-diff-hint" class="set-hint"></p>
+      <div class="set-group set-group-wide">
+        <span id="set-age-label" class="set-label"></span>
+        <div class="set-opts set-words" data-set="register" role="group" aria-labelledby="set-age-label">
+          <button data-val="simple" data-age="simple"></button>
+          <button data-val="normal" data-age="normal"></button>
+        </div>
+      </div>
+      <button id="settings-go" class="btn"></button>
+    </div>
+  </div>
+
+  <!-- Language: a quiet corner control (mirrors the sound toggle), out of the
+       arc column so a utility never competes with the actual choice. Shown only
+       on the selection screen. -->
+  <div id="lang-corner" class="lang-corner hidden">
+    <svg class="lang-globe" viewBox="0 0 22 22" width="16" height="16" fill="none"
+         stroke="currentColor" stroke-width="1.3" aria-hidden="true">
+      <circle cx="11" cy="11" r="8"/>
+      <path d="M3 11 H19 M11 3 C6.5 6 6.5 16 11 19 M11 3 C15.5 6 15.5 16 11 19"/>
+    </svg>
+    <label id="lang-label" for="lang-select" class="visually-hidden">Language</label>
+    <select id="lang-select" class="lang-select" aria-label="Language"></select>
+  </div>
+
+  <main id="screen">
+
+    <!-- Scenario / arc selection. First paint is just the title and the two
+         lead lines (a deliberate, instant, empty-of-chrome splash). The ways
+         through fade in a beat later, so there is never an empty arcs box
+         waiting on the network. -->
+    <section id="select" class="panel">
+      <h1 class="title">8</h1>
+      <p id="select-lead" class="select-lead">Somewhere you can't quite leave.<br />Choose a way through.</p>
+      <div id="select-reveal" class="select-reveal pre">
+        <div id="arcs" class="arcs"></div>
+      </div>
+    </section>
+
+    <!-- Title / intro (per arc) -->
+    <section id="intro" class="panel hidden">
+      <h1 id="intro-title" class="title">8</h1>
+      <div id="intro-text" class="brief"></div>
+      <div class="row">
+        <button id="intro-back" class="btn ghost">Back</button>
+        <button id="begin" class="btn">Begin</button>
+      </div>
+    </section>
+
+    <!-- The loop (corridor / landing) -->
+    <section id="corridor" class="panel hidden">
+      <header class="hud">
+        <span id="progress" class="progress"></span>
+        <span id="best" class="best"></span>
+      </header>
+
+      <h2 id="heading" class="heading"></h2>
+
+      <div id="prose" class="prose"></div>
+
+      <p id="aside" class="aside" aria-live="polite"></p>
+
+      <!-- Act 2: optional things to touch this loop, and (rarely) the false way
+           out. Touching never decides the go-on/turn-back call. -->
+      <p id="touch-line" class="touch-line" aria-live="polite"></p>
+      <div id="touch-row" class="touch-row"></div>
+      <!-- Coach only: the passenger's one fixed arming utterance. Passive; the
+           player can read it and still make the normal call. Louder in easy. -->
+      <p id="npc-utterance" class="npc-utterance" aria-live="polite"></p>
+      <div id="exit-offer" class="exit-offer hidden">
+        <p id="exit-tempt" class="exit-tempt"></p>
+        <button id="exit-take" class="exit-take link-btn"></button>
+      </div>
+
+      <div id="controls" class="controls hidden">
+        <button class="btn choice" data-choice="back">← Turn back</button>
+        <button class="btn choice" data-choice="continue">Go on →</button>
+      </div>
+
+      <div id="confidence" class="confidence hidden">
+        <p class="conf-q">How certain are you?</p>
+        <div class="conf-row">
+          <button class="btn ghost" data-conf="1">Guessing</button>
+          <button class="btn ghost" data-conf="2">I think so</button>
+          <button class="btn ghost" data-conf="3">Almost sure</button>
+          <button class="btn ghost" data-conf="4">Certain</button>
+        </div>
+      </div>
+
+      <div class="give-up-row">
+        <button id="giveup" class="link-btn">Give up · back to start</button>
+      </div>
+    </section>
+
+    <!-- Win -->
+    <section id="win" class="panel hidden">
+      <div id="win-text" class="brief"></div>
+
+      <!-- Fleeting "look back": a quiet toggle that surfaces one in-world line
+           about how many runs it took, then fades so the player settles on
+           sharing or replaying. -->
+      <div id="look" class="look hidden">
+        <button id="look-back" class="look-toggle" aria-expanded="false"></button>
+        <p id="look-line" class="look-line" aria-live="polite"></p>
+      </div>
+
+      <!-- The reward: a way to pass the place on. Progressive disclosure: the
+           default win screen shows only the arc's quiet prompt as a trigger;
+           tapping it reveals the invitation line and the share targets. One
+           "invitation" line is chosen at random; the play link is appended. -->
+      <div id="share" class="share">
+        <button id="share-open" class="share-open" aria-expanded="false" aria-controls="share-panel"></button>
+        <div id="share-panel" class="share-panel hidden">
+        <p id="share-line" class="share-line"></p>
+        <div class="share-row">
+          <button id="share-native" class="link-btn share-btn hidden"></button>
+          <span id="share-platforms" class="share-platforms">
+            <a id="share-x" class="link-btn share-btn" target="_blank" rel="noopener noreferrer">X</a>
+            <a id="share-fb" class="link-btn share-btn" target="_blank" rel="noopener noreferrer">Facebook</a>
+            <a id="share-li" class="link-btn share-btn" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+          </span>
+          <button id="share-copy" class="link-btn share-btn"></button>
+        </div>
+        </div>
+      </div>
+
+      <!-- A quiet, adaptive nudge toward what is left to find: unseen fragments
+           here, then the other places, then eight escapes from one. -->
+      <p id="nudge" class="nudge hidden" aria-live="polite"></p>
+
+      <div class="row">
+        <button id="again" class="btn">Walk it again</button>
+      </div>
+    </section>
+
+    <!-- Alternate ending: reached only by taking the rare false way out. Not a
+         win; a quiet, wrong ending. No share, no look-back. -->
+    <section id="ending" class="panel hidden">
+      <div id="ending-text" class="brief"></div>
+      <div class="row">
+        <button id="ending-back" class="btn ghost">Back to the start</button>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- Shown once, the first time the place resets the player: a brief, arc
+       specific restatement of the rule that fades into the instructions. -->
+  <div id="cutscene" class="cutscene-overlay hidden" role="dialog" aria-modal="true">
+    <div id="cutscene-text" class="cutscene-text"></div>
+  </div>
+
+  <!-- Ending credits. Auto-rolls once, the first time you escape each arc, in
+       the landing's quiet style; re-viewable any time from the Memory overlay.
+       Under reduced motion it does not scroll: it reads statically. -->
+  <div id="credits" class="credits-overlay hidden" role="dialog" aria-modal="true"
+       aria-label="Credits">
+    <div id="credits-scroller" class="credits-scroller">
+      <div id="credits-roll" class="credits-roll"></div>
+    </div>
+    <button id="credits-done" class="credits-done" aria-label="Close">&times;</button>
+  </div>
+
+  <!-- Erase confirmation: a deliberate, undoable-warning gate before nuking the
+       local memory (runs, achievements, recollections). -->
+  <div id="erase-confirm" class="confirm-overlay hidden" role="dialog" aria-modal="true"
+       aria-labelledby="erase-title">
+    <div class="confirm-panel">
+      <p id="erase-title" class="confirm-title"></p>
+      <p id="erase-body" class="confirm-body"></p>
+      <div class="confirm-row">
+        <button id="erase-cancel" class="btn ghost"></button>
+        <button id="erase-ok" class="btn btn-danger"></button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Shown once, the first time the place resets the player. A quiet,
+       explicit restatement of the rule. -->
+  <div id="learn" class="learn-overlay hidden" role="dialog" aria-modal="true"
+       aria-labelledby="learn-title">
+    <div class="learn-panel">
+      <p id="learn-title" class="learn-title"></p>
+      <div id="learn-lines" class="learn-lines"></div>
+      <button id="learn-go" class="btn">Go on</button>
+    </div>
+  </div>
+
+  <!-- Shown when a touch folds the run back to the start, so the reset reads as
+       the player's own action, not a glitch. The opt-out appears from the 2nd
+       time on. -->
+  <div id="fold" class="learn-overlay hidden" role="dialog" aria-modal="true"
+       aria-labelledby="fold-title">
+    <div class="learn-panel">
+      <p id="fold-title" class="learn-title"></p>
+      <div id="fold-lines" class="learn-lines"></div>
+      <label id="fold-hide-row" class="fold-hide-row hidden">
+        <input type="checkbox" id="fold-hide" />
+        <span id="fold-hide-label"></span>
+      </label>
+      <button id="fold-go" class="btn">Go on</button>
+    </div>
+  </div>
+
+  <!-- Achievements + collection, with encrypted Save / Load. -->
+  <div id="achievements" class="ach-overlay hidden" role="dialog" aria-modal="true"
+       aria-labelledby="ach-title">
+    <div class="ach-panel">
+      <div class="ach-head">
+        <p id="ach-title" class="ach-title"></p>
+        <button id="ach-close" class="ach-close" aria-label="Close">&times;</button>
+      </div>
+
+      <!-- Device controls first: save / load / erase the memory. -->
+      <div class="ach-actions">
+        <button id="ach-save" class="btn ghost"></button>
+        <button id="ach-load" class="btn ghost"></button>
+        <button id="ach-erase" class="btn ghost btn-erase"></button>
+        <input id="ach-file" type="file" accept="application/json,.json" class="hidden" />
+      </div>
+
+      <!-- Achievements: only the earned ones appear, populated as they unlock. -->
+      <div id="ach-grid" class="ach-grid"></div>
+
+      <!-- Recollections: the memory fragments, an inset ledger. -->
+      <section id="col-section" class="col-section">
+        <p id="col-section-label" class="ach-section-head"></p>
+        <div id="ach-flash" class="ach-flash"></div>
+        <p id="col-recap" class="col-recap" aria-live="polite"></p>
+      </section>
+
+      <!-- Re-view the ending credits (appears once any place has been escaped). -->
+      <div id="credits-row" class="credits-row hidden">
+        <button id="view-credits" class="view-credits link-btn"></button>
+      </div>
+    </div>
+  </div>
+
+  <script src="{{ url_for('static', filename='audio.js') }}"></script>
+  <script src="{{ url_for('static', filename='game.js') }}"></script>
+</body>
+</html>

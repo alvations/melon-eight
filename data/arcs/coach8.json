@@ -1,0 +1,440 @@
+{
+  "_comment": "Coach arc. Same schema and mechanic as the others, different skin and story: a night train. The conductor sent you forward to coach 8, and you walk carriage after identical carriage. Turn back if a coach has changed; keep moving forward if it hasn't. Motion is part of the unease.",
+  "meta": {
+    "id": "coach8",
+    "title": "Coach 8",
+    "tagline": "The conductor said coach 8. The train never seems to reach it.",
+    "skin": "coach",
+    "go_on": "Next coach",
+    "turn_back": "Back a coach",
+    "unit": "coach",
+    "progress": "Coach {level} / {goal}",
+    "share_prompt": "Hold the doors.",
+    "attempt": "{n} times through this train, and this time it reached your stop.",
+    "attempt_first": "First ride, and the coach never doubled back.",
+    "labels": {
+      "lighting": "lights",
+      "sound": "sound",
+      "window": "window",
+      "passenger": "sleeping passenger",
+      "seatnum": "seat numbers",
+      "door": "connecting door",
+      "luggage": "luggage rack",
+      "table": "table",
+      "sense": "feeling"
+    },
+    "npc_prop": "passenger",
+    "late_props": ["luggage", "table"]
+  },
+  "title_variants": [
+    "Coach 8",
+    "Coach 8",
+    "Coach 8",
+    "Coach 8",
+    "Carriage 8",
+    "Coach Eight",
+    "COACH 8",
+    "Coach  8"
+  ],
+  "sign_variants": [
+    "COACH 8"
+  ],
+  "anchor_order": [
+    "lighting",
+    "sound",
+    "window",
+    "passenger",
+    "seatnum",
+    "door",
+    "luggage",
+    "table",
+    "sense"
+  ],
+  "properties": {
+    "lighting": {
+      "baseline": "dim",
+      "values": {
+        "dim": [
+          "The cabin lights are dimmed for night, a soft amber wash.",
+          "Low night-lighting glows along the luggage racks, as always.",
+          "The overhead lights are down to their amber night setting.",
+          "The coach is lit the same soft gold as the last."
+        ]
+      },
+      "anomalies": {
+        "flicker": [
+          "The cabin lights flutter with the motion of the train, then hold.",
+          "One strip of lighting stutters overhead.",
+          "The amber light trips off, then on again."
+        ],
+        "bright": [
+          "The lights are up full, harsh and white, not the night setting.",
+          "This coach is lit far brighter than the last.",
+          "The soft amber is gone; everything glares white."
+        ],
+        "off": [
+          "The cabin is dark but for the emergency floor strips.",
+          "The lights are out here; only the aisle markers glow.",
+          "Darkness, save a thin line of light along the floor."
+        ]
+      }
+    },
+    "sound": {
+      "baseline": "rhythm",
+      "values": {
+        "rhythm": [
+          "The rails beat their steady rhythm beneath the floor.",
+          "The train hums along, wheels ticking over the joints.",
+          "That familiar sway and clatter of a train at speed."
+        ]
+      },
+      "anomalies": {
+        "slowing": [
+          "The rhythm of the rails is slowing. Are you stopping?",
+          "The clatter drags, as if the train is losing speed.",
+          "The beat beneath the floor stretches longer between ticks."
+        ],
+        "silence": [
+          "The wheels have gone silent. You feel no motion at all.",
+          "The train sound has stopped. Dead still.",
+          "No clatter, no sway. The train might not be moving."
+        ],
+        "announce": [
+          "A chime sounds, then a muffled announcement you can't make out.",
+          "The PA crackles with a voice, then cuts off.",
+          "An announcement plays, backwards, almost."
+        ],
+        "faster": [
+          "The rails beat faster than they should, a rising whine.",
+          "The train is accelerating, the clatter climbing in pitch.",
+          "Everything rattles harder; you're speeding up."
+        ]
+      }
+    },
+    "window": {
+      "baseline": "night",
+      "values": {
+        "night": [
+          "Beyond the window, black countryside and your own faint reflection.",
+          "The window shows only night and the ghost of the cabin.",
+          "Dark fields streak past the window, far-off lights scattered."
+        ]
+      },
+      "anomalies": {
+        "station": [
+          "The window shows a lit platform sliding by, a station, unannounced.",
+          "Outside, a station platform passes, empty and bright.",
+          "A station slides past the glass; you never felt the train slow."
+        ],
+        "reflection": [
+          "Your reflection in the glass is a half-second behind you.",
+          "The reflection in the window doesn't quite match the cabin.",
+          "Someone stands in the window's reflection who isn't in the coach."
+        ],
+        "daylight": [
+          "The window is bright with daylight. It was night a moment ago.",
+          "Outside the glass it is suddenly, impossibly, day.",
+          "Sunlight fills the window where there was only dark."
+        ],
+        "tunnel": [
+          "The window is pure black, a tunnel, roaring, with no end to it.",
+          "You're in a tunnel now; the glass shows only rushing dark.",
+          "Nothing but black tunnel wall streams past the window."
+        ]
+      }
+    },
+    "passenger": {
+      "baseline": "sleeping",
+      "values": {
+        "sleeping": [
+          "A lone passenger sleeps against the far window, coat over their face.",
+          "One passenger dozes midway down the coach, head tipped back.",
+          "The same sleeping figure slumps in a window seat, as before."
+        ]
+      },
+      "anomalies": {
+        "gone": [
+          "The seat where the passenger slept is empty now.",
+          "No one is sleeping in the coach this time.",
+          "The dozing passenger is gone; only a folded coat remains."
+        ],
+        "awake": [
+          "The passenger is awake now, sitting upright, very still.",
+          "The sleeper's eyes are open, fixed on the aisle.",
+          "The passenger no longer sleeps. They watch you pass."
+        ],
+        "moved": [
+          "The sleeping passenger has moved to a seat nearer the aisle.",
+          "The dozing figure is closer than before, on your side now.",
+          "The passenger sleeps in a different seat than a moment ago."
+        ],
+        "two": [
+          "Two passengers sleep here now, where there was one.",
+          "There are a pair of coats-over-faces this time, not one.",
+          "A second sleeping figure has joined the first."
+        ],
+        "speaks": [
+          "The sleeping passenger murmurs, without waking: 'again?'",
+          "From under the coat, a muffled voice: 'you were just here.'",
+          "The dozing figure says the name of your stop, though you told no one."
+        ]
+      }
+    },
+    "seatnum": {
+      "baseline": "eight",
+      "values": {
+        "eight": [
+          "The seat decals read 8A, 8B, 8C down the row.",
+          "Little brass numbers mark the seats: row 8, as always.",
+          "The coach-number panel by the door glows COACH 8."
+        ]
+      },
+      "anomalies": {
+        "wrong": [
+          "The seat decals read row 7 now, not 8.",
+          "The coach-number panel reads COACH 9.",
+          "The brass numbers say row 6; you were sure it was 8."
+        ],
+        "missing": [
+          "The seat numbers have been prised off; bare screw-holes remain.",
+          "The coach-number panel by the door is dark and blank.",
+          "There are no numbers on the seats at all this time."
+        ],
+        "letters": [
+          "The seat decals read 8X, 8Y, 8Z, letters that don't belong.",
+          "The row is numbered in an alphabet you don't recognise.",
+          "The seat labels are just symbols now, not numbers."
+        ]
+      }
+    },
+    "door": {
+      "baseline": "closed",
+      "values": {
+        "closed": [
+          "The connecting door at the coach's end is shut, its glass dark.",
+          "The powered door to the next carriage stands closed, as usual.",
+          "The end door is closed, the vestibule beyond it dim."
+        ]
+      },
+      "anomalies": {
+        "open": [
+          "The connecting door is stuck open, cold air rushing through.",
+          "The powered door won't close; the vestibule roars beyond.",
+          "The end door gapes open onto the shaking vestibule."
+        ],
+        "locked": [
+          "A red light burns on the connecting door: LOCKED.",
+          "The end door shows a locked indicator that was green before.",
+          "The door to the next coach reads DO NOT ENTER."
+        ],
+        "glass": [
+          "The glass in the connecting door is fogged, a hand-print on it.",
+          "Something smears the window of the end door from the far side.",
+          "The connecting door's glass is cracked in a spider's web."
+        ]
+      }
+    },
+    "luggage": {
+      "baseline": "stowed",
+      "values": {
+        "stowed": [
+          "A single suitcase sits in the luggage rack by the door.",
+          "The overhead racks hold the usual scattering of bags.",
+          "One hard-shell case rides the luggage rack, as before."
+        ]
+      },
+      "anomalies": {
+        "gone": [
+          "The luggage rack is empty now.",
+          "The suitcase by the door is gone.",
+          "There are no bags in the racks this time."
+        ],
+        "more": [
+          "The luggage rack is crammed full, far more bags than before.",
+          "Cases are stacked nearly to the ceiling now.",
+          "The racks overflow with luggage that wasn't there."
+        ],
+        "open": [
+          "The suitcase in the rack lies open, empty.",
+          "A case has spilled open across the luggage rack.",
+          "The hard-shell case gapes open, its contents gone."
+        ]
+      }
+    },
+    "table": {
+      "baseline": "coffee",
+      "values": {
+        "coffee": [
+          "A fold-down table by the aisle holds a half-finished coffee.",
+          "The tray table is down, a paper cup cooling on it, as always.",
+          "On the table, someone's coffee, still steaming faintly."
+        ]
+      },
+      "anomalies": {
+        "empty": [
+          "The table is bare; the coffee cup is gone.",
+          "The tray table holds nothing now.",
+          "There's no cup on the table this time."
+        ],
+        "cold": [
+          "The coffee on the table has gone cold, a skin across the top.",
+          "The cup is stone cold now, long abandoned.",
+          "The coffee sits cold and still, no steam at all."
+        ],
+        "many": [
+          "The table is crowded with cups now, not one but many.",
+          "Several coffees crowd the tray table where there was one.",
+          "The table is cluttered with more cups than anyone could drink."
+        ],
+        "spilled": [
+          "The coffee has spilled, a dark stain spreading over the table.",
+          "The cup is tipped, coffee running off the table's edge.",
+          "Coffee pools across the table, dripping to the floor."
+        ]
+      }
+    },
+    "sense": {
+      "baseline": "steady",
+      "values": {
+        "steady": [
+          "The train feels exactly as long as it always has.",
+          "You carry the same tired patience up the aisle, coach after coach.",
+          "Everything feels as ordinary as a night train should."
+        ]
+      },
+      "anomalies": {
+        "forget": [
+          "For a moment you can't remember how many coaches you've walked.",
+          "You lose count of the carriages behind you, and it frightens you.",
+          "You can't recall boarding this train at all."
+        ],
+        "calm": [
+          "You feel suddenly, wrongly calm, as if you'd already arrived.",
+          "A strange contentment settles over you that has no business being here.",
+          "You feel no urgency at all, and that itself feels wrong."
+        ],
+        "watched": [
+          "You feel watched, though every passenger is asleep.",
+          "The certainty that someone is behind you won't leave.",
+          "Your neck prickles; you are sure you are not alone in the way you were."
+        ]
+      }
+    }
+  },
+  "adaptive": {
+    "repeat_inspect": [
+      "You look at the {THING} again. You aren't sure why.",
+      "Your eyes go straight to the {THING}, the way they always seem to now.",
+      "The {THING} draws your attention once more."
+    ],
+    "long_look": [
+      "You spend longer looking than usual. You don't remember deciding to stop.",
+      "You realise you've been standing in the aisle. For how long?",
+      "The train sways on, and you don't know how long you've been staring."
+    ]
+  },
+  "framing": {
+    "cutscene": [
+      "Something in the coach changed, and you moved on past it.",
+      "If a coach is not exactly as you remember, turn back. If it is, keep moving on."
+    ],
+    "intro": [
+      "LAST TRAIN",
+      "",
+      "The conductor clipped your ticket and nodded up the train. Coach 8, that way.",
+      "That was a while ago. You're still walking, and every carriage looks the same.",
+      "",
+      "While a carriage is exactly as you remember it, keep walking forward.",
+      "If anything has changed, turn around. This one is folding you back.",
+      "",
+      "Eight coaches, and you can finally sit down.",
+      "Lose your certainty, and the train sets you back where you started."
+    ],
+    "win": [
+      "You slide open one more door, and the seat numbers read 8.",
+      "Coach 8. Your seat, empty and waiting, beside a black window.",
+      "You sink into it at last. The train rushes on through the night.",
+      "You found your seat."
+    ]
+  },
+  "act2": {
+    "flashbacks": [
+      "You had a seat once, further back, your coat over it. You got up to find coach 8.",
+      "Someone was meeting you at the end of the line. You cannot hold the name.",
+      "The sleeping passenger's coat is the same as yours. You do not look again.",
+      "The note scratched on the table is in your own hand. It says again, or it says eight.",
+      "You were sure the next stop was yours. The next stop is always the next stop."
+    ],
+    "exit": {
+      "tempt": "The train slows, and a door at the end of the coach opens onto a lit platform. Just step down and you are off.",
+      "action": "step onto the platform",
+      "ending": "platform",
+      "utterance": "The passenger turns to you at last, and speaks in a voice you already know: \"You have ridden past your stop.\""
+    },
+    "endings": {
+      "platform": [
+        "You step down onto the platform and the doors hiss shut behind you.",
+        "The train slides away into the tunnel without you.",
+        "The sign on the empty platform is a station you have never heard of, and the only service on the board is the train that just left."
+      ]
+    },
+    "touch": {
+      "luggage": {
+        "verb": "open the luggage",
+        "reaction": [
+          "Someone's folded shirts, a paperback, a ticket stub. Ordinary things, going somewhere.",
+          "It is heavier than it looks, and it does not want to open all the way."
+        ],
+        "herring": [
+          "The tag's ink is still wet. It was probably always wet.",
+          "Your own initials are on the tag, in your hand. Common initials."
+        ],
+        "fold": [
+          "Inside is the row of carriages, folded small and receding. When you look up you are at the first coach again."
+        ]
+      },
+      "window": {
+        "verb": "look out the window",
+        "reaction": [
+          "Your reflection lags a half second behind you.",
+          "Black glass, a tunnel, and then a platform sliding by too fast to read."
+        ],
+        "herring": [
+          "A handprint fogs and fades on the glass that is not yours. Or is.",
+          "Lights out there that could be a town, or could be the train, doubled."
+        ],
+        "fold": [
+          "You watch the dark until it is all there is, and the coach resets around your reflection, back at the start."
+        ]
+      },
+      "table": {
+        "verb": "read the scratched note",
+        "reaction": [
+          "Letters gouged into the laminate by a key or a nail. AGAIN, mostly. And a tally.",
+          "Under the newer marks, older ones, smoothed almost flat by hands."
+        ],
+        "herring": [
+          "A ring of coffee still wet beside it, as if someone just left. People just left.",
+          "The scratches look raw, made minutes ago. Or polished by years. You cannot tell."
+        ],
+        "fold": [
+          "You trace the tally with a finger and lose count, and the losing puts you back at coach one."
+        ]
+      },
+      "passenger": {
+        "verb": "nudge the sleeping passenger",
+        "reaction": [
+          "A murmur, no words you can keep. They do not wake.",
+          "They shift, and settle, and their breathing falls into step with yours."
+        ],
+        "herring": [
+          "Their coat is the same cut as yours. Coats are coats.",
+          "For a second the face under the hood is turned toward you. Then it is not."
+        ],
+        "fold": [
+          "They say your name in their sleep, clearly, once, and the sound of it carries you back to the first coach."
+        ]
+      }
+    }
+  }
+}

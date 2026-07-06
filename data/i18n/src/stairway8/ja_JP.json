@@ -1,0 +1,1334 @@
+{
+ "a:stairway8|act2|end|climb|0": {
+  "postedit": "地上へ落としてくれると信じて、近道の扉を抜ける。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "地上へ落としてくれると信じて、近道の扉を抜ける。"
+ },
+ "a:stairway8|act2|end|climb|1": {
+  "postedit": "壁の数字は、下り始めた階よりも高い。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "壁の数字は、下り始めた階よりも高い。"
+ },
+ "a:stairway8|act2|end|climb|2": {
+  "postedit": "下りの一段は上りの一段になり、ここから先どの扉も、ただ上るばかりの階段へと開く。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "下りの一段は上りの一段になり、ここから先どの扉も、ただ上るばかりの階段へと開く。"
+ },
+ "a:stairway8|act2|exit|action": {
+  "postedit": "近道を行く",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "近道を行く"
+ },
+ "a:stairway8|act2|exit|tempt": {
+  "postedit": "下の踊り場の扉が開いたままで、その先の階段は通りへまっすぐ落ちているように見える。下への近道。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "下の踊り場の扉が開いたままで、その先の階段は通りへまっすぐ落ちているように見える。下への近道。"
+ },
+ "a:stairway8|act2|flashback|0": {
+  "postedit": "前に一度、エレベーターで上がった。扉がひとつの顔を閉ざしていくのを覚えている。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "前に一度、エレベーターで上がった。扉がひとつの顔を閉ざしていくのを覚えている。"
+ },
+ "a:stairway8|act2|flashback|1": {
+  "postedit": "訪ねるはずの階があった。今はその数を言えない、ただ行きたくなかったことだけ。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "訪ねるはずの階があった。今はその数を言えない、ただ行きたくなかったことだけ。"
+ },
+ "a:stairway8|act2|flashback|2": {
+  "postedit": "下の人影は最初、あなたに手を振り上げた。あなたは、あれは誰か別の人へのものだと自分に言い聞かせた。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "下の人影は最初、あなたに手を振り上げた。あなたは、あれは誰か別の人へのものだと自分に言い聞かせた。"
+ },
+ "a:stairway8|act2|flashback|3": {
+  "postedit": "この引っかき傷は前にも読んだ。ひとつは正の字で、八を越えている。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "この引っかき傷は前にも読んだ。ひとつは正の字で、八を越えている。"
+ },
+ "a:stairway8|act2|flashback|4": {
+  "postedit": "次は一階だと確信していた。前にも確信したことがある。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "次は一階だと確信していた。前にも確信したことがある。"
+ },
+ "a:stairway8|act2|t:door|fold|0": {
+  "postedit": "扉は、三階分上で通り過ぎた踊り場へと開く。数えは消えている。あなたはまた最上階にいる。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "扉は、三階分上で通り過ぎた踊り場へと開く。数えは消えている。あなたはまた最上階にいる。"
+ },
+ "a:stairway8|act2|t:door|herring|0": {
+  "postedit": "扉の塗料が粘つく、塗りたてだ、そばの札は古びて黄ばんでいるのに。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "扉の塗料が粘つく、塗りたてだ、そばの札は古びて黄ばんでいるのに。"
+ },
+ "a:stairway8|act2|t:door|herring|1": {
+  "postedit": "隙間から冷たい風が上ってくる、名づけようのない何かを運んで。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "隙間から冷たい風が上ってくる、名づけようのない何かを運んで。"
+ },
+ "a:stairway8|act2|t:door|reaction|0": {
+  "postedit": "バーが指一本分だけ動いて止まる、見えない鎖に留められて。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "バーが指一本分だけ動いて止まる、見えない鎖に留められて。"
+ },
+ "a:stairway8|act2|t:door|reaction|1": {
+  "postedit": "その向こうで、かすかに、同じ階段室が下りていく音。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "その向こうで、かすかに、同じ階段室が下りていく音。"
+ },
+ "a:stairway8|act2|t:door|verb": {
+  "postedit": "踊り場の扉を試す",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "踊り場の扉を試す"
+ },
+ "a:stairway8|act2|t:figure|fold|0": {
+  "postedit": "それは急がずあなたに向かって上ってきて、あなたの踊り場に届いたとき、あなたはなぜか最上階に、ひとりで戻っている。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "それは急がずあなたに向かって上ってきて、あなたの踊り場に届いたとき、あなたはなぜか最上階に、ひとりで戻っている。"
+ },
+ "a:stairway8|act2|t:figure|herring|0": {
+  "postedit": "下のあのコートは、あなたのと同じ色。たいていのコートはそうだ。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "下のあのコートは、あなたのと同じ色。たいていのコートはそうだ。"
+ },
+ "a:stairway8|act2|t:figure|herring|1": {
+  "postedit": "呼びかけたときより一区間近い。歩いてきたのだから、そうもなる。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "呼びかけたときより一区間近い。歩いてきたのだから、そうもなる。"
+ },
+ "a:stairway8|act2|t:figure|reaction|0": {
+  "postedit": "あなたの声が一拍遅れて返ってくる、あなた自身の声色で。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "あなたの声が一拍遅れて返ってくる、あなた自身の声色で。"
+ },
+ "a:stairway8|act2|t:figure|reaction|1": {
+  "postedit": "はるか下で、ひとつの顔が音のほうへ上を向く、あるいはその影が。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "はるか下で、ひとつの顔が音のほうへ上を向く、あるいはその影が。"
+ },
+ "a:stairway8|act2|t:figure|verb": {
+  "postedit": "吹き抜けに呼びかける",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "吹き抜けに呼びかける"
+ },
+ "a:stairway8|act2|t:notice|fold|0": {
+  "postedit": "下まで読むと、下には「振り出し」とあり、そのとおりになる。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "下まで読むと、下には「振り出し」とあり、そのとおりになる。"
+ },
+ "a:stairway8|act2|t:notice|herring|0": {
+  "postedit": "留めているテープが新しく、まだ艶がある。こういう掲示はいつも貼り替えられている。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "留めているテープが新しく、まだ艶がある。こういう掲示はいつも貼り替えられている。"
+ },
+ "a:stairway8|act2|t:notice|herring|1": {
+  "postedit": "紙が温かい、機械から出てきたばかりのように。建物は夜には奇妙になる。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "紙が温かい、機械から出てきたばかりのように。建物は夜には奇妙になる。"
+ },
+ "a:stairway8|act2|t:notice|reaction|0": {
+  "postedit": "エレベーター故障中、階段ヲ使エ。誰かが「使エ」を二度、強く下線を引いている。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "エレベーター故障中、階段ヲ使エ。誰かが「使エ」を二度、強く下線を引いている。"
+ },
+ "a:stairway8|act2|t:notice|reaction|1": {
+  "postedit": "印字の下に、鉛筆で、誰かの手が数字をひとつ書いて、消している。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "印字の下に、鉛筆で、誰かの手が数字をひとつ書いて、消している。"
+ },
+ "a:stairway8|act2|t:notice|verb": {
+  "postedit": "掲示を読む",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "掲示を読む"
+ },
+ "a:stairway8|act2|t:railing|fold|0": {
+  "postedit": "目でそれを下へたどり、足が目を追い、あなたはまた上っている、始まりで。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "目でそれを下へたどり、足が目を追い、あなたはまた上っている、始まりで。"
+ },
+ "a:stairway8|act2|t:railing|herring|0": {
+  "postedit": "一区間前は温かく残したのに、冷たい。何の意味もない。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "一区間前は温かく残したのに、冷たい。何の意味もない。"
+ },
+ "a:stairway8|act2|t:railing|herring|1": {
+  "postedit": "覚えのない色合いの緑だ。ここの明かりが悪いせいだ。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "覚えのない色合いの緑だ。ここの明かりが悪いせいだ。"
+ },
+ "a:stairway8|act2|t:railing|reaction|0": {
+  "postedit": "空気より冷たく、かすかに震えている、はるか下で誰かも握っているときの手すりのように。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "空気より冷たく、かすかに震えている、はるか下で誰かも握っているときの手すりのように。"
+ },
+ "a:stairway8|act2|t:railing|reaction|1": {
+  "postedit": "あなたの手は跡を残さない、残すはずなのに。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "あなたの手は跡を残さない、残すはずなのに。"
+ },
+ "a:stairway8|act2|t:railing|verb": {
+  "postedit": "手すりを握る",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "手すりを握る"
+ },
+ "a:stairway8|adaptive|long_look|0": {
+  "postedit": "いつもより長く見てしまう。立ち止まった覚えはない。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "いつもより長く見てしまう。立ち止まった覚えはない。"
+ },
+ "a:stairway8|adaptive|long_look|1": {
+  "postedit": "踊り場に立ち尽くしていたと気づく。いつから？",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "踊り場に立ち尽くしていたと気づく。いつから？"
+ },
+ "a:stairway8|adaptive|long_look|2": {
+  "postedit": "時間が滑る。吹き抜けを見下ろしていた、どれほどの間かわからない。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "時間が滑る。吹き抜けを見下ろしていた、どれほどの間かわからない。"
+ },
+ "a:stairway8|adaptive|repeat_inspect|0": {
+  "postedit": "また{THING}を確かめる。理由はよくわからない。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "また{THING}を確かめる。理由はよくわからない。"
+ },
+ "a:stairway8|adaptive|repeat_inspect|1": {
+  "postedit": "視線はまっすぐ{THING}へ向かう。最近はいつもそうだ。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "視線はまっすぐ{THING}へ向かう。最近はいつもそうだ。"
+ },
+ "a:stairway8|adaptive|repeat_inspect|2": {
+  "postedit": "{THING}がまた目を引く。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "{THING}がまた目を引く。"
+ },
+ "a:stairway8|attempt": {
+  "postedit": "この階段を{n}回。今回は、外へ出られた。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "この階段を{n}回。今回は、外へ出られた。"
+ },
+ "a:stairway8|attempt_first": {
+  "postedit": "最初の一度で、階段は引き返させなかった。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "最初の一度で、階段は引き返させなかった。"
+ },
+ "a:stairway8|framing|cutscene|0": {
+  "postedit": "踊り場の何かが変わっていたのに、あなたは気づかず下りていった。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "踊り場の何かが変わっていたのに、あなたは気づかず下りていった。"
+ },
+ "a:stairway8|framing|cutscene|1": {
+  "postedit": "踊り場が記憶と少しでも違えば、上へ戻れ。同じなら、下り続けろ。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "踊り場が記憶と少しでも違えば、上へ戻れ。同じなら、下り続けろ。"
+ },
+ "a:stairway8|framing|intro|0": {
+  "postedit": "故障中",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "故障中"
+ },
+ "a:stairway8|framing|intro|2": {
+  "postedit": "呼び出しボタンを押す。反応なし。扉にわたって掲示が貼られている。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "呼び出しボタンを押す。反応なし。扉にわたって掲示が貼られている。"
+ },
+ "a:stairway8|framing|intro|3": {
+  "postedit": "エレベーター故障中、階段ヲ使エ。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "エレベーター故障中、階段ヲ使エ。"
+ },
+ "a:stairway8|framing|intro|5": {
+  "postedit": "踊り場が記憶とまったく同じなら、下り続けろ。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "踊り場が記憶とまったく同じなら、下り続けろ。"
+ },
+ "a:stairway8|framing|intro|6": {
+  "postedit": "何かが変わっていれば、階段があなたの向きを変えたのだ。また上れ。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "何かが変わっていれば、階段があなたの向きを変えたのだ。また上れ。"
+ },
+ "a:stairway8|framing|intro|8": {
+  "postedit": "一階が、外への道だ。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "一階が、外への道だ。"
+ },
+ "a:stairway8|framing|intro|9": {
+  "postedit": "踊り場を数え損なえば、また最上階に戻される。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "踊り場を数え損なえば、また最上階に戻される。"
+ },
+ "a:stairway8|framing|win|0": {
+  "postedit": "最後の段が、ロビーへと開ける。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "最後の段が、ロビーへと開ける。"
+ },
+ "a:stairway8|framing|win|1": {
+  "postedit": "扉ごしの日の光。通り。背後のエレベーターは、まだ死んだままだ。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "扉ごしの日の光。通り。背後のエレベーターは、まだ死んだままだ。"
+ },
+ "a:stairway8|framing|win|2": {
+  "postedit": "八階分を下り、あなたの記憶はどの踊り場も取りこぼさなかった。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "八階分を下り、あなたの記憶はどの踊り場も取りこぼさなかった。"
+ },
+ "a:stairway8|framing|win|3": {
+  "postedit": "一階。",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "一階。"
+ },
+ "a:stairway8|go_on": {
+  "postedit": "下りる",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "下りる"
+ },
+ "a:stairway8|label|door": {
+  "postedit": "防火扉",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "防火扉"
+ },
+ "a:stairway8|label|extinguisher": {
+  "postedit": "消火器",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "消火器"
+ },
+ "a:stairway8|label|figure": {
+  "postedit": "階段の人影",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "階段の人影"
+ },
+ "a:stairway8|label|lighting": {
+  "postedit": "明かり",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "明かり"
+ },
+ "a:stairway8|label|notice": {
+  "postedit": "エレベーターの掲示",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "エレベーターの掲示"
+ },
+ "a:stairway8|label|number": {
+  "postedit": "階数表示",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "階数表示"
+ },
+ "a:stairway8|label|railing": {
+  "postedit": "手すり",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "手すり"
+ },
+ "a:stairway8|label|sense": {
+  "postedit": "この感じ",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "この感じ"
+ },
+ "a:stairway8|label|sound": {
+  "postedit": "音",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "音"
+ },
+ "a:stairway8|label|stairs": {
+  "postedit": "下りの階段",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "下りの階段"
+ },
+ "a:stairway8|p:door|v:closed|0": {
+  "postedit": "その階への防火扉は閉じていて、網入りガラスは暗い。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "その階への防火扉は閉じていて、網入りガラスは暗い。"
+ },
+ "a:stairway8|p:door|v:closed|1": {
+  "postedit": "重い灰色の防火扉が、踊り場で閉じたまま立っている。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "重い灰色の防火扉が、踊り場で閉じたまま立っている。"
+ },
+ "a:stairway8|p:door|v:closed|2": {
+  "postedit": "その階への扉は閉じている、そうあるべきとおりに。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "その階への扉は閉じている、そうあるべきとおりに。"
+ },
+ "a:stairway8|p:door|x:ajar|0": {
+  "postedit": "防火扉がわずかに開いている。黒い隙間、光はない。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "防火扉がわずかに開いている。黒い隙間、光はない。"
+ },
+ "a:stairway8|p:door|x:ajar|1": {
+  "postedit": "重い扉が少しだけ開いている、そんなことは決してないのに。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "重い扉が少しだけ開いている、そんなことは決してないのに。"
+ },
+ "a:stairway8|p:door|x:ajar|2": {
+  "postedit": "防火扉が、今回は完全には閉じていない。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "防火扉が、今回は完全には閉じていない。"
+ },
+ "a:stairway8|p:door|x:handle|0": {
+  "postedit": "防火扉に、今は取っ手がない。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "防火扉に、今は取っ手がない。"
+ },
+ "a:stairway8|p:door|x:handle|1": {
+  "postedit": "取っ手があった所には、むき出しの穴だけが残っている。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "取っ手があった所には、むき出しの穴だけが残っている。"
+ },
+ "a:stairway8|p:door|x:handle|2": {
+  "postedit": "防火扉から取っ手が失われている。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "防火扉から取っ手が失われている。"
+ },
+ "a:stairway8|p:door|x:propped|0": {
+  "postedit": "防火扉が、暗い階に向けて大きく開け放たれている。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "防火扉が、暗い階に向けて大きく開け放たれている。"
+ },
+ "a:stairway8|p:door|x:propped|1": {
+  "postedit": "誰かが防火扉をこじ開けたままにしている。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "誰かが防火扉をこじ開けたままにしている。"
+ },
+ "a:stairway8|p:door|x:propped|2": {
+  "postedit": "扉が全開のまま立っている、目に見える何にも支えられずに。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "扉が全開のまま立っている、目に見える何にも支えられずに。"
+ },
+ "a:stairway8|p:door|x:window|0": {
+  "postedit": "扉の網入りガラスの窓が黒くなり、ふさがれている。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "扉の網入りガラスの窓が黒くなり、ふさがれている。"
+ },
+ "a:stairway8|p:door|x:window|1": {
+  "postedit": "防火扉の小窓が、向こう側からふさがれている。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "防火扉の小窓が、向こう側からふさがれている。"
+ },
+ "a:stairway8|p:door|x:window|2": {
+  "postedit": "何かが扉のガラスに、内側から押しつけられている。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "何かが扉のガラスに、内側から押しつけられている。"
+ },
+ "a:stairway8|p:extinguisher|v:present|0": {
+  "postedit": "消火器が、扉のわきの受け金具に掛かっている。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "消火器が、扉のわきの受け金具に掛かっている。"
+ },
+ "a:stairway8|p:extinguisher|v:present|1": {
+  "postedit": "赤い消火器が、壁の定位置にある。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "赤い消火器が、壁の定位置にある。"
+ },
+ "a:stairway8|p:extinguisher|v:present|2": {
+  "postedit": "踊り場の消火器が、そのフックに収まっている。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "踊り場の消火器が、そのフックに収まっている。"
+ },
+ "a:stairway8|p:extinguisher|x:floor|0": {
+  "postedit": "消火器が横倒しで、床に転がっている。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "消火器が横倒しで、床に転がっている。"
+ },
+ "a:stairway8|p:extinguisher|x:floor|1": {
+  "postedit": "消火器が、踊り場に置かれている。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "消火器が、踊り場に置かれている。"
+ },
+ "a:stairway8|p:extinguisher|x:floor|2": {
+  "postedit": "消火器が、フックから外れて壁に立てかけてある。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "消火器が、フックから外れて壁に立てかけてある。"
+ },
+ "a:stairway8|p:extinguisher|x:gauge|0": {
+  "postedit": "消火器の圧力計が、赤の領域を指している。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "消火器の圧力計が、赤の領域を指している。"
+ },
+ "a:stairway8|p:extinguisher|x:gauge|1": {
+  "postedit": "消火器の針が、赤の奥深くに沈んでいる。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "消火器の針が、赤の奥深くに沈んでいる。"
+ },
+ "a:stairway8|p:extinguisher|x:gauge|2": {
+  "postedit": "消火器の計器が、空にまで下がっている。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "消火器の計器が、空にまで下がっている。"
+ },
+ "a:stairway8|p:extinguisher|x:gone|0": {
+  "postedit": "消火器の受け金具が空だ。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "消火器の受け金具が空だ。"
+ },
+ "a:stairway8|p:extinguisher|x:gone|1": {
+  "postedit": "消火器が消え、受け金具だけが残っている。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "消火器が消え、受け金具だけが残っている。"
+ },
+ "a:stairway8|p:extinguisher|x:gone|2": {
+  "postedit": "今回は壁に消火器がない。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "今回は壁に消火器がない。"
+ },
+ "a:stairway8|p:figure|v:below|0": {
+  "postedit": "はるか下で、別の誰かが階段を巻くように下りていく、いつも一つ二つ先の段を。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "はるか下で、別の誰かが階段を巻くように下りていく、いつも一つ二つ先の段を。"
+ },
+ "a:stairway8|p:figure|v:below|1": {
+  "postedit": "人影があなたの先の吹き抜けを下り、同じ距離を保っている。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "人影があなたの先の吹き抜けを下り、同じ距離を保っている。"
+ },
+ "a:stairway8|p:figure|v:below|2": {
+  "postedit": "誰かが下の階段にいて、あなたと同じ速さで下りていく、決して近づかない。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "誰かが下の階段にいて、あなたと同じ速さで下りていく、決して近づかない。"
+ },
+ "a:stairway8|p:figure|x:ascending|0": {
+  "postedit": "人影が今、階段をあなたのほうへ上ってきている。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "人影が今、階段をあなたのほうへ上ってきている。"
+ },
+ "a:stairway8|p:figure|x:ascending|1": {
+  "postedit": "足音が上ってくる。下の人影が下りではなく、上ってきている。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "足音が上ってくる。下の人影が下りではなく、上ってきている。"
+ },
+ "a:stairway8|p:figure|x:ascending|2": {
+  "postedit": "階段のその者が向きを変え、上ってきている。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "階段のその者が向きを変え、上ってきている。"
+ },
+ "a:stairway8|p:figure|x:closer|0": {
+  "postedit": "階段の人影が前よりずっと近い、ほんの一区間下だ。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "階段の人影が前よりずっと近い、ほんの一区間下だ。"
+ },
+ "a:stairway8|p:figure|x:closer|1": {
+  "postedit": "下りていく人影が距離を詰めた、もうあなたの踊り場の間近だ。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "下りていく人影が距離を詰めた、もうあなたの踊り場の間近だ。"
+ },
+ "a:stairway8|p:figure|x:closer|2": {
+  "postedit": "下にいる誰かは、今やほんの数段下だ。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "下にいる誰かは、今やほんの数段下だ。"
+ },
+ "a:stairway8|p:figure|x:facing|0": {
+  "postedit": "下の人影が立ち止まった。あなたを見上げている。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "下の人影が立ち止まった。あなたを見上げている。"
+ },
+ "a:stairway8|p:figure|x:facing|1": {
+  "postedit": "吹き抜けの下で、人影が動かず、顔をあなたのほうへ上げている。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "吹き抜けの下で、人影が動かず、顔をあなたのほうへ上げている。"
+ },
+ "a:stairway8|p:figure|x:facing|2": {
+  "postedit": "階段のその者は、今は下りていない。あなたを見つめている。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "階段のその者は、今は下りていない。あなたを見つめている。"
+ },
+ "a:stairway8|p:figure|x:gone|0": {
+  "postedit": "下の階段は空だ。下りていた者は、いなくなっている。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "下の階段は空だ。下りていた者は、いなくなっている。"
+ },
+ "a:stairway8|p:figure|x:gone|1": {
+  "postedit": "今回は階段に人影がない。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "今回は階段に人影がない。"
+ },
+ "a:stairway8|p:figure|x:gone|2": {
+  "postedit": "あなたの先にいた者が、吹き抜けから消えている。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "あなたの先にいた者が、吹き抜けから消えている。"
+ },
+ "a:stairway8|p:figure|x:knows|0": {
+  "postedit": "下の人影が見上げ、片手を上げる、まるであなたを待っていたかのように。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "下の人影が見上げ、片手を上げる、まるであなたを待っていたかのように。"
+ },
+ "a:stairway8|p:figure|x:knows|1": {
+  "postedit": "人影が吹き抜けの上へ、口の形だけで何かを告げる。「また」かもしれない。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "人影が吹き抜けの上へ、口の形だけで何かを告げる。「また」かもしれない。"
+ },
+ "a:stairway8|p:figure|x:knows|2": {
+  "postedit": "その者が、ゆっくりと確かに、あなたを下へ手招きする、まるであなたを知っているかのように。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "その者が、ゆっくりと確かに、あなたを下へ手招きする、まるであなたを知っているかのように。"
+ },
+ "a:stairway8|p:lighting|v:steady|0": {
+  "postedit": "金網に覆われた電球が、踊り場一面に安定した光を投げている。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "金網に覆われた電球が、踊り場一面に安定した光を投げている。"
+ },
+ "a:stairway8|p:lighting|v:steady|1": {
+  "postedit": "階段室の明かりが頭上で均等に灯っている、いつものとおり。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "階段室の明かりが頭上で均等に灯っている、いつものとおり。"
+ },
+ "a:stairway8|p:lighting|v:steady|2": {
+  "postedit": "踊り場の蛍光灯が、いつもの平板な白で光っている。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "踊り場の蛍光灯が、いつもの平板な白で光っている。"
+ },
+ "a:stairway8|p:lighting|v:steady|3": {
+  "postedit": "光の落ち方は、上のどの踊り場とも同じだ。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "光の落ち方は、上のどの踊り場とも同じだ。"
+ },
+ "a:stairway8|p:lighting|x:dim|0": {
+  "postedit": "この踊り場は、上のどの踊り場よりも暗い。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "この踊り場は、上のどの踊り場よりも暗い。"
+ },
+ "a:stairway8|p:lighting|x:dim|1": {
+  "postedit": "ここの明かりは半分あきらめていて、隅は暗いままだ。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "ここの明かりは半分あきらめていて、隅は暗いままだ。"
+ },
+ "a:stairway8|p:lighting|x:dim|2": {
+  "postedit": "灰色のもやが踊り場に垂れ込めている。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "灰色のもやが踊り場に垂れ込めている。"
+ },
+ "a:stairway8|p:lighting|x:flicker|0": {
+  "postedit": "金網の電球が明滅し、それから落ち着く。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "金網の電球が明滅し、それから落ち着く。"
+ },
+ "a:stairway8|p:lighting|x:flicker|1": {
+  "postedit": "階段室の明かりが、これまでにない具合にちらつく。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "階段室の明かりが、これまでにない具合にちらつく。"
+ },
+ "a:stairway8|p:lighting|x:flicker|2": {
+  "postedit": "頭上で明かりが一度落ちて、また戻る。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "頭上で明かりが一度落ちて、また戻る。"
+ },
+ "a:stairway8|p:lighting|x:red|0": {
+  "postedit": "踊り場が赤く照らされている、覚えのない非常灯だ。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "踊り場が赤く照らされている、覚えのない非常灯だ。"
+ },
+ "a:stairway8|p:lighting|x:red|1": {
+  "postedit": "何もかもが低い赤の非常灯の光をまとっている。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "何もかもが低い赤の非常灯の光をまとっている。"
+ },
+ "a:stairway8|p:lighting|x:red|2": {
+  "postedit": "白い明かりは消え、赤い電球だけが残っている。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "白い明かりは消え、赤い電球だけが残っている。"
+ },
+ "a:stairway8|p:notice|v:out|0": {
+  "postedit": "エレベーターに貼られた掲示にはこうある。故障中、階段ヲ使エ。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "エレベーターに貼られた掲示にはこうある。故障中、階段ヲ使エ。"
+ },
+ "a:stairway8|p:notice|v:out|1": {
+  "postedit": "修理の掲示はまだそこにある。エレベーター故障中。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "修理の掲示はまだそこにある。エレベーター故障中。"
+ },
+ "a:stairway8|p:notice|v:out|2": {
+  "postedit": "故障中、とエレベーターの扉に貼られた札が告げている。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "故障中、とエレベーターの扉に貼られた札が告げている。"
+ },
+ "a:stairway8|p:notice|x:arrow|0": {
+  "postedit": "掲示の矢印が、下ではなく上を指している。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "掲示の矢印が、下ではなく上を指している。"
+ },
+ "a:stairway8|p:notice|x:arrow|1": {
+  "postedit": "札の矢印が反転して、階段の上を指している。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "札の矢印が反転して、階段の上を指している。"
+ },
+ "a:stairway8|p:notice|x:arrow|2": {
+  "postedit": "掲示は今、あなたを上へと導いている。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "掲示は今、あなたを上へと導いている。"
+ },
+ "a:stairway8|p:notice|x:gone|0": {
+  "postedit": "エレベーターの掲示が消えている。むき出しの金属の扉だけだ。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "エレベーターの掲示が消えている。むき出しの金属の扉だけだ。"
+ },
+ "a:stairway8|p:notice|x:gone|1": {
+  "postedit": "今回はエレベーターに札がない。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "今回はエレベーターに札がない。"
+ },
+ "a:stairway8|p:notice|x:gone|2": {
+  "postedit": "修理の掲示が外されている。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "修理の掲示が外されている。"
+ },
+ "a:stairway8|p:notice|x:service|0": {
+  "postedit": "掲示は今、エレベーター運転中とある。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "掲示は今、エレベーター運転中とある。"
+ },
+ "a:stairway8|p:notice|x:service|1": {
+  "postedit": "札には、エレベーターがまた動いていると書いてある。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "札には、エレベーターがまた動いていると書いてある。"
+ },
+ "a:stairway8|p:notice|x:service|2": {
+  "postedit": "故障中が、運転再開に変わっている。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "故障中が、運転再開に変わっている。"
+ },
+ "a:stairway8|p:notice|x:wording|0": {
+  "postedit": "掲示には、階段ヲ使ウナ、とある。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "掲示には、階段ヲ使ウナ、とある。"
+ },
+ "a:stairway8|p:notice|x:wording|1": {
+  "postedit": "札は階段閉鎖と警告している、以前は決してなかったのに。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "札は階段閉鎖と警告している、以前は決してなかったのに。"
+ },
+ "a:stairway8|p:notice|x:wording|2": {
+  "postedit": "掲示は今、階段をまったく使うなと告げている。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "掲示は今、階段をまったく使うなと告げている。"
+ },
+ "a:stairway8|p:number|v:eight|0": {
+  "postedit": "大きく塗られた8が、踊り場の壁を示している。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "大きく塗られた8が、踊り場の壁を示している。"
+ },
+ "a:stairway8|p:number|v:eight|1": {
+  "postedit": "階数表示の8が、コンクリートにステンシルで刷られている。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "階数表示の8が、コンクリートにステンシルで刷られている。"
+ },
+ "a:stairway8|p:number|v:eight|2": {
+  "postedit": "壁に「8」が塗られ、筆跡の下で塗料の垂れが固まっている。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "壁に「8」が塗られ、筆跡の下で塗料の垂れが固まっている。"
+ },
+ "a:stairway8|p:number|v:eight|3": {
+  "postedit": "壁には8とある、一つ前の踊り場と同じだ。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "壁には8とある、一つ前の踊り場と同じだ。"
+ },
+ "a:stairway8|p:number|x:basement|0": {
+  "postedit": "壁にはBとある。地下。そこにはまるで近づいていない。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "壁にはBとある。地下。そこにはまるで近づいていない。"
+ },
+ "a:stairway8|p:number|x:basement|1": {
+  "postedit": "数字は消え、代わりに塗られた「B」が記されている。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "数字は消え、代わりに塗られた「B」が立っている。"
+ },
+ "a:stairway8|p:number|x:basement|2": {
+  "postedit": "ステンシルはBとある、下り始めたばかりだというのに。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "ステンシルはBとある、下り始めたばかりだというのに。"
+ },
+ "a:stairway8|p:number|x:faded|0": {
+  "postedit": "塗られた数字が、灰色の亡霊のように薄れている。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "塗られた数字が、灰色の亡霊のように薄れている。"
+ },
+ "a:stairway8|p:number|x:faded|1": {
+  "postedit": "誰かが数字を半分こすり落としている。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "誰かが数字を半分こすり落としている。"
+ },
+ "a:stairway8|p:number|x:faded|2": {
+  "postedit": "壁の8が、ほとんど消えかかっている。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "壁の8が、ほとんど消えかかっている。"
+ },
+ "a:stairway8|p:number|x:reversed|0": {
+  "postedit": "8が裏返しに塗られている、鏡に映したように。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "8が裏返しに塗られている、鏡に映したように。"
+ },
+ "a:stairway8|p:number|x:reversed|1": {
+  "postedit": "階数表示が左右反転している。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "階数表示が左右反転している。"
+ },
+ "a:stairway8|p:number|x:reversed|2": {
+  "postedit": "ステンシルの数字が、逆向きに読める。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "ステンシルの数字が、逆向きに読める。"
+ },
+ "a:stairway8|p:number|x:wrong|0": {
+  "postedit": "壁には7とある。ずっと8だったはずだ。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "壁には7とある。ずっと8だったはずだ。"
+ },
+ "a:stairway8|p:number|x:wrong|1": {
+  "postedit": "塗られた数字が、今は8ではなく6だ。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "塗られた数字が、今は8ではなく6だ。"
+ },
+ "a:stairway8|p:number|x:wrong|2": {
+  "postedit": "階数表示が変わっている。9とある。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "階数表示が変わっている。9とある。"
+ },
+ "a:stairway8|p:railing|v:cold|0": {
+  "postedit": "鋼の手すりが、あなたの手の下を冷たく途切れなく伸びている。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "鋼の手すりが、あなたの手の下を冷たく途切れなく伸びている。"
+ },
+ "a:stairway8|p:railing|v:cold|1": {
+  "postedit": "塗られた手すりが、いつもと同じ場所にある。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "塗られた手すりが、いつもと同じ場所にある。"
+ },
+ "a:stairway8|p:railing|v:cold|2": {
+  "postedit": "手が手すりをとらえる、段に沿って途切れなく続いている。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "手が手すりをとらえる、段に沿って途切れなく続いている。"
+ },
+ "a:stairway8|p:railing|x:gap|0": {
+  "postedit": "手すりの一部が、吹き抜けの上で失われている。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "手すりの一部が、吹き抜けの上で失われている。"
+ },
+ "a:stairway8|p:railing|x:gap|1": {
+  "postedit": "手すりに、ひと区間分が取り外された切れ目がある。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "手すりに、ひと区間分が取り外された切れ目がある。"
+ },
+ "a:stairway8|p:railing|x:gap|2": {
+  "postedit": "手すりの一部が、ただそこにない。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "手すりの一部が、ただそこにない。"
+ },
+ "a:stairway8|p:railing|x:paint|0": {
+  "postedit": "手すりが、上の段とは違う色をしている。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "手すりが、上の段とは違う色をしている。"
+ },
+ "a:stairway8|p:railing|x:paint|1": {
+  "postedit": "誰かがこの区間の手すりを塗り直している。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "誰かがこの区間の手すりを塗り直している。"
+ },
+ "a:stairway8|p:railing|x:paint|2": {
+  "postedit": "手すりの塗装が、ここでは灰色ではなく緑だ。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "手すりの塗装が、ここでは灰色ではなく緑だ。"
+ },
+ "a:stairway8|p:railing|x:wet|0": {
+  "postedit": "手すりが濡れている、何も落ちてはいないのに。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "手すりが濡れている、何も落ちてはいないのに。"
+ },
+ "a:stairway8|p:railing|x:wet|1": {
+  "postedit": "手すりから、手が湿って離れる。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "手すりから、手が湿って離れる。"
+ },
+ "a:stairway8|p:railing|x:wet|2": {
+  "postedit": "手すりが、手のひらの下でぬめっている。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "手すりが、手のひらの下でぬめっている。"
+ },
+ "a:stairway8|p:sense|v:steady|0": {
+  "postedit": "吹き抜けは、いつもとまったく同じ深さに感じられる。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "吹き抜けは、いつもとまったく同じ深さに感じられる。"
+ },
+ "a:stairway8|p:sense|v:steady|1": {
+  "postedit": "同じ警戒を、一区間ごとに下へ引きずっている。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "同じ警戒を、一区間ごとに下へ引きずっている。"
+ },
+ "a:stairway8|p:sense|v:steady|2": {
+  "postedit": "すべてが普通に感じられる、これらのどれかが普通でありうる限りの普通さで。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "すべてが普通に感じられる、これらのどれかが普通でありうる限りの普通さで。"
+ },
+ "a:stairway8|p:sense|x:deeper|0": {
+  "postedit": "吹き抜けが、あるべきより深く感じられ、一階がいっそう遠い。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "吹き抜けが、あるべきより深く感じられ、一階がいっそう遠い。"
+ },
+ "a:stairway8|p:sense|x:deeper|1": {
+  "postedit": "八階分よりずっと多く下りてきた気がする。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "八階分よりずっと多く下りてきた気がする。"
+ },
+ "a:stairway8|p:sense|x:deeper|2": {
+  "postedit": "底が、いっそう遠くへ動いてしまったように思える。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "底が、いっそう遠くへ動いてしまったように思える。"
+ },
+ "a:stairway8|p:sense|x:forget|0": {
+  "postedit": "一瞬、いくつの踊り場を過ぎたか思い出せなくなる。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "一瞬、いくつの踊り場を過ぎたか思い出せなくなる。"
+ },
+ "a:stairway8|p:sense|x:forget|1": {
+  "postedit": "頭上の段の数がわからなくなり、それが怖くなる。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "頭上の段の数がわからなくなり、それが怖くなる。"
+ },
+ "a:stairway8|p:sense|x:forget|2": {
+  "postedit": "何階から下り始めたのか、思い出せない。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "何階から下り始めたのか、思い出せない。"
+ },
+ "a:stairway8|p:sense|x:up|0": {
+  "postedit": "一瞬、下りではなく上っていたのだと確信する。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "一瞬、下りではなく上っていたのだと確信する。"
+ },
+ "a:stairway8|p:sense|x:up|1": {
+  "postedit": "誤った感覚に捉えられる。下がずっと上だったのだ、と。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "誤った感覚に捉えられる。下がずっと上だったのだ、と。"
+ },
+ "a:stairway8|p:sense|x:up|2": {
+  "postedit": "短く、冷たく感じる。自分は間違った方へ進んでいる、と。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "短く、冷たく感じる。自分は間違った方へ進んでいる、と。"
+ },
+ "a:stairway8|p:sound|v:quiet|0": {
+  "postedit": "あなたの足音が吹き抜けを上へ響き、消えていく。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "あなたの足音が吹き抜けを上へ響き、消えていく。"
+ },
+ "a:stairway8|p:sound|v:quiet|1": {
+  "postedit": "階段室は、自分の足音のほかは静かだ。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "階段室は、自分の足音のほかは静かだ。"
+ },
+ "a:stairway8|p:sound|v:quiet|2": {
+  "postedit": "はるか下で、建物がひとりでに唸っている。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "はるか下で、建物がひとりでに唸っている。"
+ },
+ "a:stairway8|p:sound|x:drip|0": {
+  "postedit": "吹き抜けのどこか下で水が落ちている。ポタ。ポタ。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "吹き抜けのどこか下で水が落ちている。ポタ。ポタ。"
+ },
+ "a:stairway8|p:sound|x:drip|1": {
+  "postedit": "ゆっくりとした水音が、下から響いて上ってくる。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "ゆっくりとした水音が、下から響いて上ってくる。"
+ },
+ "a:stairway8|p:sound|x:drip|2": {
+  "postedit": "何階か下で、何かがしたたっている。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "何階か下で、何かがしたたっている。"
+ },
+ "a:stairway8|p:sound|x:footsteps|0": {
+  "postedit": "足音があなたのほうへ上ってきて、それから止まる。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "足音があなたのほうへ上ってきて、それから止まる。"
+ },
+ "a:stairway8|p:sound|x:footsteps|1": {
+  "postedit": "一つ下の段に、自分のものではない足音が聞こえる。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "一つ下の段に、自分のものではない足音が聞こえる。"
+ },
+ "a:stairway8|p:sound|x:footsteps|2": {
+  "postedit": "一瞬、階段に誰かもう一人いる。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "一瞬、階段に誰かもう一人いる。"
+ },
+ "a:stairway8|p:sound|x:silence|0": {
+  "postedit": "建物の唸りが止まった。死んだような静けさ。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "建物の唸りが止まった。死んだような静けさ。"
+ },
+ "a:stairway8|p:sound|x:silence|1": {
+  "postedit": "完全に静かだ。静かすぎる。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "完全に静かだ。静かすぎる。"
+ },
+ "a:stairway8|p:sound|x:silence|2": {
+  "postedit": "自分の足音の反響さえ、消えてしまうように思える。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "自分の足音の反響さえ、消えてしまうように思える。"
+ },
+ "a:stairway8|p:sound|x:slam|0": {
+  "postedit": "はるか下で扉が激しく閉まり、それから静寂。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "はるか下で扉が激しく閉まり、それから静寂。"
+ },
+ "a:stairway8|p:sound|x:slam|1": {
+  "postedit": "足もとのどこかで扉がバタンと閉じる。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "足もとのどこかで扉がバタンと閉じる。"
+ },
+ "a:stairway8|p:sound|x:slam|2": {
+  "postedit": "何階か下で、重い扉が閉まる。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "何階か下で、重い扉が閉まる。"
+ },
+ "a:stairway8|p:stairs|v:clear|0": {
+  "postedit": "下りの段は何もなく、踏み面は平らで乾いている。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "下りの段は何もなく、踏み面は平らで乾いている。"
+ },
+ "a:stairway8|p:stairs|v:clear|1": {
+  "postedit": "階段はいつものように下へ続き、何も乗っていない。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "階段はいつものように下へ続き、何も乗っていない。"
+ },
+ "a:stairway8|p:stairs|v:clear|2": {
+  "postedit": "次の段が、きれいに何もなく下へ落ちていく。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "次の段が、きれいに何もなく下へ落ちていく。"
+ },
+ "a:stairway8|p:stairs|x:debris|0": {
+  "postedit": "下の段に何かが置き去りにされている、鞄だろうか。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "下の段に何かが置き去りにされている、鞄だろうか。"
+ },
+ "a:stairway8|p:stairs|x:debris|1": {
+  "postedit": "次の段に、がらくたが散らばっている。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "次の段に、がらくたが散らばっている。"
+ },
+ "a:stairway8|p:stairs|x:debris|2": {
+  "postedit": "暗い塊が、段の途中に座り込んでいる。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "暗い塊が、段の途中に座り込んでいる。"
+ },
+ "a:stairway8|p:stairs|x:missing|0": {
+  "postedit": "下の段の踏み面が、一つ欠けている。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "下の段の踏み面が、一つ欠けている。"
+ },
+ "a:stairway8|p:stairs|x:missing|1": {
+  "postedit": "段があるべき所に、階段の隙間が空いている。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "段があるべき所に、階段の隙間が空いている。"
+ },
+ "a:stairway8|p:stairs|x:missing|2": {
+  "postedit": "下りの段から、踏み面が一枚なくなっている。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "下りの段から、踏み面が一枚なくなっている。"
+ },
+ "a:stairway8|p:stairs|x:up|0": {
+  "postedit": "段にステンシルされた矢印が、下ではなく上を指している。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "段にステンシルされた矢印が、下ではなく上を指している。"
+ },
+ "a:stairway8|p:stairs|x:up|1": {
+  "postedit": "階段に塗られた向きが、反転している。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "階段に塗られた向きが、反転している。"
+ },
+ "a:stairway8|p:stairs|x:up|2": {
+  "postedit": "下りているのに、段が今は上へ続いているように見える。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "下りているのに、段が今は上へ続いているように見える。"
+ },
+ "a:stairway8|p:stairs|x:wet|0": {
+  "postedit": "下の段が、光を受けて濡れて光っている。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "下の段が、光を受けて濡れて光っている。"
+ },
+ "a:stairway8|p:stairs|x:wet|1": {
+  "postedit": "次の段が、水でぬめっている。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "次の段が、水でぬめっている。"
+ },
+ "a:stairway8|p:stairs|x:wet|2": {
+  "postedit": "下りの階段が濡れている、こぼれたものなど見ていないのに。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "下りの階段が濡れている、こぼれたものなど見ていないのに。"
+ },
+ "a:stairway8|progress": {
+  "postedit": "{floor}階   ·   {level}/{goal} 下降",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "{floor}階   ·   {level}/{goal} 下降"
+ },
+ "a:stairway8|share_prompt": {
+  "postedit": "下の扉を開けたままに。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "下の扉を開けたままに。"
+ },
+ "a:stairway8|tagline": {
+  "postedit": "エレベーターは止まっている。八階分を、踊り場ひとつずつ下りていく。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "エレベーターは止まっている。八階分を、踊り場ひとつずつ下りていく。"
+ },
+ "a:stairway8|title_main": {
+  "postedit": "階段8",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "階段8"
+ },
+ "a:stairway8|title|0": {
+  "postedit": "階段8",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "階段8"
+ },
+ "a:stairway8|title|1": {
+  "postedit": "階段8",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "階段8"
+ },
+ "a:stairway8|title|2": {
+  "postedit": "階段8",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "階段8"
+ },
+ "a:stairway8|title|3": {
+  "postedit": "階段8",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "階段8"
+ },
+ "a:stairway8|title|4": {
+  "postedit": "階段室8",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "階段室8"
+ },
+ "a:stairway8|title|5": {
+  "postedit": "階段八",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "階段八"
+ },
+ "a:stairway8|title|6": {
+  "postedit": "階段8",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "階段8"
+ },
+ "a:stairway8|title|7": {
+  "postedit": "階段 8",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "階段 8"
+ },
+ "a:stairway8|turn_back": {
+  "postedit": "引き返して上る",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "引き返して上る"
+ }
+}

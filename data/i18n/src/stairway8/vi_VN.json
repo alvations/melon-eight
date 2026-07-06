@@ -1,0 +1,1334 @@
+{
+ "a:stairway8|act2|end|climb|0": {
+  "postedit": "Bạn đi qua cửa lối tắt, chắc rằng nó sẽ thả bạn xuống tầng trệt.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Bạn đi qua cửa lối tắt, chắc rằng nó sẽ thả bạn xuống tầng trệt."
+ },
+ "a:stairway8|act2|end|climb|1": {
+  "postedit": "Con số trên tường cao hơn cả tầng bạn đã bắt đầu.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Con số trên tường cao hơn cả tầng bạn đã bắt đầu."
+ },
+ "a:stairway8|act2|end|climb|2": {
+  "postedit": "Nhịp thang đi xuống đã thành nhịp thang đi lên, và từ đây mọi cánh cửa đều mở ra những bậc thang chỉ dẫn lên cao.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Nhịp thang đi xuống đã thành nhịp thang đi lên, và từ đây mọi cánh cửa đều mở ra những bậc thang chỉ dẫn lên cao."
+ },
+ "a:stairway8|act2|exit|action": {
+  "postedit": "đi lối tắt",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "đi lối tắt"
+ },
+ "a:stairway8|act2|exit|tempt": {
+  "postedit": "Một cánh cửa chiếu nghỉ phía dưới đang mở, và qua đó cầu thang như đổ thẳng xuống phố. Một lối tắt đi xuống.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Một cánh cửa chiếu nghỉ phía dưới đang mở, và qua đó cầu thang như đổ thẳng xuống phố. Một lối tắt đi xuống."
+ },
+ "a:stairway8|act2|flashback|0": {
+  "postedit": "Bạn từng đi thang máy lên. Bạn nhớ cánh cửa khép lại trên một gương mặt.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Bạn từng đi thang máy lên. Bạn nhớ cánh cửa khép lại trên một gương mặt."
+ },
+ "a:stairway8|act2|flashback|1": {
+  "postedit": "Có một tầng bạn định ghé. Giờ bạn không nói được số tầng, chỉ biết rằng mình đã không muốn tới.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Có một tầng bạn định ghé. Giờ bạn không nói được số tầng, chỉ biết rằng mình đã không muốn tới."
+ },
+ "a:stairway8|act2|flashback|2": {
+  "postedit": "Bóng người phía dưới đã vẫy lên bạn ngay lần đầu, và bạn tự nhủ rằng cái vẫy đó là dành cho ai khác.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Bóng người phía dưới đã vẫy lên bạn ngay lần đầu, và bạn tự nhủ rằng cái vẫy đó là dành cho ai khác."
+ },
+ "a:stairway8|act2|flashback|3": {
+  "postedit": "Bạn từng đọc những vệt khắc này rồi. Một trong số đó là một dãy vạch đếm, và nó vượt quá tám.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Bạn từng đọc những vệt khắc này rồi. Một trong số đó là một dãy vạch đếm, và nó vượt quá tám."
+ },
+ "a:stairway8|act2|flashback|4": {
+  "postedit": "Bạn từng chắc rằng tầng trệt là ngay dưới. Bạn cũng từng chắc như thế trước đây.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Bạn từng chắc rằng tầng trệt là ngay dưới. Bạn cũng từng chắc như thế trước đây."
+ },
+ "a:stairway8|act2|t:door|fold|0": {
+  "postedit": "Nó bật mở ra một chiếu nghỉ bạn đã qua ba tầng trước. Con số đếm biến mất. Bạn lại ở đỉnh thang.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Nó bật mở ra một chiếu nghỉ bạn đã qua ba tầng trước. Con số đếm biến mất. Bạn lại ở đỉnh thang."
+ },
+ "a:stairway8|act2|t:door|herring|0": {
+  "postedit": "Lớp sơn trên cửa còn dính, vừa mới quét, dù tấm biển bên cạnh đã ố vàng vì thời gian.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Lớp sơn trên cửa còn dính, vừa mới quét, dù tấm biển bên cạnh đã ố vàng vì thời gian."
+ },
+ "a:stairway8|act2|t:door|herring|1": {
+  "postedit": "Một luồng gió lạnh lùa lên qua khe hở, mang theo thứ gì đó bạn không gọi tên được.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Một luồng gió lạnh lùa lên qua khe hở, mang theo thứ gì đó bạn không gọi tên được."
+ },
+ "a:stairway8|act2|t:door|reaction|0": {
+  "postedit": "Thanh đẩy nhích ra một khe bằng ngón tay rồi dừng, một sợi xích vô hình đang giữ nó.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Thanh đẩy nhích ra một khe bằng ngón tay rồi dừng, một sợi xích vô hình đang giữ nó."
+ },
+ "a:stairway8|act2|t:door|reaction|1": {
+  "postedit": "Sau cánh cửa, mơ hồ, là tiếng của chính giếng thang này đang đổ xuống.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Sau cánh cửa, mơ hồ, là tiếng của chính giếng thang này đang đổ xuống."
+ },
+ "a:stairway8|act2|t:door|verb": {
+  "postedit": "thử cửa chiếu nghỉ",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "thử cửa chiếu nghỉ"
+ },
+ "a:stairway8|act2|t:figure|fold|0": {
+  "postedit": "Nó leo lên gặp bạn, thong thả, và khi nó tới chiếu nghỉ của bạn thì chẳng hiểu sao bạn đã trở lại đỉnh thang, một mình.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Nó leo lên gặp bạn, thong thả, và khi nó tới chiếu nghỉ của bạn thì chẳng hiểu sao bạn đã trở lại đỉnh thang, một mình."
+ },
+ "a:stairway8|act2|t:figure|herring|0": {
+  "postedit": "Chiếc áo khoác dưới kia cùng màu với áo bạn. Áo khoác nào cũng vậy cả.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Chiếc áo khoác dưới kia cùng màu với áo bạn. Áo khoác nào cũng vậy cả."
+ },
+ "a:stairway8|act2|t:figure|herring|1": {
+  "postedit": "Nó gần hơn một chiếu nghỉ so với lúc bạn gọi. Thì bạn vẫn đang bước đi mà.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Nó gần hơn một chiếu nghỉ so với lúc bạn gọi. Thì bạn vẫn đang bước đi mà."
+ },
+ "a:stairway8|act2|t:figure|reaction|0": {
+  "postedit": "Giọng bạn vọng lại trễ một nhịp, bằng chính chất giọng của bạn.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Giọng bạn vọng lại trễ một nhịp, bằng chính chất giọng của bạn."
+ },
+ "a:stairway8|act2|t:figure|reaction|1": {
+  "postedit": "Xa phía dưới, một gương mặt ngẩng lên phía tiếng gọi, hoặc chỉ là cái bóng của một gương mặt.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Xa phía dưới, một gương mặt ngẩng lên phía tiếng gọi, hoặc chỉ là cái bóng của một gương mặt."
+ },
+ "a:stairway8|act2|t:figure|verb": {
+  "postedit": "gọi vọng xuống giếng thang",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "gọi vọng xuống giếng thang"
+ },
+ "a:stairway8|act2|t:notice|fold|0": {
+  "postedit": "Bạn đọc xuống tận đáy và ở đáy ghi BẮT ĐẦU, và đúng là thế.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Bạn đọc xuống tận đáy và ở đáy ghi BẮT ĐẦU, và đúng là thế."
+ },
+ "a:stairway8|act2|t:notice|herring|0": {
+  "postedit": "Lớp băng dính giữ nó còn mới, vẫn còn bóng. Những tấm thông báo thế này luôn được thay mới.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Lớp băng dính giữ nó còn mới, vẫn còn bóng. Những tấm thông báo thế này luôn được thay mới."
+ },
+ "a:stairway8|act2|t:notice|herring|1": {
+  "postedit": "Tờ giấy còn ấm, như vừa ra khỏi máy. Các tòa nhà về đêm thật kỳ lạ.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Tờ giấy còn ấm, như vừa ra khỏi máy. Các tòa nhà về đêm thật kỳ lạ."
+ },
+ "a:stairway8|act2|t:notice|reaction|0": {
+  "postedit": "THANG MÁY HỎNG, XIN DÙNG CẦU THANG. Ai đó đã gạch chân chữ DÙNG, hai lần, thật đậm.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "THANG MÁY HỎNG, XIN DÙNG CẦU THANG. Ai đó đã gạch chân chữ DÙNG, hai lần, thật đậm."
+ },
+ "a:stairway8|act2|t:notice|reaction|1": {
+  "postedit": "Dưới dòng in, bằng bút chì, một bàn tay đã viết một con số rồi gạch bỏ.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Dưới dòng in, bằng bút chì, một bàn tay đã viết một con số rồi gạch bỏ."
+ },
+ "a:stairway8|act2|t:notice|verb": {
+  "postedit": "đọc tấm thông báo",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "đọc tấm thông báo"
+ },
+ "a:stairway8|act2|t:railing|fold|0": {
+  "postedit": "Bạn dõi mắt theo nó xuống dưới, chân bạn dõi theo mắt, và bạn lại đang leo, ở điểm đầu.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Bạn dõi mắt theo nó xuống dưới, chân bạn dõi theo mắt, và bạn lại đang leo, ở điểm đầu."
+ },
+ "a:stairway8|act2|t:railing|herring|0": {
+  "postedit": "Lạnh, ở nơi bạn để lại nó còn ấm một chiếu nghỉ trước. Chẳng có nghĩa gì.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Lạnh, ở nơi bạn để lại nó còn ấm một chiếu nghỉ trước. Chẳng có nghĩa gì."
+ },
+ "a:stairway8|act2|t:railing|herring|1": {
+  "postedit": "Nó mang một sắc xanh mà bạn không nhớ nó từng có. Ánh đèn dưới này tệ lắm.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Nó mang một sắc xanh mà bạn không nhớ nó từng có. Ánh đèn dưới này tệ lắm."
+ },
+ "a:stairway8|act2|t:railing|reaction|0": {
+  "postedit": "Nó lạnh hơn cả không khí, và rung khẽ, như cái cách một tay vịn rung khi có ai đó xa phía dưới cũng đang nắm lấy.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Nó lạnh hơn cả không khí, và rung khẽ, như cái cách một tay vịn rung khi có ai đó xa phía dưới cũng đang nắm lấy."
+ },
+ "a:stairway8|act2|t:railing|reaction|1": {
+  "postedit": "Tay bạn không để lại dấu nào trên đó, dù lẽ ra phải có.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Tay bạn không để lại dấu nào trên đó, dù lẽ ra phải có."
+ },
+ "a:stairway8|act2|t:railing|verb": {
+  "postedit": "nắm chặt tay vịn",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "nắm chặt tay vịn"
+ },
+ "a:stairway8|adaptive|long_look|0": {
+  "postedit": "Bạn nhìn lâu hơn thường lệ. Bạn không nhớ mình đã dừng lại từ lúc nào.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Bạn nhìn lâu hơn thường lệ. Bạn không nhớ mình đã dừng lại từ lúc nào."
+ },
+ "a:stairway8|adaptive|long_look|1": {
+  "postedit": "Bạn nhận ra mình đang đứng trên chiếu nghỉ. Bao lâu rồi?",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Bạn nhận ra mình đang đứng trên chiếu nghỉ. Bao lâu rồi?"
+ },
+ "a:stairway8|adaptive|long_look|2": {
+  "postedit": "Thời gian trượt đi. Bạn đã nhìn chằm chằm xuống giếng thang, mà chẳng biết bao lâu.",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "Thời gian trượt đi. Bạn đã nhìn chằm chằm xuống giếng thang, mà chẳng biết bao lâu."
+ },
+ "a:stairway8|adaptive|repeat_inspect|0": {
+  "postedit": "Bạn lại kiểm tra {THING}. Không rõ vì sao.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Bạn lại kiểm tra {THING}. Không rõ vì sao."
+ },
+ "a:stairway8|adaptive|repeat_inspect|1": {
+  "postedit": "Ánh mắt bạn hướng thẳng tới {THING}, như dạo này vẫn thế.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Ánh mắt bạn hướng thẳng tới {THING}, như dạo này vẫn thế."
+ },
+ "a:stairway8|adaptive|repeat_inspect|2": {
+  "postedit": "{THING} lại thu hút sự chú ý của bạn.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "{THING} lại thu hút sự chú ý của bạn."
+ },
+ "a:stairway8|attempt": {
+  "postedit": "{n} lần xuống cầu thang này, và lần này nó để bạn ra.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "{n} lần xuống cầu thang này, và lần này nó để bạn ra."
+ },
+ "a:stairway8|attempt_first": {
+  "postedit": "Ngay lần xuống đầu tiên, cầu thang không bắt bạn quay lại.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Ngay lần xuống đầu tiên, cầu thang không bắt bạn quay lại."
+ },
+ "a:stairway8|framing|cutscene|0": {
+  "postedit": "Có gì đó ở chiếu nghỉ đã đổi, mà bạn cứ thế đi xuống.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Có gì đó ở chiếu nghỉ đã đổi, mà bạn cứ thế đi xuống."
+ },
+ "a:stairway8|framing|cutscene|1": {
+  "postedit": "Nếu một chiếu nghỉ không giống hệt như bạn nhớ, hãy đi ngược lên. Nếu giống, cứ xuống tiếp.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Nếu một chiếu nghỉ không giống hệt như bạn nhớ, hãy đi ngược lên. Nếu giống, cứ xuống tiếp."
+ },
+ "a:stairway8|framing|intro|0": {
+  "postedit": "HỎNG",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "HỎNG"
+ },
+ "a:stairway8|framing|intro|2": {
+  "postedit": "Bạn bấm nút gọi. Chẳng có gì. Một tấm thông báo dán ngang cửa:",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Bạn bấm nút gọi. Chẳng có gì. Một tấm thông báo dán ngang cửa:"
+ },
+ "a:stairway8|framing|intro|3": {
+  "postedit": "THANG MÁY HỎNG, XIN DÙNG CẦU THANG.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "THANG MÁY HỎNG, XIN DÙNG CẦU THANG."
+ },
+ "a:stairway8|framing|intro|5": {
+  "postedit": "Chừng nào một chiếu nghỉ còn y hệt như trong trí nhớ, cứ đi xuống tiếp.",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "Chừng nào một chiếu nghỉ còn y hệt như trong trí nhớ, cứ đi xuống tiếp."
+ },
+ "a:stairway8|framing|intro|6": {
+  "postedit": "Nếu có gì thay đổi, giếng thang đã xoay bạn ngược lại. Hãy leo trở lên.",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "Nếu có gì thay đổi, giếng thang đã xoay bạn ngược lại. Hãy leo trở lên."
+ },
+ "a:stairway8|framing|intro|8": {
+  "postedit": "Tầng trệt là lối ra.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Tầng trệt là lối ra."
+ },
+ "a:stairway8|framing|intro|9": {
+  "postedit": "Đếm lạc số chiếu nghỉ, và bạn sẽ trở lại đỉnh.",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "Đếm lạc số chiếu nghỉ, và bạn sẽ trở lại đỉnh."
+ },
+ "a:stairway8|framing|win|0": {
+  "postedit": "Nhịp thang cuối mở ra sảnh.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Nhịp thang cuối mở ra sảnh."
+ },
+ "a:stairway8|framing|win|1": {
+  "postedit": "Ánh ngày qua cửa. Con phố. Thang máy sau lưng bạn, vẫn chết lặng.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Ánh ngày qua cửa. Con phố. Thang máy sau lưng bạn, vẫn chết lặng."
+ },
+ "a:stairway8|framing|win|2": {
+  "postedit": "Xuống tám tầng, và trí nhớ bạn đã giữ được từng chiếu nghỉ.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Xuống tám tầng, và trí nhớ bạn đã giữ được từng chiếu nghỉ."
+ },
+ "a:stairway8|framing|win|3": {
+  "postedit": "Tầng trệt.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "Tầng trệt."
+ },
+ "a:stairway8|go_on": {
+  "postedit": "Đi xuống",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "Đi xuống"
+ },
+ "a:stairway8|label|door": {
+  "postedit": "cửa chống cháy",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "cửa chống cháy"
+ },
+ "a:stairway8|label|extinguisher": {
+  "postedit": "bình chữa cháy",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "bình chữa cháy"
+ },
+ "a:stairway8|label|figure": {
+  "postedit": "bóng người trên cầu thang",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "bóng người trên cầu thang"
+ },
+ "a:stairway8|label|lighting": {
+  "postedit": "đèn",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "đèn"
+ },
+ "a:stairway8|label|notice": {
+  "postedit": "tấm thông báo thang máy",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "tấm thông báo thang máy"
+ },
+ "a:stairway8|label|number": {
+  "postedit": "số tầng",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "số tầng"
+ },
+ "a:stairway8|label|railing": {
+  "postedit": "tay vịn",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "tay vịn"
+ },
+ "a:stairway8|label|sense": {
+  "postedit": "cảm giác này",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "cảm giác này"
+ },
+ "a:stairway8|label|sound": {
+  "postedit": "âm thanh",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "âm thanh"
+ },
+ "a:stairway8|label|stairs": {
+  "postedit": "cầu thang đi xuống",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "cầu thang đi xuống"
+ },
+ "a:stairway8|p:door|v:closed|0": {
+  "postedit": "Cửa chống cháy vào tầng đóng chặt, ô kính lưới thép tối đen.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Cửa chống cháy vào tầng đóng chặt, ô kính lưới thép tối đen."
+ },
+ "a:stairway8|p:door|v:closed|1": {
+  "postedit": "Cánh cửa chống cháy xám nặng đóng im trên chiếu nghỉ.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Cánh cửa chống cháy xám nặng đóng im trên chiếu nghỉ."
+ },
+ "a:stairway8|p:door|v:closed|2": {
+  "postedit": "Cửa vào tầng đóng, đúng như lẽ ra.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Cửa vào tầng đóng, đúng như lẽ ra."
+ },
+ "a:stairway8|p:door|x:ajar|0": {
+  "postedit": "Cửa chống cháy hé mở một chút. Một khe đen, không ánh sáng.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Cửa chống cháy hé mở một chút. Một khe đen, không ánh sáng."
+ },
+ "a:stairway8|p:door|x:ajar|1": {
+  "postedit": "Cánh cửa nặng hé một khe; nó chẳng bao giờ vậy.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Cánh cửa nặng hé một khe; nó chẳng bao giờ vậy."
+ },
+ "a:stairway8|p:door|x:ajar|2": {
+  "postedit": "Lần này cửa chống cháy không đóng hẳn.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Lần này cửa chống cháy không đóng hẳn."
+ },
+ "a:stairway8|p:door|x:handle|0": {
+  "postedit": "Cửa chống cháy giờ không có tay nắm.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Cửa chống cháy giờ không có tay nắm."
+ },
+ "a:stairway8|p:door|x:handle|1": {
+  "postedit": "Nơi từng có tay nắm cửa, chỉ còn mấy lỗ trơ.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Nơi từng có tay nắm cửa, chỉ còn mấy lỗ trơ."
+ },
+ "a:stairway8|p:door|x:handle|2": {
+  "postedit": "Tay nắm trên cửa chống cháy đã biến mất.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Tay nắm trên cửa chống cháy đã biến mất."
+ },
+ "a:stairway8|p:door|x:propped|0": {
+  "postedit": "Cửa chống cháy bị chèn mở toang ra một tầng tối.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Cửa chống cháy bị chèn mở toang ra một tầng tối."
+ },
+ "a:stairway8|p:door|x:propped|1": {
+  "postedit": "Ai đó đã chèn cho cửa chống cháy mở.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Ai đó đã chèn cho cửa chống cháy mở."
+ },
+ "a:stairway8|p:door|x:propped|2": {
+  "postedit": "Cửa mở toang, chẳng có gì trông thấy giữ nó.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Cửa mở toang, chẳng có gì trông thấy giữ nó."
+ },
+ "a:stairway8|p:door|x:window|0": {
+  "postedit": "Ô kính lưới thép trên cửa đã đen kịt, bị che.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Ô kính lưới thép trên cửa đã đen kịt, bị che."
+ },
+ "a:stairway8|p:door|x:window|1": {
+  "postedit": "Ô cửa sổ nhỏ trên cửa chống cháy bị chặn từ phía bên kia.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Ô cửa sổ nhỏ trên cửa chống cháy bị chặn từ phía bên kia."
+ },
+ "a:stairway8|p:door|x:window|2": {
+  "postedit": "Có gì đó ép vào ô kính trên cửa.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Có gì đó ép vào ô kính trên cửa."
+ },
+ "a:stairway8|p:extinguisher|v:present|0": {
+  "postedit": "Một bình chữa cháy treo trên giá đỡ cạnh cửa.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Một bình chữa cháy treo trên giá đỡ cạnh cửa."
+ },
+ "a:stairway8|p:extinguisher|v:present|1": {
+  "postedit": "Bình chữa cháy đỏ ở đúng chỗ trên tường.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Bình chữa cháy đỏ ở đúng chỗ trên tường."
+ },
+ "a:stairway8|p:extinguisher|v:present|2": {
+  "postedit": "Bình chữa cháy của chiếu nghỉ nằm trên móc.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Bình chữa cháy của chiếu nghỉ nằm trên móc."
+ },
+ "a:stairway8|p:extinguisher|x:floor|0": {
+  "postedit": "Bình chữa cháy nằm nghiêng dưới sàn.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Bình chữa cháy nằm nghiêng dưới sàn."
+ },
+ "a:stairway8|p:extinguisher|x:floor|1": {
+  "postedit": "Bình chữa cháy đã được đặt xuống chiếu nghỉ.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Bình chữa cháy đã được đặt xuống chiếu nghỉ."
+ },
+ "a:stairway8|p:extinguisher|x:floor|2": {
+  "postedit": "Bình chữa cháy dựng lỏng lẻo bên tường, đã rời khỏi móc.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Bình chữa cháy dựng lỏng lẻo bên tường, đã rời khỏi móc."
+ },
+ "a:stairway8|p:extinguisher|x:gauge|0": {
+  "postedit": "Đồng hồ áp suất của bình chữa cháy chỉ vào vùng đỏ.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Đồng hồ áp suất của bình chữa cháy chỉ vào vùng đỏ."
+ },
+ "a:stairway8|p:extinguisher|x:gauge|1": {
+  "postedit": "Kim trên bình chữa cháy nằm sâu trong vùng đỏ.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Kim trên bình chữa cháy nằm sâu trong vùng đỏ."
+ },
+ "a:stairway8|p:extinguisher|x:gauge|2": {
+  "postedit": "Đồng hồ của bình chữa cháy đã tụt về mức cạn.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Đồng hồ của bình chữa cháy đã tụt về mức cạn."
+ },
+ "a:stairway8|p:extinguisher|x:gone|0": {
+  "postedit": "Giá đỡ bình chữa cháy trống không.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Giá đỡ bình chữa cháy trống không."
+ },
+ "a:stairway8|p:extinguisher|x:gone|1": {
+  "postedit": "Bình chữa cháy biến mất; chỉ còn lại giá đỡ.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Bình chữa cháy biến mất; chỉ còn lại giá đỡ."
+ },
+ "a:stairway8|p:extinguisher|x:gone|2": {
+  "postedit": "Lần này trên tường không có bình chữa cháy.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Lần này trên tường không có bình chữa cháy."
+ },
+ "a:stairway8|p:figure|v:below|0": {
+  "postedit": "Xa phía dưới, một người khác lượn vòng xuống giếng thang, luôn đi trước một hai nhịp.",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "Xa phía dưới, một người khác lượn vòng xuống giếng thang, luôn đi trước một hai nhịp."
+ },
+ "a:stairway8|p:figure|v:below|1": {
+  "postedit": "Một bóng người đi xuống giếng thang phía trước bạn, giữ nguyên khoảng cách.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Một bóng người đi xuống giếng thang phía trước bạn, giữ nguyên khoảng cách."
+ },
+ "a:stairway8|p:figure|v:below|2": {
+  "postedit": "Có người trên cầu thang phía dưới, đi xuống theo nhịp của bạn, không bao giờ lại gần.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Có người trên cầu thang phía dưới, đi xuống theo nhịp của bạn, không bao giờ lại gần."
+ },
+ "a:stairway8|p:figure|x:ascending|0": {
+  "postedit": "Bóng người giờ đang leo lên, tiến lên cầu thang về phía bạn.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Bóng người giờ đang leo lên, tiến lên cầu thang về phía bạn."
+ },
+ "a:stairway8|p:figure|x:ascending|1": {
+  "postedit": "Tiếng bước chân vọng lên: bóng người phía dưới đang đi lên, không phải xuống.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Tiếng bước chân vọng lên: bóng người phía dưới đang đi lên, không phải xuống."
+ },
+ "a:stairway8|p:figure|x:ascending|2": {
+  "postedit": "Kẻ trên cầu thang đã quay đầu và đang đi lên.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Kẻ trên cầu thang đã quay đầu và đang đi lên."
+ },
+ "a:stairway8|p:figure|x:closer|0": {
+  "postedit": "Bóng người trên cầu thang gần hơn nhiều so với trước, chỉ cách một nhịp thang.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Bóng người trên cầu thang gần hơn nhiều so với trước, chỉ cách một nhịp thang."
+ },
+ "a:stairway8|p:figure|x:closer|1": {
+  "postedit": "Bóng người đi xuống đã rút ngắn khoảng cách; nó gần tới chiếu nghỉ của bạn.",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "Bóng người đi xuống đã rút ngắn khoảng cách; nó gần tới chiếu nghỉ của bạn."
+ },
+ "a:stairway8|p:figure|x:closer|2": {
+  "postedit": "Ai ở dưới thì giờ chỉ còn cách vài bậc.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Ai ở dưới thì giờ chỉ còn cách vài bậc."
+ },
+ "a:stairway8|p:figure|x:facing|0": {
+  "postedit": "Bóng người phía dưới đã dừng lại. Nó đang ngước nhìn bạn.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Bóng người phía dưới đã dừng lại. Nó đang ngước nhìn bạn."
+ },
+ "a:stairway8|p:figure|x:facing|1": {
+  "postedit": "Dưới giếng thang, bóng người đứng bất động, gương mặt ngẩng lên phía bạn.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Dưới giếng thang, bóng người đứng bất động, gương mặt ngẩng lên phía bạn."
+ },
+ "a:stairway8|p:figure|x:facing|2": {
+  "postedit": "Kẻ trên cầu thang giờ không đi xuống nữa. Nó đang dõi theo bạn.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Kẻ trên cầu thang giờ không đi xuống nữa. Nó đang dõi theo bạn."
+ },
+ "a:stairway8|p:figure|x:gone|0": {
+  "postedit": "Giếng thang phía dưới trống không. Kẻ vừa đi xuống đã biến mất.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Giếng thang phía dưới trống không. Kẻ vừa đi xuống đã biến mất."
+ },
+ "a:stairway8|p:figure|x:gone|1": {
+  "postedit": "Lần này không có bóng người nào trên cầu thang.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Lần này không có bóng người nào trên cầu thang."
+ },
+ "a:stairway8|p:figure|x:gone|2": {
+  "postedit": "Kẻ phía trước bạn đã biến khỏi giếng thang.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Kẻ phía trước bạn đã biến khỏi giếng thang."
+ },
+ "a:stairway8|p:figure|x:knows|0": {
+  "postedit": "Bóng người phía dưới ngước lên và giơ một tay, như thể nó đã chờ bạn.",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "Bóng người phía dưới ngước lên và giơ một tay, như thể nó đã chờ bạn."
+ },
+ "a:stairway8|p:figure|x:knows|1": {
+  "postedit": "Bóng người mấp máy điều gì đó lên giếng thang. Có thể là « lại nữa ».",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "Bóng người mấp máy điều gì đó lên giếng thang. Có thể là « lại nữa »."
+ },
+ "a:stairway8|p:figure|x:knows|2": {
+  "postedit": "Nó vẫy bạn xuống, chậm rãi và chắc chắn, như thể quen biết bạn.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Nó vẫy bạn xuống, chậm rãi và chắc chắn, như thể quen biết bạn."
+ },
+ "a:stairway8|p:lighting|v:steady|0": {
+  "postedit": "Một bóng đèn lồng lưới hắt ánh sáng đều khắp chiếu nghỉ.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Một bóng đèn lồng lưới hắt ánh sáng đều khắp chiếu nghỉ."
+ },
+ "a:stairway8|p:lighting|v:steady|1": {
+  "postedit": "Đèn giếng thang cháy đều trên đầu, như mọi khi.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Đèn giếng thang cháy đều trên đầu, như mọi khi."
+ },
+ "a:stairway8|p:lighting|v:steady|2": {
+  "postedit": "Dải đèn huỳnh quang trên chiếu nghỉ phát thứ ánh trắng nhạt quen thuộc.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Dải đèn huỳnh quang trên chiếu nghỉ phát thứ ánh trắng nhạt quen thuộc."
+ },
+ "a:stairway8|p:lighting|v:steady|3": {
+  "postedit": "Ánh sáng đổ xuống đây giống hệt mọi chiếu nghỉ phía trên.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Ánh sáng đổ xuống đây giống hệt mọi chiếu nghỉ phía trên."
+ },
+ "a:stairway8|p:lighting|x:dim|0": {
+  "postedit": "Chiếu nghỉ này tối hơn những chiếu nghỉ phía trên.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Chiếu nghỉ này tối hơn những chiếu nghỉ phía trên."
+ },
+ "a:stairway8|p:lighting|x:dim|1": {
+  "postedit": "Đèn ở đây đã bỏ cuộc một nửa; các góc vẫn tối.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Đèn ở đây đã bỏ cuộc một nửa; các góc vẫn tối."
+ },
+ "a:stairway8|p:lighting|x:dim|2": {
+  "postedit": "Một màn xám đục treo lơ lửng trên chiếu nghỉ.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Một màn xám đục treo lơ lửng trên chiếu nghỉ."
+ },
+ "a:stairway8|p:lighting|x:flicker|0": {
+  "postedit": "Bóng đèn lồng lưới giật lên vài cái, rồi ổn định.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Bóng đèn lồng lưới giật lên vài cái, rồi ổn định."
+ },
+ "a:stairway8|p:lighting|x:flicker|1": {
+  "postedit": "Đèn giếng thang chớp theo cái kiểu chưa từng có trước đây.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Đèn giếng thang chớp theo cái kiểu chưa từng có trước đây."
+ },
+ "a:stairway8|p:lighting|x:flicker|2": {
+  "postedit": "Trên đầu, đèn tắt phụt một cái rồi lại sáng.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Trên đầu, đèn tắt phụt một cái rồi lại sáng."
+ },
+ "a:stairway8|p:lighting|x:red|0": {
+  "postedit": "Chiếu nghỉ được chiếu đỏ, một bóng đèn khẩn cấp bạn không nhớ.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Chiếu nghỉ được chiếu đỏ, một bóng đèn khẩn cấp bạn không nhớ."
+ },
+ "a:stairway8|p:lighting|x:red|1": {
+  "postedit": "Mọi thứ khoác một lớp ánh đỏ khẩn cấp trầm.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Mọi thứ khoác một lớp ánh đỏ khẩn cấp trầm."
+ },
+ "a:stairway8|p:lighting|x:red|2": {
+  "postedit": "Ánh sáng trắng đã biến mất; chỉ còn một bóng đèn đỏ.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Ánh sáng trắng đã biến mất; chỉ còn một bóng đèn đỏ."
+ },
+ "a:stairway8|p:notice|v:out|0": {
+  "postedit": "Một tấm thông báo dán trên thang máy ghi HỎNG, XIN DÙNG CẦU THANG.",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "Một tấm thông báo dán trên thang máy ghi HỎNG, XIN DÙNG CẦU THANG."
+ },
+ "a:stairway8|p:notice|v:out|1": {
+  "postedit": "Tấm thông báo sửa chữa vẫn còn đó: thang máy hỏng.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Tấm thông báo sửa chữa vẫn còn đó: thang máy hỏng."
+ },
+ "a:stairway8|p:notice|v:out|2": {
+  "postedit": "HỎNG, tấm biển dán ngang cửa thang máy viết vậy.",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "HỎNG, tấm biển dán ngang cửa thang máy viết vậy."
+ },
+ "a:stairway8|p:notice|x:arrow|0": {
+  "postedit": "Mũi tên trên thông báo chỉ lên, không phải xuống.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Mũi tên trên thông báo chỉ lên, không phải xuống."
+ },
+ "a:stairway8|p:notice|x:arrow|1": {
+  "postedit": "Mũi tên trên biển đã lật ngược, chỉ trở lên cầu thang.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Mũi tên trên biển đã lật ngược, chỉ trở lên cầu thang."
+ },
+ "a:stairway8|p:notice|x:arrow|2": {
+  "postedit": "Tấm thông báo giờ hướng bạn đi lên.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Tấm thông báo giờ hướng bạn đi lên."
+ },
+ "a:stairway8|p:notice|x:gone|0": {
+  "postedit": "Tấm thông báo thang máy biến mất. Chỉ còn cửa kim loại trơ trọi.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Tấm thông báo thang máy biến mất. Chỉ còn cửa kim loại trơ trọi."
+ },
+ "a:stairway8|p:notice|x:gone|1": {
+  "postedit": "Lần này thang máy không có biển nào.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Lần này thang máy không có biển nào."
+ },
+ "a:stairway8|p:notice|x:gone|2": {
+  "postedit": "Tấm thông báo sửa chữa đã bị gỡ xuống.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Tấm thông báo sửa chữa đã bị gỡ xuống."
+ },
+ "a:stairway8|p:notice|x:service|0": {
+  "postedit": "Tấm thông báo giờ ghi THANG MÁY HOẠT ĐỘNG.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Tấm thông báo giờ ghi THANG MÁY HOẠT ĐỘNG."
+ },
+ "a:stairway8|p:notice|x:service|1": {
+  "postedit": "Tấm biển nói thang máy đã chạy lại.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Tấm biển nói thang máy đã chạy lại."
+ },
+ "a:stairway8|p:notice|x:service|2": {
+  "postedit": "HỎNG đã thành HOẠT ĐỘNG TRỞ LẠI.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "HỎNG đã thành HOẠT ĐỘNG TRỞ LẠI."
+ },
+ "a:stairway8|p:notice|x:wording|0": {
+  "postedit": "Tấm thông báo ghi KHÔNG DÙNG CẦU THANG.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Tấm thông báo ghi KHÔNG DÙNG CẦU THANG."
+ },
+ "a:stairway8|p:notice|x:wording|1": {
+  "postedit": "Tấm biển cảnh báo CẦU THANG ĐÓNG, trước nay chưa từng vậy.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Tấm biển cảnh báo CẦU THANG ĐÓNG, trước nay chưa từng vậy."
+ },
+ "a:stairway8|p:notice|x:wording|2": {
+  "postedit": "Tấm thông báo giờ bảo bạn đừng đi cầu thang chút nào.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Tấm thông báo giờ bảo bạn đừng đi cầu thang chút nào."
+ },
+ "a:stairway8|p:number|v:eight|0": {
+  "postedit": "Một số 8 sơn lớn đánh dấu tường chiếu nghỉ.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Một số 8 sơn lớn đánh dấu tường chiếu nghỉ."
+ },
+ "a:stairway8|p:number|v:eight|1": {
+  "postedit": "Số tầng, 8, được in khuôn trên bê tông.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Số tầng, 8, được in khuôn trên bê tông."
+ },
+ "a:stairway8|p:number|v:eight|2": {
+  "postedit": "« 8 » sơn trên tường, những vệt sơn đông cứng dưới các nét.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "« 8 » sơn trên tường, những vệt sơn đông cứng dưới các nét."
+ },
+ "a:stairway8|p:number|v:eight|3": {
+  "postedit": "Tường ghi 8, giống chiếu nghỉ trước.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Tường ghi 8, giống chiếu nghỉ trước."
+ },
+ "a:stairway8|p:number|x:basement|0": {
+  "postedit": "Tường ghi B. Tầng hầm. Bạn còn xa mới tới đó.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Tường ghi B. Tầng hầm. Bạn còn xa mới tới đó."
+ },
+ "a:stairway8|p:number|x:basement|1": {
+  "postedit": "Con số biến mất; một chữ « B » sơn đứng vào chỗ đó.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Con số biến mất; một chữ « B » sơn đứng vào chỗ đó."
+ },
+ "a:stairway8|p:number|x:basement|2": {
+  "postedit": "Hình in khuôn ghi B, dù bạn mới chỉ bắt đầu đi xuống.",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "Hình in khuôn ghi B, dù bạn mới chỉ bắt đầu đi xuống."
+ },
+ "a:stairway8|p:number|x:faded|0": {
+  "postedit": "Con số sơn đã phai thành một cái bóng xám.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Con số sơn đã phai thành một cái bóng xám."
+ },
+ "a:stairway8|p:number|x:faded|1": {
+  "postedit": "Ai đó đã chà mất một nửa con số.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Ai đó đã chà mất một nửa con số."
+ },
+ "a:stairway8|p:number|x:faded|2": {
+  "postedit": "Số 8 trên tường gần như biến mất.",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "Số 8 trên tường gần như biến mất."
+ },
+ "a:stairway8|p:number|x:reversed|0": {
+  "postedit": "Số 8 được sơn ngược, như nhìn trong gương.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Số 8 được sơn ngược, như nhìn trong gương."
+ },
+ "a:stairway8|p:number|x:reversed|1": {
+  "postedit": "Số tầng bị lật gương.",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "Số tầng bị lật gương."
+ },
+ "a:stairway8|p:number|x:reversed|2": {
+  "postedit": "Con số in khuôn đọc ngược chiều.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Con số in khuôn đọc ngược chiều."
+ },
+ "a:stairway8|p:number|x:wrong|0": {
+  "postedit": "Tường ghi 7. Trước nay nó vẫn ghi 8.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Tường ghi 7. Trước nay nó vẫn ghi 8."
+ },
+ "a:stairway8|p:number|x:wrong|1": {
+  "postedit": "Con số sơn giờ là 6, không phải 8.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Con số sơn giờ là 6, không phải 8."
+ },
+ "a:stairway8|p:number|x:wrong|2": {
+  "postedit": "Số tầng đã đổi: nó ghi 9.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Số tầng đã đổi: nó ghi 9."
+ },
+ "a:stairway8|p:railing|v:cold|0": {
+  "postedit": "Tay vịn thép chạy dài lạnh lẽo và liền mạch dưới tay bạn.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Tay vịn thép chạy dài lạnh lẽo và liền mạch dưới tay bạn."
+ },
+ "a:stairway8|p:railing|v:cold|1": {
+  "postedit": "Tay vịn sơn đúng chỗ nó vẫn luôn ở.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Tay vịn sơn đúng chỗ nó vẫn luôn ở."
+ },
+ "a:stairway8|p:railing|v:cold|2": {
+  "postedit": "Tay bạn tìm thấy tay vịn, liền mạch dọc nhịp thang.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Tay bạn tìm thấy tay vịn, liền mạch dọc nhịp thang."
+ },
+ "a:stairway8|p:railing|x:gap|0": {
+  "postedit": "Một đoạn tay vịn biến mất phía trên chỗ hụt.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Một đoạn tay vịn biến mất phía trên chỗ hụt."
+ },
+ "a:stairway8|p:railing|x:gap|1": {
+  "postedit": "Tay vịn có một khoảng trống nơi một đoạn đã bị tháo.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Tay vịn có một khoảng trống nơi một đoạn đã bị tháo."
+ },
+ "a:stairway8|p:railing|x:gap|2": {
+  "postedit": "Một phần tay vịn đơn giản là không có ở đó.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Một phần tay vịn đơn giản là không có ở đó."
+ },
+ "a:stairway8|p:railing|x:paint|0": {
+  "postedit": "Tay vịn có màu khác với những nhịp thang phía trên.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Tay vịn có màu khác với những nhịp thang phía trên."
+ },
+ "a:stairway8|p:railing|x:paint|1": {
+  "postedit": "Ai đó đã sơn lại đoạn tay vịn này.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Ai đó đã sơn lại đoạn tay vịn này."
+ },
+ "a:stairway8|p:railing|x:paint|2": {
+  "postedit": "Sơn tay vịn ở đây màu xanh, không phải xám.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Sơn tay vịn ở đây màu xanh, không phải xám."
+ },
+ "a:stairway8|p:railing|x:wet|0": {
+  "postedit": "Tay vịn ướt, dù chẳng có gì nhỏ giọt lên nó.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Tay vịn ướt, dù chẳng có gì nhỏ giọt lên nó."
+ },
+ "a:stairway8|p:railing|x:wet|1": {
+  "postedit": "Tay bạn rời khỏi thanh vịn thấy ẩm.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Tay bạn rời khỏi thanh vịn thấy ẩm."
+ },
+ "a:stairway8|p:railing|x:wet|2": {
+  "postedit": "Tay vịn trơn nhẫy dưới lòng bàn tay bạn.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Tay vịn trơn nhẫy dưới lòng bàn tay bạn."
+ },
+ "a:stairway8|p:sense|v:steady|0": {
+  "postedit": "Giếng thang cảm giác sâu đúng như xưa nay.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Giếng thang cảm giác sâu đúng như xưa nay."
+ },
+ "a:stairway8|p:sense|v:steady|1": {
+  "postedit": "Bạn mang theo cùng sự đề phòng ấy xuống hết nhịp này đến nhịp khác.",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "Bạn mang theo cùng sự đề phòng ấy xuống hết nhịp này đến nhịp khác."
+ },
+ "a:stairway8|p:sense|v:steady|2": {
+  "postedit": "Mọi thứ đều bình thường, trong chừng mực mà bất cứ điều gì ở đây có thể bình thường.",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "Mọi thứ đều bình thường, trong chừng mực mà bất cứ điều gì ở đây có thể bình thường."
+ },
+ "a:stairway8|p:sense|x:deeper|0": {
+  "postedit": "Giếng thang cảm giác sâu hơn lẽ ra, tầng trệt xa hơn.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Giếng thang cảm giác sâu hơn lẽ ra, tầng trệt xa hơn."
+ },
+ "a:stairway8|p:sense|x:deeper|1": {
+  "postedit": "Bạn cảm thấy mình đã đi xuống nhiều hơn tám tầng rất nhiều.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Bạn cảm thấy mình đã đi xuống nhiều hơn tám tầng rất nhiều."
+ },
+ "a:stairway8|p:sense|x:deeper|2": {
+  "postedit": "Đáy dường như đã lùi ra xa hơn.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Đáy dường như đã lùi ra xa hơn."
+ },
+ "a:stairway8|p:sense|x:forget|0": {
+  "postedit": "Trong một thoáng bạn không nhớ nổi mình đã qua bao nhiêu chiếu nghỉ.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Trong một thoáng bạn không nhớ nổi mình đã qua bao nhiêu chiếu nghỉ."
+ },
+ "a:stairway8|p:sense|x:forget|1": {
+  "postedit": "Bạn đếm lạc số nhịp thang phía trên, và điều đó khiến bạn sợ.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Bạn đếm lạc số nhịp thang phía trên, và điều đó khiến bạn sợ."
+ },
+ "a:stairway8|p:sense|x:forget|2": {
+  "postedit": "Bạn chẳng nhớ nổi mình đã bắt đầu từ tầng nào.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Bạn chẳng nhớ nổi mình đã bắt đầu từ tầng nào."
+ },
+ "a:stairway8|p:sense|x:up|0": {
+  "postedit": "Trong một khoảnh khắc bạn chắc rằng mình vẫn đang leo lên, không phải xuống.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Trong một khoảnh khắc bạn chắc rằng mình vẫn đang leo lên, không phải xuống."
+ },
+ "a:stairway8|p:sense|x:up|1": {
+  "postedit": "Một cảm giác sai trái siết lấy bạn: rằng xuống bấy lâu vẫn là lên.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Một cảm giác sai trái siết lấy bạn: rằng xuống bấy lâu vẫn là lên."
+ },
+ "a:stairway8|p:sense|x:up|2": {
+  "postedit": "Bạn cảm thấy, ngắn ngủi và lạnh lẽo, rằng mình đang đi sai hướng.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Bạn cảm thấy, ngắn ngủi và lạnh lẽo, rằng mình đang đi sai hướng."
+ },
+ "a:stairway8|p:sound|v:quiet|0": {
+  "postedit": "Tiếng bước chân bạn vọng lên giếng thang rồi tắt dần.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Tiếng bước chân bạn vọng lên giếng thang rồi tắt dần."
+ },
+ "a:stairway8|p:sound|v:quiet|1": {
+  "postedit": "Giếng thang tĩnh lặng, chỉ trừ tiếng bước chân của chính bạn.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Giếng thang tĩnh lặng, chỉ trừ tiếng bước chân của chính bạn."
+ },
+ "a:stairway8|p:sound|v:quiet|2": {
+  "postedit": "Xa phía dưới, tòa nhà rì rì một mình.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Xa phía dưới, tòa nhà rì rì một mình."
+ },
+ "a:stairway8|p:sound|x:drip|0": {
+  "postedit": "Nước nhỏ giọt đâu đó dưới giếng thang. Tí. Tách.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Nước nhỏ giọt đâu đó dưới giếng thang. Tí. Tách."
+ },
+ "a:stairway8|p:sound|x:drip|1": {
+  "postedit": "Một tiếng nhỏ giọt chậm rãi vọng lên từ dưới.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Một tiếng nhỏ giọt chậm rãi vọng lên từ dưới."
+ },
+ "a:stairway8|p:sound|x:drip|2": {
+  "postedit": "Có gì đó đang nhỏ giọt, dưới mấy tầng.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Có gì đó đang nhỏ giọt, dưới mấy tầng."
+ },
+ "a:stairway8|p:sound|x:footsteps|0": {
+  "postedit": "Tiếng bước chân leo lên phía bạn, rồi ngừng.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Tiếng bước chân leo lên phía bạn, rồi ngừng."
+ },
+ "a:stairway8|p:sound|x:footsteps|1": {
+  "postedit": "Bạn nghe những bước chân không phải của mình ở nhịp thang dưới.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Bạn nghe những bước chân không phải của mình ở nhịp thang dưới."
+ },
+ "a:stairway8|p:sound|x:footsteps|2": {
+  "postedit": "Trong một thoáng, có người khác trên cầu thang.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Trong một thoáng, có người khác trên cầu thang."
+ },
+ "a:stairway8|p:sound|x:silence|0": {
+  "postedit": "Tiếng rì rì của tòa nhà đã ngừng. Im lặng như chết.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Tiếng rì rì của tòa nhà đã ngừng. Im lặng như chết."
+ },
+ "a:stairway8|p:sound|x:silence|1": {
+  "postedit": "Hoàn toàn tĩnh lặng. Tĩnh lặng quá đỗi.",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "Hoàn toàn tĩnh lặng. Tĩnh lặng quá đỗi."
+ },
+ "a:stairway8|p:sound|x:silence|2": {
+  "postedit": "Ngay cả tiếng vọng bước chân bạn cũng như tan biến.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Ngay cả tiếng vọng bước chân bạn cũng như tan biến."
+ },
+ "a:stairway8|p:sound|x:slam|0": {
+  "postedit": "Một cánh cửa đóng sầm xa phía dưới, rồi im lặng.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Một cánh cửa đóng sầm xa phía dưới, rồi im lặng."
+ },
+ "a:stairway8|p:sound|x:slam|1": {
+  "postedit": "Đâu đó dưới chân bạn một cánh cửa đóng rầm.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Đâu đó dưới chân bạn một cánh cửa đóng rầm."
+ },
+ "a:stairway8|p:sound|x:slam|2": {
+  "postedit": "Một cánh cửa nặng đóng lại dưới vài tầng.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Một cánh cửa nặng đóng lại dưới vài tầng."
+ },
+ "a:stairway8|p:stairs|v:clear|0": {
+  "postedit": "Nhịp thang đi xuống thông thoáng, bậc đều và khô.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Nhịp thang đi xuống thông thoáng, bậc đều và khô."
+ },
+ "a:stairway8|p:stairs|v:clear|1": {
+  "postedit": "Cầu thang đổ xuống như mọi khi, chẳng có gì trên đó.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Cầu thang đổ xuống như mọi khi, chẳng có gì trên đó."
+ },
+ "a:stairway8|p:stairs|v:clear|2": {
+  "postedit": "Nhịp thang kế đổ xuống, sạch và trống.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Nhịp thang kế đổ xuống, sạch và trống."
+ },
+ "a:stairway8|p:stairs|x:debris|0": {
+  "postedit": "Có gì đó bỏ lại trên các bậc phía dưới, có lẽ là một cái túi.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Có gì đó bỏ lại trên các bậc phía dưới, có lẽ là một cái túi."
+ },
+ "a:stairway8|p:stairs|x:debris|1": {
+  "postedit": "Có rác vương vãi khắp nhịp thang kế.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Có rác vương vãi khắp nhịp thang kế."
+ },
+ "a:stairway8|p:stairs|x:debris|2": {
+  "postedit": "Một hình thù đen ngồi lưng chừng nhịp thang.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Một hình thù đen ngồi lưng chừng nhịp thang."
+ },
+ "a:stairway8|p:stairs|x:missing|0": {
+  "postedit": "Một bậc trong nhịp thang phía dưới biến mất.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Một bậc trong nhịp thang phía dưới biến mất."
+ },
+ "a:stairway8|p:stairs|x:missing|1": {
+  "postedit": "Có một khoảng hụt trên cầu thang nơi lẽ ra phải có bậc.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Có một khoảng hụt trên cầu thang nơi lẽ ra phải có bậc."
+ },
+ "a:stairway8|p:stairs|x:missing|2": {
+  "postedit": "Một mặt bậc biến mất khỏi nhịp thang đi xuống.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Một mặt bậc biến mất khỏi nhịp thang đi xuống."
+ },
+ "a:stairway8|p:stairs|x:up|0": {
+  "postedit": "Mũi tên in khuôn trên bậc chỉ LÊN, không phải xuống.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Mũi tên in khuôn trên bậc chỉ LÊN, không phải xuống."
+ },
+ "a:stairway8|p:stairs|x:up|1": {
+  "postedit": "Chiều sơn trên cầu thang đã đảo ngược.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Chiều sơn trên cầu thang đã đảo ngược."
+ },
+ "a:stairway8|p:stairs|x:up|2": {
+  "postedit": "Các bậc giờ như dẫn lên, dù bạn đang đi xuống.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Các bậc giờ như dẫn lên, dù bạn đang đi xuống."
+ },
+ "a:stairway8|p:stairs|x:wet|0": {
+  "postedit": "Những bậc phía dưới lấp lánh ướt trong ánh đèn.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Những bậc phía dưới lấp lánh ướt trong ánh đèn."
+ },
+ "a:stairway8|p:stairs|x:wet|1": {
+  "postedit": "Nhịp thang kế trơn trượt vì nước.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Nhịp thang kế trơn trượt vì nước."
+ },
+ "a:stairway8|p:stairs|x:wet|2": {
+  "postedit": "Cầu thang đi xuống ướt, dù bạn chẳng thấy gì đổ.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Cầu thang đi xuống ướt, dù bạn chẳng thấy gì đổ."
+ },
+ "a:stairway8|progress": {
+  "postedit": "Tầng {floor}   ·   đã xuống {level}/{goal}",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "Tầng {floor}   ·   đã xuống {level}/{goal}"
+ },
+ "a:stairway8|share_prompt": {
+  "postedit": "Cứ để cánh cửa bên dưới mở.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Cứ để cánh cửa bên dưới mở."
+ },
+ "a:stairway8|tagline": {
+  "postedit": "Thang máy hỏng rồi. Tám tầng đi xuống, mỗi lần một chiếu nghỉ.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Thang máy hỏng rồi. Tám tầng đi xuống, mỗi lần một chiếu nghỉ."
+ },
+ "a:stairway8|title_main": {
+  "postedit": "Cầu thang 8",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Cầu thang 8"
+ },
+ "a:stairway8|title|0": {
+  "postedit": "Cầu thang 8",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "Cầu thang 8"
+ },
+ "a:stairway8|title|1": {
+  "postedit": "Cầu thang 8",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "Cầu thang 8"
+ },
+ "a:stairway8|title|2": {
+  "postedit": "Cầu thang 8",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "Cầu thang 8"
+ },
+ "a:stairway8|title|3": {
+  "postedit": "Cầu thang 8",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "Cầu thang 8"
+ },
+ "a:stairway8|title|4": {
+  "postedit": "Giếng cầu thang 8",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Giếng cầu thang 8"
+ },
+ "a:stairway8|title|5": {
+  "postedit": "Cầu thang Tám",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Cầu thang Tám"
+ },
+ "a:stairway8|title|6": {
+  "postedit": "CẦU THANG 8",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "CẦU THANG 8"
+ },
+ "a:stairway8|title|7": {
+  "postedit": "Cầu thang  8",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "Cầu thang  8"
+ },
+ "a:stairway8|turn_back": {
+  "postedit": "Quay lên",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Quay lên"
+ }
+}

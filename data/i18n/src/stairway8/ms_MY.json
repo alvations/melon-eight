@@ -1,0 +1,1100 @@
+{
+  "a:stairway8|title_main": {
+    "text": "Tangga 8",
+    "score": 94,
+    "postedit": "Tangga 8",
+    "postedit_score": 96
+  },
+  "a:stairway8|tagline": {
+    "text": "Lif rosak. Lapan tingkat ke bawah, satu pelantar dalam satu masa.",
+    "score": 93,
+    "postedit": "Lif rosak. Lapan tingkat ke bawah, satu pelantar dalam satu masa.",
+    "postedit_score": 95
+  },
+  "a:stairway8|go_on": {
+    "text": "Turun",
+    "score": 94,
+    "postedit": "Turun",
+    "postedit_score": 96
+  },
+  "a:stairway8|turn_back": {
+    "text": "Naik semula",
+    "score": 94,
+    "postedit": "Naik semula",
+    "postedit_score": 96
+  },
+  "a:stairway8|progress": {
+    "text": "Tingkat {floor}   ·   {level}/{goal} ke bawah",
+    "score": 93,
+    "postedit": "Tingkat {floor}   ·   {level}/{goal} ke bawah",
+    "postedit_score": 95
+  },
+  "a:stairway8|label|lighting": {
+    "text": "lampu",
+    "score": 94,
+    "postedit": "lampu",
+    "postedit_score": 96
+  },
+  "a:stairway8|label|sound": {
+    "text": "bunyi",
+    "score": 94,
+    "postedit": "bunyi",
+    "postedit_score": 96
+  },
+  "a:stairway8|label|number": {
+    "text": "nombor tingkat",
+    "score": 93,
+    "postedit": "nombor tingkat",
+    "postedit_score": 95
+  },
+  "a:stairway8|label|door": {
+    "text": "pintu kecemasan",
+    "score": 93,
+    "postedit": "pintu kecemasan",
+    "postedit_score": 95
+  },
+  "a:stairway8|label|notice": {
+    "text": "notis lif",
+    "score": 93,
+    "postedit": "notis lif",
+    "postedit_score": 95
+  },
+  "a:stairway8|label|railing": {
+    "text": "susur tangan",
+    "score": 93,
+    "postedit": "susur tangan",
+    "postedit_score": 95
+  },
+  "a:stairway8|label|extinguisher": {
+    "text": "pemadam api",
+    "score": 93,
+    "postedit": "pemadam api",
+    "postedit_score": 95
+  },
+  "a:stairway8|label|stairs": {
+    "text": "tangga menurun",
+    "score": 93,
+    "postedit": "tangga menurun",
+    "postedit_score": 95
+  },
+  "a:stairway8|label|figure": {
+    "text": "susuk di tangga",
+    "score": 93,
+    "postedit": "susuk di tangga",
+    "postedit_score": 95
+  },
+  "a:stairway8|label|sense": {
+    "text": "perasaan itu",
+    "score": 93,
+    "postedit": "perasaan itu",
+    "postedit_score": 95
+  },
+  "a:stairway8|title|0": {
+    "text": "Tangga 8",
+    "score": 94,
+    "postedit": "Tangga 8",
+    "postedit_score": 96
+  },
+  "a:stairway8|title|1": {
+    "text": "Tangga 8",
+    "score": 94,
+    "postedit": "Tangga 8",
+    "postedit_score": 96
+  },
+  "a:stairway8|title|2": {
+    "text": "Tangga 8",
+    "score": 94,
+    "postedit": "Tangga 8",
+    "postedit_score": 96
+  },
+  "a:stairway8|title|3": {
+    "text": "Tangga 8",
+    "score": 94,
+    "postedit": "Tangga 8",
+    "postedit_score": 96
+  },
+  "a:stairway8|title|4": {
+    "text": "Ruang Tangga 8",
+    "score": 93,
+    "postedit": "Ruang Tangga 8",
+    "postedit_score": 95
+  },
+  "a:stairway8|title|5": {
+    "text": "Tangga Lapan",
+    "score": 93,
+    "postedit": "Tangga Lapan",
+    "postedit_score": 95
+  },
+  "a:stairway8|title|6": {
+    "text": "TANGGA 8",
+    "score": 94,
+    "postedit": "TANGGA 8",
+    "postedit_score": 96
+  },
+  "a:stairway8|title|7": {
+    "text": "Tangga  8",
+    "score": 94,
+    "postedit": "Tangga  8",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:lighting|v:steady|0": {
+    "text": "Sebiji mentol berkurung memancarkan cahaya yang tetap di seluruh pelantar.",
+    "score": 93,
+    "postedit": "Sebiji mentol berkurung memancarkan cahaya yang tetap di seluruh pelantar.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:lighting|v:steady|1": {
+    "text": "Lampu ruang tangga menyala sekata di atas, seperti biasa.",
+    "score": 93,
+    "postedit": "Lampu ruang tangga menyala sekata di atas, seperti biasa.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:lighting|v:steady|2": {
+    "text": "Jalur lampu pendarfluor di pelantar bersinar putih hambar seperti biasa.",
+    "score": 93,
+    "postedit": "Jalur lampu pendarfluor di pelantar bersinar putih hambar seperti biasa.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:lighting|v:steady|3": {
+    "text": "Cahaya jatuh di sini sama seperti setiap pelantar di atas.",
+    "score": 93,
+    "postedit": "Cahaya jatuh di sini sama seperti setiap pelantar di atas.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:lighting|x:flicker|0": {
+    "text": "Mentol berkurung itu tersekat-sekat, kemudian stabil.",
+    "score": 93,
+    "postedit": "Mentol berkurung itu tersekat-sekat, kemudian stabil.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:lighting|x:flicker|1": {
+    "text": "Lampu ruang tangga berkelip dengan cara yang tidak pernah berlaku sebelum ini.",
+    "score": 93,
+    "postedit": "Lampu ruang tangga berkelip dengan cara yang tidak pernah berlaku sebelum ini.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:lighting|x:flicker|2": {
+    "text": "Di atas, lampu itu terpadam sekali dan menyala semula.",
+    "score": 93,
+    "postedit": "Di atas, lampu itu terpadam sekali dan menyala semula.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:lighting|x:dim|0": {
+    "text": "Pelantar ini lebih malap daripada pelantar-pelantar di atasnya.",
+    "score": 93,
+    "postedit": "Pelantar ini lebih malap daripada pelantar-pelantar di atasnya.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:lighting|x:dim|1": {
+    "text": "Lampu di sini separuh menyerah; sudut-sudutnya kekal gelap.",
+    "score": 93,
+    "postedit": "Lampu di sini separuh menyerah; sudut-sudutnya kekal gelap.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:lighting|x:dim|2": {
+    "text": "Suatu kesuraman kelabu menyelubungi pelantar.",
+    "score": 93,
+    "postedit": "Suatu kesuraman kelabu menyelubungi pelantar.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:lighting|x:red|0": {
+    "text": "Pelantar disuluhi cahaya merah, sebiji mentol kecemasan yang tidak kamu ingat.",
+    "score": 93,
+    "postedit": "Pelantar disuluhi cahaya merah, sebiji mentol kecemasan yang tidak kamu ingat.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:lighting|x:red|1": {
+    "text": "Segalanya diselubungi cahaya kecemasan merah yang malap.",
+    "score": 93,
+    "postedit": "Segalanya diselubungi cahaya kecemasan merah yang malap.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:lighting|x:red|2": {
+    "text": "Cahaya putih itu sudah hilang; hanya sebiji mentol merah yang tinggal.",
+    "score": 93,
+    "postedit": "Cahaya putih itu sudah hilang; hanya sebiji mentol merah yang tinggal.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:sound|v:quiet|0": {
+    "text": "Langkah kaki kamu bergema ke atas ruang tangga dan lenyap.",
+    "score": 93,
+    "postedit": "Langkah kaki kamu bergema ke atas ruang tangga dan lenyap.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:sound|v:quiet|1": {
+    "text": "Ruang tangga itu sunyi kecuali langkah kamu sendiri.",
+    "score": 93,
+    "postedit": "Ruang tangga itu sunyi kecuali langkah kamu sendiri.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:sound|v:quiet|2": {
+    "text": "Jauh di bawah, bangunan itu berdengung sendiri.",
+    "score": 93,
+    "postedit": "Jauh di bawah, bangunan itu berdengung sendiri.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:sound|x:drip|0": {
+    "text": "Air menitis di suatu tempat di bawah ruang tangga. Tik. Tik.",
+    "score": 93,
+    "postedit": "Air menitis di suatu tempat di bawah ruang tangga. Tik. Tik.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:sound|x:drip|1": {
+    "text": "Titisan perlahan bergema naik dari bawah.",
+    "score": 93,
+    "postedit": "Titisan perlahan bergema naik dari bawah.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:sound|x:drip|2": {
+    "text": "Ada sesuatu yang menitis, beberapa tingkat di bawah.",
+    "score": 93,
+    "postedit": "Ada sesuatu yang menitis, beberapa tingkat di bawah.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:sound|x:slam|0": {
+    "text": "Sebuah pintu berdentum jauh di bawah, kemudian sunyi.",
+    "score": 93,
+    "postedit": "Sebuah pintu berdentum jauh di bawah, kemudian sunyi.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:sound|x:slam|1": {
+    "text": "Di suatu tempat di bawah kamu, sebuah pintu terhempas tertutup.",
+    "score": 93,
+    "postedit": "Di suatu tempat di bawah kamu, sebuah pintu terhempas tertutup.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:sound|x:slam|2": {
+    "text": "Sebuah pintu berat tertutup beberapa tingkat di bawah.",
+    "score": 93,
+    "postedit": "Sebuah pintu berat tertutup beberapa tingkat di bawah.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:sound|x:footsteps|0": {
+    "text": "Langkah kaki mendaki ke arah kamu, kemudian berhenti.",
+    "score": 93,
+    "postedit": "Langkah kaki mendaki ke arah kamu, kemudian berhenti.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:sound|x:footsteps|1": {
+    "text": "Kamu mendengar langkah yang bukan milik kamu di tangga bawah.",
+    "score": 93,
+    "postedit": "Kamu mendengar langkah yang bukan milik kamu di tangga bawah.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:sound|x:footsteps|2": {
+    "text": "Buat seketika, ada orang lain di tangga.",
+    "score": 93,
+    "postedit": "Buat seketika, ada orang lain di tangga.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:sound|x:silence|0": {
+    "text": "Dengungan bangunan itu sudah terhenti. Sunyi sepi.",
+    "score": 93,
+    "postedit": "Dengungan bangunan itu sudah terhenti. Sunyi sepi.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:sound|x:silence|1": {
+    "text": "Keadaan benar-benar senyap. Terlalu senyap.",
+    "score": 94,
+    "postedit": "Keadaan benar-benar senyap. Terlalu senyap.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:sound|x:silence|2": {
+    "text": "Malah gema langkah kamu seolah-olah lenyap.",
+    "score": 93,
+    "postedit": "Malah gema langkah kamu seolah-olah lenyap.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:number|v:eight|0": {
+    "text": "Angka 8 yang besar bercat menandai dinding pelantar.",
+    "score": 93,
+    "postedit": "Angka 8 yang besar bercat menandai dinding pelantar.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:number|v:eight|1": {
+    "text": "Nombor tingkat, 8, distensil pada konkrit.",
+    "score": 93,
+    "postedit": "Nombor tingkat, 8, distensil pada konkrit.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:number|v:eight|2": {
+    "text": "'8' dicat pada dinding, titisan cat membeku di bawah coretannya.",
+    "score": 93,
+    "postedit": "'8' dicat pada dinding, titisan cat membeku di bawah coretannya.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:number|v:eight|3": {
+    "text": "Dinding tertera 8, sama seperti pelantar sebelumnya.",
+    "score": 93,
+    "postedit": "Dinding tertera 8, sama seperti pelantar sebelumnya.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:number|x:wrong|0": {
+    "text": "Dinding tertera 7. Selama ini ia sentiasa tertera 8.",
+    "score": 93,
+    "postedit": "Dinding tertera 7. Selama ini ia sentiasa tertera 8.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:number|x:wrong|1": {
+    "text": "Nombor bercat itu kini 6, bukan 8.",
+    "score": 94,
+    "postedit": "Nombor bercat itu kini 6, bukan 8.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:number|x:wrong|2": {
+    "text": "Nombor tingkat itu telah berubah: ia tertera 9.",
+    "score": 93,
+    "postedit": "Nombor tingkat itu telah berubah: ia tertera 9.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:number|x:basement|0": {
+    "text": "Dinding tertera B. Tingkat bawah tanah. Kamu masih jauh daripadanya.",
+    "score": 93,
+    "postedit": "Dinding tertera B. Tingkat bawah tanah. Kamu masih jauh daripadanya.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:number|x:basement|1": {
+    "text": "Nombor itu sudah tiada; satu 'B' bercat berdiri di tempatnya.",
+    "score": 93,
+    "postedit": "Nombor itu sudah tiada; satu 'B' bercat berdiri di tempatnya.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:number|x:basement|2": {
+    "text": "Stensil itu tertera B, walaupun kamu baru sahaja mula turun.",
+    "score": 93,
+    "postedit": "Stensil itu tertera B, walaupun kamu baru sahaja mula turun.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:number|x:faded|0": {
+    "text": "Nombor bercat itu telah pudar menjadi bayang kelabu.",
+    "score": 93,
+    "postedit": "Nombor bercat itu telah pudar menjadi bayang kelabu.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:number|x:faded|1": {
+    "text": "Seseorang telah menggosok nombor itu hingga separuh hilang.",
+    "score": 93,
+    "postedit": "Seseorang telah menggosok nombor itu hingga separuh hilang.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:number|x:faded|2": {
+    "text": "Angka 8 pada dinding itu hampir lenyap.",
+    "score": 93,
+    "postedit": "Angka 8 pada dinding itu hampir lenyap.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:number|x:reversed|0": {
+    "text": "Angka 8 itu dicat terbalik, seolah-olah dilihat dalam cermin.",
+    "score": 93,
+    "postedit": "Angka 8 itu dicat terbalik, seolah-olah dilihat dalam cermin.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:number|x:reversed|1": {
+    "text": "Nombor tingkat itu terbalik seperti pantulan cermin.",
+    "score": 93,
+    "postedit": "Nombor tingkat itu terbalik seperti pantulan cermin.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:number|x:reversed|2": {
+    "text": "Nombor yang distensil itu tertera dengan arah yang salah.",
+    "score": 93,
+    "postedit": "Nombor yang distensil itu tertera dengan arah yang salah.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:door|v:closed|0": {
+    "text": "Pintu kecemasan ke tingkat itu tertutup, kaca berdawainya gelap.",
+    "score": 93,
+    "postedit": "Pintu kecemasan ke tingkat itu tertutup, kaca berdawainya gelap.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:door|v:closed|1": {
+    "text": "Pintu kecemasan kelabu yang berat itu tertutup di pelantar.",
+    "score": 93,
+    "postedit": "Pintu kecemasan kelabu yang berat itu tertutup di pelantar.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:door|v:closed|2": {
+    "text": "Pintu ke tingkat itu tertutup, sebagaimana sepatutnya.",
+    "score": 93,
+    "postedit": "Pintu ke tingkat itu tertutup, sebagaimana sepatutnya.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:door|x:ajar|0": {
+    "text": "Pintu kecemasan itu terbuka sedikit. Satu celahan hitam, tanpa cahaya.",
+    "score": 93,
+    "postedit": "Pintu kecemasan itu terbuka sedikit. Satu celahan hitam, tanpa cahaya.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:door|x:ajar|1": {
+    "text": "Pintu berat itu terbuka sedikit; ia tidak pernah begitu.",
+    "score": 93,
+    "postedit": "Pintu berat itu terbuka sedikit; ia tidak pernah begitu.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:door|x:ajar|2": {
+    "text": "Pintu kecemasan itu tidak tertutup rapat kali ini.",
+    "score": 93,
+    "postedit": "Pintu kecemasan itu tidak tertutup rapat kali ini.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:door|x:propped|0": {
+    "text": "Pintu kecemasan itu disendal terbuka luas ke arah tingkat yang gelap.",
+    "score": 93,
+    "postedit": "Pintu kecemasan itu disendal terbuka luas ke arah tingkat yang gelap.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:door|x:propped|1": {
+    "text": "Seseorang telah menyendal pintu kecemasan itu terbuka.",
+    "score": 93,
+    "postedit": "Seseorang telah menyendal pintu kecemasan itu terbuka.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:door|x:propped|2": {
+    "text": "Pintu itu terbuka sepenuhnya, ditahan oleh sesuatu yang tidak kamu nampak.",
+    "score": 93,
+    "postedit": "Pintu itu terbuka sepenuhnya, ditahan oleh sesuatu yang tidak kamu nampak.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:door|x:window|0": {
+    "text": "Tingkap kaca berdawai pada pintu itu telah menjadi hitam, terlindung.",
+    "score": 93,
+    "postedit": "Tingkap kaca berdawai pada pintu itu telah menjadi hitam, terlindung.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:door|x:window|1": {
+    "text": "Tingkap kecil pada pintu kecemasan itu terhalang dari sebelah sana.",
+    "score": 93,
+    "postedit": "Tingkap kecil pada pintu kecemasan itu terhalang dari sebelah sana.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:door|x:window|2": {
+    "text": "Ada sesuatu menekan pada kaca pintu itu.",
+    "score": 93,
+    "postedit": "Ada sesuatu menekan pada kaca pintu itu.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:door|x:handle|0": {
+    "text": "Pintu kecemasan itu kini tiada pemegang.",
+    "score": 93,
+    "postedit": "Pintu kecemasan itu kini tiada pemegang.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:door|x:handle|1": {
+    "text": "Di tempat pemegang pintu dahulu, hanya lubang kosong.",
+    "score": 93,
+    "postedit": "Di tempat pemegang pintu dahulu, hanya lubang kosong.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:door|x:handle|2": {
+    "text": "Pemegang itu hilang daripada pintu kecemasan.",
+    "score": 93,
+    "postedit": "Pemegang itu hilang daripada pintu kecemasan.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:notice|v:out|0": {
+    "text": "Satu notis yang dilekatkan pada lif tertera ROSAK, GUNA TANGGA.",
+    "score": 93,
+    "postedit": "Satu notis yang dilekatkan pada lif tertera ROSAK, GUNA TANGGA.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:notice|v:out|1": {
+    "text": "Notis pembaikan itu masih ada: lif rosak.",
+    "score": 93,
+    "postedit": "Notis pembaikan itu masih ada: lif rosak.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:notice|v:out|2": {
+    "text": "ROSAK, tertera pada papan tanda yang dilekatkan merentasi pintu lif.",
+    "score": 93,
+    "postedit": "ROSAK, tertera pada papan tanda yang dilekatkan merentasi pintu lif.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:notice|x:gone|0": {
+    "text": "Notis lif itu sudah tiada. Hanya pintu logam yang kosong.",
+    "score": 93,
+    "postedit": "Notis lif itu sudah tiada. Hanya pintu logam yang kosong.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:notice|x:gone|1": {
+    "text": "Kali ini tiada papan tanda pada lif.",
+    "score": 94,
+    "postedit": "Kali ini tiada papan tanda pada lif.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:notice|x:gone|2": {
+    "text": "Notis pembaikan itu telah ditanggalkan.",
+    "score": 93,
+    "postedit": "Notis pembaikan itu telah ditanggalkan.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:notice|x:service|0": {
+    "text": "Notis itu kini tertera LIF BEROPERASI.",
+    "score": 93,
+    "postedit": "Notis itu kini tertera LIF BEROPERASI.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:notice|x:service|1": {
+    "text": "Papan tanda itu menyatakan lif sudah berfungsi semula.",
+    "score": 93,
+    "postedit": "Papan tanda itu menyatakan lif sudah berfungsi semula.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:notice|x:service|2": {
+    "text": "ROSAK telah bertukar menjadi BEROPERASI SEMULA.",
+    "score": 93,
+    "postedit": "ROSAK telah bertukar menjadi BEROPERASI SEMULA.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:notice|x:wording|0": {
+    "text": "Notis itu tertera JANGAN GUNA TANGGA.",
+    "score": 93,
+    "postedit": "Notis itu tertera JANGAN GUNA TANGGA.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:notice|x:wording|1": {
+    "text": "Papan tanda itu memberi amaran TANGGA DITUTUP, ia tidak pernah begitu sebelum ini.",
+    "score": 93,
+    "postedit": "Papan tanda itu memberi amaran TANGGA DITUTUP, ia tidak pernah begitu sebelum ini.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:notice|x:wording|2": {
+    "text": "Notis itu kini menyuruh kamu supaya langsung tidak menggunakan tangga.",
+    "score": 93,
+    "postedit": "Notis itu kini menyuruh kamu supaya langsung tidak menggunakan tangga.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:notice|x:arrow|0": {
+    "text": "Anak panah pada notis itu menunjuk ke atas, bukan ke bawah.",
+    "score": 93,
+    "postedit": "Anak panah pada notis itu menunjuk ke atas, bukan ke bawah.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:notice|x:arrow|1": {
+    "text": "Anak panah papan tanda itu telah berbalik menunjuk semula ke atas tangga.",
+    "score": 93,
+    "postedit": "Anak panah papan tanda itu telah berbalik menunjuk semula ke atas tangga.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:notice|x:arrow|2": {
+    "text": "Notis itu kini mengarahkan kamu ke atas.",
+    "score": 93,
+    "postedit": "Notis itu kini mengarahkan kamu ke atas.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:railing|v:cold|0": {
+    "text": "Susur tangan keluli itu terasa sejuk dan berterusan di bawah tangan kamu.",
+    "score": 93,
+    "postedit": "Susur tangan keluli itu terasa sejuk dan berterusan di bawah tangan kamu.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:railing|v:cold|1": {
+    "text": "Susur tangan bercat itu berada tepat di tempat biasanya.",
+    "score": 93,
+    "postedit": "Susur tangan bercat itu berada tepat di tempat biasanya.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:railing|v:cold|2": {
+    "text": "Tangan kamu menemui susur tangan itu, berterusan di sepanjang tangga.",
+    "score": 93,
+    "postedit": "Tangan kamu menemui susur tangan itu, berterusan di sepanjang tangga.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:railing|x:gap|0": {
+    "text": "Sebahagian susur tangan itu hilang di atas jurang jatuh.",
+    "score": 93,
+    "postedit": "Sebahagian susur tangan itu hilang di atas jurang jatuh.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:railing|x:gap|1": {
+    "text": "Susur tangan itu berlubang di tempat sebahagiannya telah ditanggalkan.",
+    "score": 93,
+    "postedit": "Susur tangan itu berlubang di tempat sebahagiannya telah ditanggalkan.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:railing|x:gap|2": {
+    "text": "Sebahagian susur tangan itu memang tiada.",
+    "score": 93,
+    "postedit": "Sebahagian susur tangan itu memang tiada.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:railing|x:wet|0": {
+    "text": "Susur tangan itu basah, walaupun tiada apa-apa yang menitis padanya.",
+    "score": 93,
+    "postedit": "Susur tangan itu basah, walaupun tiada apa-apa yang menitis padanya.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:railing|x:wet|1": {
+    "text": "Tangan kamu terasa lembap selepas menyentuh susur itu.",
+    "score": 93,
+    "postedit": "Tangan kamu terasa lembap selepas menyentuh susur itu.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:railing|x:wet|2": {
+    "text": "Susur tangan itu licin di bawah tapak tangan kamu.",
+    "score": 93,
+    "postedit": "Susur tangan itu licin di bawah tapak tangan kamu.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:railing|x:paint|0": {
+    "text": "Susur tangan itu berlainan warna daripada tangga di atas.",
+    "score": 93,
+    "postedit": "Susur tangan itu berlainan warna daripada tangga di atas.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:railing|x:paint|1": {
+    "text": "Seseorang telah mengecat semula bahagian susur tangan ini.",
+    "score": 93,
+    "postedit": "Seseorang telah mengecat semula bahagian susur tangan ini.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:railing|x:paint|2": {
+    "text": "Cat susur itu berwarna hijau di sini, bukan kelabu.",
+    "score": 93,
+    "postedit": "Cat susur itu berwarna hijau di sini, bukan kelabu.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:extinguisher|v:present|0": {
+    "text": "Sebuah pemadam api tergantung pada pendakapnya di sebelah pintu.",
+    "score": 93,
+    "postedit": "Sebuah pemadam api tergantung pada pendakapnya di sebelah pintu.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:extinguisher|v:present|1": {
+    "text": "Pemadam api merah itu berada di tempatnya pada dinding.",
+    "score": 93,
+    "postedit": "Pemadam api merah itu berada di tempatnya pada dinding.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:extinguisher|v:present|2": {
+    "text": "Pemadam api pelantar itu tersangkut pada cangkuknya.",
+    "score": 93,
+    "postedit": "Pemadam api pelantar itu tersangkut pada cangkuknya.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:extinguisher|x:gone|0": {
+    "text": "Pendakap pemadam api itu kosong.",
+    "score": 94,
+    "postedit": "Pendakap pemadam api itu kosong.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:extinguisher|x:gone|1": {
+    "text": "Pemadam api itu sudah tiada; hanya pendakapnya yang tinggal.",
+    "score": 93,
+    "postedit": "Pemadam api itu sudah tiada; hanya pendakapnya yang tinggal.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:extinguisher|x:gone|2": {
+    "text": "Kali ini tiada pemadam api pada dinding.",
+    "score": 94,
+    "postedit": "Kali ini tiada pemadam api pada dinding.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:extinguisher|x:floor|0": {
+    "text": "Pemadam api itu terbaring di lantai, mengiring.",
+    "score": 93,
+    "postedit": "Pemadam api itu terbaring di lantai, mengiring.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:extinguisher|x:floor|1": {
+    "text": "Pemadam api itu telah diletakkan di atas pelantar.",
+    "score": 93,
+    "postedit": "Pemadam api itu telah diletakkan di atas pelantar.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:extinguisher|x:floor|2": {
+    "text": "Pemadam api itu berdiri terbiar bersandar pada dinding, tercabut dari cangkuknya.",
+    "score": 93,
+    "postedit": "Pemadam api itu berdiri terbiar bersandar pada dinding, tercabut dari cangkuknya.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:extinguisher|x:gauge|0": {
+    "text": "Tolok tekanan pemadam api itu menunjukkan bacaan dalam zon merah.",
+    "score": 93,
+    "postedit": "Tolok tekanan pemadam api itu menunjukkan bacaan dalam zon merah.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:extinguisher|x:gauge|1": {
+    "text": "Jarum pada pemadam api itu berada jauh dalam zon merah.",
+    "score": 93,
+    "postedit": "Jarum pada pemadam api itu berada jauh dalam zon merah.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:extinguisher|x:gauge|2": {
+    "text": "Tolok pemadam api itu telah jatuh ke paras kosong.",
+    "score": 93,
+    "postedit": "Tolok pemadam api itu telah jatuh ke paras kosong.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:stairs|v:clear|0": {
+    "text": "Tangga ke bawah lapang, anak tangganya rata dan kering.",
+    "score": 93,
+    "postedit": "Tangga ke bawah lapang, anak tangganya rata dan kering.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:stairs|v:clear|1": {
+    "text": "Tangga menurun seperti biasa, tiada apa-apa di atasnya.",
+    "score": 93,
+    "postedit": "Tangga menurun seperti biasa, tiada apa-apa di atasnya.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:stairs|v:clear|2": {
+    "text": "Tangga seterusnya menjunam ke bawah, bersih dan kosong.",
+    "score": 93,
+    "postedit": "Tangga seterusnya menjunam ke bawah, bersih dan kosong.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:stairs|x:wet|0": {
+    "text": "Anak tangga di bawah berkilat basah dalam cahaya.",
+    "score": 93,
+    "postedit": "Anak tangga di bawah berkilat basah dalam cahaya.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:stairs|x:wet|1": {
+    "text": "Tangga seterusnya licin dengan air.",
+    "score": 93,
+    "postedit": "Tangga seterusnya licin dengan air.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:stairs|x:wet|2": {
+    "text": "Tangga ke bawah basah, walaupun kamu tidak nampak sebarang tumpahan.",
+    "score": 93,
+    "postedit": "Tangga ke bawah basah, walaupun kamu tidak nampak sebarang tumpahan.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:stairs|x:missing|0": {
+    "text": "Salah satu anak tangga pada tangga di bawah hilang.",
+    "score": 93,
+    "postedit": "Salah satu anak tangga pada tangga di bawah hilang.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:stairs|x:missing|1": {
+    "text": "Ada satu ruang kosong pada tangga di tempat anak tangga sepatutnya ada.",
+    "score": 93,
+    "postedit": "Ada satu ruang kosong pada tangga di tempat anak tangga sepatutnya ada.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:stairs|x:missing|2": {
+    "text": "Satu papak anak tangga hilang daripada tangga ke bawah.",
+    "score": 93,
+    "postedit": "Satu papak anak tangga hilang daripada tangga ke bawah.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:stairs|x:up|0": {
+    "text": "Anak panah yang distensil pada anak tangga menunjuk KE ATAS, bukan ke bawah.",
+    "score": 93,
+    "postedit": "Anak panah yang distensil pada anak tangga menunjuk KE ATAS, bukan ke bawah.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:stairs|x:up|1": {
+    "text": "Arah yang dicat pada tangga telah berbalik.",
+    "score": 93,
+    "postedit": "Arah yang dicat pada tangga telah berbalik.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:stairs|x:up|2": {
+    "text": "Anak tangga itu seakan-akan menuju ke atas sekarang, walaupun kamu sedang turun.",
+    "score": 93,
+    "postedit": "Anak tangga itu seakan-akan menuju ke atas sekarang, walaupun kamu sedang turun.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:stairs|x:debris|0": {
+    "text": "Ada sesuatu ditinggalkan di atas anak tangga di bawah, mungkin sebuah beg.",
+    "score": 93,
+    "postedit": "Ada sesuatu ditinggalkan di atas anak tangga di bawah, mungkin sebuah beg.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:stairs|x:debris|1": {
+    "text": "Ada serpihan bersepah di merata tangga seterusnya.",
+    "score": 93,
+    "postedit": "Ada serpihan bersepah di merata tangga seterusnya.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:stairs|x:debris|2": {
+    "text": "Satu bentuk gelap terletak di pertengahan tangga.",
+    "score": 93,
+    "postedit": "Satu bentuk gelap terletak di pertengahan tangga.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:figure|v:below|0": {
+    "text": "Jauh di bawah, seseorang lain menuruni ruang tangga berliku, sentiasa satu atau dua tangga di hadapan.",
+    "score": 93,
+    "postedit": "Jauh di bawah, seseorang lain menuruni ruang tangga berliku, sentiasa satu atau dua tangga di hadapan.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:figure|v:below|1": {
+    "text": "Satu susuk menuruni ruang tangga di hadapan kamu, mengekalkan jarak yang sama.",
+    "score": 93,
+    "postedit": "Satu susuk menuruni ruang tangga di hadapan kamu, mengekalkan jarak yang sama.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:figure|v:below|2": {
+    "text": "Ada seseorang di tangga bawah, turun mengikut rentak kamu, tidak pernah menghampiri.",
+    "score": 93,
+    "postedit": "Ada seseorang di tangga bawah, turun mengikut rentak kamu, tidak pernah menghampiri.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:figure|x:facing|0": {
+    "text": "Susuk di bawah itu telah berhenti. Ia sedang mendongak memandang kamu.",
+    "score": 93,
+    "postedit": "Susuk di bawah itu telah berhenti. Ia sedang mendongak memandang kamu.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:figure|x:facing|1": {
+    "text": "Di bawah ruang tangga, susuk itu berdiri diam, wajahnya mendongak ke arah kamu.",
+    "score": 93,
+    "postedit": "Di bawah ruang tangga, susuk itu berdiri diam, wajahnya mendongak ke arah kamu.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:figure|x:facing|2": {
+    "text": "Yang berada di tangga itu tidak lagi menuruni tangga sekarang. Ia sedang memerhati kamu.",
+    "score": 93,
+    "postedit": "Yang berada di tangga itu tidak lagi menuruni tangga sekarang. Ia sedang memerhati kamu.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:figure|x:closer|0": {
+    "text": "Susuk di tangga itu jauh lebih dekat daripada tadi, hanya satu tangga di bawah.",
+    "score": 93,
+    "postedit": "Susuk di tangga itu jauh lebih dekat daripada tadi, hanya satu tangga di bawah.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:figure|x:closer|1": {
+    "text": "Susuk yang menuruni tangga itu telah mendekatkan jarak; ia hampir tiba di pelantar kamu.",
+    "score": 93,
+    "postedit": "Susuk yang menuruni tangga itu telah mendekatkan jarak; ia hampir tiba di pelantar kamu.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:figure|x:closer|2": {
+    "text": "Sesiapa yang berada di bawah itu kini hanya beberapa anak tangga di bawah.",
+    "score": 93,
+    "postedit": "Sesiapa yang berada di bawah itu kini hanya beberapa anak tangga di bawah.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:figure|x:gone|0": {
+    "text": "Ruang tangga di bawah kosong. Sesiapa yang tadi menuruni tangga sudah tiada.",
+    "score": 93,
+    "postedit": "Ruang tangga di bawah kosong. Sesiapa yang tadi menuruni tangga sudah tiada.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:figure|x:gone|1": {
+    "text": "Kali ini tiada susuk di tangga.",
+    "score": 94,
+    "postedit": "Kali ini tiada susuk di tangga.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:figure|x:gone|2": {
+    "text": "Yang berada di hadapan kamu itu telah lenyap dari ruang tangga.",
+    "score": 93,
+    "postedit": "Yang berada di hadapan kamu itu telah lenyap dari ruang tangga.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:figure|x:ascending|0": {
+    "text": "Susuk itu kini mendaki, menaiki tangga ke arah kamu.",
+    "score": 93,
+    "postedit": "Susuk itu kini mendaki, menaiki tangga ke arah kamu.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:figure|x:ascending|1": {
+    "text": "Langkah kaki naik: susuk di bawah itu sedang mendaki, bukan menurun.",
+    "score": 93,
+    "postedit": "Langkah kaki naik: susuk di bawah itu sedang mendaki, bukan menurun.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:figure|x:ascending|2": {
+    "text": "Yang berada di tangga itu telah berpaling dan sedang naik.",
+    "score": 93,
+    "postedit": "Yang berada di tangga itu telah berpaling dan sedang naik.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:figure|x:knows|0": {
+    "text": "Susuk di bawah itu mendongak dan mengangkat tangan, seolah-olah ia telah menanti kamu.",
+    "score": 93,
+    "postedit": "Susuk di bawah itu mendongak dan mengangkat tangan, seolah-olah ia telah menanti kamu.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:figure|x:knows|1": {
+    "text": "Susuk itu menggerakkan bibirnya menyebut sesuatu ke atas ruang tangga. Mungkin 'sekali lagi.'",
+    "score": 93,
+    "postedit": "Susuk itu menggerakkan bibirnya menyebut sesuatu ke atas ruang tangga. Mungkin 'sekali lagi.'",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:figure|x:knows|2": {
+    "text": "Ia melambai kamu turun, perlahan dan yakin, seolah-olah ia mengenali kamu.",
+    "score": 93,
+    "postedit": "Ia melambai kamu turun, perlahan dan yakin, seolah-olah ia mengenali kamu.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:sense|v:steady|0": {
+    "text": "Ruang tangga ini terasa betul-betul sedalam seperti biasanya.",
+    "score": 93,
+    "postedit": "Ruang tangga ini terasa betul-betul sedalam seperti biasanya.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:sense|v:steady|1": {
+    "text": "Kamu membawa rasa waspada yang sama menuruni tangga demi tangga.",
+    "score": 93,
+    "postedit": "Kamu membawa rasa waspada yang sama menuruni tangga demi tangga.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:sense|v:steady|2": {
+    "text": "Segalanya terasa biasa, setakat mana semua ini boleh dikatakan biasa.",
+    "score": 93,
+    "postedit": "Segalanya terasa biasa, setakat mana semua ini boleh dikatakan biasa.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:sense|x:deeper|0": {
+    "text": "Ruang tangga terasa lebih dalam daripada sepatutnya, tingkat bawah semakin jauh.",
+    "score": 93,
+    "postedit": "Ruang tangga terasa lebih dalam daripada sepatutnya, tingkat bawah semakin jauh.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:sense|x:deeper|1": {
+    "text": "Kamu terasa seolah-olah telah menuruni jauh lebih daripada lapan tingkat.",
+    "score": 93,
+    "postedit": "Kamu terasa seolah-olah telah menuruni jauh lebih daripada lapan tingkat.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:sense|x:deeper|2": {
+    "text": "Dasar itu seakan-akan telah beralih semakin jauh.",
+    "score": 93,
+    "postedit": "Dasar itu seakan-akan telah beralih semakin jauh.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:sense|x:forget|0": {
+    "text": "Buat seketika kamu tidak dapat mengingati berapa banyak pelantar yang telah kamu lalui.",
+    "score": 93,
+    "postedit": "Buat seketika kamu tidak dapat mengingati berapa banyak pelantar yang telah kamu lalui.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:sense|x:forget|1": {
+    "text": "Kamu hilang kiraan tangga di atas kamu, dan itu menakutkan kamu.",
+    "score": 93,
+    "postedit": "Kamu hilang kiraan tangga di atas kamu, dan itu menakutkan kamu.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:sense|x:forget|2": {
+    "text": "Kamu tidak dapat mengingati di tingkat mana kamu bermula.",
+    "score": 93,
+    "postedit": "Kamu tidak dapat mengingati di tingkat mana kamu bermula.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:sense|x:up|0": {
+    "text": "Buat seketika kamu yakin kamu telah mendaki, bukan menurun.",
+    "score": 93,
+    "postedit": "Buat seketika kamu yakin kamu telah mendaki, bukan menurun.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:sense|x:up|1": {
+    "text": "Satu perasaan yang salah mencengkam kamu: bahawa ke bawah sebenarnya ke atas selama ini.",
+    "score": 93,
+    "postedit": "Satu perasaan yang salah mencengkam kamu: bahawa ke bawah sebenarnya ke atas selama ini.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:sense|x:up|2": {
+    "text": "Kamu terasa, seketika dan sedingin, bahawa kamu sedang menuju ke arah yang salah.",
+    "score": 93,
+    "postedit": "Kamu terasa, seketika dan sedingin, bahawa kamu sedang menuju ke arah yang salah.",
+    "postedit_score": 95
+  },
+  "a:stairway8|adaptive|repeat_inspect|0": {
+    "text": "Kamu memeriksa {THING} sekali lagi. Kamu tidak pasti kenapa.",
+    "score": 93,
+    "postedit": "Kamu memeriksa {THING} sekali lagi. Kamu tidak pasti kenapa.",
+    "postedit_score": 95
+  },
+  "a:stairway8|adaptive|repeat_inspect|1": {
+    "text": "Pandangan kamu terus tertumpu pada {THING}, seperti yang selalu berlaku sekarang.",
+    "score": 93,
+    "postedit": "Pandangan kamu terus tertumpu pada {THING}, seperti yang selalu berlaku sekarang.",
+    "postedit_score": 95
+  },
+  "a:stairway8|adaptive|repeat_inspect|2": {
+    "text": "{THING} sekali lagi menarik perhatian kamu.",
+    "score": 93,
+    "postedit": "{THING} sekali lagi menarik perhatian kamu.",
+    "postedit_score": 95
+  },
+  "a:stairway8|adaptive|long_look|0": {
+    "text": "Kamu memandang lebih lama daripada biasa. Kamu tidak ingat bila kamu memutuskan untuk berhenti.",
+    "score": 93,
+    "postedit": "Kamu memandang lebih lama daripada biasa. Kamu tidak ingat bila kamu memutuskan untuk berhenti.",
+    "postedit_score": 95
+  },
+  "a:stairway8|adaptive|long_look|1": {
+    "text": "Kamu sedar kamu telah berdiri di pelantar. Sejak berapa lama?",
+    "score": 93,
+    "postedit": "Kamu sedar kamu telah berdiri di pelantar. Sejak berapa lama?",
+    "postedit_score": 95
+  },
+  "a:stairway8|adaptive|long_look|2": {
+    "text": "Masa menyelinap pergi. Kamu sedang merenung ke bawah ruang tangga, dan kamu tidak tahu sejak berapa lama.",
+    "score": 93,
+    "postedit": "Masa menyelinap pergi. Kamu sedang merenung ke bawah ruang tangga, dan kamu tidak tahu sejak berapa lama.",
+    "postedit_score": 95
+  },
+  "a:stairway8|framing|intro|0": {
+    "text": "ROSAK",
+    "score": 94,
+    "postedit": "ROSAK",
+    "postedit_score": 96
+  },
+  "a:stairway8|framing|intro|2": {
+    "text": "Kamu menekan butang panggilan. Tiada apa-apa. Satu notis dilekatkan merentasi pintu:",
+    "score": 93,
+    "postedit": "Kamu menekan butang panggilan. Tiada apa-apa. Satu notis dilekatkan merentasi pintu:",
+    "postedit_score": 95
+  },
+  "a:stairway8|framing|intro|3": {
+    "text": "LIF ROSAK, GUNA TANGGA.",
+    "score": 94,
+    "postedit": "LIF ROSAK, GUNA TANGGA.",
+    "postedit_score": 96
+  },
+  "a:stairway8|framing|intro|5": {
+    "text": "Selagi sebuah pelantar betul-betul seperti yang kamu ingat, teruskan menuruni tangga.",
+    "score": 93,
+    "postedit": "Selagi sebuah pelantar betul-betul seperti yang kamu ingat, teruskan menuruni tangga.",
+    "postedit_score": 95
+  },
+  "a:stairway8|framing|intro|6": {
+    "text": "Jika ada apa-apa yang berubah, ruang tangga telah memusingkan kamu. Naik semula.",
+    "score": 93,
+    "postedit": "Jika ada apa-apa yang berubah, ruang tangga telah memusingkan kamu. Naik semula.",
+    "postedit_score": 95
+  },
+  "a:stairway8|framing|intro|8": {
+    "text": "Tingkat bawah ialah jalan keluar.",
+    "score": 93,
+    "postedit": "Tingkat bawah ialah jalan keluar.",
+    "postedit_score": 95
+  },
+  "a:stairway8|framing|intro|9": {
+    "text": "Hilang kiraan pelantar, dan kamu akan kembali ke tingkat teratas.",
+    "score": 93,
+    "postedit": "Hilang kiraan pelantar, dan kamu akan kembali ke tingkat teratas.",
+    "postedit_score": 95
+  },
+  "a:stairway8|framing|win|0": {
+    "text": "Tangga terakhir membuka ke arah lobi.",
+    "score": 93,
+    "postedit": "Tangga terakhir membuka ke arah lobi.",
+    "postedit_score": 95
+  },
+  "a:stairway8|framing|win|1": {
+    "text": "Cahaya siang menerusi pintu. Jalan raya. Lif di belakang kamu, masih mati.",
+    "score": 93,
+    "postedit": "Cahaya siang menerusi pintu. Jalan raya. Lif di belakang kamu, masih mati.",
+    "postedit_score": 95
+  },
+  "a:stairway8|framing|win|2": {
+    "text": "Lapan tingkat ke bawah, dan ingatan kamu menyimpan setiap pelantar.",
+    "score": 93,
+    "postedit": "Lapan tingkat ke bawah, dan ingatan kamu menyimpan setiap pelantar.",
+    "postedit_score": 95
+  },
+  "a:stairway8|framing|win|3": {
+    "text": "Tingkat bawah.",
+    "score": 94,
+    "postedit": "Tingkat bawah.",
+    "postedit_score": 96
+  }
+}

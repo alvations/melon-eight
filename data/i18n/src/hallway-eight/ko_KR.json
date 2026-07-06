@@ -1,0 +1,1106 @@
+{
+ "a:hallway-eight|act2|end|lobby|0": {
+  "postedit": "거리를 기대하며 불 켜진 문을 밀고 나선다.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "거리를 기대하며 불 켜진 문을 밀고 나선다."
+ },
+ "a:hallway-eight|act2|end|lobby|1": {
+  "postedit": "네가 출발한 그 로비다. 유리는 여전히 잠겼고, 그 너머 밤은 여전히 새까맣다.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "네가 출발한 그 로비다. 유리는 여전히 잠겼고, 그 너머 밤은 여전히 새까맣다."
+ },
+ "a:hallway-eight|act2|end|lobby|2": {
+  "postedit": "네가 걸어온 복도는 그저 사라졌다. 너는 이제 나가는 길이 없는 건물의 처음에 돌아와 있다.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "네가 걸어온 복도는 그저 사라졌다. 너는 이제 나가는 길이 없는 건물의 처음에 돌아와 있다."
+ },
+ "a:hallway-eight|act2|exit|action": {
+  "postedit": "그 문으로 들어서기",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "그 문으로 들어서기"
+ },
+ "a:hallway-eight|act2|exit|tempt": {
+  "postedit": "앞쪽 문 하나가 열려 있고, 그 위에서 불 켜진 EXIT이 초록으로 웅웅거린다. 거리는 분명 저 너머일 것이다.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "앞쪽 문 하나가 열려 있고, 그 위에서 불 켜진 EXIT이 초록으로 웅웅거린다. 거리는 분명 저 너머일 것이다."
+ },
+ "a:hallway-eight|act2|flashback|0": {
+  "postedit": "몇 개의 문 뒤에서 책상 램프가 아직 켜져 있다. 제 얼룩 자리에서 식어 버린 커피 한 잔. 시계가, 시계로선 읽을 수 없는 시각을 가리킨다.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "몇 개의 문 뒤에서 책상 램프가 아직 켜져 있다. 제 얼룩 자리에서 식어 버린 커피 한 잔. 시계가, 시계로선 읽을 수 없는 시각을 가리킨다."
+ },
+ "a:hallway-eight|act2|flashback|1": {
+  "postedit": "아직 닿지 못한 방에서 전화가 울리고 있다. 화면의 이름은 거의 네 것이다.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "아직 닿지 못한 방에서 전화가 울리고 있다. 화면의 이름은 거의 네 것이다."
+ },
+ "a:hallway-eight|act2|flashback|2": {
+  "postedit": "여섯 시엔 로비 문 앞에 있었다. 무언가를 가지러 돌아섰고, 그게 뭐였는지는 이미 잊었다.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "여섯 시엔 로비 문 앞에 있었다. 무언가를 가지러 돌아섰고, 그게 뭐였는지는 이미 잊었다."
+ },
+ "a:hallway-eight|act2|flashback|3": {
+  "postedit": "회색 남자가 오래전 한 번 방화문을 잡아 주었고, 곧 두고 떠날 사람을 바라보듯 너를 바라보았다.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "회색 남자가 오래전 한 번 방화문을 잡아 주었고, 곧 두고 떠날 사람을 바라보듯 너를 바라보았다."
+ },
+ "a:hallway-eight|act2|flashback|4": {
+  "postedit": "전에도 여덟까지 세어 본 적이 있다. 거의 확실하다. 거기 닿은 적은 결코 없다고, 거의 확신한다.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "전에도 여덟까지 세어 본 적이 있다. 거의 확실하다. 거기 닿은 적은 결코 없다고, 거의 확신한다."
+ },
+ "a:hallway-eight|act2|t:camera|fold|0": {
+  "postedit": "카메라가 네가 온 길로 네 손을 따라가고, 네 발은 카메라를 따라가고, 너는 다시 처음이다.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "카메라가 네가 온 길로 네 손을 따라가고, 네 발은 카메라를 따라가고, 너는 다시 처음이다."
+ },
+ "a:hallway-eight|act2|t:camera|herring|0": {
+  "postedit": "기억에 없는 빨간 불이 한 번 깜빡인다. 아마 늘 켜져 있었을 것이다.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "기억에 없는 빨간 불이 한 번 깜빡인다. 아마 늘 켜져 있었을 것이다."
+ },
+ "a:hallway-eight|act2|t:camera|herring|1": {
+  "postedit": "한순간 렌즈가 뿌옇게 서린다, 안쪽에서 입김을 분 것처럼.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "한순간 렌즈가 뿌옇게 서린다, 안쪽에서 입김을 분 것처럼."
+ },
+ "a:hallway-eight|act2|t:camera|reaction|0": {
+  "postedit": "카메라가 서두르지 않고 돌아, 너에게 멈춘다. 다른 건 아무것도 움직이지 않는다.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "카메라가 서두르지 않고 돌아, 너에게 멈춘다. 다른 건 아무것도 움직이지 않는다."
+ },
+ "a:hallway-eight|act2|t:camera|reaction|1": {
+  "postedit": "렌즈가 네 눈높이로 기울어 그대로 머문다, 끈기 있게.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "렌즈가 네 눈높이로 기울어 그대로 머문다, 끈기 있게."
+ },
+ "a:hallway-eight|act2|t:camera|verb": {
+  "postedit": "카메라에 손 흔들기",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "카메라에 손 흔들기"
+ },
+ "a:hallway-eight|act2|t:door|fold|0": {
+  "postedit": "문은 네가 이미 걸어온 복도 한 구간으로 열린다. 머릿속 숫자가 사라졌다. 너는 다시 처음이다.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "문은 네가 이미 걸어온 복도 한 구간으로 열린다. 머릿속 숫자가 사라졌다. 너는 다시 처음이다."
+ },
+ "a:hallway-eight|act2|t:door|herring|0": {
+  "postedit": "금속이 따뜻하다, 잠긴 문치고는 지나치게. 아마 아무 뜻도 없을 것이다.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "금속이 따뜻하다, 잠긴 문치고는 지나치게. 아마 아무 뜻도 없을 것이다."
+ },
+ "a:hallway-eight|act2|t:door|herring|1": {
+  "postedit": "문 밑으로 전에는 없던 바람이 샌다. 아니면 있었는데, 네가 알아채지 못했거나.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "문 밑으로 전에는 없던 바람이 샌다. 아니면 있었는데, 네가 알아채지 못했거나."
+ },
+ "a:hallway-eight|act2|t:door|reaction|0": {
+  "postedit": "손잡이가 조금 돌아가다 멈춘다, 반대편에서 붙잡고 있는 것처럼.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "손잡이가 조금 돌아가다 멈춘다, 반대편에서 붙잡고 있는 것처럼."
+ },
+ "a:hallway-eight|act2|t:door|reaction|1": {
+  "postedit": "문에 귀를 댄다. 반대편의 무언가가 조용해진다, 네가 들어설 때 방이 그러듯이.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "문에 귀를 댄다. 반대편의 무언가가 조용해진다, 네가 들어설 때 방이 그러듯이."
+ },
+ "a:hallway-eight|act2|t:door|verb": {
+  "postedit": "정비문을 열어 보기",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "정비문을 열어 보기"
+ },
+ "a:hallway-eight|act2|t:figure|fold|0": {
+  "postedit": "그가 마침내 돌아서고, 그건 네가 너무 잘 아는 얼굴이고, 그 모습이 너를 다시 처음으로 돌려놓는다.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "그가 마침내 돌아서고, 그건 네가 너무 잘 아는 얼굴이고, 그 모습이 너를 다시 처음으로 돌려놓는다."
+ },
+ "a:hallway-eight|act2|t:figure|herring|0": {
+  "postedit": "한순간 그의 정장이 네 것처럼 보인다. 회색은 회색이다.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "한순간 그의 정장이 네 것처럼 보인다. 회색은 회색이다."
+ },
+ "a:hallway-eight|act2|t:figure|herring|1": {
+  "postedit": "그가 네가 불렀을 때보다 조금 가깝다. 그저 걸어서일 뿐, 분명.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "그가 네가 불렀을 때보다 조금 가깝다. 그저 걸어서일 뿐, 분명."
+ },
+ "a:hallway-eight|act2|t:figure|reaction|0": {
+  "postedit": "네 목소리가 복도를 따라 나아가 돌아오지 않는다. 그는 돌아서지 않는다.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "네 목소리가 복도를 따라 나아가 돌아오지 않는다. 그는 돌아서지 않는다."
+ },
+ "a:hallway-eight|act2|t:figure|reaction|1": {
+  "postedit": "그가 반 걸음 멈칫한다, 군중 속에서 제 이름에 멈칫하듯이. 그러곤 계속 걸어간다.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "그가 반 걸음 멈칫한다, 군중 속에서 제 이름에 멈칫하듯이. 그러곤 계속 걸어간다."
+ },
+ "a:hallway-eight|act2|t:figure|verb": {
+  "postedit": "회색 남자를 불러 보기",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "회색 남자를 불러 보기"
+ },
+ "a:hallway-eight|act2|t:poster|fold|0": {
+  "postedit": "점밖에 남지 않을 때까지 몸을 기울이고, 물러서니 복도가 네 주위에서 처음으로 돌아가 있다.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "점밖에 남지 않을 때까지 몸을 기울이고, 물러서니 복도가 네 주위에서 처음으로 돌아가 있다."
+ },
+ "a:hallway-eight|act2|t:poster|herring|0": {
+  "postedit": "잉크가 아직 끈적인다. 갓 인쇄됐다. 아무 뜻도 없고, 아무 뜻도 없다는 걸 알면서도, 손이 움찔 물러난다.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "잉크가 아직 끈적인다. 갓 인쇄됐다. 아무 뜻도 없고, 아무 뜻도 없다는 걸 알면서도, 손이 움찔 물러난다."
+ },
+ "a:hallway-eight|act2|t:poster|herring|1": {
+  "postedit": "조금 전만 해도 바래 보였는데, 색이 지나치게 선명하다. 빛의 장난이다.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "조금 전만 해도 바래 보였는데, 색이 지나치게 선명하다. 빛의 장난이다."
+ },
+ "a:hallway-eight|act2|t:poster|reaction|0": {
+  "postedit": "가까이서 보니 바닷가는 잉크 점들일 뿐이다. 언젠가 가려던 곳.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "가까이서 보니 바닷가는 잉크 점들일 뿐이다. 언젠가 가려던 곳."
+ },
+ "a:hallway-eight|act2|t:poster|reaction|1": {
+  "postedit": "모서리를 하도 여러 번 떼었다 붙였다 해서 종이가 흐물흐물해졌다.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "모서리를 하도 여러 번 떼었다 붙였다 해서 종이가 흐물흐물해졌다."
+ },
+ "a:hallway-eight|act2|t:poster|verb": {
+  "postedit": "포스터를 가까이 들여다보기",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "포스터를 가까이 들여다보기"
+ },
+ "a:hallway-eight|adaptive|long_look|0": {
+  "postedit": "여느 때보다 오래 바라본다. 언제 멈춰 섰는지 기억나지 않는다.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "여느 때보다 오래 바라본다. 언제 멈춰 섰는지 기억나지 않는다."
+ },
+ "a:hallway-eight|adaptive|long_look|1": {
+  "postedit": "가만히 서 있었다는 걸 깨닫는다. 얼마나 오래?",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "가만히 서 있었다는 걸 깨닫는다. 얼마나 오래?"
+ },
+ "a:hallway-eight|adaptive|long_look|2": {
+  "postedit": "시간이 미끄러진다. 계속 바라보고 있었는데, 얼마나 오래인지 알 수 없다.",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "시간이 미끄러진다. 계속 바라보고 있었는데, 얼마나 오래인지 알 수 없다."
+ },
+ "a:hallway-eight|adaptive|repeat_inspect|0": {
+  "postedit": "다시 {THING}에 눈길이 간다. 왜인지는 잘 모르겠다.",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "다시 {THING}에 눈길이 간다. 왜인지는 잘 모르겠다."
+ },
+ "a:hallway-eight|adaptive|repeat_inspect|1": {
+  "postedit": "네 시선은 곧장 {THING}에 닿는다, 요즘은 늘 그렇듯이.",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "네 시선은 곧장 {THING}에 닿는다, 요즘은 늘 그렇듯이."
+ },
+ "a:hallway-eight|adaptive|repeat_inspect|2": {
+  "postedit": "다시 {THING}에 눈길이 머문다.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "다시 {THING}에 눈길이 머문다."
+ },
+ "a:hallway-eight|attempt": {
+  "postedit": "이 복도를 {n}번. 이번엔 문이 열렸다.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "이 복도를 {n}번. 이번엔 문이 열렸다."
+ },
+ "a:hallway-eight|attempt_first": {
+  "postedit": "단번에, 복도가 너를 보내 주었다.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "단번에, 복도가 너를 보내 주었다."
+ },
+ "a:hallway-eight|framing|cutscene|0": {
+  "postedit": "복도의 무언가가 바뀌었는데, 너는 알아채지 못하고 지나쳤다.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "복도의 무언가가 바뀌었는데, 너는 알아채지 못하고 지나쳤다."
+ },
+ "a:hallway-eight|framing|cutscene|1": {
+  "postedit": "한 구간이 기억과 조금이라도 다르면, 돌아가라. 같으면, 계속 걸어라.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "한 구간이 기억과 조금이라도 다르면, 돌아가라. 같으면, 계속 걸어라."
+ },
+ "a:hallway-eight|framing|intro|0": {
+  "postedit": "영업 종료 후",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "영업 종료 후"
+ },
+ "a:hallway-eight|framing|intro|2": {
+  "postedit": "너무 늦게까지 남아 있었다. 로비 문은 잠기고, 조명은 절반이 꺼져 있다.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "너무 늦게까지 남아 있었다. 로비 문은 잠기고, 조명은 절반이 꺼져 있다."
+ },
+ "a:hallway-eight|framing|intro|3": {
+  "postedit": "그 위에 손으로 쓴 표지가 걸려 있다: 비상구, 복도를 이용하시오.",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "그 위에 손으로 쓴 표지가 걸려 있다: 비상구, 복도를 이용하시오."
+ },
+ "a:hallway-eight|framing|intro|5": {
+  "postedit": "복도 한 구간이 기억과 정확히 같다면, 계속 걸어라.",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "복도 한 구간이 기억과 정확히 같다면, 계속 걸어라."
+ },
+ "a:hallway-eight|framing|intro|6": {
+  "postedit": "무언가 달라졌다면, 길이 되접힌 것이다. 온 길을 되돌아가라.",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "무언가 달라졌다면, 길이 되접힌 것이다. 온 길을 되돌아가라."
+ },
+ "a:hallway-eight|framing|intro|8": {
+  "postedit": "여덟 번째 방화문이 밖으로 통한다.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "여덟 번째 방화문이 밖으로 통한다."
+ },
+ "a:hallway-eight|framing|intro|9": {
+  "postedit": "본 것을 놓치면, 건물이 너를 처음으로 되돌려 놓는다.",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "본 것을 놓치면, 건물이 너를 처음으로 되돌려 놓는다."
+ },
+ "a:hallway-eight|framing|win|0": {
+  "postedit": "여덟 번째 방화문이 네 손 아래에서 열린다.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "여덟 번째 방화문이 네 손 아래에서 열린다."
+ },
+ "a:hallway-eight|framing|win|1": {
+  "postedit": "찬 공기. 거리로 내려가는 계단. 도시는, 여전히 그 자리에.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "찬 공기. 거리로 내려가는 계단. 도시는, 여전히 그 자리에."
+ },
+ "a:hallway-eight|framing|win|2": {
+  "postedit": "복도에 끝이 없는 게 아닐까 생각하기 시작하던 참이었다.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "복도에 끝이 없는 게 아닐까 생각하기 시작하던 참이었다."
+ },
+ "a:hallway-eight|framing|win|3": {
+  "postedit": "너는 밖으로 나왔다.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "너는 밖으로 나왔다."
+ },
+ "a:hallway-eight|go_on": {
+  "postedit": "계속 걷기",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "계속 걷기"
+ },
+ "a:hallway-eight|label|camera": {
+  "postedit": "감시 카메라",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "감시 카메라"
+ },
+ "a:hallway-eight|label|door": {
+  "postedit": "정비문",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "정비문"
+ },
+ "a:hallway-eight|label|figure": {
+  "postedit": "복도의 남자",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "복도의 남자"
+ },
+ "a:hallway-eight|label|floor": {
+  "postedit": "바닥",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "바닥"
+ },
+ "a:hallway-eight|label|lighting": {
+  "postedit": "조명",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "조명"
+ },
+ "a:hallway-eight|label|poster": {
+  "postedit": "포스터",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "포스터"
+ },
+ "a:hallway-eight|label|sense": {
+  "postedit": "이 느낌",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "이 느낌"
+ },
+ "a:hallway-eight|label|sign": {
+  "postedit": "비상구 표시등",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "비상구 표시등"
+ },
+ "a:hallway-eight|label|sound": {
+  "postedit": "소리",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "소리"
+ },
+ "a:hallway-eight|p:camera|v:away|0": {
+  "postedit": "구석의 작은 감시 카메라가 복도 저편을 향하고 있다.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "구석의 작은 감시 카메라가 복도 저편을 향하고 있다."
+ },
+ "a:hallway-eight|p:camera|v:away|1": {
+  "postedit": "감시 카메라가 저편 끝을 지켜본다, 너에게서 비켜 돌아선 채.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "감시 카메라가 저편 끝을 지켜본다, 너에게서 비켜 돌아선 채."
+ },
+ "a:hallway-eight|p:camera|v:away|2": {
+  "postedit": "구석 위쪽에서, 카메라가 앞을 향하고 있다, 늘 그렇듯이.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "구석 위쪽에서, 카메라가 앞을 향하고 있다, 늘 그렇듯이."
+ },
+ "a:hallway-eight|p:camera|x:atyou|0": {
+  "postedit": "감시 카메라가 돌아섰다. 곧장 너를 향하고 있다.",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "감시 카메라가 돌아섰다. 곧장 너를 향하고 있다."
+ },
+ "a:hallway-eight|p:camera|x:atyou|1": {
+  "postedit": "감시 카메라가 이제 너를 내려다보게 기울어져 있다.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "감시 카메라가 이제 너를 내려다보게 기울어져 있다."
+ },
+ "a:hallway-eight|p:camera|x:atyou|2": {
+  "postedit": "구석의 카메라가 너를 마주 본다, 렌즈가 네 눈높이에 맞춰져.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "구석의 카메라가 너를 마주 본다, 렌즈가 네 눈높이에 맞춰져."
+ },
+ "a:hallway-eight|p:camera|x:red|0": {
+  "postedit": "카메라에 빨간 불이 깜빡인다. 깜빡인 적이 없었다.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "카메라에 빨간 불이 깜빡인다. 깜빡인 적이 없었다."
+ },
+ "a:hallway-eight|p:camera|x:red|1": {
+  "postedit": "카메라의 녹화등이 처음으로 빨갛게 켜진다.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "카메라의 녹화등이 처음으로 빨갛게 켜진다."
+ },
+ "a:hallway-eight|p:camera|x:red|2": {
+  "postedit": "카메라의 작은 LED가 빨갛게 맥동한다.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "카메라의 작은 LED가 빨갛게 맥동한다."
+ },
+ "a:hallway-eight|p:door|v:closed|0": {
+  "postedit": "왼쪽 벽에 회색 정비문이 닫힌 채 있다.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "왼쪽 벽에 회색 정비문이 닫힌 채 있다."
+ },
+ "a:hallway-eight|p:door|v:closed|1": {
+  "postedit": "네 왼쪽 정비문이 여느 때처럼 닫혀 있다.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "네 왼쪽 정비문이 여느 때처럼 닫혀 있다."
+ },
+ "a:hallway-eight|p:door|v:closed|2": {
+  "postedit": "정비문이 저기 있다, 꽉 닫힌 채로.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "정비문이 저기 있다, 꽉 닫힌 채로."
+ },
+ "a:hallway-eight|p:door|x:ajar|0": {
+  "postedit": "정비문이 살짝 열려 있다. 안은 어둠이다.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "정비문이 살짝 열려 있다. 안은 어둠이다."
+ },
+ "a:hallway-eight|p:door|x:ajar|1": {
+  "postedit": "정비문이 빠끔히 열려 있다, 열린 걸 본 적이 없는데도.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "정비문이 빠끔히 열려 있다, 열린 걸 본 적이 없는데도."
+ },
+ "a:hallway-eight|p:door|x:ajar|2": {
+  "postedit": "회색 문이 반쯤 열려 있다; 딱 맞아야 할 자리에 가느다란 검은 틈이 있다.",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "회색 문이 반쯤 열려 있다; 딱 맞아야 할 자리에 가느다란 검은 틈이 있다."
+ },
+ "a:hallway-eight|p:door|x:gone|0": {
+  "postedit": "왼쪽 벽에 정비문이 없다. 그저 매끈한 벽뿐.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "왼쪽 벽에 정비문이 없다. 그저 매끈한 벽뿐."
+ },
+ "a:hallway-eight|p:door|x:gone|1": {
+  "postedit": "정비문이 완전히 사라졌다.",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "정비문이 완전히 사라졌다."
+ },
+ "a:hallway-eight|p:door|x:gone|2": {
+  "postedit": "왼쪽 벽이 끊김 없이 이어진다, 문이라곤 하나도 없이.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "왼쪽 벽이 끊김 없이 이어진다, 문이라곤 하나도 없이."
+ },
+ "a:hallway-eight|p:figure|v:distant|0": {
+  "postedit": "복도 저 멀리, 회색 정장을 입은 남자가 너에게서 멀어져 간다.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "복도 저 멀리, 회색 정장을 입은 남자가 너에게서 멀어져 간다."
+ },
+ "a:hallway-eight|p:figure|v:distant|1": {
+  "postedit": "정장 차림의 형체가 저 앞 멀리서 등을 돌린 채 움직인다.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "정장 차림의 형체가 저 앞 멀리서 등을 돌린 채 움직인다."
+ },
+ "a:hallway-eight|p:figure|v:distant|2": {
+  "postedit": "회색 남자가 늘 그렇듯 앞쪽에서 계속 걸어간다.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "회색 남자가 늘 그렇듯 앞쪽에서 계속 걸어간다."
+ },
+ "a:hallway-eight|p:figure|v:distant|3": {
+  "postedit": "복도 저편으로, 정장 남자가 소실점을 향해 멀어져 간다.",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "복도 저편으로, 정장 남자가 소실점을 향해 멀어져 간다."
+ },
+ "a:hallway-eight|p:figure|x:closer|0": {
+  "postedit": "회색 정장 남자가 있어야 할 자리보다 훨씬 가깝다.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "회색 정장 남자가 있어야 할 자리보다 훨씬 가깝다."
+ },
+ "a:hallway-eight|p:figure|x:closer|1": {
+  "postedit": "정장 형체가 중간쯤에서 멈춰 섰다, 전보다 가깝게.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "정장 형체가 중간쯤에서 멈춰 섰다, 전보다 가깝게."
+ },
+ "a:hallway-eight|p:figure|x:closer|2": {
+  "postedit": "회색 남자가 이제 겨우 몇 걸음 앞이다, 여전히 등을 돌린 채.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "회색 남자가 이제 겨우 몇 걸음 앞이다, 여전히 등을 돌린 채."
+ },
+ "a:hallway-eight|p:figure|x:facing|0": {
+  "postedit": "회색 정장 남자가 멈춰 섰다. 너를 마주 보고 있다.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "회색 정장 남자가 멈춰 섰다. 너를 마주 보고 있다."
+ },
+ "a:hallway-eight|p:figure|x:facing|1": {
+  "postedit": "복도 저편에서 정장 형체가 가만히 서서 네 쪽을 바라본다.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "복도 저편에서 정장 형체가 가만히 서서 네 쪽을 바라본다."
+ },
+ "a:hallway-eight|p:figure|x:facing|2": {
+  "postedit": "회색 남자는 걷고 있지 않다. 너를 지켜보고 있다.",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "회색 남자는 걷고 있지 않다. 너를 지켜보고 있다."
+ },
+ "a:hallway-eight|p:figure|x:gone|0": {
+  "postedit": "앞쪽 복도가 텅 비어 있다. 걷는 사람이 아무도 없다.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "앞쪽 복도가 텅 비어 있다. 걷는 사람이 아무도 없다."
+ },
+ "a:hallway-eight|p:figure|x:gone|1": {
+  "postedit": "이번에는 앞쪽에 형체가 없다.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "이번에는 앞쪽에 형체가 없다."
+ },
+ "a:hallway-eight|p:figure|x:gone|2": {
+  "postedit": "회색 정장 남자는 어디에도 보이지 않는다.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "회색 정장 남자는 어디에도 보이지 않는다."
+ },
+ "a:hallway-eight|p:figure|x:knows|0": {
+  "postedit": "회색 남자가 돌아서서 한 손을 들었다, 마치 너를 아는 듯이.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "회색 남자가 돌아서서 한 손을 들었다, 마치 너를 아는 듯이."
+ },
+ "a:hallway-eight|p:figure|x:knows|1": {
+  "postedit": "정장 형체가 너를 마주 보고 손짓해 부른다, 느리고 의도적으로.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "정장 형체가 너를 마주 보고 손짓해 부른다, 느리고 의도적으로."
+ },
+ "a:hallway-eight|p:figure|x:knows|2": {
+  "postedit": "남자가 복도 저편에서 소리 없이 입을 움직인다. 「또」인지도 모른다.",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "남자가 복도 저편에서 소리 없이 입을 움직인다. 「또」인지도 모른다."
+ },
+ "a:hallway-eight|p:floor|v:dry|0": {
+  "postedit": "회색 바닥 타일이 멀리 뻗어 있다, 메마르고 칙칙하게.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "회색 바닥 타일이 멀리 뻗어 있다, 메마르고 칙칙하게."
+ },
+ "a:hallway-eight|p:floor|v:dry|1": {
+  "postedit": "발밑에는 늘 그 닳은 회색 타일.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "발밑에는 늘 그 닳은 회색 타일."
+ },
+ "a:hallway-eight|p:floor|v:dry|2": {
+  "postedit": "타일 바닥은 메말라, 아무것도 비추지 않는다.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "타일 바닥은 메말라, 아무것도 비추지 않는다."
+ },
+ "a:hallway-eight|p:floor|x:cracked|0": {
+  "postedit": "전에는 없던 금이 바닥 타일을 가로질러 나 있다.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "전에는 없던 금이 바닥 타일을 가로질러 나 있다."
+ },
+ "a:hallway-eight|p:floor|x:cracked|1": {
+  "postedit": "바닥 타일 하나가 한가운데가 쪼개져 있다.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "바닥 타일 하나가 한가운데가 쪼개져 있다."
+ },
+ "a:hallway-eight|p:floor|x:cracked|2": {
+  "postedit": "앞쪽 타일이 삐죽삐죽한 선을 그리며 깨져 있다.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "앞쪽 타일이 삐죽삐죽한 선을 그리며 깨져 있다."
+ },
+ "a:hallway-eight|p:floor|x:wet|0": {
+  "postedit": "앞쪽 타일이 젖은 듯 어두운 윤기로 번들거린다.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "앞쪽 타일이 젖은 듯 어두운 윤기로 번들거린다."
+ },
+ "a:hallway-eight|p:floor|x:wet|1": {
+  "postedit": "바닥이 젖어 있다, 누가 닦는 걸 본 적도 없는데.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "바닥이 젖어 있다, 누가 닦는 걸 본 적도 없는데."
+ },
+ "a:hallway-eight|p:floor|x:wet|2": {
+  "postedit": "얇은 물기가 타일 위로 번져 있다.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "얇은 물기가 타일 위로 번져 있다."
+ },
+ "a:hallway-eight|p:lighting|v:steady|0": {
+  "postedit": "머리 위에서 형광등이 나직이 웅웅거린다.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "머리 위에서 형광등이 나직이 웅웅거린다."
+ },
+ "a:hallway-eight|p:lighting|v:steady|1": {
+  "postedit": "천장 조명이 한결같고 고른 빛을 낸다.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "천장 조명이 한결같고 고른 빛을 낸다."
+ },
+ "a:hallway-eight|p:lighting|v:steady|2": {
+  "postedit": "머리 위에서 형광등이 늘 그 음으로 윙윙거린다.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "머리 위에서 형광등이 늘 그 음으로 윙윙거린다."
+ },
+ "a:hallway-eight|p:lighting|v:steady|3": {
+  "postedit": "조명은 밋밋하고 특별할 것 없다, 언제나처럼.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "조명은 밋밋하고 특별할 것 없다, 언제나처럼."
+ },
+ "a:hallway-eight|p:lighting|x:dim|0": {
+  "postedit": "복도가 기억보다 한 톤 더 어두워 보인다.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "복도가 기억보다 한 톤 더 어두워 보인다."
+ },
+ "a:hallway-eight|p:lighting|x:dim|1": {
+  "postedit": "이곳 조명이 더 흐리다, 절반쯤은 포기해 버린 듯이.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "이곳 조명이 더 흐리다, 절반쯤은 포기해 버린 듯이."
+ },
+ "a:hallway-eight|p:lighting|x:dim|2": {
+  "postedit": "잿빛 어스름이 모든 것에 내려앉았다.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "잿빛 어스름이 모든 것에 내려앉았다."
+ },
+ "a:hallway-eight|p:lighting|x:flicker|0": {
+  "postedit": "형광등 하나가 깜빡이다가 이내 안정된다.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "형광등 하나가 깜빡이다가 이내 안정된다."
+ },
+ "a:hallway-eight|p:lighting|x:flicker|1": {
+  "postedit": "조명이 한 번, 두 번 깜빡이다가 잦아든다.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "조명이 한 번, 두 번 깜빡이다가 잦아든다."
+ },
+ "a:hallway-eight|p:lighting|x:flicker|2": {
+  "postedit": "천장 조명에 전에는 없던 희미한 깜빡임이 있다.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "천장 조명에 전에는 없던 희미한 깜빡임이 있다."
+ },
+ "a:hallway-eight|p:lighting|x:warm|0": {
+  "postedit": "빛이 따스한 누런빛을 띤다.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "빛이 따스한 누런빛을 띤다."
+ },
+ "a:hallway-eight|p:lighting|x:warm|1": {
+  "postedit": "형광등이 묘하게 호박색으로 빛난다, 거의 노을처럼.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "형광등이 묘하게 호박색으로 빛난다, 거의 노을처럼."
+ },
+ "a:hallway-eight|p:lighting|x:warm|2": {
+  "postedit": "늘 그 차가운 흰빛이 은은한 금빛으로 바뀌었다.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "늘 그 차가운 흰빛이 은은한 금빛으로 바뀌었다."
+ },
+ "a:hallway-eight|p:poster|v:travel|0": {
+  "postedit": "빛바랜 여행 포스터가 벽에 붙어 있다, 바닷가, 파란 하늘.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "빛바랜 여행 포스터가 벽에 붙어 있다, 바닷가, 파란 하늘."
+ },
+ "a:hallway-eight|p:poster|v:travel|1": {
+  "postedit": "햇살 비치는 해안의 낡은 포스터가 아직 벽에 붙어 있다.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "햇살 비치는 해안의 낡은 포스터가 아직 벽에 붙어 있다."
+ },
+ "a:hallway-eight|p:poster|v:travel|2": {
+  "postedit": "벽에는, 어딘가 따뜻한 곳을 광고하는 그 색바랜 광고.",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "벽에는, 어딘가 따뜻한 곳을 광고하는 그 색바랜 광고."
+ },
+ "a:hallway-eight|p:poster|v:travel|3": {
+  "postedit": "여행 포스터가 늘 그렇듯 살짝 비뚜름하게 걸려 있다.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "여행 포스터가 늘 그렇듯 살짝 비뚜름하게 걸려 있다."
+ },
+ "a:hallway-eight|p:poster|x:gone|0": {
+  "postedit": "벽이 휑하다. 포스터가 있던 자리를 옅은 사각형이 표시한다.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "벽이 휑하다. 포스터가 있던 자리를 옅은 사각형이 표시한다."
+ },
+ "a:hallway-eight|p:poster|x:gone|1": {
+  "postedit": "여행 포스터가 사라지고, 테이프만 남아 있다.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "여행 포스터가 사라지고, 테이프만 남아 있다."
+ },
+ "a:hallway-eight|p:poster|x:gone|2": {
+  "postedit": "이제 벽에는 아무것도 걸려 있지 않다.",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "이제 벽에는 아무것도 걸려 있지 않다."
+ },
+ "a:hallway-eight|p:poster|x:mountains|0": {
+  "postedit": "포스터에는 바닷가가 아니라 눈 덮인 산이 담겨 있다.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "포스터에는 바닷가가 아니라 눈 덮인 산이 담겨 있다."
+ },
+ "a:hallway-eight|p:poster|x:mountains|1": {
+  "postedit": "해안 포스터가 이제 잿빛 산의 사진으로 바뀌어 있다.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "해안 포스터가 이제 잿빛 산의 사진으로 바뀌어 있다."
+ },
+ "a:hallway-eight|p:poster|x:mountains|2": {
+  "postedit": "광고에는 두꺼운 구름 아래 차가운 봉우리가 담겨 있다.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "광고에는 두꺼운 구름 아래 차가운 봉우리가 담겨 있다."
+ },
+ "a:hallway-eight|p:poster|x:upside|0": {
+  "postedit": "여행 포스터가 거꾸로 걸려 있다.",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "여행 포스터가 거꾸로 걸려 있다."
+ },
+ "a:hallway-eight|p:poster|x:upside|1": {
+  "postedit": "포스터의 바닷가가 뒤집혀, 하늘이 아래에 있다.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "포스터의 바닷가가 뒤집혀, 하늘이 아래에 있다."
+ },
+ "a:hallway-eight|p:poster|x:upside|2": {
+  "postedit": "누군가 포스터를 뒤집어 놓았다; 위아래가 반대로 걸려 있다.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "누군가 포스터를 뒤집어 놓았다; 위아래가 반대로 걸려 있다."
+ },
+ "a:hallway-eight|p:sense|v:steady|0": {
+  "postedit": "복도가 늘 그랬듯 똑같은 길이로 느껴진다.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "복도가 늘 그랬듯 똑같은 길이로 느껴진다."
+ },
+ "a:hallway-eight|p:sense|v:steady|1": {
+  "postedit": "너는 로비에서부터 지녀 온 그 낮은 불안을 그대로 안고 있다.",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "너는 로비에서부터 지녀 온 그 낮은 불안을 그대로 안고 있다."
+ },
+ "a:hallway-eight|p:sense|v:steady|2": {
+  "postedit": "모든 것이 평범하게 느껴진다, 이곳이 평범할 수 있는 그 정도로.",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "모든 것이 평범하게 느껴진다, 이곳이 평범할 수 있는 그 정도로."
+ },
+ "a:hallway-eight|p:sense|x:calm|0": {
+  "postedit": "문득, 잘못된 평온이 든다, 마치 이미 빠져나온 것처럼.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "문득, 잘못된 평온이 든다, 마치 이미 빠져나온 것처럼."
+ },
+ "a:hallway-eight|p:sense|x:calm|1": {
+  "postedit": "여기 있을 리 없는 이상한 안도감이 너를 훑고 지나간다.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "여기 있을 리 없는 이상한 안도감이 너를 훑고 지나간다."
+ },
+ "a:hallway-eight|p:sense|x:calm|2": {
+  "postedit": "아무런 두려움도 들지 않고, 그것 자체가 잘못된 느낌이다.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "아무런 두려움도 들지 않고, 그것 자체가 잘못된 느낌이다."
+ },
+ "a:hallway-eight|p:sense|x:forget|0": {
+  "postedit": "한순간, 몇 개의 문을 지나왔는지 기억나지 않는다.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "한순간, 몇 개의 문을 지나왔는지 기억나지 않는다."
+ },
+ "a:hallway-eight|p:sense|x:forget|1": {
+  "postedit": "지나온 복도 수를 세다 놓치고, 그것이 너를 불안하게 한다.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "지나온 복도 수를 세다 놓치고, 그것이 너를 불안하게 한다."
+ },
+ "a:hallway-eight|p:sense|x:forget|2": {
+  "postedit": "애초에 네가 왜 이 아래에 있는지 도무지 기억나지 않는다.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "애초에 네가 왜 이 아래에 있는지 도무지 기억나지 않는다."
+ },
+ "a:hallway-eight|p:sense|x:longer|0": {
+  "postedit": "이번에는 복도가 더 길게 느껴진다, 이유는 말할 수 없지만.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "이번에는 복도가 더 길게 느껴진다, 이유는 말할 수 없지만."
+ },
+ "a:hallway-eight|p:sense|x:longer|1": {
+  "postedit": "저편 끝이 있어야 할 것보다 더 멀어 보인다.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "저편 끝이 있어야 할 것보다 더 멀어 보인다."
+ },
+ "a:hallway-eight|p:sense|x:longer|2": {
+  "postedit": "벽이 지난 구간 이후로 늘어난 것만 같다.",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "벽이 지난 구간 이후로 늘어난 것만 같다."
+ },
+ "a:hallway-eight|p:sign|v:exit|0": {
+  "postedit": "불 켜진 {SIGN} 표시등이 저편 끝에서 빛난다.",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "불 켜진 {SIGN} 표시등이 저편 끝에서 빛난다."
+ },
+ "a:hallway-eight|p:sign|v:exit|1": {
+  "postedit": "앞쪽, {SIGN} 표시등이 복도 위에 걸려 있다.",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "앞쪽, {SIGN} 표시등이 복도 위에 걸려 있다."
+ },
+ "a:hallway-eight|p:sign|v:exit|2": {
+  "postedit": "초록색 {SIGN} 표시등이 길을 가리킨다, 마땅히 그래야 하듯이.",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "초록색 {SIGN} 표시등이 길을 가리킨다, 마땅히 그래야 하듯이."
+ },
+ "a:hallway-eight|p:sign|v:exit|3": {
+  "postedit": "멀리 {SIGN} 표시등을 알아볼 수 있다.",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "멀리 {SIGN} 표시등을 알아볼 수 있다."
+ },
+ "a:hallway-eight|p:sign|x:dark|0": {
+  "postedit": "비상구 표시등이 꺼져 있다. 글자 뒤에 빛이 없다.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "비상구 표시등이 꺼져 있다. 글자 뒤에 빛이 없다."
+ },
+ "a:hallway-eight|p:sign|x:dark|1": {
+  "postedit": "비상구 표시등이 꺼졌다.",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "비상구 표시등이 꺼졌다."
+ },
+ "a:hallway-eight|p:sign|x:dark|2": {
+  "postedit": "비상구 표시등이 빛나야 할 자리에, 죽은 패널만 있다.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "비상구 표시등이 빛나야 할 자리에, 죽은 패널만 있다."
+ },
+ "a:hallway-eight|p:sign|x:number|0": {
+  "postedit": "표시등에 EXIT 3이라고 적혀 있다. 거기 숫자가 있던 적은 없었다.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "표시등에 EXIT 3이라고 적혀 있다. 거기 숫자가 있던 적은 없었다."
+ },
+ "a:hallway-eight|p:sign|x:number|1": {
+  "postedit": "표시등에 숫자가 나타났다: EXIT 3.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "표시등에 숫자가 나타났다: EXIT 3."
+ },
+ "a:hallway-eight|p:sign|x:number|2": {
+  "postedit": "비상구 표시등에 이제 네가 기억하지 못하는 숫자가 붙어 있다: 3.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "비상구 표시등에 이제 네가 기억하지 못하는 숫자가 붙어 있다: 3."
+ },
+ "a:hallway-eight|p:sign|x:reversed|0": {
+  "postedit": "비상구 표시등이 잘못된 방향을 가리킨다, EXIT ←.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "비상구 표시등이 잘못된 방향을 가리킨다, EXIT ←."
+ },
+ "a:hallway-eight|p:sign|x:reversed|1": {
+  "postedit": "비상구 표시등의 화살표가 이제 네가 온 길을 가리킨다: ←.",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "비상구 표시등의 화살표가 이제 네가 온 길을 가리킨다: ←."
+ },
+ "a:hallway-eight|p:sign|x:reversed|2": {
+  "postedit": "EXIT ←. 화살표가 뒤집혔다.",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "EXIT ←. 화살표가 뒤집혔다."
+ },
+ "a:hallway-eight|p:sound|v:vent|0": {
+  "postedit": "어디선가 환기 장치가 낮고 한결같은 숨을 내쉰다.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "어디선가 환기 장치가 낮고 한결같은 숨을 내쉰다."
+ },
+ "a:hallway-eight|p:sound|v:vent|1": {
+  "postedit": "공조 장치가 벽 속에서 웅웅거린다, 여전히 한결같이.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "공조 장치가 벽 속에서 웅웅거린다, 여전히 한결같이."
+ },
+ "a:hallway-eight|p:sound|v:vent|2": {
+  "postedit": "멀리서 들려오는 환기 장치의 익숙한 웅웅거림이 들린다.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "멀리서 들려오는 환기 장치의 익숙한 웅웅거림이 들린다."
+ },
+ "a:hallway-eight|p:sound|x:drip|0": {
+  "postedit": "보이지 않는 어딘가에서 물방울이 느릿느릿 똑똑 떨어진다.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "보이지 않는 어딘가에서 물방울이 느릿느릿 똑똑 떨어진다."
+ },
+ "a:hallway-eight|p:sound|x:drip|1": {
+  "postedit": "어디선가 물이 떨어지는데, 어디인지 짚을 수 없다.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "어디선가 물이 떨어지는데, 어디인지 짚을 수 없다."
+ },
+ "a:hallway-eight|p:sound|x:drip|2": {
+  "postedit": "똑. 똑. 가까이서 무언가가 떨어지고 있다.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "똑. 똑. 가까이서 무언가가 떨어지고 있다."
+ },
+ "a:hallway-eight|p:sound|x:footsteps|0": {
+  "postedit": "등 뒤 어딘가에서 발소리가 울리다가 멎는다.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "등 뒤 어딘가에서 발소리가 울리다가 멎는다."
+ },
+ "a:hallway-eight|p:sound|x:footsteps|1": {
+  "postedit": "네 것과 맞지 않는 발소리가 들린다.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "네 것과 맞지 않는 발소리가 들린다."
+ },
+ "a:hallway-eight|p:sound|x:footsteps|2": {
+  "postedit": "한순간 발소리가 둘로 겹친다.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "한순간 발소리가 둘로 겹친다."
+ },
+ "a:hallway-eight|p:sound|x:silence|0": {
+  "postedit": "환기 장치가 멈췄다. 정적이 귀를 짓누른다.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "환기 장치가 멈췄다. 정적이 귀를 짓누른다."
+ },
+ "a:hallway-eight|p:sound|x:silence|1": {
+  "postedit": "완전히 조용하다. 지나치게 조용하다.",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "완전히 조용하다. 지나치게 조용하다."
+ },
+ "a:hallway-eight|p:sound|x:silence|2": {
+  "postedit": "웅웅거림이 사라진 걸 알아챈다. 그 고요가 어딘가 잘못된 느낌이다.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "웅웅거림이 사라진 걸 알아챈다. 그 고요가 어딘가 잘못된 느낌이다."
+ },
+ "a:hallway-eight|progress": {
+  "postedit": "복도 {level} / {goal}",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "복도 {level} / {goal}"
+ },
+ "a:hallway-eight|share_prompt": {
+  "postedit": "문을 열어 둬.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "문을 열어 둬."
+ },
+ "a:hallway-eight|tagline": {
+  "postedit": "영업이 끝난 뒤 갇혔다. 복도를 따라 비상구로.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "영업이 끝난 뒤 갇혔다. 복도를 따라 비상구로."
+ },
+ "a:hallway-eight|title_main": {
+  "postedit": "복도 8",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "복도 8"
+ },
+ "a:hallway-eight|title|0": {
+  "postedit": "복도 8",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "복도 8"
+ },
+ "a:hallway-eight|title|1": {
+  "postedit": "복도 8",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "복도 8"
+ },
+ "a:hallway-eight|title|2": {
+  "postedit": "복도 8",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "복도 8"
+ },
+ "a:hallway-eight|title|3": {
+  "postedit": "복도 8",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "복도 8"
+ },
+ "a:hallway-eight|title|4": {
+  "postedit": "통로 8",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "통로 8"
+ },
+ "a:hallway-eight|title|5": {
+  "postedit": "여덟 번째 복도",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "여덟 번째 복도"
+ },
+ "a:hallway-eight|title|6": {
+  "postedit": "복도 8",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "복도 8"
+ },
+ "a:hallway-eight|title|7": {
+  "postedit": "복도 8",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "복도 8"
+ },
+ "a:hallway-eight|turn_back": {
+  "postedit": "돌아서기",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "돌아서기"
+ }
+}

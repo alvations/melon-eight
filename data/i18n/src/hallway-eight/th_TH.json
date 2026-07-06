@@ -1,0 +1,872 @@
+{
+  "a:hallway-eight|title_main": {
+    "text": "ทางเดิน 8",
+    "score": 95,
+    "postedit": "ทางเดิน 8",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|tagline": {
+    "text": "ถูกขังอยู่ข้างในหลังเลิกงาน เดินตามทางเดินไปยังทางหนีไฟ",
+    "score": 94,
+    "postedit": "ถูกขังอยู่ข้างในหลังเลิกงาน เดินตามทางเดินไปยังทางหนีไฟ",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|go_on": {
+    "text": "เดินต่อไป",
+    "score": 95,
+    "postedit": "เดินต่อไป",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|turn_back": {
+    "text": "หันกลับ",
+    "score": 95,
+    "postedit": "หันกลับ",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|progress": {
+    "text": "ทางเดิน {level} / {goal}",
+    "score": 95,
+    "postedit": "ทางเดิน {level} / {goal}",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|label|lighting": {
+    "text": "แสงไฟ",
+    "score": 95,
+    "postedit": "แสงไฟ",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|label|sound": {
+    "text": "เสียง",
+    "score": 95,
+    "postedit": "เสียง",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|label|poster": {
+    "text": "โปสเตอร์",
+    "score": 95,
+    "postedit": "โปสเตอร์",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|label|figure": {
+    "text": "ชายที่ปลายทางเดิน",
+    "score": 95,
+    "postedit": "ชายที่ปลายทางเดิน",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|label|sign": {
+    "text": "ป้ายทางออก",
+    "score": 95,
+    "postedit": "ป้ายทางออก",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|label|door": {
+    "text": "ประตูซ่อมบำรุง",
+    "score": 95,
+    "postedit": "ประตูซ่อมบำรุง",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|label|camera": {
+    "text": "กล้องวงจรปิด",
+    "score": 95,
+    "postedit": "กล้องวงจรปิด",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|label|floor": {
+    "text": "พื้น",
+    "score": 95,
+    "postedit": "พื้น",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|label|sense": {
+    "text": "ความรู้สึก",
+    "score": 95,
+    "postedit": "ความรู้สึก",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|title|0": {
+    "text": "ทางเดิน 8",
+    "score": 95,
+    "postedit": "ทางเดิน 8",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|title|1": {
+    "text": "ทางเดิน 8",
+    "score": 95,
+    "postedit": "ทางเดิน 8",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|title|2": {
+    "text": "ทางเดิน 8",
+    "score": 95,
+    "postedit": "ทางเดิน 8",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|title|3": {
+    "text": "ทางเดิน 8",
+    "score": 95,
+    "postedit": "ทางเดิน 8",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|title|4": {
+    "text": "โถงทางเดิน 8",
+    "score": 95,
+    "postedit": "โถงทางเดิน 8",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|title|5": {
+    "text": "ทางเดินแปด",
+    "score": 95,
+    "postedit": "ทางเดินแปด",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|title|6": {
+    "text": "ทางเดิน 8",
+    "score": 95,
+    "postedit": "ทางเดิน 8",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|title|7": {
+    "text": "ทางเดิน 8",
+    "score": 95,
+    "postedit": "ทางเดิน 8",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|p:lighting|v:steady|0": {
+    "text": "หลอดไฟฟลูออเรสเซนต์เหนือหัวส่งเสียงหึ่งเบา ๆ",
+    "score": 94,
+    "postedit": "หลอดไฟฟลูออเรสเซนต์เหนือหัวส่งเสียงหึ่งเบา ๆ",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:lighting|v:steady|1": {
+    "text": "ไฟเพดานส่องแสงสม่ำเสมอและทั่วถึง",
+    "score": 94,
+    "postedit": "ไฟเพดานส่องแสงสม่ำเสมอและทั่วถึง",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:lighting|v:steady|2": {
+    "text": "เหนือหัว หลอดฟลูออเรสเซนต์ส่งเสียงหึ่งที่ระดับคุ้นเคย",
+    "score": 94,
+    "postedit": "เหนือหัว หลอดฟลูออเรสเซนต์ส่งเสียงหึ่งที่ระดับคุ้นเคย",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:lighting|v:steady|3": {
+    "text": "แสงไฟเรียบ ๆ ไม่มีอะไรน่าสังเกต เหมือนอย่างที่เป็นเสมอ",
+    "score": 94,
+    "postedit": "แสงไฟเรียบ ๆ ไม่มีอะไรน่าสังเกต เหมือนอย่างที่เป็นเสมอ",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:lighting|x:flicker|0": {
+    "text": "หลอดฟลูออเรสเซนต์หลอดหนึ่งกะพริบติด ๆ ดับ ๆ แล้วก็นิ่ง",
+    "score": 94,
+    "postedit": "หลอดฟลูออเรสเซนต์หลอดหนึ่งกะพริบติด ๆ ดับ ๆ แล้วก็นิ่ง",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:lighting|x:flicker|1": {
+    "text": "ไฟกะพริบครั้งหนึ่ง สองครั้ง ก่อนจะนิ่งลง",
+    "score": 94,
+    "postedit": "ไฟกะพริบครั้งหนึ่ง สองครั้ง ก่อนจะนิ่งลง",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:lighting|x:flicker|2": {
+    "text": "ไฟเพดานมีการกะพริบถี่ราง ๆ ที่เมื่อก่อนไม่มี",
+    "score": 94,
+    "postedit": "ไฟเพดานมีการกะพริบถี่ราง ๆ ที่เมื่อก่อนไม่มี",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:lighting|x:dim|0": {
+    "text": "ทางเดินดูมืดลงกว่าที่คุณจำได้อยู่นิดหนึ่ง",
+    "score": 94,
+    "postedit": "ทางเดินดูมืดลงกว่าที่คุณจำได้อยู่นิดหนึ่ง",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:lighting|x:dim|1": {
+    "text": "ไฟที่นี่สลัวกว่า ราวกับว่าครึ่งหนึ่งของมันยอมแพ้ไปแล้ว",
+    "score": 94,
+    "postedit": "ไฟที่นี่สลัวกว่า ราวกับว่าครึ่งหนึ่งของมันยอมแพ้ไปแล้ว",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:lighting|x:dim|2": {
+    "text": "ความสลัวสีเทาปกคลุมทุกสิ่ง",
+    "score": 94,
+    "postedit": "ความสลัวสีเทาปกคลุมทุกสิ่ง",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:lighting|x:warm|0": {
+    "text": "แสงไฟอาบไปด้วยสีเหลืองอุ่น ๆ",
+    "score": 94,
+    "postedit": "แสงไฟอาบไปด้วยสีเหลืองอุ่น ๆ",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:lighting|x:warm|1": {
+    "text": "หลอดฟลูออเรสเซนต์เรืองแสงสีอำพันแปลก ๆ เกือบเหมือนยามอาทิตย์อัสดง",
+    "score": 94,
+    "postedit": "หลอดฟลูออเรสเซนต์เรืองแสงสีอำพันแปลก ๆ เกือบเหมือนยามอาทิตย์อัสดง",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:lighting|x:warm|2": {
+    "text": "แสงขาวเย็นตามปกติกลับกลายเป็นสีทองจาง ๆ",
+    "score": 94,
+    "postedit": "แสงขาวเย็นตามปกติกลับกลายเป็นสีทองจาง ๆ",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:sound|v:vent|0": {
+    "text": "ที่ใดสักแห่ง ระบบระบายอากาศถอนลมหายใจต่ำ ๆ อย่างต่อเนื่อง",
+    "score": 94,
+    "postedit": "ที่ใดสักแห่ง ระบบระบายอากาศถอนลมหายใจต่ำ ๆ อย่างต่อเนื่อง",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:sound|v:vent|1": {
+    "text": "ระบบปรับอากาศส่งเสียงหึ่งอยู่ในผนัง สม่ำเสมอเช่นเคย",
+    "score": 94,
+    "postedit": "ระบบปรับอากาศส่งเสียงหึ่งอยู่ในผนัง สม่ำเสมอเช่นเคย",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:sound|v:vent|2": {
+    "text": "คุณได้ยินเสียงครวญคุ้นเคยของระบบระบายอากาศที่อยู่ไกลออกไป",
+    "score": 94,
+    "postedit": "คุณได้ยินเสียงครวญคุ้นเคยของระบบระบายอากาศที่อยู่ไกลออกไป",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:sound|x:drip|0": {
+    "text": "เสียงน้ำหยดช้า ๆ ดังเคาะอยู่ที่ใดสักแห่งพ้นสายตา",
+    "score": 94,
+    "postedit": "เสียงน้ำหยดช้า ๆ ดังเคาะอยู่ที่ใดสักแห่งพ้นสายตา",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:sound|x:drip|1": {
+    "text": "มีน้ำหยดอยู่ คุณบอกไม่ได้ว่าจากตรงไหน",
+    "score": 94,
+    "postedit": "มีน้ำหยดอยู่ คุณบอกไม่ได้ว่าจากตรงไหน",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:sound|x:drip|2": {
+    "text": "ติ๊ก ติ๊ก มีบางอย่างหยดอยู่ใกล้ ๆ",
+    "score": 94,
+    "postedit": "ติ๊ก ติ๊ก มีบางอย่างหยดอยู่ใกล้ ๆ",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:sound|x:silence|0": {
+    "text": "ระบบระบายอากาศหยุดลง ความเงียบกดทับที่หูของคุณ",
+    "score": 94,
+    "postedit": "ระบบระบายอากาศหยุดลง ความเงียบกดทับที่หูของคุณ",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:sound|x:silence|1": {
+    "text": "มันเงียบสนิท เงียบเกินไป",
+    "score": 94,
+    "postedit": "มันเงียบสนิท เงียบเกินไป",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:sound|x:silence|2": {
+    "text": "คุณสังเกตว่าเสียงหึ่งหายไปแล้ว ความนิ่งงันนี้รู้สึกผิดปกติ",
+    "score": 94,
+    "postedit": "คุณสังเกตว่าเสียงหึ่งหายไปแล้ว ความนิ่งงันนี้รู้สึกผิดปกติ",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:sound|x:footsteps|0": {
+    "text": "เสียงฝีเท้าก้องอยู่ที่ใดสักแห่งข้างหลังคุณ แล้วก็หยุดลง",
+    "score": 94,
+    "postedit": "เสียงฝีเท้าก้องอยู่ที่ใดสักแห่งข้างหลังคุณ แล้วก็หยุดลง",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:sound|x:footsteps|1": {
+    "text": "คุณได้ยินเสียงฝีเท้าที่ไม่ตรงกับของคุณเอง",
+    "score": 94,
+    "postedit": "คุณได้ยินเสียงฝีเท้าที่ไม่ตรงกับของคุณเอง",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:sound|x:footsteps|2": {
+    "text": "ชั่วขณะหนึ่ง มีเสียงฝีเท้าสองชุด",
+    "score": 94,
+    "postedit": "ชั่วขณะหนึ่ง มีเสียงฝีเท้าสองชุด",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:poster|v:travel|0": {
+    "text": "โปสเตอร์ท่องเที่ยวสีซีดแปะติดอยู่บนผนัง ชายหาด ท้องฟ้าสีคราม",
+    "score": 94,
+    "postedit": "โปสเตอร์ท่องเที่ยวสีซีดแปะติดอยู่บนผนัง ชายหาด ท้องฟ้าสีคราม",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:poster|v:travel|1": {
+    "text": "โปสเตอร์เก่ารูปชายฝั่งอาบแดดยังคงแปะเทปติดอยู่บนผนัง",
+    "score": 94,
+    "postedit": "โปสเตอร์เก่ารูปชายฝั่งอาบแดดยังคงแปะเทปติดอยู่บนผนัง",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:poster|v:travel|2": {
+    "text": "บนผนัง โฆษณาสีจืดจางชิ้นนั้นของสถานที่อบอุ่นแห่งหนึ่ง",
+    "score": 94,
+    "postedit": "บนผนัง โฆษณาสีจืดจางชิ้นนั้นของสถานที่อบอุ่นแห่งหนึ่ง",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:poster|v:travel|3": {
+    "text": "โปสเตอร์ท่องเที่ยวแขวนเอียงเล็กน้อยตามปกติ",
+    "score": 94,
+    "postedit": "โปสเตอร์ท่องเที่ยวแขวนเอียงเล็กน้อยตามปกติ",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:poster|x:gone|0": {
+    "text": "ผนังโล่งเปล่า รอยสี่เหลี่ยมสีจาง ๆ บอกตำแหน่งที่โปสเตอร์เคยอยู่",
+    "score": 94,
+    "postedit": "ผนังโล่งเปล่า รอยสี่เหลี่ยมสีจาง ๆ บอกตำแหน่งที่โปสเตอร์เคยอยู่",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:poster|x:gone|1": {
+    "text": "โปสเตอร์ท่องเที่ยวหายไป เหลือเพียงเทป",
+    "score": 94,
+    "postedit": "โปสเตอร์ท่องเที่ยวหายไป เหลือเพียงเทป",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:poster|x:gone|2": {
+    "text": "ตอนนี้ไม่มีอะไรแขวนอยู่บนผนัง",
+    "score": 94,
+    "postedit": "ตอนนี้ไม่มีอะไรแขวนอยู่บนผนัง",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:poster|x:mountains|0": {
+    "text": "โปสเตอร์เป็นภาพภูเขาที่ปกคลุมด้วยหิมะ ไม่ใช่ชายหาด",
+    "score": 94,
+    "postedit": "โปสเตอร์เป็นภาพภูเขาที่ปกคลุมด้วยหิมะ ไม่ใช่ชายหาด",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:poster|x:mountains|1": {
+    "text": "โปสเตอร์ชายฝั่งกลายเป็นภาพถ่ายของภูเขาสีเทาไปแล้ว",
+    "score": 94,
+    "postedit": "โปสเตอร์ชายฝั่งกลายเป็นภาพถ่ายของภูเขาสีเทาไปแล้ว",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:poster|x:mountains|2": {
+    "text": "โฆษณาเป็นภาพยอดเขาอันหนาวเหน็บใต้เมฆทึบ",
+    "score": 94,
+    "postedit": "โฆษณาเป็นภาพยอดเขาอันหนาวเหน็บใต้เมฆทึบ",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:poster|x:upside|0": {
+    "text": "โปสเตอร์ท่องเที่ยวแขวนกลับหัว",
+    "score": 94,
+    "postedit": "โปสเตอร์ท่องเที่ยวแขวนกลับหัว",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:poster|x:upside|1": {
+    "text": "ชายหาดบนโปสเตอร์กลับหัวกลับหาง ท้องฟ้าอยู่ด้านล่าง",
+    "score": 94,
+    "postedit": "ชายหาดบนโปสเตอร์กลับหัวกลับหาง ท้องฟ้าอยู่ด้านล่าง",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:poster|x:upside|2": {
+    "text": "มีใครบางคนพลิกโปสเตอร์กลับ มันแขวนหงายผิดด้าน",
+    "score": 94,
+    "postedit": "มีใครบางคนพลิกโปสเตอร์กลับ มันแขวนหงายผิดด้าน",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:figure|v:distant|0": {
+    "text": "ไกลออกไปตามทางเดิน ชายในสูทสีเทาคนหนึ่งกำลังเดินห่างจากคุณ",
+    "score": 94,
+    "postedit": "ไกลออกไปตามทางเดิน ชายในสูทสีเทาคนหนึ่งกำลังเดินห่างจากคุณ",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:figure|v:distant|1": {
+    "text": "ร่างในชุดสูทเคลื่อนอยู่ข้างหน้าในระยะไกล หันหลังให้",
+    "score": 94,
+    "postedit": "ร่างในชุดสูทเคลื่อนอยู่ข้างหน้าในระยะไกล หันหลังให้",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:figure|v:distant|2": {
+    "text": "ชายในชุดสีเทาอยู่ข้างหน้า เหมือนเช่นเคย เดินต่อไป",
+    "score": 94,
+    "postedit": "ชายในชุดสีเทาอยู่ข้างหน้า เหมือนเช่นเคย เดินต่อไป",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:figure|v:distant|3": {
+    "text": "ปลายทางเดิน ชายในชุดสูทค่อย ๆ เลือนหายไปสู่จุดลับตา",
+    "score": 94,
+    "postedit": "ปลายทางเดิน ชายในชุดสูทค่อย ๆ เลือนหายไปสู่จุดลับตา",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:figure|x:closer|0": {
+    "text": "ชายในสูทสีเทาอยู่ใกล้กว่าที่เขาควรจะอยู่มาก",
+    "score": 94,
+    "postedit": "ชายในสูทสีเทาอยู่ใกล้กว่าที่เขาควรจะอยู่มาก",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:figure|x:closer|1": {
+    "text": "ร่างในชุดสูทหยุดอยู่กลางทาง ใกล้กว่าเดิม",
+    "score": 94,
+    "postedit": "ร่างในชุดสูทหยุดอยู่กลางทาง ใกล้กว่าเดิม",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:figure|x:closer|2": {
+    "text": "ตอนนี้ชายในชุดสีเทาอยู่ข้างหน้าเพียงไม่กี่ก้าว ยังคงหันหลังให้",
+    "score": 94,
+    "postedit": "ตอนนี้ชายในชุดสีเทาอยู่ข้างหน้าเพียงไม่กี่ก้าว ยังคงหันหลังให้",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:figure|x:facing|0": {
+    "text": "ชายในสูทสีเทาหยุดลงแล้ว เขากำลังหันหน้ามาทางคุณ",
+    "score": 94,
+    "postedit": "ชายในสูทสีเทาหยุดลงแล้ว เขากำลังหันหน้ามาทางคุณ",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:figure|x:facing|1": {
+    "text": "ปลายทางเดิน ร่างในชุดสูทยืนนิ่ง มองมาทางคุณ",
+    "score": 94,
+    "postedit": "ปลายทางเดิน ร่างในชุดสูทยืนนิ่ง มองมาทางคุณ",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:figure|x:facing|2": {
+    "text": "ชายในชุดสีเทาไม่ได้เดิน เขากำลังเฝ้ามองคุณ",
+    "score": 94,
+    "postedit": "ชายในชุดสีเทาไม่ได้เดิน เขากำลังเฝ้ามองคุณ",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:figure|x:gone|0": {
+    "text": "ทางเดินข้างหน้าว่างเปล่า ไม่มีใครเดินอยู่เลย",
+    "score": 94,
+    "postedit": "ทางเดินข้างหน้าว่างเปล่า ไม่มีใครเดินอยู่เลย",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:figure|x:gone|1": {
+    "text": "คราวนี้ไม่มีร่างใดอยู่ข้างหน้า",
+    "score": 94,
+    "postedit": "คราวนี้ไม่มีร่างใดอยู่ข้างหน้า",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:figure|x:gone|2": {
+    "text": "ไม่เห็นชายในสูทสีเทาอยู่ที่ไหนเลย",
+    "score": 94,
+    "postedit": "ไม่เห็นชายในสูทสีเทาอยู่ที่ไหนเลย",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:figure|x:knows|0": {
+    "text": "ชายในชุดสีเทาหันกลับมาและยกมือขึ้น ราวกับว่าเขารู้จักคุณ",
+    "score": 94,
+    "postedit": "ชายในชุดสีเทาหันกลับมาและยกมือขึ้น ราวกับว่าเขารู้จักคุณ",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:figure|x:knows|1": {
+    "text": "ร่างในชุดสูทหันหน้ามาทางคุณและกวักมือเรียก ช้า ๆ อย่างจงใจ",
+    "score": 94,
+    "postedit": "ร่างในชุดสูทหันหน้ามาทางคุณและกวักมือเรียก ช้า ๆ อย่างจงใจ",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:figure|x:knows|2": {
+    "text": "ชายคนนั้นขยับปากพูดอะไรบางอย่างจากปลายทางเดิน อาจจะเป็นคำว่า 'อีกแล้ว'",
+    "score": 94,
+    "postedit": "ชายคนนั้นขยับปากพูดอะไรบางอย่างจากปลายทางเดิน อาจจะเป็นคำว่า 'อีกแล้ว'",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:sign|v:exit|0": {
+    "text": "ป้าย {SIGN} ที่ส่องสว่างเรืองแสงอยู่ที่ปลายทาง",
+    "score": 94,
+    "postedit": "ป้าย {SIGN} ที่ส่องสว่างเรืองแสงอยู่ที่ปลายทาง",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:sign|v:exit|1": {
+    "text": "ข้างหน้า ป้าย {SIGN} แขวนอยู่เหนือทางเดิน",
+    "score": 94,
+    "postedit": "ข้างหน้า ป้าย {SIGN} แขวนอยู่เหนือทางเดิน",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:sign|v:exit|2": {
+    "text": "ป้าย {SIGN} สีเขียวชี้ทางไป อย่างที่มันควรเป็น",
+    "score": 94,
+    "postedit": "ป้าย {SIGN} สีเขียวชี้ทางไป อย่างที่มันควรเป็น",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:sign|v:exit|3": {
+    "text": "คุณพอมองเห็นป้าย {SIGN} อยู่ในระยะไกล",
+    "score": 94,
+    "postedit": "คุณพอมองเห็นป้าย {SIGN} อยู่ในระยะไกล",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:sign|x:reversed|0": {
+    "text": "ป้ายทางออกชี้ไปผิดทาง EXIT ←",
+    "score": 94,
+    "postedit": "ป้ายทางออกชี้ไปผิดทาง EXIT ←",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:sign|x:reversed|1": {
+    "text": "ลูกศรบนป้ายทางออกตอนนี้ชี้กลับไปทางที่คุณมา: ←",
+    "score": 94,
+    "postedit": "ลูกศรบนป้ายทางออกตอนนี้ชี้กลับไปทางที่คุณมา: ←",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:sign|x:reversed|2": {
+    "text": "EXIT ← ลูกศรกลับทิศแล้ว",
+    "score": 94,
+    "postedit": "EXIT ← ลูกศรกลับทิศแล้ว",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:sign|x:dark|0": {
+    "text": "ป้ายทางออกมืด ไม่มีแสงอยู่หลังตัวอักษร",
+    "score": 94,
+    "postedit": "ป้ายทางออกมืด ไม่มีแสงอยู่หลังตัวอักษร",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:sign|x:dark|1": {
+    "text": "ป้ายทางออกดับไปแล้ว",
+    "score": 94,
+    "postedit": "ป้ายทางออกดับไปแล้ว",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:sign|x:dark|2": {
+    "text": "ตรงที่ป้ายทางออกควรเรืองแสง มีเพียงแผงป้ายที่ดับสนิท",
+    "score": 94,
+    "postedit": "ตรงที่ป้ายทางออกควรเรืองแสง มีเพียงแผงป้ายที่ดับสนิท",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:sign|x:number|0": {
+    "text": "ป้ายอ่านได้ว่า EXIT 3 ทั้งที่ไม่เคยมีตัวเลขอยู่บนนั้นเลย",
+    "score": 94,
+    "postedit": "ป้ายอ่านได้ว่า EXIT 3 ทั้งที่ไม่เคยมีตัวเลขอยู่บนนั้นเลย",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:sign|x:number|1": {
+    "text": "มีตัวเลขปรากฏขึ้นบนป้าย: EXIT 3",
+    "score": 94,
+    "postedit": "มีตัวเลขปรากฏขึ้นบนป้าย: EXIT 3",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:sign|x:number|2": {
+    "text": "ตอนนี้ป้ายทางออกมีตัวเลขที่คุณจำไม่ได้: 3",
+    "score": 94,
+    "postedit": "ตอนนี้ป้ายทางออกมีตัวเลขที่คุณจำไม่ได้: 3",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:door|v:closed|0": {
+    "text": "ประตูซ่อมบำรุงสีเทาบานหนึ่งปิดอยู่ในผนังด้านซ้าย",
+    "score": 94,
+    "postedit": "ประตูซ่อมบำรุงสีเทาบานหนึ่งปิดอยู่ในผนังด้านซ้าย",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:door|v:closed|1": {
+    "text": "ประตูบริการทางซ้ายของคุณปิดอยู่ ตามปกติ",
+    "score": 94,
+    "postedit": "ประตูบริการทางซ้ายของคุณปิดอยู่ ตามปกติ",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:door|v:closed|2": {
+    "text": "นั่นประตูซ่อมบำรุง ปิดสนิท",
+    "score": 94,
+    "postedit": "นั่นประตูซ่อมบำรุง ปิดสนิท",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:door|x:ajar|0": {
+    "text": "ประตูซ่อมบำรุงแง้มอยู่เล็กน้อย ข้างในมืดมิด",
+    "score": 94,
+    "postedit": "ประตูซ่อมบำรุงแง้มอยู่เล็กน้อย ข้างในมืดมิด",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:door|x:ajar|1": {
+    "text": "ประตูบริการเปิดอ้าอยู่นิดหนึ่ง ทั้งที่คุณไม่เคยเห็นมันเปิดเลย",
+    "score": 94,
+    "postedit": "ประตูบริการเปิดอ้าอยู่นิดหนึ่ง ทั้งที่คุณไม่เคยเห็นมันเปิดเลย",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:door|x:ajar|2": {
+    "text": "ประตูสีเทาแง้มอยู่ เป็นช่องดำบาง ๆ ตรงที่มันควรปิดเรียบสนิท",
+    "score": 94,
+    "postedit": "ประตูสีเทาแง้มอยู่ เป็นช่องดำบาง ๆ ตรงที่มันควรปิดเรียบสนิท",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:door|x:gone|0": {
+    "text": "ไม่มีประตูซ่อมบำรุงในผนังด้านซ้าย มีเพียงผนังเรียบ ๆ",
+    "score": 94,
+    "postedit": "ไม่มีประตูซ่อมบำรุงในผนังด้านซ้าย มีเพียงผนังเรียบ ๆ",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:door|x:gone|1": {
+    "text": "ประตูบริการหายไปทั้งบาน",
+    "score": 94,
+    "postedit": "ประตูบริการหายไปทั้งบาน",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:door|x:gone|2": {
+    "text": "ผนังด้านซ้ายเรียบต่อเนื่อง ไม่มีประตูเลยสักบาน",
+    "score": 94,
+    "postedit": "ผนังด้านซ้ายเรียบต่อเนื่อง ไม่มีประตูเลยสักบาน",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:camera|v:away|0": {
+    "text": "กล้องวงจรปิดตัวเล็ก ๆ ที่มุมห้องหันไปตามทางเดิน",
+    "score": 94,
+    "postedit": "กล้องวงจรปิดตัวเล็ก ๆ ที่มุมห้องหันไปตามทางเดิน",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:camera|v:away|1": {
+    "text": "กล้องรักษาความปลอดภัยจับจ้องปลายทางอีกด้าน เอียงหันออกจากคุณ",
+    "score": 94,
+    "postedit": "กล้องรักษาความปลอดภัยจับจ้องปลายทางอีกด้าน เอียงหันออกจากคุณ",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:camera|v:away|2": {
+    "text": "บนมุมห้อง กล้องหันไปข้างหน้า เหมือนเช่นเคย",
+    "score": 94,
+    "postedit": "บนมุมห้อง กล้องหันไปข้างหน้า เหมือนเช่นเคย",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:camera|x:atyou|0": {
+    "text": "กล้องวงจรปิดหันมาแล้ว มันเล็งตรงมาที่คุณ",
+    "score": 94,
+    "postedit": "กล้องวงจรปิดหันมาแล้ว มันเล็งตรงมาที่คุณ",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:camera|x:atyou|1": {
+    "text": "ตอนนี้กล้องรักษาความปลอดภัยเอียงลงมาที่คุณ",
+    "score": 94,
+    "postedit": "ตอนนี้กล้องรักษาความปลอดภัยเอียงลงมาที่คุณ",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:camera|x:atyou|2": {
+    "text": "กล้องที่มุมห้องหันมาทางคุณ เลนส์ของมันอยู่ระดับเดียวกับดวงตาของคุณ",
+    "score": 94,
+    "postedit": "กล้องที่มุมห้องหันมาทางคุณ เลนส์ของมันอยู่ระดับเดียวกับดวงตาของคุณ",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:camera|x:red|0": {
+    "text": "ไฟแดงกะพริบอยู่บนกล้อง เมื่อก่อนมันไม่เคยกะพริบเลย",
+    "score": 94,
+    "postedit": "ไฟแดงกะพริบอยู่บนกล้อง เมื่อก่อนมันไม่เคยกะพริบเลย",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:camera|x:red|1": {
+    "text": "ไฟบันทึกของกล้องเรืองแสงสีแดงเป็นครั้งแรก",
+    "score": 94,
+    "postedit": "ไฟบันทึกของกล้องเรืองแสงสีแดงเป็นครั้งแรก",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:camera|x:red|2": {
+    "text": "ไฟ LED ดวงเล็กบนกล้องเต้นเป็นจังหวะสีแดง",
+    "score": 94,
+    "postedit": "ไฟ LED ดวงเล็กบนกล้องเต้นเป็นจังหวะสีแดง",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:floor|v:dry|0": {
+    "text": "กระเบื้องพื้นสีเทาทอดยาวออกไป แห้งและหม่น",
+    "score": 94,
+    "postedit": "กระเบื้องพื้นสีเทาทอดยาวออกไป แห้งและหม่น",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:floor|v:dry|1": {
+    "text": "ใต้ฝ่าเท้า คือกระเบื้องสีเทาที่ถลอกตามปกติ",
+    "score": 94,
+    "postedit": "ใต้ฝ่าเท้า คือกระเบื้องสีเทาที่ถลอกตามปกติ",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:floor|v:dry|2": {
+    "text": "พื้นกระเบื้องแห้ง ไม่สะท้อนอะไรเลย",
+    "score": 94,
+    "postedit": "พื้นกระเบื้องแห้ง ไม่สะท้อนอะไรเลย",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:floor|x:wet|0": {
+    "text": "กระเบื้องข้างหน้าเป็นประกายชื้นและมืดคล้ำ",
+    "score": 94,
+    "postedit": "กระเบื้องข้างหน้าเป็นประกายชื้นและมืดคล้ำ",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:floor|x:wet|1": {
+    "text": "พื้นเปียก ทั้งที่คุณไม่เห็นใครมาทำความสะอาด",
+    "score": 94,
+    "postedit": "พื้นเปียก ทั้งที่คุณไม่เห็นใครมาทำความสะอาด",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:floor|x:wet|2": {
+    "text": "คราบน้ำแผ่กระจายไปทั่วกระเบื้อง",
+    "score": 94,
+    "postedit": "คราบน้ำแผ่กระจายไปทั่วกระเบื้อง",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:floor|x:cracked|0": {
+    "text": "รอยร้าวพาดผ่านกระเบื้องพื้นที่เมื่อก่อนไม่มี",
+    "score": 94,
+    "postedit": "รอยร้าวพาดผ่านกระเบื้องพื้นที่เมื่อก่อนไม่มี",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:floor|x:cracked|1": {
+    "text": "กระเบื้องพื้นแผ่นหนึ่งแตกร้าวตรงกลาง",
+    "score": 94,
+    "postedit": "กระเบื้องพื้นแผ่นหนึ่งแตกร้าวตรงกลาง",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:floor|x:cracked|2": {
+    "text": "กระเบื้องแตกร้าวเป็นเส้นหยัก ๆ อยู่ข้างหน้า",
+    "score": 94,
+    "postedit": "กระเบื้องแตกร้าวเป็นเส้นหยัก ๆ อยู่ข้างหน้า",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:sense|v:steady|0": {
+    "text": "ทางเดินรู้สึกยาวเท่าที่มันเคยเป็นมาตลอดเป๊ะ",
+    "score": 94,
+    "postedit": "ทางเดินรู้สึกยาวเท่าที่มันเคยเป็นมาตลอดเป๊ะ",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:sense|v:steady|1": {
+    "text": "คุณแบกความหวาดหวั่นต่ำ ๆ เดิม ๆ ที่มีมาตั้งแต่ล็อบบี้",
+    "score": 94,
+    "postedit": "คุณแบกความหวาดหวั่นต่ำ ๆ เดิม ๆ ที่มีมาตั้งแต่ล็อบบี้",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:sense|v:steady|2": {
+    "text": "ทุกอย่างรู้สึกธรรมดา ในแบบที่ที่แห่งนี้จะธรรมดาได้",
+    "score": 94,
+    "postedit": "ทุกอย่างรู้สึกธรรมดา ในแบบที่ที่แห่งนี้จะธรรมดาได้",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:sense|x:longer|0": {
+    "text": "คราวนี้ทางเดินรู้สึกยาวขึ้น ทั้งที่คุณบอกไม่ได้ว่าทำไม",
+    "score": 94,
+    "postedit": "คราวนี้ทางเดินรู้สึกยาวขึ้น ทั้งที่คุณบอกไม่ได้ว่าทำไม",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:sense|x:longer|1": {
+    "text": "ปลายทางอีกด้านดูไกลออกไปกว่าที่ควรจะเป็น",
+    "score": 94,
+    "postedit": "ปลายทางอีกด้านดูไกลออกไปกว่าที่ควรจะเป็น",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:sense|x:longer|2": {
+    "text": "ผนังรู้สึกราวกับถูกยืดออกไปนับตั้งแต่ช่วงที่แล้ว",
+    "score": 94,
+    "postedit": "ผนังรู้สึกราวกับถูกยืดออกไปนับตั้งแต่ช่วงที่แล้ว",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:sense|x:forget|0": {
+    "text": "ชั่วขณะหนึ่ง คุณจำไม่ได้ว่าเดินผ่านประตูมากี่บานแล้ว",
+    "score": 94,
+    "postedit": "ชั่วขณะหนึ่ง คุณจำไม่ได้ว่าเดินผ่านประตูมากี่บานแล้ว",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:sense|x:forget|1": {
+    "text": "คุณนับทางเดินไม่ถ้วน และมันทำให้คุณกระวนกระวาย",
+    "score": 94,
+    "postedit": "คุณนับทางเดินไม่ถ้วน และมันทำให้คุณกระวนกระวาย",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:sense|x:forget|2": {
+    "text": "คุณนึกไม่ออกเลยว่าทำไมถึงมาอยู่ตรงนี้",
+    "score": 94,
+    "postedit": "คุณนึกไม่ออกเลยว่าทำไมถึงมาอยู่ตรงนี้",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:sense|x:calm|0": {
+    "text": "จู่ ๆ คุณก็รู้สึกสงบอย่างผิดปกติ ราวกับว่าคุณหนีออกไปได้แล้ว",
+    "score": 94,
+    "postedit": "จู่ ๆ คุณก็รู้สึกสงบอย่างผิดปกติ ราวกับว่าคุณหนีออกไปได้แล้ว",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:sense|x:calm|1": {
+    "text": "ความโล่งใจแปลก ๆ ที่ไม่ควรมีอยู่ตรงนี้ซัดสาดเข้ามาในตัวคุณ",
+    "score": 94,
+    "postedit": "ความโล่งใจแปลก ๆ ที่ไม่ควรมีอยู่ตรงนี้ซัดสาดเข้ามาในตัวคุณ",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:sense|x:calm|2": {
+    "text": "คุณไม่รู้สึกกลัวเลยแม้แต่น้อย และนั่นเองที่รู้สึกผิดปกติ",
+    "score": 94,
+    "postedit": "คุณไม่รู้สึกกลัวเลยแม้แต่น้อย และนั่นเองที่รู้สึกผิดปกติ",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|adaptive|repeat_inspect|0": {
+    "text": "คุณชำเลืองมองไปที่ {THING} อีกครั้ง คุณเองก็ไม่แน่ใจว่าทำไม",
+    "score": 94,
+    "postedit": "คุณชำเลืองมองไปที่ {THING} อีกครั้ง คุณเองก็ไม่แน่ใจว่าทำไม",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|adaptive|repeat_inspect|1": {
+    "text": "สายตาของคุณพุ่งตรงไปที่ {THING} อย่างที่มันมักเป็นเช่นนั้นเสมอในตอนนี้",
+    "score": 94,
+    "postedit": "สายตาของคุณพุ่งตรงไปที่ {THING} อย่างที่มันมักเป็นเช่นนั้นเสมอในตอนนี้",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|adaptive|repeat_inspect|2": {
+    "text": "{THING} ดึงความสนใจของคุณอีกครั้ง",
+    "score": 94,
+    "postedit": "{THING} ดึงความสนใจของคุณอีกครั้ง",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|adaptive|long_look|0": {
+    "text": "คุณมองอยู่นานกว่าปกติ คุณจำไม่ได้ว่าตัดสินใจหยุดตอนไหน",
+    "score": 94,
+    "postedit": "คุณมองอยู่นานกว่าปกติ คุณจำไม่ได้ว่าตัดสินใจหยุดตอนไหน",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|adaptive|long_look|1": {
+    "text": "คุณเพิ่งรู้ตัวว่ายืนนิ่งอยู่มาพักหนึ่ง นานแค่ไหนแล้วนะ",
+    "score": 94,
+    "postedit": "คุณเพิ่งรู้ตัวว่ายืนนิ่งอยู่มาพักหนึ่ง นานแค่ไหนแล้วนะ",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|adaptive|long_look|2": {
+    "text": "เวลาลื่นไหลไป คุณจ้องมองอยู่ และไม่รู้ว่านานแค่ไหนแล้ว",
+    "score": 94,
+    "postedit": "เวลาลื่นไหลไป คุณจ้องมองอยู่ และไม่รู้ว่านานแค่ไหนแล้ว",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|framing|intro|0": {
+    "text": "หลังเลิกงาน",
+    "score": 95,
+    "postedit": "หลังเลิกงาน",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|framing|intro|2": {
+    "text": "คุณอยู่ดึกเกินไป ประตูล็อบบี้ล็อกแล้ว ไฟดับไปครึ่งหนึ่ง",
+    "score": 94,
+    "postedit": "คุณอยู่ดึกเกินไป ประตูล็อบบี้ล็อกแล้ว ไฟดับไปครึ่งหนึ่ง",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|framing|intro|3": {
+    "text": "ป้ายเขียนด้วยมือแขวนอยู่เหนือประตู: ทางหนีไฟ ใช้ทางเดิน",
+    "score": 94,
+    "postedit": "ป้ายเขียนด้วยมือแขวนอยู่เหนือประตู: ทางหนีไฟ ใช้ทางเดิน",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|framing|intro|5": {
+    "text": "ตราบใดที่ช่วงทางเดินหนึ่งยังเหมือนกับที่คุณจำได้ทุกประการ ก็เดินต่อไป",
+    "score": 94,
+    "postedit": "ตราบใดที่ช่วงทางเดินหนึ่งยังเหมือนกับที่คุณจำได้ทุกประการ ก็เดินต่อไป",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|framing|intro|6": {
+    "text": "หากมีสิ่งใดเปลี่ยนไป ทางข้างหน้าได้ย้อนกลับตัวเองแล้ว จงกลับไปทางเดิมที่คุณมา",
+    "score": 94,
+    "postedit": "หากมีสิ่งใดเปลี่ยนไป ทางข้างหน้าได้ย้อนกลับตัวเองแล้ว จงกลับไปทางเดิมที่คุณมา",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|framing|intro|8": {
+    "text": "ประตูหนีไฟบานที่แปดคือทางออก",
+    "score": 94,
+    "postedit": "ประตูหนีไฟบานที่แปดคือทางออก",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|framing|intro|9": {
+    "text": "หากคุณจำสิ่งที่เห็นไม่ได้ อาคารจะพาคุณกลับไปยังจุดเริ่มต้น",
+    "score": 94,
+    "postedit": "หากคุณจำสิ่งที่เห็นไม่ได้ อาคารจะพาคุณกลับไปยังจุดเริ่มต้น",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|framing|win|0": {
+    "text": "ประตูหนีไฟบานที่แปดเปิดออกใต้มือของคุณ",
+    "score": 94,
+    "postedit": "ประตูหนีไฟบานที่แปดเปิดออกใต้มือของคุณ",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|framing|win|1": {
+    "text": "อากาศเย็น บันไดที่ทอดลงสู่ถนน เมืองยังอยู่ที่เดิม",
+    "score": 94,
+    "postedit": "อากาศเย็น บันไดที่ทอดลงสู่ถนน เมืองยังอยู่ที่เดิม",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|framing|win|2": {
+    "text": "คุณเริ่มคิดไปแล้วว่าทางเดินนี้ไม่มีวันสิ้นสุด",
+    "score": 94,
+    "postedit": "คุณเริ่มคิดไปแล้วว่าทางเดินนี้ไม่มีวันสิ้นสุด",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|framing|win|3": {
+    "text": "คุณออกมาแล้ว",
+    "score": 95,
+    "postedit": "คุณออกมาแล้ว",
+    "postedit_score": 96
+  }
+}

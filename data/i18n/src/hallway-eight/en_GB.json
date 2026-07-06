@@ -1,0 +1,872 @@
+{
+  "a:hallway-eight|title_main": {
+    "text": "Hallway 8",
+    "score": 96,
+    "postedit": "Hallway 8",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|tagline": {
+    "text": "Locked in after hours. Follow the corridor to the fire exit.",
+    "score": 96,
+    "postedit": "Locked in after hours. Follow the corridor to the fire exit.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|go_on": {
+    "text": "Walk on",
+    "score": 96,
+    "postedit": "Walk on",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|turn_back": {
+    "text": "Turn back",
+    "score": 96,
+    "postedit": "Turn back",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|progress": {
+    "text": "Hallway {level} / {goal}",
+    "score": 96,
+    "postedit": "Hallway {level} / {goal}",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|label|lighting": {
+    "text": "lights",
+    "score": 96,
+    "postedit": "lights",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|label|sound": {
+    "text": "sound",
+    "score": 96,
+    "postedit": "sound",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|label|poster": {
+    "text": "poster",
+    "score": 96,
+    "postedit": "poster",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|label|figure": {
+    "text": "man down the hall",
+    "score": 96,
+    "postedit": "man down the hall",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|label|sign": {
+    "text": "exit sign",
+    "score": 96,
+    "postedit": "exit sign",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|label|door": {
+    "text": "maintenance door",
+    "score": 96,
+    "postedit": "maintenance door",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|label|camera": {
+    "text": "camera",
+    "score": 96,
+    "postedit": "camera",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|label|floor": {
+    "text": "floor",
+    "score": 96,
+    "postedit": "floor",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|label|sense": {
+    "text": "feeling",
+    "score": 96,
+    "postedit": "feeling",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|title|0": {
+    "text": "Hallway 8",
+    "score": 96,
+    "postedit": "Hallway 8",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|title|1": {
+    "text": "Hallway 8",
+    "score": 96,
+    "postedit": "Hallway 8",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|title|2": {
+    "text": "Hallway 8",
+    "score": 96,
+    "postedit": "Hallway 8",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|title|3": {
+    "text": "Hallway 8",
+    "score": 96,
+    "postedit": "Hallway 8",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|title|4": {
+    "text": "Corridor 8",
+    "score": 96,
+    "postedit": "Corridor 8",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|title|5": {
+    "text": "Hallway Eight",
+    "score": 96,
+    "postedit": "Hallway Eight",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|title|6": {
+    "text": "HALLWAY 8",
+    "score": 96,
+    "postedit": "HALLWAY 8",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|title|7": {
+    "text": "Hallway  8",
+    "score": 96,
+    "postedit": "Hallway  8",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|p:lighting|v:steady|0": {
+    "text": "The fluorescent lights hum softly overhead.",
+    "score": 96,
+    "postedit": "The fluorescent lights hum softly overhead.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|p:lighting|v:steady|1": {
+    "text": "The ceiling lights give off a steady, even glow.",
+    "score": 96,
+    "postedit": "The ceiling lights give off a steady, even glow.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|p:lighting|v:steady|2": {
+    "text": "Overhead, the fluorescents buzz at their usual pitch.",
+    "score": 96,
+    "postedit": "Overhead, the fluorescents buzz at their usual pitch.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|p:lighting|v:steady|3": {
+    "text": "The lighting is flat and unremarkable, the way it always is.",
+    "score": 96,
+    "postedit": "The lighting is flat and unremarkable, the way it always is.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|p:lighting|x:flicker|0": {
+    "text": "One of the fluorescent tubes stutters, then holds.",
+    "score": 96,
+    "postedit": "One of the fluorescent tubes stutters, then holds.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|p:lighting|x:flicker|1": {
+    "text": "The lights flicker, once, twice, before settling.",
+    "score": 96,
+    "postedit": "The lights flicker, once, twice, before settling.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|p:lighting|x:flicker|2": {
+    "text": "There's a faint strobe to the ceiling lights that wasn't there before.",
+    "score": 96,
+    "postedit": "There's a faint strobe to the ceiling lights that wasn't there before.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|p:lighting|x:dim|0": {
+    "text": "The corridor seems a shade darker than you remember.",
+    "score": 96,
+    "postedit": "The corridor seems a shade darker than you remember.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|p:lighting|x:dim|1": {
+    "text": "The lights are dimmer here, as if half of them gave up.",
+    "score": 96,
+    "postedit": "The lights are dimmer here, as if half of them gave up.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|p:lighting|x:dim|2": {
+    "text": "A grey dimness has settled over everything.",
+    "score": 96,
+    "postedit": "A grey dimness has settled over everything.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|p:lighting|x:warm|0": {
+    "text": "The light has a warm, yellowish cast to it.",
+    "score": 96,
+    "postedit": "The light has a warm, yellowish cast to it.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|p:lighting|x:warm|1": {
+    "text": "The fluorescents glow oddly amber, almost like sunset.",
+    "score": 96,
+    "postedit": "The fluorescents glow oddly amber, almost like sunset.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|p:lighting|x:warm|2": {
+    "text": "The usual cold white has turned faintly golden.",
+    "score": 96,
+    "postedit": "The usual cold white has turned faintly golden.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|p:sound|v:vent|0": {
+    "text": "Somewhere, ventilation exhales a low, constant breath.",
+    "score": 96,
+    "postedit": "Somewhere, ventilation exhales a low, constant breath.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|p:sound|v:vent|1": {
+    "text": "The air handling hums in the walls, steady as ever.",
+    "score": 96,
+    "postedit": "The air handling hums in the walls, steady as ever.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|p:sound|v:vent|2": {
+    "text": "You hear the familiar drone of distant ventilation.",
+    "score": 96,
+    "postedit": "You hear the familiar drone of distant ventilation.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|p:sound|x:drip|0": {
+    "text": "A slow drip taps somewhere out of sight.",
+    "score": 96,
+    "postedit": "A slow drip taps somewhere out of sight.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|p:sound|x:drip|1": {
+    "text": "Water is dripping, you can't place where.",
+    "score": 96,
+    "postedit": "Water is dripping, you can't place where.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|p:sound|x:drip|2": {
+    "text": "Tick. Tick. Something is dripping nearby.",
+    "score": 96,
+    "postedit": "Tick. Tick. Something is dripping nearby.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|p:sound|x:silence|0": {
+    "text": "The ventilation has stopped. The silence presses on your ears.",
+    "score": 96,
+    "postedit": "The ventilation has stopped. The silence presses on your ears.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|p:sound|x:silence|1": {
+    "text": "It is completely quiet. Too quiet.",
+    "score": 96,
+    "postedit": "It is completely quiet. Too quiet.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|p:sound|x:silence|2": {
+    "text": "You notice the hum is gone. The stillness feels wrong.",
+    "score": 96,
+    "postedit": "You notice the hum is gone. The stillness feels wrong.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|p:sound|x:footsteps|0": {
+    "text": "Footsteps echo somewhere behind you, then stop.",
+    "score": 96,
+    "postedit": "Footsteps echo somewhere behind you, then stop.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|p:sound|x:footsteps|1": {
+    "text": "You hear footsteps that don't match your own.",
+    "score": 96,
+    "postedit": "You hear footsteps that don't match your own.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|p:sound|x:footsteps|2": {
+    "text": "For a moment there are two sets of footsteps.",
+    "score": 96,
+    "postedit": "For a moment there are two sets of footsteps.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|p:poster|v:travel|0": {
+    "text": "A faded travel poster clings to the wall, a beach, a blue sky.",
+    "score": 96,
+    "postedit": "A faded travel poster clings to the wall, a beach, a blue sky.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|p:poster|v:travel|1": {
+    "text": "The old poster of a sunny coastline is still taped to the wall.",
+    "score": 96,
+    "postedit": "The old poster of a sunny coastline is still taped to the wall.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|p:poster|v:travel|2": {
+    "text": "On the wall, that washed-out advertisement for somewhere warm.",
+    "score": 96,
+    "postedit": "On the wall, that washed-out advertisement for somewhere warm.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|p:poster|v:travel|3": {
+    "text": "The travel poster hangs at its usual slight tilt.",
+    "score": 96,
+    "postedit": "The travel poster hangs at its usual slight tilt.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|p:poster|x:gone|0": {
+    "text": "The wall is bare. A pale rectangle marks where a poster used to be.",
+    "score": 96,
+    "postedit": "The wall is bare. A pale rectangle marks where a poster used to be.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|p:poster|x:gone|1": {
+    "text": "The travel poster is gone; only the tape remains.",
+    "score": 96,
+    "postedit": "The travel poster is gone; only the tape remains.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|p:poster|x:gone|2": {
+    "text": "Nothing hangs on the wall now.",
+    "score": 96,
+    "postedit": "Nothing hangs on the wall now.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|p:poster|x:mountains|0": {
+    "text": "The poster shows snow-capped mountains, not a beach.",
+    "score": 96,
+    "postedit": "The poster shows snow-capped mountains, not a beach.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|p:poster|x:mountains|1": {
+    "text": "The coastline poster is now a photograph of grey mountains.",
+    "score": 96,
+    "postedit": "The coastline poster is now a photograph of grey mountains.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|p:poster|x:mountains|2": {
+    "text": "The advertisement pictures a cold summit under heavy cloud.",
+    "score": 96,
+    "postedit": "The advertisement pictures a cold summit under heavy cloud.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|p:poster|x:upside|0": {
+    "text": "The travel poster hangs upside down.",
+    "score": 96,
+    "postedit": "The travel poster hangs upside down.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|p:poster|x:upside|1": {
+    "text": "The beach on the poster is inverted, sky at the bottom.",
+    "score": 96,
+    "postedit": "The beach on the poster is inverted, sky at the bottom.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|p:poster|x:upside|2": {
+    "text": "Someone has flipped the poster; it hangs the wrong way up.",
+    "score": 96,
+    "postedit": "Someone has flipped the poster; it hangs the wrong way up.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|p:figure|v:distant|0": {
+    "text": "Far down the corridor, a man in a grey suit walks away from you.",
+    "score": 96,
+    "postedit": "Far down the corridor, a man in a grey suit walks away from you.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|p:figure|v:distant|1": {
+    "text": "A suited figure moves ahead in the distance, back turned.",
+    "score": 96,
+    "postedit": "A suited figure moves ahead in the distance, back turned.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|p:figure|v:distant|2": {
+    "text": "The man in grey is up ahead, as always, walking on.",
+    "score": 96,
+    "postedit": "The man in grey is up ahead, as always, walking on.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|p:figure|v:distant|3": {
+    "text": "Down the hall, a man in a suit recedes towards the vanishing point.",
+    "score": 95,
+    "postedit": "Down the hall, a man in a suit recedes towards the vanishing point.",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:figure|x:closer|0": {
+    "text": "The man in the grey suit is much closer than he should be.",
+    "score": 96,
+    "postedit": "The man in the grey suit is much closer than he should be.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|p:figure|x:closer|1": {
+    "text": "The suited figure has stopped halfway, closer than before.",
+    "score": 96,
+    "postedit": "The suited figure has stopped halfway, closer than before.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|p:figure|x:closer|2": {
+    "text": "The man in grey is only a few paces ahead now, still turned away.",
+    "score": 96,
+    "postedit": "The man in grey is only a few paces ahead now, still turned away.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|p:figure|x:facing|0": {
+    "text": "The man in the grey suit has stopped. He is facing you.",
+    "score": 96,
+    "postedit": "The man in the grey suit has stopped. He is facing you.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|p:figure|x:facing|1": {
+    "text": "Down the hall, the suited figure stands still, looking your way.",
+    "score": 96,
+    "postedit": "Down the hall, the suited figure stands still, looking your way.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|p:figure|x:facing|2": {
+    "text": "The man in grey is not walking. He is watching you.",
+    "score": 96,
+    "postedit": "The man in grey is not walking. He is watching you.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|p:figure|x:gone|0": {
+    "text": "The corridor ahead is empty. No one is walking it.",
+    "score": 96,
+    "postedit": "The corridor ahead is empty. No one is walking it.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|p:figure|x:gone|1": {
+    "text": "There is no figure ahead this time.",
+    "score": 96,
+    "postedit": "There is no figure ahead this time.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|p:figure|x:gone|2": {
+    "text": "The man in the grey suit is nowhere to be seen.",
+    "score": 96,
+    "postedit": "The man in the grey suit is nowhere to be seen.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|p:figure|x:knows|0": {
+    "text": "The man in grey has turned and raised a hand, as if he knows you.",
+    "score": 96,
+    "postedit": "The man in grey has turned and raised a hand, as if he knows you.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|p:figure|x:knows|1": {
+    "text": "The suited figure faces you and beckons, slow and deliberate.",
+    "score": 96,
+    "postedit": "The suited figure faces you and beckons, slow and deliberate.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|p:figure|x:knows|2": {
+    "text": "The man mouths something down the corridor. It might be 'again.'",
+    "score": 96,
+    "postedit": "The man mouths something down the corridor. It might be 'again.'",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|p:sign|v:exit|0": {
+    "text": "The illuminated {SIGN} sign glows at the far end.",
+    "score": 96,
+    "postedit": "The illuminated {SIGN} sign glows at the far end.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|p:sign|v:exit|1": {
+    "text": "Ahead, the {SIGN} sign hangs above the corridor.",
+    "score": 96,
+    "postedit": "Ahead, the {SIGN} sign hangs above the corridor.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|p:sign|v:exit|2": {
+    "text": "The green {SIGN} sign points the way, as it should.",
+    "score": 96,
+    "postedit": "The green {SIGN} sign points the way, as it should.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|p:sign|v:exit|3": {
+    "text": "You can make out the {SIGN} sign in the distance.",
+    "score": 96,
+    "postedit": "You can make out the {SIGN} sign in the distance.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|p:sign|x:reversed|0": {
+    "text": "The exit sign points the wrong way, EXIT ←.",
+    "score": 96,
+    "postedit": "The exit sign points the wrong way, EXIT ←.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|p:sign|x:reversed|1": {
+    "text": "The arrow on the exit sign now points back the way you came: ←.",
+    "score": 96,
+    "postedit": "The arrow on the exit sign now points back the way you came: ←.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|p:sign|x:reversed|2": {
+    "text": "EXIT ←. The arrow has reversed.",
+    "score": 96,
+    "postedit": "EXIT ←. The arrow has reversed.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|p:sign|x:dark|0": {
+    "text": "The exit sign is dark. No light behind the letters.",
+    "score": 96,
+    "postedit": "The exit sign is dark. No light behind the letters.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|p:sign|x:dark|1": {
+    "text": "The exit sign has gone out.",
+    "score": 96,
+    "postedit": "The exit sign has gone out.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|p:sign|x:dark|2": {
+    "text": "Where the exit sign should glow, there is only a dead panel.",
+    "score": 96,
+    "postedit": "Where the exit sign should glow, there is only a dead panel.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|p:sign|x:number|0": {
+    "text": "The sign reads EXIT 3. There was never a number on it.",
+    "score": 96,
+    "postedit": "The sign reads EXIT 3. There was never a number on it.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|p:sign|x:number|1": {
+    "text": "A number has appeared on the sign: EXIT 3.",
+    "score": 96,
+    "postedit": "A number has appeared on the sign: EXIT 3.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|p:sign|x:number|2": {
+    "text": "The exit sign now carries a numeral you don't remember: 3.",
+    "score": 96,
+    "postedit": "The exit sign now carries a numeral you don't remember: 3.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|p:door|v:closed|0": {
+    "text": "A grey maintenance door sits shut in the left wall.",
+    "score": 96,
+    "postedit": "A grey maintenance door sits shut in the left wall.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|p:door|v:closed|1": {
+    "text": "The service door on your left is closed, as usual.",
+    "score": 96,
+    "postedit": "The service door on your left is closed, as usual.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|p:door|v:closed|2": {
+    "text": "There's the maintenance door, shut tight.",
+    "score": 96,
+    "postedit": "There's the maintenance door, shut tight.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|p:door|x:ajar|0": {
+    "text": "The maintenance door stands slightly ajar. Darkness inside.",
+    "score": 96,
+    "postedit": "The maintenance door stands slightly ajar. Darkness inside.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|p:door|x:ajar|1": {
+    "text": "The service door is open a crack, though you never saw it open.",
+    "score": 96,
+    "postedit": "The service door is open a crack, though you never saw it open.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|p:door|x:ajar|2": {
+    "text": "The grey door is ajar; a thin black gap where it should be flush.",
+    "score": 96,
+    "postedit": "The grey door is ajar; a thin black gap where it should be flush.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|p:door|x:gone|0": {
+    "text": "There is no maintenance door in the left wall. Just smooth wall.",
+    "score": 96,
+    "postedit": "There is no maintenance door in the left wall. Just smooth wall.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|p:door|x:gone|1": {
+    "text": "The service door is missing entirely.",
+    "score": 96,
+    "postedit": "The service door is missing entirely.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|p:door|x:gone|2": {
+    "text": "The left wall is unbroken, no door at all.",
+    "score": 96,
+    "postedit": "The left wall is unbroken, no door at all.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|p:camera|v:away|0": {
+    "text": "A small CCTV camera in the corner points down the corridor.",
+    "score": 96,
+    "postedit": "A small CCTV camera in the corner points down the corridor.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|p:camera|v:away|1": {
+    "text": "The security camera watches the far end, angled away from you.",
+    "score": 96,
+    "postedit": "The security camera watches the far end, angled away from you.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|p:camera|v:away|2": {
+    "text": "Up in the corner, the camera faces ahead, as always.",
+    "score": 96,
+    "postedit": "Up in the corner, the camera faces ahead, as always.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|p:camera|x:atyou|0": {
+    "text": "The CCTV camera has turned. It points directly at you.",
+    "score": 96,
+    "postedit": "The CCTV camera has turned. It points directly at you.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|p:camera|x:atyou|1": {
+    "text": "The security camera is angled down at you now.",
+    "score": 96,
+    "postedit": "The security camera is angled down at you now.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|p:camera|x:atyou|2": {
+    "text": "The camera in the corner faces you, its lens level with your eyes.",
+    "score": 96,
+    "postedit": "The camera in the corner faces you, its lens level with your eyes.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|p:camera|x:red|0": {
+    "text": "A red light blinks on the camera. It never used to blink.",
+    "score": 96,
+    "postedit": "A red light blinks on the camera. It never used to blink.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|p:camera|x:red|1": {
+    "text": "The camera's recording light glows red for the first time.",
+    "score": 96,
+    "postedit": "The camera's recording light glows red for the first time.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|p:camera|x:red|2": {
+    "text": "The little LED on the camera pulses red.",
+    "score": 96,
+    "postedit": "The little LED on the camera pulses red.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|p:floor|v:dry|0": {
+    "text": "The grey floor tiles stretch away, dry and dull.",
+    "score": 96,
+    "postedit": "The grey floor tiles stretch away, dry and dull.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|p:floor|v:dry|1": {
+    "text": "Underfoot, the usual scuffed grey tiles.",
+    "score": 96,
+    "postedit": "Underfoot, the usual scuffed grey tiles.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|p:floor|v:dry|2": {
+    "text": "The tiled floor is dry, reflecting nothing.",
+    "score": 96,
+    "postedit": "The tiled floor is dry, reflecting nothing.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|p:floor|x:wet|0": {
+    "text": "The tiles ahead shine with a wet, dark sheen.",
+    "score": 96,
+    "postedit": "The tiles ahead shine with a wet, dark sheen.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|p:floor|x:wet|1": {
+    "text": "The floor is wet, though you saw no one clean it.",
+    "score": 96,
+    "postedit": "The floor is wet, though you saw no one clean it.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|p:floor|x:wet|2": {
+    "text": "A slick of water spreads across the tiles.",
+    "score": 96,
+    "postedit": "A slick of water spreads across the tiles.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|p:floor|x:cracked|0": {
+    "text": "A crack runs across the floor tiles that wasn't there before.",
+    "score": 96,
+    "postedit": "A crack runs across the floor tiles that wasn't there before.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|p:floor|x:cracked|1": {
+    "text": "One of the floor tiles is split down the middle.",
+    "score": 96,
+    "postedit": "One of the floor tiles is split down the middle.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|p:floor|x:cracked|2": {
+    "text": "The tiling is fractured in a jagged line ahead.",
+    "score": 96,
+    "postedit": "The tiling is fractured in a jagged line ahead.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|p:sense|v:steady|0": {
+    "text": "The corridor feels exactly as long as it always has.",
+    "score": 96,
+    "postedit": "The corridor feels exactly as long as it always has.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|p:sense|v:steady|1": {
+    "text": "You carry the same low dread you've had since the lobby.",
+    "score": 96,
+    "postedit": "You carry the same low dread you've had since the lobby.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|p:sense|v:steady|2": {
+    "text": "Everything feels ordinary, in the way this place is ever ordinary.",
+    "score": 96,
+    "postedit": "Everything feels ordinary, in the way this place is ever ordinary.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|p:sense|x:longer|0": {
+    "text": "The corridor feels longer this time, though you can't say why.",
+    "score": 96,
+    "postedit": "The corridor feels longer this time, though you can't say why.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|p:sense|x:longer|1": {
+    "text": "The far end seems further off than it should be.",
+    "score": 96,
+    "postedit": "The far end seems further off than it should be.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|p:sense|x:longer|2": {
+    "text": "The walls feel as if they've stretched since the last stretch.",
+    "score": 96,
+    "postedit": "The walls feel as if they've stretched since the last stretch.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|p:sense|x:forget|0": {
+    "text": "For a moment you can't remember how many doors you've passed.",
+    "score": 96,
+    "postedit": "For a moment you can't remember how many doors you've passed.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|p:sense|x:forget|1": {
+    "text": "You lose your count of the corridors, and it unsettles you.",
+    "score": 96,
+    "postedit": "You lose your count of the corridors, and it unsettles you.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|p:sense|x:forget|2": {
+    "text": "You can't recall why you're down here at all.",
+    "score": 96,
+    "postedit": "You can't recall why you're down here at all.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|p:sense|x:calm|0": {
+    "text": "You feel suddenly, wrongly calm, as if you'd already escaped.",
+    "score": 96,
+    "postedit": "You feel suddenly, wrongly calm, as if you'd already escaped.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|p:sense|x:calm|1": {
+    "text": "A strange relief washes over you that has no business being here.",
+    "score": 96,
+    "postedit": "A strange relief washes over you that has no business being here.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|p:sense|x:calm|2": {
+    "text": "You feel no fear at all, and that itself feels wrong.",
+    "score": 96,
+    "postedit": "You feel no fear at all, and that itself feels wrong.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|adaptive|repeat_inspect|0": {
+    "text": "You glance at the {THING} again. You aren't sure why.",
+    "score": 96,
+    "postedit": "You glance at the {THING} again. You aren't sure why.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|adaptive|repeat_inspect|1": {
+    "text": "Your eyes go straight to the {THING}, the way they always seem to now.",
+    "score": 96,
+    "postedit": "Your eyes go straight to the {THING}, the way they always seem to now.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|adaptive|repeat_inspect|2": {
+    "text": "The {THING} draws your attention once more.",
+    "score": 96,
+    "postedit": "The {THING} draws your attention once more.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|adaptive|long_look|0": {
+    "text": "You spend longer looking than usual. You don't remember deciding to stop.",
+    "score": 96,
+    "postedit": "You spend longer looking than usual. You don't remember deciding to stop.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|adaptive|long_look|1": {
+    "text": "You realise you've been standing still. For how long?",
+    "score": 96,
+    "postedit": "You realise you've been standing still. For how long?",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|adaptive|long_look|2": {
+    "text": "Time slips. You were staring, and you don't know for how long.",
+    "score": 96,
+    "postedit": "Time slips. You were staring, and you don't know for how long.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|framing|intro|0": {
+    "text": "AFTER HOURS",
+    "score": 96,
+    "postedit": "AFTER HOURS",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|framing|intro|2": {
+    "text": "You stayed too late. The lobby doors are locked, the lights half-out.",
+    "score": 96,
+    "postedit": "You stayed too late. The lobby doors are locked, the lights half-out.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|framing|intro|3": {
+    "text": "A handwritten sign hangs over them: FIRE EXIT, USE CORRIDOR.",
+    "score": 96,
+    "postedit": "A handwritten sign hangs over them: FIRE EXIT, USE CORRIDOR.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|framing|intro|5": {
+    "text": "While a stretch of corridor is exactly as you remember it, walk on.",
+    "score": 96,
+    "postedit": "While a stretch of corridor is exactly as you remember it, walk on.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|framing|intro|6": {
+    "text": "If anything has changed, the way has doubled back. Return the way you came.",
+    "score": 96,
+    "postedit": "If anything has changed, the way has doubled back. Return the way you came.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|framing|intro|8": {
+    "text": "The eighth fire door leads out.",
+    "score": 96,
+    "postedit": "The eighth fire door leads out.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|framing|intro|9": {
+    "text": "Lose track of what you've seen, and the building returns you to the start.",
+    "score": 96,
+    "postedit": "Lose track of what you've seen, and the building returns you to the start.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|framing|win|0": {
+    "text": "The eighth fire door gives under your hands.",
+    "score": 96,
+    "postedit": "The eighth fire door gives under your hands.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|framing|win|1": {
+    "text": "Cold air. A stairwell down to the street. The city, still there.",
+    "score": 96,
+    "postedit": "Cold air. A stairwell down to the street. The city, still there.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|framing|win|2": {
+    "text": "You were beginning to think the corridor had no end.",
+    "score": 96,
+    "postedit": "You were beginning to think the corridor had no end.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|framing|win|3": {
+    "text": "You are out.",
+    "score": 96,
+    "postedit": "You are out.",
+    "postedit_score": 96
+  }
+}

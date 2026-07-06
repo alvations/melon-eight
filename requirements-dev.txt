@@ -1,0 +1,24 @@
+# SPDX-License-Identifier: Apache-2.0
+# Copyright 2026 alvations (Melon Lab)
+#
+# Dev-only Python dependencies, for the reproducible tooling. The GAME itself
+# needs only requirements.txt (Flask + gunicorn); none of this is required to run
+# or deploy it. The Node tools (emulation, audio measure/render, screenshots,
+# video) are declared separately in package.json.
+#
+#   pip install -r requirements-dev.txt
+#
+# What needs these:
+#   - scripts/export_landing_media.py : render the landing theme offline to an
+#     OGG and a 1080p MP4 (numpy, soundfile, imageio-ffmpeg, playwright).
+#   - the browser tools also want the Playwright browser installed once:
+#       npx playwright install chromium      (Node)  OR
+#       python -m playwright install chromium (Python)
+#
+# The unit + API tests (python tests/test_game.py) need NOTHING beyond the
+# standard library and the game's own requirements.txt.
+
+playwright>=1.44
+numpy>=1.24
+soundfile>=0.12
+imageio-ffmpeg>=0.4.9

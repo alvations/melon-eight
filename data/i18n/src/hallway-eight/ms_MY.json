@@ -1,0 +1,872 @@
+{
+  "a:hallway-eight|title_main": {
+    "text": "Koridor 8",
+    "score": 94,
+    "postedit": "Koridor 8",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|tagline": {
+    "text": "Terkurung selepas waktu kerja. Ikut koridor menuju pintu keluar kecemasan.",
+    "score": 93,
+    "postedit": "Terkurung selepas waktu kerja. Ikut koridor menuju pintu keluar kecemasan.",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|go_on": {
+    "text": "Teruskan berjalan",
+    "score": 94,
+    "postedit": "Teruskan berjalan",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|turn_back": {
+    "text": "Patah balik",
+    "score": 94,
+    "postedit": "Patah balik",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|progress": {
+    "text": "Koridor {level} / {goal}",
+    "score": 94,
+    "postedit": "Koridor {level} / {goal}",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|label|lighting": {
+    "text": "lampu",
+    "score": 94,
+    "postedit": "lampu",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|label|sound": {
+    "text": "bunyi",
+    "score": 94,
+    "postedit": "bunyi",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|label|poster": {
+    "text": "poster",
+    "score": 94,
+    "postedit": "poster",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|label|figure": {
+    "text": "lelaki di hujung koridor",
+    "score": 93,
+    "postedit": "lelaki di hujung koridor",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|label|sign": {
+    "text": "papan tanda keluar",
+    "score": 93,
+    "postedit": "papan tanda keluar",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|label|door": {
+    "text": "pintu penyelenggaraan",
+    "score": 93,
+    "postedit": "pintu penyelenggaraan",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|label|camera": {
+    "text": "kamera",
+    "score": 94,
+    "postedit": "kamera",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|label|floor": {
+    "text": "lantai",
+    "score": 94,
+    "postedit": "lantai",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|label|sense": {
+    "text": "perasaan itu",
+    "score": 93,
+    "postedit": "perasaan itu",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|title|0": {
+    "text": "Koridor 8",
+    "score": 94,
+    "postedit": "Koridor 8",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|title|1": {
+    "text": "Koridor 8",
+    "score": 94,
+    "postedit": "Koridor 8",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|title|2": {
+    "text": "Koridor 8",
+    "score": 94,
+    "postedit": "Koridor 8",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|title|3": {
+    "text": "Koridor 8",
+    "score": 94,
+    "postedit": "Koridor 8",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|title|4": {
+    "text": "Lorong 8",
+    "score": 93,
+    "postedit": "Lorong 8",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|title|5": {
+    "text": "Koridor Lapan",
+    "score": 93,
+    "postedit": "Koridor Lapan",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|title|6": {
+    "text": "KORIDOR 8",
+    "score": 94,
+    "postedit": "KORIDOR 8",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|title|7": {
+    "text": "Koridor  8",
+    "score": 94,
+    "postedit": "Koridor  8",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|p:lighting|v:steady|0": {
+    "text": "Lampu pendarfluor berdengung perlahan di atas.",
+    "score": 93,
+    "postedit": "Lampu pendarfluor berdengung perlahan di atas.",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:lighting|v:steady|1": {
+    "text": "Lampu siling memancarkan cahaya yang tetap dan sekata.",
+    "score": 93,
+    "postedit": "Lampu siling memancarkan cahaya yang tetap dan sekata.",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:lighting|v:steady|2": {
+    "text": "Di atas, lampu pendarfluor berdengung pada nada biasanya.",
+    "score": 93,
+    "postedit": "Di atas, lampu pendarfluor berdengung pada nada biasanya.",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:lighting|v:steady|3": {
+    "text": "Pencahayaan itu hambar dan biasa sahaja, seperti sedia kala.",
+    "score": 93,
+    "postedit": "Pencahayaan itu hambar dan biasa sahaja, seperti sedia kala.",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:lighting|x:flicker|0": {
+    "text": "Salah satu tiub pendarfluor tersekat-sekat, kemudian stabil.",
+    "score": 93,
+    "postedit": "Salah satu tiub pendarfluor tersekat-sekat, kemudian stabil.",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:lighting|x:flicker|1": {
+    "text": "Lampu berkelip, sekali, dua kali, sebelum stabil.",
+    "score": 93,
+    "postedit": "Lampu berkelip, sekali, dua kali, sebelum stabil.",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:lighting|x:flicker|2": {
+    "text": "Ada kelipan samar pada lampu siling yang tadinya tiada.",
+    "score": 93,
+    "postedit": "Ada kelipan samar pada lampu siling yang tadinya tiada.",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:lighting|x:dim|0": {
+    "text": "Koridor kelihatan sedikit lebih gelap daripada yang kamu ingat.",
+    "score": 93,
+    "postedit": "Koridor kelihatan sedikit lebih gelap daripada yang kamu ingat.",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:lighting|x:dim|1": {
+    "text": "Lampu di sini lebih malap, seolah-olah separuh daripadanya menyerah.",
+    "score": 93,
+    "postedit": "Lampu di sini lebih malap, seolah-olah separuh daripadanya menyerah.",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:lighting|x:dim|2": {
+    "text": "Suatu kemuraman kelabu menyelubungi segalanya.",
+    "score": 93,
+    "postedit": "Suatu kemuraman kelabu menyelubungi segalanya.",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:lighting|x:warm|0": {
+    "text": "Cahaya itu bersemburat hangat kekuningan.",
+    "score": 93,
+    "postedit": "Cahaya itu bersemburat hangat kekuningan.",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:lighting|x:warm|1": {
+    "text": "Lampu pendarfluor bersinar ambar yang ganjil, hampir seperti waktu senja.",
+    "score": 93,
+    "postedit": "Lampu pendarfluor bersinar ambar yang ganjil, hampir seperti waktu senja.",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:lighting|x:warm|2": {
+    "text": "Warna putih sejuk yang biasa telah bertukar samar keemasan.",
+    "score": 93,
+    "postedit": "Warna putih sejuk yang biasa telah bertukar samar keemasan.",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:sound|v:vent|0": {
+    "text": "Di suatu tempat, sistem pengudaraan menghembus nafas yang rendah dan berterusan.",
+    "score": 93,
+    "postedit": "Di suatu tempat, sistem pengudaraan menghembus nafas yang rendah dan berterusan.",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:sound|v:vent|1": {
+    "text": "Sistem udara berdengung dalam dinding, tetap seperti biasa.",
+    "score": 93,
+    "postedit": "Sistem udara berdengung dalam dinding, tetap seperti biasa.",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:sound|v:vent|2": {
+    "text": "Kamu mendengar deraman biasa pengudaraan yang jauh.",
+    "score": 93,
+    "postedit": "Kamu mendengar deraman biasa pengudaraan yang jauh.",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:sound|x:drip|0": {
+    "text": "Titisan air yang perlahan berdetik di suatu tempat yang tidak kelihatan.",
+    "score": 93,
+    "postedit": "Titisan air yang perlahan berdetik di suatu tempat yang tidak kelihatan.",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:sound|x:drip|1": {
+    "text": "Air sedang menitis, kamu tidak dapat menentukan dari mana.",
+    "score": 93,
+    "postedit": "Air sedang menitis, kamu tidak dapat menentukan dari mana.",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:sound|x:drip|2": {
+    "text": "Tik. Tik. Ada sesuatu yang menitis berdekatan.",
+    "score": 93,
+    "postedit": "Tik. Tik. Ada sesuatu yang menitis berdekatan.",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:sound|x:silence|0": {
+    "text": "Pengudaraan sudah terhenti. Kesenyapan menghimpit telinga kamu.",
+    "score": 93,
+    "postedit": "Pengudaraan sudah terhenti. Kesenyapan menghimpit telinga kamu.",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:sound|x:silence|1": {
+    "text": "Keadaan benar-benar sunyi. Terlalu sunyi.",
+    "score": 94,
+    "postedit": "Keadaan benar-benar sunyi. Terlalu sunyi.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|p:sound|x:silence|2": {
+    "text": "Kamu perasan dengungan itu sudah hilang. Ketenangan itu terasa tidak kena.",
+    "score": 93,
+    "postedit": "Kamu perasan dengungan itu sudah hilang. Ketenangan itu terasa tidak kena.",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:sound|x:footsteps|0": {
+    "text": "Bunyi langkah kaki bergema di suatu tempat di belakang kamu, kemudian berhenti.",
+    "score": 93,
+    "postedit": "Bunyi langkah kaki bergema di suatu tempat di belakang kamu, kemudian berhenti.",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:sound|x:footsteps|1": {
+    "text": "Kamu mendengar langkah kaki yang tidak sepadan dengan langkah kamu sendiri.",
+    "score": 93,
+    "postedit": "Kamu mendengar langkah kaki yang tidak sepadan dengan langkah kamu sendiri.",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:sound|x:footsteps|2": {
+    "text": "Buat seketika terdapat dua rentak langkah kaki.",
+    "score": 93,
+    "postedit": "Buat seketika terdapat dua rentak langkah kaki.",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:poster|v:travel|0": {
+    "text": "Sebuah poster pelancongan yang pudar melekat pada dinding, sebuah pantai, langit biru.",
+    "score": 93,
+    "postedit": "Sebuah poster pelancongan yang pudar melekat pada dinding, sebuah pantai, langit biru.",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:poster|v:travel|1": {
+    "text": "Poster lama pesisir pantai yang cerah masih dilekatkan pada dinding.",
+    "score": 93,
+    "postedit": "Poster lama pesisir pantai yang cerah masih dilekatkan pada dinding.",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:poster|v:travel|2": {
+    "text": "Pada dinding, iklan pudar untuk suatu tempat yang hangat itu.",
+    "score": 93,
+    "postedit": "Pada dinding, iklan pudar untuk suatu tempat yang hangat itu.",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:poster|v:travel|3": {
+    "text": "Poster pelancongan itu tergantung sedikit senget seperti biasa.",
+    "score": 93,
+    "postedit": "Poster pelancongan itu tergantung sedikit senget seperti biasa.",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:poster|x:gone|0": {
+    "text": "Dinding itu kosong. Suatu segi empat pucat menandakan tempat poster itu dahulu.",
+    "score": 93,
+    "postedit": "Dinding itu kosong. Suatu segi empat pucat menandakan tempat poster itu dahulu.",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:poster|x:gone|1": {
+    "text": "Poster pelancongan itu sudah tiada; hanya pita pelekat yang tinggal.",
+    "score": 93,
+    "postedit": "Poster pelancongan itu sudah tiada; hanya pita pelekat yang tinggal.",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:poster|x:gone|2": {
+    "text": "Kini tiada apa-apa yang tergantung pada dinding.",
+    "score": 94,
+    "postedit": "Kini tiada apa-apa yang tergantung pada dinding.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|p:poster|x:mountains|0": {
+    "text": "Poster itu memaparkan gunung-ganang bersalji, bukan sebuah pantai.",
+    "score": 93,
+    "postedit": "Poster itu memaparkan gunung-ganang bersalji, bukan sebuah pantai.",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:poster|x:mountains|1": {
+    "text": "Poster pesisir pantai itu kini sekeping gambar gunung kelabu.",
+    "score": 93,
+    "postedit": "Poster pesisir pantai itu kini sekeping gambar gunung kelabu.",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:poster|x:mountains|2": {
+    "text": "Iklan itu memaparkan puncak yang sejuk di bawah awan tebal.",
+    "score": 93,
+    "postedit": "Iklan itu memaparkan puncak yang sejuk di bawah awan tebal.",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:poster|x:upside|0": {
+    "text": "Poster pelancongan itu tergantung terbalik.",
+    "score": 94,
+    "postedit": "Poster pelancongan itu tergantung terbalik.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|p:poster|x:upside|1": {
+    "text": "Pantai pada poster itu terbalik, langit berada di bawah.",
+    "score": 93,
+    "postedit": "Pantai pada poster itu terbalik, langit berada di bawah.",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:poster|x:upside|2": {
+    "text": "Seseorang telah membalikkan poster itu; ia tergantung dengan arah yang salah.",
+    "score": 93,
+    "postedit": "Seseorang telah membalikkan poster itu; ia tergantung dengan arah yang salah.",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:figure|v:distant|0": {
+    "text": "Jauh di hujung koridor, seorang lelaki bersut kelabu berjalan menjauhi kamu.",
+    "score": 93,
+    "postedit": "Jauh di hujung koridor, seorang lelaki bersut kelabu berjalan menjauhi kamu.",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:figure|v:distant|1": {
+    "text": "Seorang susuk bersut bergerak di hadapan pada kejauhan, membelakangkan kamu.",
+    "score": 93,
+    "postedit": "Seorang susuk bersut bergerak di hadapan pada kejauhan, membelakangkan kamu.",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:figure|v:distant|2": {
+    "text": "Lelaki berpakaian kelabu itu berada di hadapan, seperti biasa, terus berjalan.",
+    "score": 93,
+    "postedit": "Lelaki berpakaian kelabu itu berada di hadapan, seperti biasa, terus berjalan.",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:figure|v:distant|3": {
+    "text": "Di hujung koridor, seorang lelaki bersut semakin menjauh ke arah titik lenyap.",
+    "score": 93,
+    "postedit": "Di hujung koridor, seorang lelaki bersut semakin menjauh ke arah titik lenyap.",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:figure|x:closer|0": {
+    "text": "Lelaki bersut kelabu itu jauh lebih dekat daripada sepatutnya.",
+    "score": 93,
+    "postedit": "Lelaki bersut kelabu itu jauh lebih dekat daripada sepatutnya.",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:figure|x:closer|1": {
+    "text": "Susuk bersut itu telah berhenti di pertengahan, lebih dekat daripada tadi.",
+    "score": 93,
+    "postedit": "Susuk bersut itu telah berhenti di pertengahan, lebih dekat daripada tadi.",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:figure|x:closer|2": {
+    "text": "Lelaki berpakaian kelabu itu kini hanya beberapa langkah di hadapan, masih membelakangkan kamu.",
+    "score": 93,
+    "postedit": "Lelaki berpakaian kelabu itu kini hanya beberapa langkah di hadapan, masih membelakangkan kamu.",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:figure|x:facing|0": {
+    "text": "Lelaki bersut kelabu itu telah berhenti. Dia mengadap kamu.",
+    "score": 93,
+    "postedit": "Lelaki bersut kelabu itu telah berhenti. Dia mengadap kamu.",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:figure|x:facing|1": {
+    "text": "Di hujung koridor, susuk bersut itu berdiri diam, memandang ke arah kamu.",
+    "score": 93,
+    "postedit": "Di hujung koridor, susuk bersut itu berdiri diam, memandang ke arah kamu.",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:figure|x:facing|2": {
+    "text": "Lelaki berpakaian kelabu itu tidak berjalan. Dia sedang memerhati kamu.",
+    "score": 94,
+    "postedit": "Lelaki berpakaian kelabu itu tidak berjalan. Dia sedang memerhati kamu.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|p:figure|x:gone|0": {
+    "text": "Koridor di hadapan kosong. Tiada sesiapa yang melaluinya.",
+    "score": 93,
+    "postedit": "Koridor di hadapan kosong. Tiada sesiapa yang melaluinya.",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:figure|x:gone|1": {
+    "text": "Kali ini tiada susuk di hadapan.",
+    "score": 94,
+    "postedit": "Kali ini tiada susuk di hadapan.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|p:figure|x:gone|2": {
+    "text": "Lelaki bersut kelabu itu tidak kelihatan di mana-mana.",
+    "score": 93,
+    "postedit": "Lelaki bersut kelabu itu tidak kelihatan di mana-mana.",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:figure|x:knows|0": {
+    "text": "Lelaki berpakaian kelabu itu telah berpaling dan mengangkat tangan, seolah-olah dia mengenali kamu.",
+    "score": 93,
+    "postedit": "Lelaki berpakaian kelabu itu telah berpaling dan mengangkat tangan, seolah-olah dia mengenali kamu.",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:figure|x:knows|1": {
+    "text": "Susuk bersut itu mengadap kamu dan melambai, perlahan dan sengaja.",
+    "score": 93,
+    "postedit": "Susuk bersut itu mengadap kamu dan melambai, perlahan dan sengaja.",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:figure|x:knows|2": {
+    "text": "Lelaki itu menggerakkan bibirnya menyebut sesuatu di hujung koridor. Mungkin 'sekali lagi.'",
+    "score": 93,
+    "postedit": "Lelaki itu menggerakkan bibirnya menyebut sesuatu di hujung koridor. Mungkin 'sekali lagi.'",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:sign|v:exit|0": {
+    "text": "Papan tanda {SIGN} yang bercahaya bersinar di hujung sana.",
+    "score": 93,
+    "postedit": "Papan tanda {SIGN} yang bercahaya bersinar di hujung sana.",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:sign|v:exit|1": {
+    "text": "Di hadapan, papan tanda {SIGN} tergantung di atas koridor.",
+    "score": 93,
+    "postedit": "Di hadapan, papan tanda {SIGN} tergantung di atas koridor.",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:sign|v:exit|2": {
+    "text": "Papan tanda {SIGN} hijau menunjukkan arah, sebagaimana sepatutnya.",
+    "score": 93,
+    "postedit": "Papan tanda {SIGN} hijau menunjukkan arah, sebagaimana sepatutnya.",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:sign|v:exit|3": {
+    "text": "Kamu dapat mengecam papan tanda {SIGN} pada kejauhan.",
+    "score": 93,
+    "postedit": "Kamu dapat mengecam papan tanda {SIGN} pada kejauhan.",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:sign|x:reversed|0": {
+    "text": "Papan tanda keluar menunjuk ke arah yang salah, EXIT ←.",
+    "score": 93,
+    "postedit": "Papan tanda keluar menunjuk ke arah yang salah, EXIT ←.",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:sign|x:reversed|1": {
+    "text": "Anak panah pada papan tanda keluar kini menunjuk kembali ke arah kamu datang: ←.",
+    "score": 93,
+    "postedit": "Anak panah pada papan tanda keluar kini menunjuk kembali ke arah kamu datang: ←.",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:sign|x:reversed|2": {
+    "text": "EXIT ←. Anak panah itu telah berbalik arah.",
+    "score": 93,
+    "postedit": "EXIT ←. Anak panah itu telah berbalik arah.",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:sign|x:dark|0": {
+    "text": "Papan tanda keluar gelap. Tiada cahaya di belakang huruf-hurufnya.",
+    "score": 93,
+    "postedit": "Papan tanda keluar gelap. Tiada cahaya di belakang huruf-hurufnya.",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:sign|x:dark|1": {
+    "text": "Papan tanda keluar telah terpadam.",
+    "score": 94,
+    "postedit": "Papan tanda keluar telah terpadam.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|p:sign|x:dark|2": {
+    "text": "Di tempat papan tanda keluar sepatutnya bersinar, hanya ada panel mati.",
+    "score": 93,
+    "postedit": "Di tempat papan tanda keluar sepatutnya bersinar, hanya ada panel mati.",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:sign|x:number|0": {
+    "text": "Papan tanda itu tertera EXIT 3. Tidak pernah ada nombor padanya.",
+    "score": 93,
+    "postedit": "Papan tanda itu tertera EXIT 3. Tidak pernah ada nombor padanya.",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:sign|x:number|1": {
+    "text": "Satu nombor telah muncul pada papan tanda itu: EXIT 3.",
+    "score": 93,
+    "postedit": "Satu nombor telah muncul pada papan tanda itu: EXIT 3.",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:sign|x:number|2": {
+    "text": "Papan tanda keluar kini membawa satu angka yang tidak kamu ingat: 3.",
+    "score": 93,
+    "postedit": "Papan tanda keluar kini membawa satu angka yang tidak kamu ingat: 3.",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:door|v:closed|0": {
+    "text": "Sebuah pintu penyelenggaraan kelabu tertutup pada dinding kiri.",
+    "score": 93,
+    "postedit": "Sebuah pintu penyelenggaraan kelabu tertutup pada dinding kiri.",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:door|v:closed|1": {
+    "text": "Pintu perkhidmatan di sebelah kiri kamu tertutup, seperti biasa.",
+    "score": 93,
+    "postedit": "Pintu perkhidmatan di sebelah kiri kamu tertutup, seperti biasa.",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:door|v:closed|2": {
+    "text": "Itu dia pintu penyelenggaraan, tertutup rapat.",
+    "score": 93,
+    "postedit": "Itu dia pintu penyelenggaraan, tertutup rapat.",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:door|x:ajar|0": {
+    "text": "Pintu penyelenggaraan itu terbuka sedikit. Kegelapan di dalamnya.",
+    "score": 93,
+    "postedit": "Pintu penyelenggaraan itu terbuka sedikit. Kegelapan di dalamnya.",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:door|x:ajar|1": {
+    "text": "Pintu perkhidmatan itu terbuka sedikit, walaupun kamu tidak pernah melihatnya terbuka.",
+    "score": 93,
+    "postedit": "Pintu perkhidmatan itu terbuka sedikit, walaupun kamu tidak pernah melihatnya terbuka.",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:door|x:ajar|2": {
+    "text": "Pintu kelabu itu terkuak; satu celahan hitam nipis di tempat yang sepatutnya rapat.",
+    "score": 93,
+    "postedit": "Pintu kelabu itu terkuak; satu celahan hitam nipis di tempat yang sepatutnya rapat.",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:door|x:gone|0": {
+    "text": "Tiada pintu penyelenggaraan pada dinding kiri. Hanya dinding yang licin.",
+    "score": 93,
+    "postedit": "Tiada pintu penyelenggaraan pada dinding kiri. Hanya dinding yang licin.",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:door|x:gone|1": {
+    "text": "Pintu perkhidmatan itu hilang sama sekali.",
+    "score": 94,
+    "postedit": "Pintu perkhidmatan itu hilang sama sekali.",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|p:door|x:gone|2": {
+    "text": "Dinding kiri itu utuh tanpa sebarang pintu.",
+    "score": 93,
+    "postedit": "Dinding kiri itu utuh tanpa sebarang pintu.",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:camera|v:away|0": {
+    "text": "Sebuah kamera litar tertutup yang kecil di sudut menghala ke hujung koridor.",
+    "score": 93,
+    "postedit": "Sebuah kamera litar tertutup yang kecil di sudut menghala ke hujung koridor.",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:camera|v:away|1": {
+    "text": "Kamera keselamatan itu mengawasi hujung sana, terarah menjauhi kamu.",
+    "score": 93,
+    "postedit": "Kamera keselamatan itu mengawasi hujung sana, terarah menjauhi kamu.",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:camera|v:away|2": {
+    "text": "Di sudut atas, kamera itu mengadap ke hadapan, seperti biasa.",
+    "score": 93,
+    "postedit": "Di sudut atas, kamera itu mengadap ke hadapan, seperti biasa.",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:camera|x:atyou|0": {
+    "text": "Kamera litar tertutup itu telah berpaling. Ia menghala terus ke arah kamu.",
+    "score": 93,
+    "postedit": "Kamera litar tertutup itu telah berpaling. Ia menghala terus ke arah kamu.",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:camera|x:atyou|1": {
+    "text": "Kamera keselamatan itu kini terarah ke bawah menghadap kamu.",
+    "score": 93,
+    "postedit": "Kamera keselamatan itu kini terarah ke bawah menghadap kamu.",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:camera|x:atyou|2": {
+    "text": "Kamera di sudut itu mengadap kamu, kanta lensanya sebaris dengan mata kamu.",
+    "score": 93,
+    "postedit": "Kamera di sudut itu mengadap kamu, kanta lensanya sebaris dengan mata kamu.",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:camera|x:red|0": {
+    "text": "Satu lampu merah berkelip pada kamera itu. Ia tidak pernah berkelip sebelum ini.",
+    "score": 93,
+    "postedit": "Satu lampu merah berkelip pada kamera itu. Ia tidak pernah berkelip sebelum ini.",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:camera|x:red|1": {
+    "text": "Lampu rakaman kamera itu bersinar merah buat pertama kali.",
+    "score": 93,
+    "postedit": "Lampu rakaman kamera itu bersinar merah buat pertama kali.",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:camera|x:red|2": {
+    "text": "LED kecil pada kamera itu berdenyut merah.",
+    "score": 93,
+    "postedit": "LED kecil pada kamera itu berdenyut merah.",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:floor|v:dry|0": {
+    "text": "Jubin lantai kelabu terbentang jauh, kering dan suram.",
+    "score": 93,
+    "postedit": "Jubin lantai kelabu terbentang jauh, kering dan suram.",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:floor|v:dry|1": {
+    "text": "Di bawah tapak kaki, jubin kelabu yang lusuh seperti biasa.",
+    "score": 93,
+    "postedit": "Di bawah tapak kaki, jubin kelabu yang lusuh seperti biasa.",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:floor|v:dry|2": {
+    "text": "Lantai berjubin itu kering, tidak memantulkan apa-apa.",
+    "score": 93,
+    "postedit": "Lantai berjubin itu kering, tidak memantulkan apa-apa.",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:floor|x:wet|0": {
+    "text": "Jubin di hadapan berkilat dengan kilauan basah yang gelap.",
+    "score": 93,
+    "postedit": "Jubin di hadapan berkilat dengan kilauan basah yang gelap.",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:floor|x:wet|1": {
+    "text": "Lantai itu basah, walaupun kamu tidak nampak sesiapa membersihkannya.",
+    "score": 93,
+    "postedit": "Lantai itu basah, walaupun kamu tidak nampak sesiapa membersihkannya.",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:floor|x:wet|2": {
+    "text": "Selapis air merebak di atas jubin.",
+    "score": 93,
+    "postedit": "Selapis air merebak di atas jubin.",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:floor|x:cracked|0": {
+    "text": "Satu retakan merentasi jubin lantai yang tadinya tiada.",
+    "score": 93,
+    "postedit": "Satu retakan merentasi jubin lantai yang tadinya tiada.",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:floor|x:cracked|1": {
+    "text": "Salah satu jubin lantai terbelah di tengah.",
+    "score": 93,
+    "postedit": "Salah satu jubin lantai terbelah di tengah.",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:floor|x:cracked|2": {
+    "text": "Jubin itu retak dalam satu garisan berliku di hadapan.",
+    "score": 93,
+    "postedit": "Jubin itu retak dalam satu garisan berliku di hadapan.",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:sense|v:steady|0": {
+    "text": "Koridor ini terasa betul-betul sepanjang seperti biasanya.",
+    "score": 93,
+    "postedit": "Koridor ini terasa betul-betul sepanjang seperti biasanya.",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:sense|v:steady|1": {
+    "text": "Kamu membawa rasa gerun samar yang sama sejak dari lobi.",
+    "score": 93,
+    "postedit": "Kamu membawa rasa gerun samar yang sama sejak dari lobi.",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:sense|v:steady|2": {
+    "text": "Segalanya terasa biasa, sebagaimana tempat ini pernah biasa.",
+    "score": 93,
+    "postedit": "Segalanya terasa biasa, sebagaimana tempat ini pernah biasa.",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:sense|x:longer|0": {
+    "text": "Koridor terasa lebih panjang kali ini, walaupun kamu tidak dapat mengatakan kenapa.",
+    "score": 93,
+    "postedit": "Koridor terasa lebih panjang kali ini, walaupun kamu tidak dapat mengatakan kenapa.",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:sense|x:longer|1": {
+    "text": "Hujung sana kelihatan lebih jauh daripada sepatutnya.",
+    "score": 93,
+    "postedit": "Hujung sana kelihatan lebih jauh daripada sepatutnya.",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:sense|x:longer|2": {
+    "text": "Dinding terasa seolah-olah telah meregang sejak bahagian sebelumnya.",
+    "score": 93,
+    "postedit": "Dinding terasa seolah-olah telah meregang sejak bahagian sebelumnya.",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:sense|x:forget|0": {
+    "text": "Buat seketika kamu tidak dapat mengingati berapa banyak pintu yang telah kamu lalui.",
+    "score": 93,
+    "postedit": "Buat seketika kamu tidak dapat mengingati berapa banyak pintu yang telah kamu lalui.",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:sense|x:forget|1": {
+    "text": "Kamu hilang kiraan koridor, dan itu menggusarkan kamu.",
+    "score": 93,
+    "postedit": "Kamu hilang kiraan koridor, dan itu menggusarkan kamu.",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:sense|x:forget|2": {
+    "text": "Kamu langsung tidak dapat mengingati kenapa kamu berada di sini.",
+    "score": 93,
+    "postedit": "Kamu langsung tidak dapat mengingati kenapa kamu berada di sini.",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:sense|x:calm|0": {
+    "text": "Kamu tiba-tiba berasa tenang, secara yang salah, seolah-olah kamu sudah pun terlepas.",
+    "score": 93,
+    "postedit": "Kamu tiba-tiba berasa tenang, secara yang salah, seolah-olah kamu sudah pun terlepas.",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:sense|x:calm|1": {
+    "text": "Satu rasa lega yang ganjil menyapu kamu, satu rasa yang tidak sepatutnya ada di sini.",
+    "score": 93,
+    "postedit": "Satu rasa lega yang ganjil menyapu kamu, satu rasa yang tidak sepatutnya ada di sini.",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|p:sense|x:calm|2": {
+    "text": "Kamu langsung tidak berasa takut, dan itu sendiri terasa salah.",
+    "score": 93,
+    "postedit": "Kamu langsung tidak berasa takut, dan itu sendiri terasa salah.",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|adaptive|repeat_inspect|0": {
+    "text": "Kamu melirik {THING} sekali lagi. Kamu tidak pasti kenapa.",
+    "score": 93,
+    "postedit": "Kamu melirik {THING} sekali lagi. Kamu tidak pasti kenapa.",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|adaptive|repeat_inspect|1": {
+    "text": "Pandangan kamu terus tertumpu pada {THING}, seperti yang selalu berlaku sekarang.",
+    "score": 93,
+    "postedit": "Pandangan kamu terus tertumpu pada {THING}, seperti yang selalu berlaku sekarang.",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|adaptive|repeat_inspect|2": {
+    "text": "{THING} sekali lagi menarik perhatian kamu.",
+    "score": 93,
+    "postedit": "{THING} sekali lagi menarik perhatian kamu.",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|adaptive|long_look|0": {
+    "text": "Kamu memandang lebih lama daripada biasa. Kamu tidak ingat bila kamu memutuskan untuk berhenti.",
+    "score": 93,
+    "postedit": "Kamu memandang lebih lama daripada biasa. Kamu tidak ingat bila kamu memutuskan untuk berhenti.",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|adaptive|long_look|1": {
+    "text": "Kamu sedar kamu telah berdiri diam. Sejak berapa lama?",
+    "score": 93,
+    "postedit": "Kamu sedar kamu telah berdiri diam. Sejak berapa lama?",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|adaptive|long_look|2": {
+    "text": "Masa menyelinap pergi. Kamu sedang merenung, dan kamu tidak tahu sejak berapa lama.",
+    "score": 93,
+    "postedit": "Masa menyelinap pergi. Kamu sedang merenung, dan kamu tidak tahu sejak berapa lama.",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|framing|intro|0": {
+    "text": "SELEPAS WAKTU KERJA",
+    "score": 94,
+    "postedit": "SELEPAS WAKTU KERJA",
+    "postedit_score": 96
+  },
+  "a:hallway-eight|framing|intro|2": {
+    "text": "Kamu tinggal terlalu lewat. Pintu lobi berkunci, lampu separuh terpadam.",
+    "score": 93,
+    "postedit": "Kamu tinggal terlalu lewat. Pintu lobi berkunci, lampu separuh terpadam.",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|framing|intro|3": {
+    "text": "Sekeping papan tanda tulisan tangan tergantung di atasnya: PINTU KELUAR KECEMASAN, GUNA KORIDOR.",
+    "score": 93,
+    "postedit": "Sekeping papan tanda tulisan tangan tergantung di atasnya: PINTU KELUAR KECEMASAN, GUNA KORIDOR.",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|framing|intro|5": {
+    "text": "Selagi satu bahagian koridor betul-betul seperti yang kamu ingat, teruskan berjalan.",
+    "score": 93,
+    "postedit": "Selagi satu bahagian koridor betul-betul seperti yang kamu ingat, teruskan berjalan.",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|framing|intro|6": {
+    "text": "Jika ada apa-apa yang berubah, laluan itu telah berpusing balik. Kembali ikut arah kamu datang.",
+    "score": 93,
+    "postedit": "Jika ada apa-apa yang berubah, laluan itu telah berpusing balik. Kembali ikut arah kamu datang.",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|framing|intro|8": {
+    "text": "Pintu kecemasan kelapan membawa keluar.",
+    "score": 93,
+    "postedit": "Pintu kecemasan kelapan membawa keluar.",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|framing|intro|9": {
+    "text": "Hilang jejak apa yang telah kamu lihat, dan bangunan ini akan mengembalikan kamu ke permulaan.",
+    "score": 93,
+    "postedit": "Hilang jejak apa yang telah kamu lihat, dan bangunan ini akan mengembalikan kamu ke permulaan.",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|framing|win|0": {
+    "text": "Pintu kecemasan kelapan terbuka di bawah tangan kamu.",
+    "score": 93,
+    "postedit": "Pintu kecemasan kelapan terbuka di bawah tangan kamu.",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|framing|win|1": {
+    "text": "Udara sejuk. Satu tangga menurun ke jalan. Kota itu, masih ada di sana.",
+    "score": 93,
+    "postedit": "Udara sejuk. Satu tangga menurun ke jalan. Kota itu, masih ada di sana.",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|framing|win|2": {
+    "text": "Kamu sudah mula menyangka koridor itu tiada penghujung.",
+    "score": 93,
+    "postedit": "Kamu sudah mula menyangka koridor itu tiada penghujung.",
+    "postedit_score": 95
+  },
+  "a:hallway-eight|framing|win|3": {
+    "text": "Kamu telah keluar.",
+    "score": 94,
+    "postedit": "Kamu telah keluar.",
+    "postedit_score": 96
+  }
+}

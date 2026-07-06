@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# Node dev toolchain (tests/measurement tools; the game needs no build)
+node_modules/
+package-lock.json
+# Local outputs from the dev tools (screenshots, ad-hoc renders)
+shots/
+*.local.png

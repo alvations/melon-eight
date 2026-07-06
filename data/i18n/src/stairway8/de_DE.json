@@ -1,0 +1,1334 @@
+{
+ "a:stairway8|act2|end|climb|0": {
+  "postedit": "Du nimmst die Abkürzungstür, sicher, dass sie dich am Erdgeschoss absetzt.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Du nimmst die Abkürzungstür, sicher, dass sie dich am Erdgeschoss absetzt."
+ },
+ "a:stairway8|act2|end|climb|1": {
+  "postedit": "Die Zahl an der Wand ist höher als die Etage, auf der du begonnen hast.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Die Zahl an der Wand ist höher als die Etage, auf der du begonnen hast."
+ },
+ "a:stairway8|act2|end|climb|2": {
+  "postedit": "Der Lauf nach unten ist zu einem Lauf nach oben geworden, und jede Tür von hier an öffnet sich auf Treppen, die nur steigen.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Der Lauf nach unten ist zu einem Lauf nach oben geworden, und jede Tür von hier an öffnet sich auf Treppen, die nur steigen."
+ },
+ "a:stairway8|act2|exit|action": {
+  "postedit": "die Abkürzung nehmen",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "die Abkürzung nehmen"
+ },
+ "a:stairway8|act2|exit|tempt": {
+  "postedit": "Eine Absatztür hängt unten offen, und dahinter scheint die Treppe direkt zur Straße abzufallen. Eine Abkürzung nach unten.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Eine Absatztür hängt unten offen, und dahinter scheint die Treppe direkt zur Straße abzufallen. Eine Abkürzung nach unten."
+ },
+ "a:stairway8|act2|flashback|0": {
+  "postedit": "Einmal bist du mit dem Aufzug hochgefahren. Du erinnerst dich, wie die Türen sich vor einem Gesicht schlossen.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Einmal bist du mit dem Aufzug hochgefahren. Du erinnerst dich, wie die Türen sich vor einem Gesicht schlossen."
+ },
+ "a:stairway8|act2|flashback|1": {
+  "postedit": "Es gab eine Etage, die du besuchen wolltest. Die Nummer kannst du jetzt nicht sagen, nur, dass du nicht hinwolltest.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Es gab eine Etage, die du besuchen wolltest. Die Nummer kannst du jetzt nicht sagen, nur, dass du nicht hinwolltest."
+ },
+ "a:stairway8|act2|flashback|2": {
+  "postedit": "Die Gestalt unten winkte beim ersten Mal zu dir herauf, und du redetest dir ein, es gälte jemand anderem.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Die Gestalt unten winkte beim ersten Mal zu dir herauf, und du redetest dir ein, es gälte jemand anderem."
+ },
+ "a:stairway8|act2|flashback|3": {
+  "postedit": "Du hast diese Kratzer schon einmal gelesen. Einer davon ist eine Strichliste, und sie geht über acht hinaus.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Du hast diese Kratzer schon einmal gelesen. Einer davon ist eine Strichliste, und sie geht über acht hinaus."
+ },
+ "a:stairway8|act2|flashback|4": {
+  "postedit": "Du warst sicher, das Erdgeschoss käme als Nächstes. Du warst schon einmal sicher.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Du warst sicher, das Erdgeschoss käme als Nächstes. Du warst schon einmal sicher."
+ },
+ "a:stairway8|act2|t:door|fold|0": {
+  "postedit": "Sie schwingt auf einen Absatz auf, an dem du vor drei Etagen vorbeikamst. Die Zählung ist weg. Du bist wieder ganz oben.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Sie schwingt auf einen Absatz auf, an dem du vor drei Etagen vorbeikamst. Die Zählung ist weg. Du bist wieder ganz oben."
+ },
+ "a:stairway8|act2|t:door|herring|0": {
+  "postedit": "Der Lack darauf ist klebrig, frisch aufgetragen, obwohl das Schild daneben vor Alter vergilbt ist.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Der Lack darauf ist klebrig, frisch aufgetragen, obwohl das Schild daneben vor Alter vergilbt ist."
+ },
+ "a:stairway8|act2|t:door|herring|1": {
+  "postedit": "Ein kalter Zug kommt durch den Spalt herauf und trägt nichts, das du benennen kannst.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Ein kalter Zug kommt durch den Spalt herauf und trägt nichts, das du benennen kannst."
+ },
+ "a:stairway8|act2|t:door|reaction|0": {
+  "postedit": "Die Stange gibt eine Fingerbreit nach und stoppt, eine Kette, die du nicht siehst, hält sie.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Die Stange gibt eine Fingerbreit nach und stoppt, eine Kette, die du nicht siehst, hält sie."
+ },
+ "a:stairway8|act2|t:door|reaction|1": {
+  "postedit": "Dahinter, schwach, das Geräusch desselben Treppenhauses, das nach unten führt.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Dahinter, schwach, das Geräusch desselben Treppenhauses, das nach unten führt."
+ },
+ "a:stairway8|act2|t:door|verb": {
+  "postedit": "die Absatztür versuchen",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "die Absatztür versuchen"
+ },
+ "a:stairway8|act2|t:figure|fold|0": {
+  "postedit": "Sie steigt dir entgegen, ohne Eile, und als sie deinen Absatz erreicht, bist du irgendwie wieder ganz oben, allein.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Sie steigt dir entgegen, ohne Eile, und als sie deinen Absatz erreicht, bist du irgendwie wieder ganz oben, allein."
+ },
+ "a:stairway8|act2|t:figure|herring|0": {
+  "postedit": "Der Mantel dort unten hat die Farbe deines. Die meisten Mäntel haben sie.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Der Mantel dort unten hat die Farbe deines. Die meisten Mäntel haben sie."
+ },
+ "a:stairway8|act2|t:figure|herring|1": {
+  "postedit": "Sie ist einen Absatz näher als noch, als du riefst. Du bist schließlich gegangen.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Sie ist einen Absatz näher als noch, als du riefst. Du bist schließlich gegangen."
+ },
+ "a:stairway8|act2|t:figure|reaction|0": {
+  "postedit": "Deine Stimme kommt einen Schlag zu spät zurück, in deinem eigenen Ton.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Deine Stimme kommt einen Schlag zu spät zurück, in deinem eigenen Ton."
+ },
+ "a:stairway8|act2|t:figure|reaction|1": {
+  "postedit": "Weit unten hebt sich ein Gesicht dem Klang entgegen, oder der Schatten eines Gesichts.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Weit unten hebt sich ein Gesicht dem Klang entgegen, oder der Schatten eines Gesichts."
+ },
+ "a:stairway8|act2|t:figure|verb": {
+  "postedit": "in den Schacht hinabrufen",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "in den Schacht hinabrufen"
+ },
+ "a:stairway8|act2|t:notice|fold|0": {
+  "postedit": "Du liest bis nach unten, und unten steht START, und das ist es auch.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Du liest bis nach unten, und unten steht START, und das ist es auch."
+ },
+ "a:stairway8|act2|t:notice|herring|0": {
+  "postedit": "Das Klebeband, das ihn hält, ist frisch, noch glänzend. Solche Hinweise werden ständig ersetzt.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Das Klebeband, das ihn hält, ist frisch, noch glänzend. Solche Hinweise werden ständig ersetzt."
+ },
+ "a:stairway8|act2|t:notice|herring|1": {
+  "postedit": "Das Papier ist warm, als käme es gerade aus einer Maschine. Gebäude sind nachts seltsam.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Das Papier ist warm, als käme es gerade aus einer Maschine. Gebäude sind nachts seltsam."
+ },
+ "a:stairway8|act2|t:notice|reaction|0": {
+  "postedit": "AUFZUG AUSSER BETRIEB, TREPPE BENUTZEN. Jemand hat BENUTZEN unterstrichen, zweimal, hart.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "AUFZUG AUSSER BETRIEB, TREPPE BENUTZEN. Jemand hat BENUTZEN unterstrichen, zweimal, hart."
+ },
+ "a:stairway8|act2|t:notice|reaction|1": {
+  "postedit": "Unter dem Gedruckten hat eine Hand mit Bleistift eine Zahl geschrieben und durchgestrichen.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Unter dem Gedruckten hat eine Hand mit Bleistift eine Zahl geschrieben und durchgestrichen."
+ },
+ "a:stairway8|act2|t:notice|verb": {
+  "postedit": "den Hinweis lesen",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "den Hinweis lesen"
+ },
+ "a:stairway8|act2|t:railing|fold|0": {
+  "postedit": "Du folgst ihm mit den Augen hinab, und deine Füße folgen deinen Augen, und du steigst wieder, am Anfang.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Du folgst ihm mit den Augen hinab, und deine Füße folgen deinen Augen, und du steigst wieder, am Anfang."
+ },
+ "a:stairway8|act2|t:railing|herring|0": {
+  "postedit": "Kalt, wo du ihn einen Absatz zuvor warm gelassen hast. Es hat nichts zu bedeuten.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Kalt, wo du ihn einen Absatz zuvor warm gelassen hast. Es hat nichts zu bedeuten."
+ },
+ "a:stairway8|act2|t:railing|herring|1": {
+  "postedit": "Er hat einen Grünton, an den du dich nicht erinnerst. Das Licht hier unten ist schlecht.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Er hat einen Grünton, an den du dich nicht erinnerst. Das Licht hier unten ist schlecht."
+ },
+ "a:stairway8|act2|t:railing|reaction|0": {
+  "postedit": "Er ist kälter als die Luft und summt schwach, so wie ein Geländer summt, wenn jemand weit unten es ebenfalls hält.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Er ist kälter als die Luft und summt schwach, so wie ein Geländer summt, wenn jemand weit unten es ebenfalls hält."
+ },
+ "a:stairway8|act2|t:railing|reaction|1": {
+  "postedit": "Deine Hand hinterlässt keinen Abdruck darauf, obwohl sie es sollte.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Deine Hand hinterlässt keinen Abdruck darauf, obwohl sie es sollte."
+ },
+ "a:stairway8|act2|t:railing|verb": {
+  "postedit": "den Handlauf greifen",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "den Handlauf greifen"
+ },
+ "a:stairway8|adaptive|long_look|0": {
+  "postedit": "Du schaust länger als sonst. Du weißt nicht mehr, wann du stehen geblieben bist.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Du schaust länger als sonst. Du weißt nicht mehr, wann du stehen geblieben bist."
+ },
+ "a:stairway8|adaptive|long_look|1": {
+  "postedit": "Dir wird klar, dass du auf dem Absatz stehst. Seit wann?",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Dir wird klar, dass du auf dem Absatz stehst. Seit wann?"
+ },
+ "a:stairway8|adaptive|long_look|2": {
+  "postedit": "Die Zeit verrutscht. Du hast in den Schacht gestarrt und weißt nicht, wie lange.",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "Die Zeit verrutscht. Du hast in den Schacht gestarrt und weißt nicht, wie lange."
+ },
+ "a:stairway8|adaptive|repeat_inspect|0": {
+  "postedit": "Du blickst wieder auf {THING}. Du weißt nicht recht, warum.",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "Du blickst wieder auf {THING}. Du weißt nicht recht, warum."
+ },
+ "a:stairway8|adaptive|repeat_inspect|1": {
+  "postedit": "Dein Blick fällt sofort auf {THING}, wie es jetzt immer scheint.",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "Dein Blick fällt sofort auf {THING}, wie es jetzt immer scheint."
+ },
+ "a:stairway8|adaptive|repeat_inspect|2": {
+  "postedit": "Erneut fällt dein Blick auf {THING}.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Erneut fällt dein Blick auf {THING}."
+ },
+ "a:stairway8|attempt": {
+  "postedit": "{n} Mal diese Treppe hinab, und diesmal ließ sie dich hinaus.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "{n} Mal diese Treppe hinab, und diesmal ließ sie dich hinaus."
+ },
+ "a:stairway8|attempt_first": {
+  "postedit": "Gleich beim ersten Abstieg, und die Treppe schickte dich nie zurück.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Gleich beim ersten Abstieg, und die Treppe schickte dich nie zurück."
+ },
+ "a:stairway8|framing|cutscene|0": {
+  "postedit": "Etwas auf dem Treppenabsatz hatte sich verändert, und du bist daran vorbeigestiegen.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Etwas auf dem Treppenabsatz hatte sich verändert, und du bist daran vorbeigestiegen."
+ },
+ "a:stairway8|framing|cutscene|1": {
+  "postedit": "Ist ein Absatz nicht genau so, wie du ihn erinnerst, geh wieder hinauf. Ist er es, steig weiter hinab.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Ist ein Absatz nicht genau so, wie du ihn erinnerst, geh wieder hinauf. Ist er es, steig weiter hinab."
+ },
+ "a:stairway8|framing|intro|0": {
+  "postedit": "AUSSER BETRIEB",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "AUSSER BETRIEB"
+ },
+ "a:stairway8|framing|intro|2": {
+  "postedit": "Du drückst den Rufknopf. Nichts. Ein Hinweis ist über die Türen geklebt:",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Du drückst den Rufknopf. Nichts. Ein Hinweis ist über die Türen geklebt:"
+ },
+ "a:stairway8|framing|intro|3": {
+  "postedit": "AUFZUG AUSSER BETRIEB, TREPPE BENUTZEN.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "AUFZUG AUSSER BETRIEB, TREPPE BENUTZEN."
+ },
+ "a:stairway8|framing|intro|5": {
+  "postedit": "Solange ein Absatz genau so ist, wie du ihn in Erinnerung hast, steig weiter hinab.",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "Solange ein Absatz genau so ist, wie du ihn in Erinnerung hast, steig weiter hinab."
+ },
+ "a:stairway8|framing|intro|6": {
+  "postedit": "Hat sich etwas verändert, hat das Treppenhaus dich umgedreht. Steig wieder hinauf.",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "Hat sich etwas verändert, hat das Treppenhaus dich umgedreht. Steig wieder hinauf."
+ },
+ "a:stairway8|framing|intro|8": {
+  "postedit": "Das Erdgeschoss ist der Weg hinaus.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Das Erdgeschoss ist der Weg hinaus."
+ },
+ "a:stairway8|framing|intro|9": {
+  "postedit": "Verlierst du die Absätze aus dem Blick, bist du wieder ganz oben.",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "Verlierst du die Absätze aus dem Blick, bist du wieder ganz oben."
+ },
+ "a:stairway8|framing|win|0": {
+  "postedit": "Der letzte Lauf öffnet sich zur Lobby.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Der letzte Lauf öffnet sich zur Lobby."
+ },
+ "a:stairway8|framing|win|1": {
+  "postedit": "Tageslicht durch die Türen. Die Straße. Der Aufzug hinter dir, noch immer tot.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Tageslicht durch die Türen. Die Straße. Der Aufzug hinter dir, noch immer tot."
+ },
+ "a:stairway8|framing|win|2": {
+  "postedit": "Acht Stockwerke hinab, und dein Gedächtnis hielt jeden Absatz.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Acht Stockwerke hinab, und dein Gedächtnis hielt jeden Absatz."
+ },
+ "a:stairway8|framing|win|3": {
+  "postedit": "Erdgeschoss.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "Erdgeschoss."
+ },
+ "a:stairway8|go_on": {
+  "postedit": "Hinabsteigen",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "Hinabsteigen"
+ },
+ "a:stairway8|label|door": {
+  "postedit": "die Brandschutztür",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "die Brandschutztür"
+ },
+ "a:stairway8|label|extinguisher": {
+  "postedit": "den Feuerlöscher",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "den Feuerlöscher"
+ },
+ "a:stairway8|label|figure": {
+  "postedit": "die Gestalt auf der Treppe",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "die Gestalt auf der Treppe"
+ },
+ "a:stairway8|label|lighting": {
+  "postedit": "das Licht",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "das Licht"
+ },
+ "a:stairway8|label|notice": {
+  "postedit": "den Aufzugshinweis",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "den Aufzugshinweis"
+ },
+ "a:stairway8|label|number": {
+  "postedit": "die Etagennummer",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "die Etagennummer"
+ },
+ "a:stairway8|label|railing": {
+  "postedit": "den Handlauf",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "den Handlauf"
+ },
+ "a:stairway8|label|sense": {
+  "postedit": "dieses Gefühl",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "dieses Gefühl"
+ },
+ "a:stairway8|label|sound": {
+  "postedit": "das Geräusch",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "das Geräusch"
+ },
+ "a:stairway8|label|stairs": {
+  "postedit": "die Treppe nach unten",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "die Treppe nach unten"
+ },
+ "a:stairway8|p:door|v:closed|0": {
+  "postedit": "Die Brandschutztür zur Etage ist zu, ihr Drahtglas dunkel.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Die Brandschutztür zur Etage ist zu, ihr Drahtglas dunkel."
+ },
+ "a:stairway8|p:door|v:closed|1": {
+  "postedit": "Die schwere graue Brandschutztür steht geschlossen am Absatz.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Die schwere graue Brandschutztür steht geschlossen am Absatz."
+ },
+ "a:stairway8|p:door|v:closed|2": {
+  "postedit": "Die Tür zur Etage ist geschlossen, so wie es sein soll.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Die Tür zur Etage ist geschlossen, so wie es sein soll."
+ },
+ "a:stairway8|p:door|x:ajar|0": {
+  "postedit": "Die Brandschutztür steht einen Spalt offen. Ein schwarzer Spalt, kein Licht.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Die Brandschutztür steht einen Spalt offen. Ein schwarzer Spalt, kein Licht."
+ },
+ "a:stairway8|p:door|x:ajar|1": {
+  "postedit": "Die schwere Tür ist einen Spalt offen; das ist sie nie.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Die schwere Tür ist einen Spalt offen; das ist sie nie."
+ },
+ "a:stairway8|p:door|x:ajar|2": {
+  "postedit": "Die Brandschutztür ist diesmal nicht ganz zu.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Die Brandschutztür ist diesmal nicht ganz zu."
+ },
+ "a:stairway8|p:door|x:handle|0": {
+  "postedit": "Die Brandschutztür hat jetzt keine Klinke.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Die Brandschutztür hat jetzt keine Klinke."
+ },
+ "a:stairway8|p:door|x:handle|1": {
+  "postedit": "Wo die Türklinke war, bleiben nur nackte Löcher.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Wo die Türklinke war, bleiben nur nackte Löcher."
+ },
+ "a:stairway8|p:door|x:handle|2": {
+  "postedit": "Der Brandschutztür fehlt die Klinke.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Der Brandschutztür fehlt die Klinke."
+ },
+ "a:stairway8|p:door|x:propped|0": {
+  "postedit": "Die Brandschutztür ist weit offen zu einer dunklen Etage aufgekeilt.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Die Brandschutztür ist weit offen zu einer dunklen Etage aufgekeilt."
+ },
+ "a:stairway8|p:door|x:propped|1": {
+  "postedit": "Jemand hat die Brandschutztür aufgekeilt.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Jemand hat die Brandschutztür aufgekeilt."
+ },
+ "a:stairway8|p:door|x:propped|2": {
+  "postedit": "Die Tür steht ganz offen, von nichts Sichtbarem gehalten.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Die Tür steht ganz offen, von nichts Sichtbarem gehalten."
+ },
+ "a:stairway8|p:door|x:window|0": {
+  "postedit": "Das Drahtglasfenster in der Tür ist schwarz geworden, verdeckt.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Das Drahtglasfenster in der Tür ist schwarz geworden, verdeckt."
+ },
+ "a:stairway8|p:door|x:window|1": {
+  "postedit": "Das kleine Fenster in der Brandschutztür ist von der anderen Seite verdeckt.",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "Das kleine Fenster in der Brandschutztür ist von der anderen Seite verstellt."
+ },
+ "a:stairway8|p:door|x:window|2": {
+  "postedit": "Etwas drückt sich von innen gegen das Glas der Tür.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Etwas drückt sich von innen gegen das Glas der Tür."
+ },
+ "a:stairway8|p:extinguisher|v:present|0": {
+  "postedit": "Ein Feuerlöscher hängt in seiner Halterung neben der Tür.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Ein Feuerlöscher hängt in seiner Halterung neben der Tür."
+ },
+ "a:stairway8|p:extinguisher|v:present|1": {
+  "postedit": "Der rote Feuerlöscher ist an seinem Platz an der Wand.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Der rote Feuerlöscher ist an seinem Platz an der Wand."
+ },
+ "a:stairway8|p:extinguisher|v:present|2": {
+  "postedit": "Der Feuerlöscher des Absatzes sitzt an seinem Haken.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Der Feuerlöscher des Absatzes sitzt an seinem Haken."
+ },
+ "a:stairway8|p:extinguisher|x:floor|0": {
+  "postedit": "Der Feuerlöscher liegt auf dem Boden, auf der Seite.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Der Feuerlöscher liegt auf dem Boden, auf der Seite."
+ },
+ "a:stairway8|p:extinguisher|x:floor|1": {
+  "postedit": "Der Feuerlöscher wurde auf dem Absatz abgestellt.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Der Feuerlöscher wurde auf dem Absatz abgestellt."
+ },
+ "a:stairway8|p:extinguisher|x:floor|2": {
+  "postedit": "Der Feuerlöscher steht lose an der Wand, von seinem Haken genommen.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Der Feuerlöscher steht lose an der Wand, von seinem Haken genommen."
+ },
+ "a:stairway8|p:extinguisher|x:gauge|0": {
+  "postedit": "Das Druckmanometer des Feuerlöschers steht im roten Bereich.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Das Druckmanometer des Feuerlöschers steht im roten Bereich."
+ },
+ "a:stairway8|p:extinguisher|x:gauge|1": {
+  "postedit": "Die Nadel am Feuerlöscher steht tief im Roten.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Die Nadel am Feuerlöscher steht tief im Roten."
+ },
+ "a:stairway8|p:extinguisher|x:gauge|2": {
+  "postedit": "Das Manometer des Feuerlöschers ist auf leer gefallen.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Das Manometer des Feuerlöschers ist auf leer gefallen."
+ },
+ "a:stairway8|p:extinguisher|x:gone|0": {
+  "postedit": "Die Halterung des Feuerlöschers ist leer.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Die Halterung des Feuerlöschers ist leer."
+ },
+ "a:stairway8|p:extinguisher|x:gone|1": {
+  "postedit": "Der Feuerlöscher ist weg; nur die Halterung bleibt.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Der Feuerlöscher ist weg; nur die Halterung bleibt."
+ },
+ "a:stairway8|p:extinguisher|x:gone|2": {
+  "postedit": "Diesmal kein Feuerlöscher an der Wand.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Diesmal kein Feuerlöscher an der Wand."
+ },
+ "a:stairway8|p:figure|v:below|0": {
+  "postedit": "Weit unten windet sich jemand anderes das Treppenhaus hinab, stets ein oder zwei Läufe voraus.",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "Weit unten windet sich jemand anderes das Treppenhaus hinab, stets ein oder zwei Läufe voraus."
+ },
+ "a:stairway8|p:figure|v:below|1": {
+  "postedit": "Eine Gestalt steigt den Schacht vor dir hinab und hält denselben Abstand.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Eine Gestalt steigt den Schacht vor dir hinab und hält denselben Abstand."
+ },
+ "a:stairway8|p:figure|v:below|2": {
+  "postedit": "Jemand ist auf der Treppe unter dir, geht in deinem Tempo hinab, nie näher.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Jemand ist auf der Treppe unter dir, geht in deinem Tempo hinab, nie näher."
+ },
+ "a:stairway8|p:figure|x:ascending|0": {
+  "postedit": "Die Gestalt steigt jetzt herauf, die Treppe zu dir empor.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Die Gestalt steigt jetzt herauf, die Treppe zu dir empor."
+ },
+ "a:stairway8|p:figure|x:ascending|1": {
+  "postedit": "Schritte steigen herauf: Die Gestalt unter dir kommt hoch, nicht hinab.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Schritte steigen: Die Gestalt unter dir steigt herauf, nicht hinab."
+ },
+ "a:stairway8|p:figure|x:ascending|2": {
+  "postedit": "Wer auf der Treppe war, hat kehrtgemacht und kommt herauf.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Der auf der Treppe hat kehrtgemacht und kommt herauf."
+ },
+ "a:stairway8|p:figure|x:closer|0": {
+  "postedit": "Die Gestalt auf der Treppe ist viel näher als zuvor, nur einen Lauf tiefer.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Die Gestalt auf der Treppe ist viel näher als zuvor, nur einen Lauf tiefer."
+ },
+ "a:stairway8|p:figure|x:closer|1": {
+  "postedit": "Die absteigende Gestalt hat den Abstand verringert; sie ist fast auf deinem Absatz.",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "Die absteigende Gestalt hat den Abstand verringert; sie ist fast auf deinem Absatz."
+ },
+ "a:stairway8|p:figure|x:closer|2": {
+  "postedit": "Wer unten ist, ist jetzt nur noch ein paar Stufen tiefer.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Wer unten ist, ist jetzt nur noch ein paar Stufen tiefer."
+ },
+ "a:stairway8|p:figure|x:facing|0": {
+  "postedit": "Die Gestalt unter dir ist stehen geblieben. Sie blickt zu dir herauf.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Die Gestalt unter dir ist stehen geblieben. Sie blickt zu dir herauf."
+ },
+ "a:stairway8|p:figure|x:facing|1": {
+  "postedit": "Den Schacht hinab steht die Gestalt still, das Gesicht zu dir heraufgewandt.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Den Schacht hinab steht die Gestalt still, das Gesicht zu dir heraufgewandt."
+ },
+ "a:stairway8|p:figure|x:facing|2": {
+  "postedit": "Wer auf der Treppe ist, steigt jetzt nicht hinab. Er beobachtet dich.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Der auf der Treppe steigt jetzt nicht hinab. Er beobachtet dich."
+ },
+ "a:stairway8|p:figure|x:gone|0": {
+  "postedit": "Das Treppenhaus unter dir ist leer. Wer auch immer hinabstieg, ist fort.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Das Treppenhaus unter dir ist leer. Wer auch immer hinabstieg, ist fort."
+ },
+ "a:stairway8|p:figure|x:gone|1": {
+  "postedit": "Diesmal ist keine Gestalt auf der Treppe.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Diesmal ist keine Gestalt auf der Treppe."
+ },
+ "a:stairway8|p:figure|x:gone|2": {
+  "postedit": "Wer vor dir war, ist aus dem Schacht verschwunden.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Der vor dir ist aus dem Schacht verschwunden."
+ },
+ "a:stairway8|p:figure|x:knows|0": {
+  "postedit": "Die Gestalt unter dir blickt herauf und hebt eine Hand, als hätte sie auf dich gewartet.",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "Die Gestalt unter dir blickt herauf und hebt eine Hand, als hätte sie auf dich gewartet."
+ },
+ "a:stairway8|p:figure|x:knows|1": {
+  "postedit": "Die Gestalt formt etwas den Schacht herauf mit den Lippen. Es könnte „wieder“ heißen.",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "Die Gestalt formt etwas den Schacht herauf. Es könnte „wieder“ heißen."
+ },
+ "a:stairway8|p:figure|x:knows|2": {
+  "postedit": "Sie winkt dich hinab, langsam und sicher, als würde sie dich kennen.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Sie winkt dich hinab, langsam und sicher, als würde sie dich kennen."
+ },
+ "a:stairway8|p:lighting|v:steady|0": {
+  "postedit": "Eine vergitterte Glühbirne wirft stetiges Licht über den Absatz.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Eine vergitterte Glühbirne wirft stetiges Licht über den Absatz."
+ },
+ "a:stairway8|p:lighting|v:steady|1": {
+  "postedit": "Das Treppenhauslicht brennt gleichmäßig über dir, wie immer.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Das Treppenhauslicht brennt gleichmäßig über dir, wie immer."
+ },
+ "a:stairway8|p:lighting|v:steady|2": {
+  "postedit": "Die Leuchtstoffröhre am Absatz glüht in ihrem üblichen flachen Weiß.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Die Leuchtstoffröhre am Absatz glüht in ihrem üblichen flachen Weiß."
+ },
+ "a:stairway8|p:lighting|v:steady|3": {
+  "postedit": "Das Licht fällt hier genauso wie auf jedem Absatz darüber.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Das Licht fällt hier genauso wie auf jedem Absatz darüber."
+ },
+ "a:stairway8|p:lighting|x:dim|0": {
+  "postedit": "Dieser Absatz ist dunkler als die darüber.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Dieser Absatz ist dunkler als die darüber."
+ },
+ "a:stairway8|p:lighting|x:dim|1": {
+  "postedit": "Das Licht hat hier halb aufgegeben; die Ecken bleiben dunkel.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Das Licht hat hier halb aufgegeben; die Ecken bleiben dunkel."
+ },
+ "a:stairway8|p:lighting|x:dim|2": {
+  "postedit": "Ein grauer Dunst hängt über dem Absatz.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Ein grauer Dunst hängt über dem Absatz."
+ },
+ "a:stairway8|p:lighting|x:flicker|0": {
+  "postedit": "Die vergitterte Glühbirne stottert, dann hält sie.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Die vergitterte Glühbirne stottert, dann hält sie."
+ },
+ "a:stairway8|p:lighting|x:flicker|1": {
+  "postedit": "Das Treppenhauslicht flackert auf eine Art, wie es das vorher nicht tat.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Das Treppenhauslicht flackert auf eine Art, wie es das vorher nicht tat."
+ },
+ "a:stairway8|p:lighting|x:flicker|2": {
+  "postedit": "Über dir setzt das Licht einmal aus und kommt wieder.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Über dir setzt das Licht einmal aus und kommt wieder."
+ },
+ "a:stairway8|p:lighting|x:red|0": {
+  "postedit": "Der Absatz ist rot beleuchtet, eine Notlampe, an die du dich nicht erinnerst.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Der Absatz ist rot beleuchtet, eine Notlampe, an die du dich nicht erinnerst."
+ },
+ "a:stairway8|p:lighting|x:red|1": {
+  "postedit": "Alles trägt ein schwaches rotes Notlicht.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Alles trägt ein schwaches rotes Notlicht."
+ },
+ "a:stairway8|p:lighting|x:red|2": {
+  "postedit": "Das weiße Licht ist fort; nur eine rote Birne bleibt.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Das weiße Licht ist fort; nur eine rote Birne bleibt."
+ },
+ "a:stairway8|p:notice|v:out|0": {
+  "postedit": "Ein aufgeklebter Hinweis am Aufzug lautet AUSSER BETRIEB, TREPPE BENUTZEN.",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "Ein aufgeklebter Hinweis am Aufzug lautet AUSSER BETRIEB, TREPPE BENUTZEN."
+ },
+ "a:stairway8|p:notice|v:out|1": {
+  "postedit": "Der Reparaturhinweis hängt noch da: Aufzug außer Betrieb.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Der Reparaturhinweis hängt noch da: Aufzug außer Betrieb."
+ },
+ "a:stairway8|p:notice|v:out|2": {
+  "postedit": "AUSSER BETRIEB, sagt das Schild, das über die Aufzugstüren geklebt ist.",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "AUSSER BETRIEB, sagt das Schild, das über die Aufzugstüren geklebt ist."
+ },
+ "a:stairway8|p:notice|x:arrow|0": {
+  "postedit": "Der Pfeil auf dem Hinweis zeigt nach oben, nicht nach unten.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Der Pfeil auf dem Hinweis zeigt nach oben, nicht nach unten."
+ },
+ "a:stairway8|p:notice|x:arrow|1": {
+  "postedit": "Der Pfeil des Schilds hat sich umgedreht und zeigt die Treppe hinauf.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Der Pfeil des Schilds hat sich umgedreht und zeigt die Treppe hinauf."
+ },
+ "a:stairway8|p:notice|x:arrow|2": {
+  "postedit": "Der Hinweis weist dich jetzt nach oben.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Der Hinweis weist dich jetzt nach oben."
+ },
+ "a:stairway8|p:notice|x:gone|0": {
+  "postedit": "Der Aufzugshinweis ist weg. Nur nackte Metalltüren.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Der Aufzugshinweis ist weg. Nur nackte Metalltüren."
+ },
+ "a:stairway8|p:notice|x:gone|1": {
+  "postedit": "Diesmal kein Schild am Aufzug.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Diesmal kein Schild am Aufzug."
+ },
+ "a:stairway8|p:notice|x:gone|2": {
+  "postedit": "Der Reparaturhinweis wurde abgenommen.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Der Reparaturhinweis wurde abgenommen."
+ },
+ "a:stairway8|p:notice|x:service|0": {
+  "postedit": "Der Hinweis lautet jetzt AUFZUG IN BETRIEB.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Der Hinweis lautet jetzt AUFZUG IN BETRIEB."
+ },
+ "a:stairway8|p:notice|x:service|1": {
+  "postedit": "Das Schild sagt, der Aufzug fahre wieder.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Das Schild sagt, der Aufzug fahre wieder."
+ },
+ "a:stairway8|p:notice|x:service|2": {
+  "postedit": "Aus AUSSER BETRIEB ist WIEDER IN BETRIEB geworden.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Aus AUSSER BETRIEB ist WIEDER IN BETRIEB geworden."
+ },
+ "a:stairway8|p:notice|x:wording|0": {
+  "postedit": "Der Hinweis lautet TREPPE NICHT BENUTZEN.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Der Hinweis lautet TREPPE NICHT BENUTZEN."
+ },
+ "a:stairway8|p:notice|x:wording|1": {
+  "postedit": "Das Schild warnt TREPPE GESPERRT, das tat es nie zuvor.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Das Schild warnt TREPPE GESPERRT, das tat es nie zuvor."
+ },
+ "a:stairway8|p:notice|x:wording|2": {
+  "postedit": "Der Hinweis sagt dir jetzt, die Treppe gar nicht zu nehmen.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Der Hinweis sagt dir jetzt, die Treppe gar nicht zu nehmen."
+ },
+ "a:stairway8|p:number|v:eight|0": {
+  "postedit": "Eine große gemalte 8 markiert die Absatzwand.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Eine große gemalte 8 markiert die Absatzwand."
+ },
+ "a:stairway8|p:number|v:eight|1": {
+  "postedit": "Die Etagennummer, 8, ist auf den Beton geschablont.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Die Etagennummer, 8, ist auf den Beton geschablont."
+ },
+ "a:stairway8|p:number|v:eight|2": {
+  "postedit": "„8“ steht an der Wand, erstarrte Farbtropfen unter den Strichen.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "„8“ steht an der Wand, erstarrte Farbtropfen unter den Strichen."
+ },
+ "a:stairway8|p:number|v:eight|3": {
+  "postedit": "An der Wand steht 8, dieselbe wie auf dem Absatz zuvor.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "An der Wand steht 8, dieselbe wie auf dem Absatz zuvor."
+ },
+ "a:stairway8|p:number|x:basement|0": {
+  "postedit": "An der Wand steht B. Untergeschoss. Davon bist du weit entfernt.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "An der Wand steht B. Untergeschoss. Davon bist du weit entfernt."
+ },
+ "a:stairway8|p:number|x:basement|1": {
+  "postedit": "Die Zahl ist weg; ein gemaltes „B“ steht an ihrer Stelle.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Die Zahl ist weg; ein gemaltes „B“ steht an ihrer Stelle."
+ },
+ "a:stairway8|p:number|x:basement|2": {
+  "postedit": "Die Schablone zeigt B, obwohl du kaum mit dem Abstieg begonnen hast.",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "Die Schablone zeigt B, obwohl du kaum losgegangen bist."
+ },
+ "a:stairway8|p:number|x:faded|0": {
+  "postedit": "Die gemalte Zahl ist zu einem grauen Schatten verblasst.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Die gemalte Zahl ist zu einem grauen Schatten verblasst."
+ },
+ "a:stairway8|p:number|x:faded|1": {
+  "postedit": "Jemand hat die Zahl zur Hälfte weggeschrubbt.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Jemand hat die Zahl zur Hälfte weggeschrubbt."
+ },
+ "a:stairway8|p:number|x:faded|2": {
+  "postedit": "Die 8 an der Wand ist fast verschwunden.",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "Die 8 an der Wand ist fast verschwunden."
+ },
+ "a:stairway8|p:number|x:reversed|0": {
+  "postedit": "Die 8 ist verkehrt herum gemalt, wie im Spiegel gesehen.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Die 8 ist verkehrt herum gemalt, wie im Spiegel gesehen."
+ },
+ "a:stairway8|p:number|x:reversed|1": {
+  "postedit": "Die Etagennummer ist spiegelverkehrt.",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "Die Etagennummer ist spiegelverkehrt."
+ },
+ "a:stairway8|p:number|x:reversed|2": {
+  "postedit": "Die geschablonte Zahl steht falsch herum.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Die geschablonte Zahl steht falsch herum."
+ },
+ "a:stairway8|p:number|x:wrong|0": {
+  "postedit": "An der Wand steht 7. Immer stand dort 8.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "An der Wand steht 7. Immer stand dort 8."
+ },
+ "a:stairway8|p:number|x:wrong|1": {
+  "postedit": "Die gemalte Zahl ist jetzt eine 6, keine 8.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Die gemalte Zahl ist jetzt eine 6, keine 8."
+ },
+ "a:stairway8|p:number|x:wrong|2": {
+  "postedit": "Die Etagennummer hat sich geändert: da steht 9.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Die Etagennummer hat sich geändert: da steht 9."
+ },
+ "a:stairway8|p:railing|v:cold|0": {
+  "postedit": "Der stählerne Handlauf läuft kalt und ununterbrochen unter deiner Hand.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Der stählerne Handlauf läuft kalt und ununterbrochen unter deiner Hand."
+ },
+ "a:stairway8|p:railing|v:cold|1": {
+  "postedit": "Der lackierte Handlauf ist genau da, wo er immer ist.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Der lackierte Handlauf ist genau da, wo er immer ist."
+ },
+ "a:stairway8|p:railing|v:cold|2": {
+  "postedit": "Deine Hand findet den Handlauf, durchgehend den Lauf entlang.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Deine Hand findet den Handlauf, durchgehend den Lauf entlang."
+ },
+ "a:stairway8|p:railing|x:gap|0": {
+  "postedit": "Ein Stück des Handlaufs fehlt über dem Abgrund.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Ein Stück des Handlaufs fehlt über dem Abgrund."
+ },
+ "a:stairway8|p:railing|x:gap|1": {
+  "postedit": "Der Handlauf hat eine Lücke, wo ein Stück entfernt wurde.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Der Handlauf hat eine Lücke, wo ein Stück entfernt wurde."
+ },
+ "a:stairway8|p:railing|x:gap|2": {
+  "postedit": "Ein Teil des Handlaufs ist einfach nicht da.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Ein Teil des Handlaufs ist einfach nicht da."
+ },
+ "a:stairway8|p:railing|x:paint|0": {
+  "postedit": "Der Handlauf hat eine andere Farbe als die Läufe darüber.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Der Handlauf hat eine andere Farbe als die Läufe darüber."
+ },
+ "a:stairway8|p:railing|x:paint|1": {
+  "postedit": "Jemand hat dieses Stück Handlauf neu gestrichen.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Jemand hat dieses Stück Handlauf neu gestrichen."
+ },
+ "a:stairway8|p:railing|x:paint|2": {
+  "postedit": "Der Lack des Geländers ist hier grün, nicht grau.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Der Lack des Geländers ist hier grün, nicht grau."
+ },
+ "a:stairway8|p:railing|x:wet|0": {
+  "postedit": "Der Handlauf ist nass, obwohl nichts darauf tropft.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Der Handlauf ist nass, obwohl nichts darauf tropft."
+ },
+ "a:stairway8|p:railing|x:wet|1": {
+  "postedit": "Deine Hand kommt feucht vom Geländer zurück.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Deine Hand kommt feucht vom Geländer zurück."
+ },
+ "a:stairway8|p:railing|x:wet|2": {
+  "postedit": "Der Handlauf ist glitschig unter deiner Handfläche.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Der Handlauf ist glitschig unter deiner Handfläche."
+ },
+ "a:stairway8|p:sense|v:steady|0": {
+  "postedit": "Der Schacht fühlt sich genau so tief an wie immer.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Der Schacht fühlt sich genau so tief an wie immer."
+ },
+ "a:stairway8|p:sense|v:steady|1": {
+  "postedit": "Du trägst dieselbe Vorsicht Lauf um Lauf mit dir hinab.",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "Du trägst dieselbe Vorsicht Lauf um Lauf hinab."
+ },
+ "a:stairway8|p:sense|v:steady|2": {
+  "postedit": "Alles fühlt sich gewöhnlich an, so gewöhnlich, wie irgendetwas hiervon eben ist.",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "Alles fühlt sich gewöhnlich an, so gewöhnlich, wie irgendetwas hiervon ist."
+ },
+ "a:stairway8|p:sense|x:deeper|0": {
+  "postedit": "Der Schacht fühlt sich tiefer an, als er sollte, das Erdgeschoss ferner.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Der Schacht fühlt sich tiefer an, als er sollte, das Erdgeschoss ferner."
+ },
+ "a:stairway8|p:sense|x:deeper|1": {
+  "postedit": "Dir ist, als seist du weit mehr als acht Stockwerke hinabgestiegen.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Dir ist, als seist du weit mehr als acht Stockwerke hinabgestiegen."
+ },
+ "a:stairway8|p:sense|x:deeper|2": {
+  "postedit": "Der Grund scheint sich weiter entfernt zu haben.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Der Grund scheint sich weiter entfernt zu haben."
+ },
+ "a:stairway8|p:sense|x:forget|0": {
+  "postedit": "Für einen Moment weißt du nicht mehr, an wie vielen Absätzen du vorbeigekommen bist.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Für einen Moment weißt du nicht mehr, an wie vielen Absätzen du vorbei bist."
+ },
+ "a:stairway8|p:sense|x:forget|1": {
+  "postedit": "Du verlierst die Zahl der Läufe über dir, und das erschreckt dich.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Du verlierst die Zahl der Läufe über dir, und das erschreckt dich."
+ },
+ "a:stairway8|p:sense|x:forget|2": {
+  "postedit": "Du kannst dich nicht erinnern, in welchem Stock du losgegangen bist.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Du kannst dich nicht erinnern, in welchem Stock du losgegangen bist."
+ },
+ "a:stairway8|p:sense|x:up|0": {
+  "postedit": "Einen Augenblick bist du sicher, du seist hinaufgestiegen, nicht hinab.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Einen Augenblick bist du sicher, du seist hinaufgestiegen, nicht hinab."
+ },
+ "a:stairway8|p:sense|x:up|1": {
+  "postedit": "Ein falsches Gefühl packt dich: dass unten die ganze Zeit oben war.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Ein falsches Gefühl packt dich: dass unten die ganze Zeit oben war."
+ },
+ "a:stairway8|p:sense|x:up|2": {
+  "postedit": "Kurz und kalt fühlst du, dass du in die falsche Richtung gehst.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Kurz und kalt fühlst du, dass du in die falsche Richtung gehst."
+ },
+ "a:stairway8|p:sound|v:quiet|0": {
+  "postedit": "Deine Schritte hallen den Schacht hinauf und verklingen.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Deine Schritte hallen den Schacht hinauf und verklingen."
+ },
+ "a:stairway8|p:sound|v:quiet|1": {
+  "postedit": "Das Treppenhaus ist still bis auf deine eigenen Schritte.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Das Treppenhaus ist still bis auf deine eigenen Schritte."
+ },
+ "a:stairway8|p:sound|v:quiet|2": {
+  "postedit": "Weit unten summt das Gebäude vor sich hin.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Weit unten summt das Gebäude vor sich hin."
+ },
+ "a:stairway8|p:sound|x:drip|0": {
+  "postedit": "Irgendwo den Schacht hinunter tropft Wasser. Tick. Tick.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Irgendwo den Schacht hinunter tropft Wasser. Tick. Tick."
+ },
+ "a:stairway8|p:sound|x:drip|1": {
+  "postedit": "Ein langsames Tropfen hallt von unten herauf.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Ein langsames Tropfen hallt von unten herauf."
+ },
+ "a:stairway8|p:sound|x:drip|2": {
+  "postedit": "Etwas tropft, Etagen tiefer.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Etwas tropft, Etagen tiefer."
+ },
+ "a:stairway8|p:sound|x:footsteps|0": {
+  "postedit": "Schritte steigen dir entgegen, dann halten sie an.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Schritte steigen dir entgegen, dann halten sie an."
+ },
+ "a:stairway8|p:sound|x:footsteps|1": {
+  "postedit": "Du hörst Schritte, die nicht deine sind, auf dem Lauf unter dir.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Du hörst Schritte, die nicht deine sind, auf dem Lauf unter dir."
+ },
+ "a:stairway8|p:sound|x:footsteps|2": {
+  "postedit": "Für einen Moment ist noch jemand auf der Treppe.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Für einen Moment ist noch jemand auf der Treppe."
+ },
+ "a:stairway8|p:sound|x:silence|0": {
+  "postedit": "Das Summen des Gebäudes hat aufgehört. Totenstille.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Das Summen des Gebäudes hat aufgehört. Totenstille."
+ },
+ "a:stairway8|p:sound|x:silence|1": {
+  "postedit": "Es ist vollkommen still. Zu still.",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "Es ist vollkommen still. Zu still."
+ },
+ "a:stairway8|p:sound|x:silence|2": {
+  "postedit": "Sogar das Echo deiner Schritte scheint zu verschwinden.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Sogar das Echo deiner Schritte scheint zu verschwinden."
+ },
+ "a:stairway8|p:sound|x:slam|0": {
+  "postedit": "Weit unten schlägt eine Tür zu, dann Stille.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Weit unten schlägt eine Tür zu, dann Stille."
+ },
+ "a:stairway8|p:sound|x:slam|1": {
+  "postedit": "Irgendwo unter dir knallt eine Tür ins Schloss.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Irgendwo unter dir knallt eine Tür ins Schloss."
+ },
+ "a:stairway8|p:sound|x:slam|2": {
+  "postedit": "Mehrere Etagen tiefer schließt sich eine schwere Tür.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Mehrere Etagen tiefer schließt sich eine schwere Tür."
+ },
+ "a:stairway8|p:stairs|v:clear|0": {
+  "postedit": "Der Lauf nach unten ist frei, die Stufen eben und trocken.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Der Lauf nach unten ist frei, die Stufen eben und trocken."
+ },
+ "a:stairway8|p:stairs|v:clear|1": {
+  "postedit": "Die Treppe führt wie immer hinab, nichts darauf.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Die Treppe führt wie immer hinab, nichts darauf."
+ },
+ "a:stairway8|p:stairs|v:clear|2": {
+  "postedit": "Der nächste Lauf fällt sauber und leer ab.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Der nächste Lauf fällt sauber und leer ab."
+ },
+ "a:stairway8|p:stairs|x:debris|0": {
+  "postedit": "Etwas wurde auf den Stufen unter dir zurückgelassen, eine Tasche vielleicht.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Etwas wurde auf den Stufen unter dir zurückgelassen, eine Tasche vielleicht."
+ },
+ "a:stairway8|p:stairs|x:debris|1": {
+  "postedit": "Über den nächsten Lauf ist Unrat verstreut.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Über den nächsten Lauf ist Unrat verstreut."
+ },
+ "a:stairway8|p:stairs|x:debris|2": {
+  "postedit": "Eine dunkle Form sitzt ein Stück den Lauf hinab.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Eine dunkle Form sitzt ein Stück den Lauf hinab."
+ },
+ "a:stairway8|p:stairs|x:missing|0": {
+  "postedit": "Eine der Stufen im Lauf unter dir fehlt.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Eine der Stufen im Lauf unter dir fehlt."
+ },
+ "a:stairway8|p:stairs|x:missing|1": {
+  "postedit": "In der Treppe klafft eine Lücke, wo eine Stufe sein sollte.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "In der Treppe klafft eine Lücke, wo eine Stufe sein sollte."
+ },
+ "a:stairway8|p:stairs|x:missing|2": {
+  "postedit": "Im Lauf nach unten fehlt eine Trittstufe.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Im Lauf nach unten fehlt eine Trittstufe."
+ },
+ "a:stairway8|p:stairs|x:up|0": {
+  "postedit": "Der auf die Stufen geschablonte Pfeil zeigt HINAUF, nicht hinab.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Der auf die Stufen geschablonte Pfeil zeigt HINAUF, nicht hinab."
+ },
+ "a:stairway8|p:stairs|x:up|1": {
+  "postedit": "Die auf die Treppe gemalte Richtung hat sich umgekehrt.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Die auf die Treppe gemalte Richtung hat sich umgekehrt."
+ },
+ "a:stairway8|p:stairs|x:up|2": {
+  "postedit": "Die Stufen scheinen jetzt hinaufzuführen, obwohl du hinabgehst.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Die Stufen scheinen jetzt hinaufzuführen, obwohl du hinabgehst."
+ },
+ "a:stairway8|p:stairs|x:wet|0": {
+  "postedit": "Die Stufen unter dir glänzen nass im Licht.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Die Stufen unter dir glänzen nass im Licht."
+ },
+ "a:stairway8|p:stairs|x:wet|1": {
+  "postedit": "Der nächste Lauf ist glitschig von Wasser.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Der nächste Lauf ist glitschig von Wasser."
+ },
+ "a:stairway8|p:stairs|x:wet|2": {
+  "postedit": "Die Treppe nach unten ist nass, obwohl du nichts hast verschütten sehen.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Die Treppe nach unten ist nass, obwohl du nichts hast verschütten sehen."
+ },
+ "a:stairway8|progress": {
+  "postedit": "Etage {floor}   ·   {level}/{goal} hinab",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "Etage {floor}   ·   {level}/{goal} hinab"
+ },
+ "a:stairway8|share_prompt": {
+  "postedit": "Lass die Tür unten offen.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Lass die Tür unten offen."
+ },
+ "a:stairway8|tagline": {
+  "postedit": "Der Aufzug ist außer Betrieb. Acht Stockwerke hinab, Absatz um Absatz.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Der Aufzug ist außer Betrieb. Acht Stockwerke hinab, Absatz um Absatz."
+ },
+ "a:stairway8|title_main": {
+  "postedit": "Treppenhaus 8",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Treppenhaus 8"
+ },
+ "a:stairway8|title|0": {
+  "postedit": "Treppenhaus 8",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "Treppenhaus 8"
+ },
+ "a:stairway8|title|1": {
+  "postedit": "Treppenhaus 8",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "Treppenhaus 8"
+ },
+ "a:stairway8|title|2": {
+  "postedit": "Treppenhaus 8",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "Treppenhaus 8"
+ },
+ "a:stairway8|title|3": {
+  "postedit": "Treppenhaus 8",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "Treppenhaus 8"
+ },
+ "a:stairway8|title|4": {
+  "postedit": "Treppenschacht 8",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Treppenschacht 8"
+ },
+ "a:stairway8|title|5": {
+  "postedit": "Treppenhaus acht",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Treppenhaus acht"
+ },
+ "a:stairway8|title|6": {
+  "postedit": "TREPPENHAUS 8",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "TREPPENHAUS 8"
+ },
+ "a:stairway8|title|7": {
+  "postedit": "Treppenhaus  8",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "Treppenhaus  8"
+ },
+ "a:stairway8|turn_back": {
+  "postedit": "Zurück hinauf",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Zurück hinauf"
+ }
+}

@@ -1,0 +1,413 @@
+{
+  "_comment": "The canonical corridor. Each property has a baseline value with a pool of equivalent sentences (wording drifts while meaning stays fixed), plus anomalous variants with their own pools. Remember MEANING, not wording.",
+  "meta": {
+    "id": "hallway-eight",
+    "title": "Hallway 8",
+    "tagline": "Locked in after hours. Follow the corridor to the fire exit.",
+    "skin": "hallway",
+    "go_on": "Walk on",
+    "turn_back": "Turn back",
+    "unit": "corridor",
+    "progress": "Hallway {level} / {goal}",
+    "share_prompt": "Leave the door open.",
+    "attempt": "{n} times down this corridor, and this time it opened.",
+    "attempt_first": "First time through, and the corridor let you go.",
+    "labels": {
+      "lighting": "lights",
+      "sound": "sound",
+      "poster": "poster",
+      "figure": "man down the hall",
+      "sign": "exit sign",
+      "door": "maintenance door",
+      "camera": "camera",
+      "floor": "floor",
+      "sense": "feeling"
+    },
+    "npc_prop": "figure",
+    "late_props": ["camera", "floor"]
+  },
+  "title_variants": [
+    "Hallway 8",
+    "Hallway 8",
+    "Hallway 8",
+    "Hallway 8",
+    "Corridor 8",
+    "Hallway Eight",
+    "HALLWAY 8",
+    "Hallway  8"
+  ],
+  "sign_variants": [
+    "EXIT →",
+    "EXIT →",
+    "EXIT →",
+    "EXIT→",
+    "Exit →",
+    "EXIT ⇢",
+    "EXIT → "
+  ],
+  "anchor_order": [
+    "lighting",
+    "sound",
+    "poster",
+    "figure",
+    "sign",
+    "door",
+    "camera",
+    "floor",
+    "sense"
+  ],
+  "properties": {
+    "lighting": {
+      "baseline": "steady",
+      "values": {
+        "steady": [
+          "The fluorescent lights hum softly overhead.",
+          "The ceiling lights give off a steady, even glow.",
+          "Overhead, the fluorescents buzz at their usual pitch.",
+          "The lighting is flat and unremarkable, the way it always is."
+        ]
+      },
+      "anomalies": {
+        "flicker": [
+          "One of the fluorescent tubes stutters, then holds.",
+          "The lights flicker, once, twice, before settling.",
+          "There's a faint strobe to the ceiling lights that wasn't there before."
+        ],
+        "dim": [
+          "The corridor seems a shade darker than you remember.",
+          "The lights are dimmer here, as if half of them gave up.",
+          "A grey dimness has settled over everything."
+        ],
+        "warm": [
+          "The light has a warm, yellowish cast to it.",
+          "The fluorescents glow oddly amber, almost like sunset.",
+          "The usual cold white has turned faintly golden."
+        ]
+      }
+    },
+    "sound": {
+      "baseline": "vent",
+      "values": {
+        "vent": [
+          "Somewhere, ventilation exhales a low, constant breath.",
+          "The air handling hums in the walls, steady as ever.",
+          "You hear the familiar drone of distant ventilation."
+        ]
+      },
+      "anomalies": {
+        "drip": [
+          "A slow drip taps somewhere out of sight.",
+          "Water is dripping, you can't place where.",
+          "Tick. Tick. Something is dripping nearby."
+        ],
+        "silence": [
+          "The ventilation has stopped. The silence presses on your ears.",
+          "It is completely quiet. Too quiet.",
+          "You notice the hum is gone. The stillness feels wrong."
+        ],
+        "footsteps": [
+          "Footsteps echo somewhere behind you, then stop.",
+          "You hear footsteps that don't match your own.",
+          "For a moment there are two sets of footsteps."
+        ]
+      }
+    },
+    "poster": {
+      "baseline": "travel",
+      "values": {
+        "travel": [
+          "A faded travel poster clings to the wall, a beach, a blue sky.",
+          "The old poster of a sunny coastline is still taped to the wall.",
+          "On the wall, that washed-out advertisement for somewhere warm.",
+          "The travel poster hangs at its usual slight tilt."
+        ]
+      },
+      "anomalies": {
+        "gone": [
+          "The wall is bare. A pale rectangle marks where a poster used to be.",
+          "The travel poster is gone; only the tape remains.",
+          "Nothing hangs on the wall now."
+        ],
+        "mountains": [
+          "The poster shows snow-capped mountains, not a beach.",
+          "The coastline poster is now a photograph of grey mountains.",
+          "The advertisement pictures a cold summit under heavy cloud."
+        ],
+        "upside": [
+          "The travel poster hangs upside down.",
+          "The beach on the poster is inverted, sky at the bottom.",
+          "Someone has flipped the poster; it hangs the wrong way up."
+        ]
+      }
+    },
+    "figure": {
+      "baseline": "distant",
+      "values": {
+        "distant": [
+          "Far down the corridor, a man in a grey suit walks away from you.",
+          "A suited figure moves ahead in the distance, back turned.",
+          "The man in grey is up ahead, as always, walking on.",
+          "Down the hall, a man in a suit recedes toward the vanishing point."
+        ]
+      },
+      "anomalies": {
+        "closer": [
+          "The man in the grey suit is much closer than he should be.",
+          "The suited figure has stopped halfway, closer than before.",
+          "The man in grey is only a few paces ahead now, still turned away."
+        ],
+        "facing": [
+          "The man in the grey suit has stopped. He is facing you.",
+          "Down the hall, the suited figure stands still, looking your way.",
+          "The man in grey is not walking. He is watching you."
+        ],
+        "gone": [
+          "The corridor ahead is empty. No one is walking it.",
+          "There is no figure ahead this time.",
+          "The man in the grey suit is nowhere to be seen."
+        ],
+        "knows": [
+          "The man in grey has turned and raised a hand, as if he knows you.",
+          "The suited figure faces you and beckons, slow and deliberate.",
+          "The man mouths something down the corridor. It might be 'again.'"
+        ]
+      }
+    },
+    "sign": {
+      "baseline": "exit",
+      "values": {
+        "exit": [
+          "The illuminated {SIGN} sign glows at the far end.",
+          "Ahead, the {SIGN} sign hangs above the corridor.",
+          "The green {SIGN} sign points the way, as it should.",
+          "You can make out the {SIGN} sign in the distance."
+        ]
+      },
+      "anomalies": {
+        "reversed": [
+          "The exit sign points the wrong way, EXIT ←.",
+          "The arrow on the exit sign now points back the way you came: ←.",
+          "EXIT ←. The arrow has reversed."
+        ],
+        "dark": [
+          "The exit sign is dark. No light behind the letters.",
+          "The exit sign has gone out.",
+          "Where the exit sign should glow, there is only a dead panel."
+        ],
+        "number": [
+          "The sign reads EXIT 3. There was never a number on it.",
+          "A number has appeared on the sign: EXIT 3.",
+          "The exit sign now carries a numeral you don't remember: 3."
+        ]
+      }
+    },
+    "door": {
+      "baseline": "closed",
+      "values": {
+        "closed": [
+          "A grey maintenance door sits shut in the left wall.",
+          "The service door on your left is closed, as usual.",
+          "There's the maintenance door, shut tight."
+        ]
+      },
+      "anomalies": {
+        "ajar": [
+          "The maintenance door stands slightly ajar. Darkness inside.",
+          "The service door is open a crack, though you never saw it open.",
+          "The grey door is ajar; a thin black gap where it should be flush."
+        ],
+        "gone": [
+          "There is no maintenance door in the left wall. Just smooth wall.",
+          "The service door is missing entirely.",
+          "The left wall is unbroken, no door at all."
+        ]
+      }
+    },
+    "camera": {
+      "baseline": "away",
+      "values": {
+        "away": [
+          "A small CCTV camera in the corner points down the corridor.",
+          "The security camera watches the far end, angled away from you.",
+          "Up in the corner, the camera faces ahead, as always."
+        ]
+      },
+      "anomalies": {
+        "atyou": [
+          "The CCTV camera has turned. It points directly at you.",
+          "The security camera is angled down at you now.",
+          "The camera in the corner faces you, its lens level with your eyes."
+        ],
+        "red": [
+          "A red light blinks on the camera. It never used to blink.",
+          "The camera's recording light glows red for the first time.",
+          "The little LED on the camera pulses red."
+        ]
+      }
+    },
+    "floor": {
+      "baseline": "dry",
+      "values": {
+        "dry": [
+          "The grey floor tiles stretch away, dry and dull.",
+          "Underfoot, the usual scuffed grey tiles.",
+          "The tiled floor is dry, reflecting nothing."
+        ]
+      },
+      "anomalies": {
+        "wet": [
+          "The tiles ahead shine with a wet, dark sheen.",
+          "The floor is wet, though you saw no one clean it.",
+          "A slick of water spreads across the tiles."
+        ],
+        "cracked": [
+          "A crack runs across the floor tiles that wasn't there before.",
+          "One of the floor tiles is split down the middle.",
+          "The tiling is fractured in a jagged line ahead."
+        ]
+      }
+    },
+    "sense": {
+      "baseline": "steady",
+      "values": {
+        "steady": [
+          "The corridor feels exactly as long as it always has.",
+          "You carry the same low dread you've had since the lobby.",
+          "Everything feels ordinary, in the way this place is ever ordinary."
+        ]
+      },
+      "anomalies": {
+        "longer": [
+          "The corridor feels longer this time, though you can't say why.",
+          "The far end seems further off than it should be.",
+          "The walls feel as if they've stretched since the last stretch."
+        ],
+        "forget": [
+          "For a moment you can't remember how many doors you've passed.",
+          "You lose your count of the corridors, and it unsettles you.",
+          "You can't recall why you're down here at all."
+        ],
+        "calm": [
+          "You feel suddenly, wrongly calm, as if you'd already escaped.",
+          "A strange relief washes over you that has no business being here.",
+          "You feel no fear at all, and that itself feels wrong."
+        ]
+      }
+    }
+  },
+  "adaptive": {
+    "repeat_inspect": [
+      "You glance at the {THING} again. You aren't sure why.",
+      "Your eyes go straight to the {THING}, the way they always seem to now.",
+      "The {THING} draws your attention once more."
+    ],
+    "long_look": [
+      "You spend longer looking than usual. You don't remember deciding to stop.",
+      "You realise you've been standing still. For how long?",
+      "Time slips. You were staring, and you don't know for how long."
+    ]
+  },
+  "framing": {
+    "cutscene": [
+      "Something in the corridor changed, and you walked on past it.",
+      "If a stretch is not exactly as you remember, turn back. If it is, walk on."
+    ],
+    "intro": [
+      "AFTER HOURS",
+      "",
+      "You stayed too late. The lobby doors are locked, the lights half-out.",
+      "A handwritten sign hangs over them: FIRE EXIT, USE CORRIDOR.",
+      "",
+      "While a stretch of corridor is exactly as you remember it, walk on.",
+      "If anything has changed, the way has doubled back. Return the way you came.",
+      "",
+      "The eighth fire door leads out.",
+      "Lose track of what you've seen, and the building returns you to the start."
+    ],
+    "win": [
+      "The eighth fire door gives under your hands.",
+      "Cold air. A stairwell down to the street. The city, still there.",
+      "You were beginning to think the corridor had no end.",
+      "You are out."
+    ]
+  },
+  "act2": {
+    "flashbacks": [
+      "A desk lamp still burns a few doors back. A cup of coffee gone cold at its own ring. The clock reads a time the clock cannot read.",
+      "A phone is buzzing in a room you have not reached yet. The name on the screen is almost yours.",
+      "You had the lobby doors at six. You turned back for something you have already forgotten.",
+      "The man in grey held the fire door once, a long time ago, and looked at you the way you look at someone you are about to leave behind.",
+      "You have counted to eight before. You are almost sure of it. You are almost sure you never reached it."
+    ],
+    "exit": {
+      "tempt": "A door ahead stands open, a lit EXIT humming green above it. The street must be just through there.",
+      "action": "step through it",
+      "ending": "lobby"
+    },
+    "endings": {
+      "lobby": [
+        "You push through the lit door expecting the street.",
+        "It is the lobby you started in, the glass still locked, the night still black behind it.",
+        "The corridor you walked is simply gone. You are back at the beginning of a building that no longer has a way out."
+      ]
+    },
+    "touch": {
+      "door": {
+        "verb": "try the maintenance door",
+        "reaction": [
+          "The handle turns a little and stops, as if held from the other side.",
+          "You put your ear to it. Something on the far side goes quiet, the way a room does when you enter."
+        ],
+        "herring": [
+          "The metal is warm, warmer than a locked door should be. It probably means nothing.",
+          "There is a draft under it that was not there before. Or was, and you never noticed."
+        ],
+        "fold": [
+          "It opens onto a stretch of corridor you have already walked. The number in your head is gone. You are at the start again."
+        ]
+      },
+      "camera": {
+        "verb": "wave at the camera",
+        "reaction": [
+          "It swivels, unhurried, and settles on you. Nothing else moves.",
+          "The lens tilts down to your eyeline and holds there, patient."
+        ],
+        "herring": [
+          "A red light you do not remember blinks once. It was probably always on.",
+          "For a second the lens fogs, as if breathed on from the inside."
+        ],
+        "fold": [
+          "The camera follows your hand back the way you came, and your feet follow the camera, and you are at the start again."
+        ]
+      },
+      "poster": {
+        "verb": "look closer at the poster",
+        "reaction": [
+          "Up close the beach is only dots of ink. A place you were going to go.",
+          "The corner has been peeled and pressed back so many times the paper has gone soft."
+        ],
+        "herring": [
+          "The ink is still tacky. Freshly printed. It means nothing, and you know it means nothing, and still your hand pulls back.",
+          "The colours are too bright for how faded it looked a moment ago. A trick of the light."
+        ],
+        "fold": [
+          "You lean in until the dots are all there is, and when you step back the corridor has reset around you."
+        ]
+      },
+      "figure": {
+        "verb": "call out to the man in grey",
+        "reaction": [
+          "Your voice goes down the corridor and does not come back. He does not turn.",
+          "He pauses, a half step, the way you pause at your own name in a crowd. Then he walks on."
+        ],
+        "herring": [
+          "For a moment his suit looks like yours. Grey is grey.",
+          "He is a little nearer than when you called. Just the walking, surely."
+        ],
+        "fold": [
+          "He turns, finally, and it is a face you know too well, and the sight of it puts you back at the start."
+        ]
+      }
+    }
+  }
+}

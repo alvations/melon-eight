@@ -1,0 +1,2114 @@
+{
+ "a:coach8|act2|end|platform|0": {
+  "postedit": "你迈下车站上站台，车门在你身后嘶地合上。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "你迈下车站上站台，车门在你身后嘶地合上。"
+ },
+ "a:coach8|act2|end|platform|1": {
+  "postedit": "列车撇下你，滑进隧道里去了。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "列车撇下你，滑进隧道里去了。"
+ },
+ "a:coach8|act2|end|platform|2": {
+  "postedit": "空荡的站台上，站牌写着一个你从没听过的站名，而车次表上唯一的一班，正是刚刚开走的那列车。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "空荡的站台上，站牌写着一个你从没听过的站名，而车次表上唯一的一班，正是刚刚开走的那列车。"
+ },
+ "a:coach8|act2|exit|action": {
+  "postedit": "迈上站台",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "迈上站台"
+ },
+ "a:coach8|act2|exit|tempt": {
+  "postedit": "列车放慢了，车厢尽头一扇门开向一座亮着灯的站台。只要迈下去，你就下了车。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "列车放慢了，车厢尽头一扇门开向一座亮着灯的站台。只要迈下去，你就下了车。"
+ },
+ "a:coach8|act2|exit|utterance": {
+  "postedit": "乘客终于转向你，用一种你早已熟悉的声音说：“你已经坐过了站。”",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "乘客终于转向你，用一种你早已熟悉的声音说：“你已经坐过了站。”"
+ },
+ "a:coach8|act2|flashback|0": {
+  "postedit": "你本来有个座位，在更后面，外套搭在上头。你起身去找8号车厢。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "你本来有个座位，在更后面，外套搭在上头。你起身去找8号车厢。"
+ },
+ "a:coach8|act2|flashback|1": {
+  "postedit": "有人会在终点站接你。可那名字你抓不住。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "有人会在终点站接你。可那名字你抓不住。"
+ },
+ "a:coach8|act2|flashback|2": {
+  "postedit": "那名熟睡乘客的外套和你的一模一样。你没有再看第二眼。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "那名熟睡乘客的外套和你的一模一样。你没有再看第二眼。"
+ },
+ "a:coach8|act2|flashback|3": {
+  "postedit": "刻在桌上的字迹是你自己的。写的是「又来了」，或者是「八」。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "刻在桌上的字迹是你自己的。写的是「又来了」，或者是「八」。"
+ },
+ "a:coach8|act2|flashback|4": {
+  "postedit": "你本确信下一站就是你的站。下一站永远是下一站。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "你本确信下一站就是你的站。下一站永远是下一站。"
+ },
+ "a:coach8|act2|t:luggage|fold|0": {
+  "postedit": "里面是一列车厢，缩得小小的，向远处退去。等你抬起头，你又回到了第一节车厢。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "里面是一列车厢，缩得小小的，向远处退去。等你抬起头，你又回到了第一节车厢。"
+ },
+ "a:coach8|act2|t:luggage|herring|0": {
+  "postedit": "行李牌上的墨迹还是湿的。它大概一直都是湿的。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "行李牌上的墨迹还是湿的。它大概一直都是湿的。"
+ },
+ "a:coach8|act2|t:luggage|herring|1": {
+  "postedit": "行李牌上是你自己的姓名缩写，你的笔迹。常见的缩写罢了。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "行李牌上是你自己的姓名缩写，你的笔迹。常见的缩写罢了。"
+ },
+ "a:coach8|act2|t:luggage|reaction|0": {
+  "postedit": "某人叠好的衬衫，一本平装书，一截票根。寻常的东西，正被带往某处。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "某人叠好的衬衫，一本平装书，一截票根。寻常的东西，正被带往某处。"
+ },
+ "a:coach8|act2|t:luggage|reaction|1": {
+  "postedit": "它比看上去重，也不肯完全打开。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "它比看上去重，也不肯完全打开。"
+ },
+ "a:coach8|act2|t:luggage|verb": {
+  "postedit": "打开那件行李",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "打开那件行李"
+ },
+ "a:coach8|act2|t:passenger|fold|0": {
+  "postedit": "他们在睡梦中清清楚楚地念了一次你的名字，那声音便把你带回了第一节车厢。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "他们在睡梦中清清楚楚地念了一次你的名字，那声音便把你带回了第一节车厢。"
+ },
+ "a:coach8|act2|t:passenger|herring|0": {
+  "postedit": "他们的外套和你的是同一个款式。外套就是外套。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "他们的外套和你的是同一个款式。外套就是外套。"
+ },
+ "a:coach8|act2|t:passenger|herring|1": {
+  "postedit": "有一瞬，兜帽下的那张脸转向了你。随后又没有了。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "有一瞬，兜帽下的那张脸转向了你。随后又没有了。"
+ },
+ "a:coach8|act2|t:passenger|reaction|0": {
+  "postedit": "一声含糊的呓语，没有一个字你留得住。他们没有醒。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "一声含糊的呓语，没有一个字你留得住。他们没有醒。"
+ },
+ "a:coach8|act2|t:passenger|reaction|1": {
+  "postedit": "他们动了动，又安静下来，呼吸渐渐和你合上了拍子。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "他们动了动，又安静下来，呼吸渐渐和你合上了拍子。"
+ },
+ "a:coach8|act2|t:passenger|verb": {
+  "postedit": "推一推熟睡的乘客",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "推一推熟睡的乘客"
+ },
+ "a:coach8|act2|t:table|fold|0": {
+  "postedit": "你用手指顺着那道计数划下去，数着数着乱了，这一乱，便把你送回了第一节车厢。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "你用手指顺着那道计数划下去，数着数着乱了，这一乱，便把你送回了第一节车厢。"
+ },
+ "a:coach8|act2|t:table|herring|0": {
+  "postedit": "旁边一圈咖啡渍还是湿的，仿佛有人刚离开。人们的确刚离开。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "旁边一圈咖啡渍还是湿的，仿佛有人刚离开。人们的确刚离开。"
+ },
+ "a:coach8|act2|t:table|herring|1": {
+  "postedit": "那些刻痕看着很新，像是几分钟前才划下的。又或者被岁月磨得发亮。你分不清。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "那些刻痕看着很新，像是几分钟前才划下的。又或者被岁月磨得发亮。你分不清。"
+ },
+ "a:coach8|act2|t:table|reaction|0": {
+  "postedit": "有人用钥匙或钉子在贴面上刻了字。大多是「又来了」。还有一道计数。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "有人用钥匙或钉子在贴面上刻了字。大多是「又来了」。还有一道计数。"
+ },
+ "a:coach8|act2|t:table|reaction|1": {
+  "postedit": "较新的刻痕下面，还有更旧的，被手摩挲得几乎平了。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "较新的刻痕下面，还有更旧的，被手摩挲得几乎平了。"
+ },
+ "a:coach8|act2|t:table|verb": {
+  "postedit": "读桌上刻下的字",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "读桌上刻下的字"
+ },
+ "a:coach8|act2|t:window|fold|0": {
+  "postedit": "你望着黑暗，直到眼里只剩黑暗，车厢便在你的倒影四周重置，回到了起点。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "你望着黑暗，直到眼里只剩黑暗，车厢便在你的倒影四周重置，回到了起点。"
+ },
+ "a:coach8|act2|t:window|herring|0": {
+  "postedit": "玻璃上一个手印起了雾又淡去，那不是你的手印。又或者是。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "玻璃上一个手印起了雾又淡去，那不是你的手印。又或者是。"
+ },
+ "a:coach8|act2|t:window|herring|1": {
+  "postedit": "外面的灯火，也许是一座小镇，也许是列车本身，被重叠成了两重。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "外面的灯火，也许是一座小镇，也许是列车本身，被重叠成了两重。"
+ },
+ "a:coach8|act2|t:window|reaction|0": {
+  "postedit": "你的倒影比你慢了半秒。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "你的倒影比你慢了半秒。"
+ },
+ "a:coach8|act2|t:window|reaction|1": {
+  "postedit": "漆黑的玻璃，一条隧道，随后一座站台滑过，快得看不清。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "漆黑的玻璃，一条隧道，随后一座站台滑过，快得看不清。"
+ },
+ "a:coach8|act2|t:window|verb": {
+  "postedit": "望向窗外",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "望向窗外"
+ },
+ "a:coach8|adaptive|long_look|0": {
+  "postedit": "你看得比平时更久，却不记得自己何时停下了脚步。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "你看得比平时更久，却不记得自己何时停下了脚步。"
+ },
+ "a:coach8|adaptive|long_look|1": {
+  "postedit": "你意识到自己一直站在过道上。站了多久了？",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "你意识到自己一直站在过道上。站了多久了？"
+ },
+ "a:coach8|adaptive|long_look|2": {
+  "postedit": "列车摇晃着前行，你不知道自己盯着看了多久。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "列车摇晃着前行，你不知道自己盯着看了多久。"
+ },
+ "a:coach8|adaptive|repeat_inspect|0": {
+  "postedit": "你又看了一眼{THING}，说不清为什么。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "你又看了一眼{THING}，说不清为什么。"
+ },
+ "a:coach8|adaptive|repeat_inspect|1": {
+  "postedit": "你的目光径直落向{THING}，如今总是这样。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "你的目光径直落向{THING}，如今总是这样。"
+ },
+ "a:coach8|adaptive|repeat_inspect|2": {
+  "postedit": "{THING}再次引起了你的注意。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "{THING}再次引起了你的注意。"
+ },
+ "a:coach8|attempt": {
+  "postedit": "这列车走了{n}次。这一次，它停在了你的站。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "这列车走了{n}次。这一次，它停在了你的站。"
+ },
+ "a:coach8|attempt_first": {
+  "postedit": "第一趟，列车就没有掉头。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "第一趟，列车就没有掉头。"
+ },
+ "a:coach8|framing|cutscene|0": {
+  "postedit": "车厢里有什么变了，你却没留意，径直往前走。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "车厢里有什么变了，你却没留意，径直往前走。"
+ },
+ "a:coach8|framing|cutscene|1": {
+  "postedit": "若某节车厢和你记忆中不完全一样，就回头。若一样，就继续往前。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "若某节车厢和你记忆中不完全一样，就回头。若一样，就继续往前。"
+ },
+ "a:coach8|framing|intro|0": {
+  "postedit": "末班车",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "末班车"
+ },
+ "a:coach8|framing|intro|2": {
+  "postedit": "列车员剪了你的票，朝车头方向点了点头。8号车厢，往那边走。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "列车员剪了你的票，朝车头方向点了点头。8号车厢，往那边走。"
+ },
+ "a:coach8|framing|intro|3": {
+  "postedit": "那已是好一会儿之前。你还在走，而每一节车厢都长得一样。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "那已是好一会儿之前。你还在走，而每一节车厢都长得一样。"
+ },
+ "a:coach8|framing|intro|5": {
+  "postedit": "只要一节车厢和你记忆中完全一样，就继续往前走。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "只要一节车厢和你记忆中完全一样，就继续往前走。"
+ },
+ "a:coach8|framing|intro|6": {
+  "postedit": "如果有任何变化，就转身。这一节正把你折回去。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "如果有任何变化，就转身。这一节正把你折回去。"
+ },
+ "a:coach8|framing|intro|8": {
+  "postedit": "八节车厢，你就终于能坐下了。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "八节车厢，你就终于能坐下了。"
+ },
+ "a:coach8|framing|intro|9": {
+  "postedit": "一旦失去把握，列车就会把你送回起点。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "一旦失去把握，列车就会把你送回起点。"
+ },
+ "a:coach8|framing|win|0": {
+  "postedit": "你又拉开一道门，座位号显示着8。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "你又拉开一道门，座位号显示着8。"
+ },
+ "a:coach8|framing|win|1": {
+  "postedit": "8号车厢。你的座位空着，等着你，紧挨着一扇漆黑的车窗。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "8号车厢。你的座位空着，等着你，紧挨着一扇漆黑的车窗。"
+ },
+ "a:coach8|framing|win|2": {
+  "postedit": "你终于坐了进去。列车在夜色中疾驰向前。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "你终于坐了进去。列车在夜色中疾驰向前。"
+ },
+ "a:coach8|framing|win|3": {
+  "postedit": "你找到了自己的座位。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "你找到了自己的座位。"
+ },
+ "a:coach8|go_on": {
+  "postedit": "下一节车厢",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "下一节车厢"
+ },
+ "a:coach8|label|door": {
+  "postedit": "车厢连接门",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "车厢连接门"
+ },
+ "a:coach8|label|lighting": {
+  "postedit": "灯光",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "灯光"
+ },
+ "a:coach8|label|luggage": {
+  "postedit": "行李架",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "行李架"
+ },
+ "a:coach8|label|passenger": {
+  "postedit": "熟睡的乘客",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "熟睡的乘客"
+ },
+ "a:coach8|label|seatnum": {
+  "postedit": "座位号",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "座位号"
+ },
+ "a:coach8|label|sense": {
+  "postedit": "这种感觉",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "这种感觉"
+ },
+ "a:coach8|label|sound": {
+  "postedit": "声音",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "声音"
+ },
+ "a:coach8|label|table": {
+  "postedit": "小桌板",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "小桌板"
+ },
+ "a:coach8|label|window": {
+  "postedit": "车窗",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "车窗"
+ },
+ "a:coach8|p:door|v:closed|0": {
+  "postedit": "车厢尽头的连接门关着，门上的玻璃一片昏暗。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "车厢尽头的连接门关着，门上的玻璃一片昏暗。"
+ },
+ "a:coach8|p:door|v:closed|1": {
+  "postedit": "通往下一节车厢的电动门关着，一如往常。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "通往下一节车厢的电动门关着，一如往常。"
+ },
+ "a:coach8|p:door|v:closed|2": {
+  "postedit": "尽头的门关着，门外的车厢连接处一片昏暗。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "尽头的门关着，门外的车厢连接处一片昏暗。"
+ },
+ "a:coach8|p:door|x:glass|0": {
+  "postedit": "连接门上的玻璃蒙着雾气，上面有一个手印。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "连接门上的玻璃蒙着雾气，上面有一个手印。"
+ },
+ "a:coach8|p:door|x:glass|1": {
+  "postedit": "有什么东西从另一侧抹脏了尽头门上的窗玻璃。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "有什么东西从另一侧抹脏了尽头门上的窗玻璃。"
+ },
+ "a:coach8|p:door|x:glass|2": {
+  "postedit": "连接门的玻璃裂成了一张蛛网。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "连接门的玻璃裂成了一张蛛网。"
+ },
+ "a:coach8|p:door|x:locked|0": {
+  "postedit": "连接门上亮着一盏红灯：已锁。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "连接门上亮着一盏红灯：已锁。"
+ },
+ "a:coach8|p:door|x:locked|1": {
+  "postedit": "尽头的门显示着锁定指示灯，之前它还是绿的。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "尽头的门显示着锁定指示灯，之前它还是绿的。"
+ },
+ "a:coach8|p:door|x:locked|2": {
+  "postedit": "通往下一节车厢的门上写着「禁止入内」。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "通往下一节车厢的门上写着「禁止入内」。"
+ },
+ "a:coach8|p:door|x:open|0": {
+  "postedit": "连接门卡在开着的位置，冷风从中灌入。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "连接门卡在开着的位置，冷风从中灌入。"
+ },
+ "a:coach8|p:door|x:open|1": {
+  "postedit": "电动门关不上，外面的连接处轰鸣作响。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "电动门关不上，外面的连接处轰鸣作响。"
+ },
+ "a:coach8|p:door|x:open|2": {
+  "postedit": "尽头的门敞开着，对着晃动的连接处。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "尽头的门敞开着，对着晃动的连接处。"
+ },
+ "a:coach8|p:lighting|v:dim|0": {
+  "postedit": "车厢的灯光调暗成夜间模式，一层柔和的琥珀色。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "车厢的灯光调暗成夜间模式，一层柔和的琥珀色。"
+ },
+ "a:coach8|p:lighting|v:dim|1": {
+  "postedit": "低暗的夜灯沿着行李架亮着，一如往常。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "低暗的夜灯沿着行李架亮着，一如往常。"
+ },
+ "a:coach8|p:lighting|v:dim|2": {
+  "postedit": "顶灯已经调到琥珀色的夜间档。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "顶灯已经调到琥珀色的夜间档。"
+ },
+ "a:coach8|p:lighting|v:dim|3": {
+  "postedit": "这节车厢与上一节一样，泛着柔和的金色。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "这节车厢与上一节一样，泛着柔和的金色。"
+ },
+ "a:coach8|p:lighting|x:bright|0": {
+  "postedit": "灯全开着，刺眼的白光，不是夜间档。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "灯全开着，刺眼的白光，不是夜间档。"
+ },
+ "a:coach8|p:lighting|x:bright|1": {
+  "postedit": "这节车厢比上一节亮得多。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "这节车厢比上一节亮得多。"
+ },
+ "a:coach8|p:lighting|x:bright|2": {
+  "postedit": "柔和的琥珀色不见了，一切都白得刺眼。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "柔和的琥珀色不见了，一切都白得刺眼。"
+ },
+ "a:coach8|p:lighting|x:flicker|0": {
+  "postedit": "车厢灯光随着列车的晃动闪烁了几下，随后稳定下来。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "车厢灯光随着列车的晃动闪烁了几下，随后稳定下来。"
+ },
+ "a:coach8|p:lighting|x:flicker|1": {
+  "postedit": "头顶一条灯带断续地闪着。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "头顶一条灯带断续地闪着。"
+ },
+ "a:coach8|p:lighting|x:flicker|2": {
+  "postedit": "琥珀色的灯熄了一下，又亮了起来。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "琥珀色的灯熄了一下，又亮了起来。"
+ },
+ "a:coach8|p:lighting|x:off|0": {
+  "postedit": "车厢一片漆黑，只有地面的应急灯带亮着。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "车厢一片漆黑，只有地面的应急灯带亮着。"
+ },
+ "a:coach8|p:lighting|x:off|1": {
+  "postedit": "这里的灯灭了，只有过道的指示灯亮着。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "这里的灯灭了，只有过道的指示灯亮着。"
+ },
+ "a:coach8|p:lighting|x:off|2": {
+  "postedit": "一片黑暗，只有地面一线微光。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "一片黑暗，只有地面一线微光。"
+ },
+ "a:coach8|p:luggage|v:stowed|0": {
+  "postedit": "门旁的行李架上放着一只手提箱。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "门旁的行李架上放着一只手提箱。"
+ },
+ "a:coach8|p:luggage|v:stowed|1": {
+  "postedit": "头顶的行李架上散放着几件包，一如往常。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "头顶的行李架上散放着几件包，一如往常。"
+ },
+ "a:coach8|p:luggage|v:stowed|2": {
+  "postedit": "一只硬壳行李箱搁在行李架上，一如之前。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "一只硬壳行李箱搁在行李架上，一如之前。"
+ },
+ "a:coach8|p:luggage|x:gone|0": {
+  "postedit": "行李架如今空了。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "行李架如今空了。"
+ },
+ "a:coach8|p:luggage|x:gone|1": {
+  "postedit": "门旁的手提箱不见了。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "门旁的手提箱不见了。"
+ },
+ "a:coach8|p:luggage|x:gone|2": {
+  "postedit": "这一次，行李架上没有任何包。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "这一次，行李架上没有任何包。"
+ },
+ "a:coach8|p:luggage|x:more|0": {
+  "postedit": "行李架被塞得满满当当，比之前多得多的包。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "行李架被塞得满满当当，比之前多得多的包。"
+ },
+ "a:coach8|p:luggage|x:more|1": {
+  "postedit": "箱子如今几乎堆到了天花板。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "箱子如今几乎堆到了天花板。"
+ },
+ "a:coach8|p:luggage|x:more|2": {
+  "postedit": "行李架上堆满了原本不在的行李。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "行李架上堆满了原本不在的行李。"
+ },
+ "a:coach8|p:luggage|x:open|0": {
+  "postedit": "行李架上的手提箱敞着，空空如也。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "行李架上的手提箱敞着，空空如也。"
+ },
+ "a:coach8|p:luggage|x:open|1": {
+  "postedit": "一只箱子在行李架上翻开散落。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "一只箱子在行李架上翻开散落。"
+ },
+ "a:coach8|p:luggage|x:open|2": {
+  "postedit": "硬壳行李箱大敞着，里面的东西不见了。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "硬壳行李箱大敞着，里面的东西不见了。"
+ },
+ "a:coach8|p:passenger|v:sleeping|0": {
+  "postedit": "一名乘客独自靠着远处的车窗睡着，外套盖在脸上。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "一名乘客独自靠着远处的车窗睡着，外套盖在脸上。"
+ },
+ "a:coach8|p:passenger|v:sleeping|1": {
+  "postedit": "一名乘客在车厢中段打盹，头向后仰着。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "一名乘客在车厢中段打盹，头向后仰着。"
+ },
+ "a:coach8|p:passenger|v:sleeping|2": {
+  "postedit": "那个熟睡的身影瘫坐在靠窗的座位上，一如之前。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "那个熟睡的身影瘫坐在靠窗的座位上，一如之前。"
+ },
+ "a:coach8|p:passenger|x:awake|0": {
+  "postedit": "那名乘客此刻醒着，端坐着，一动不动。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "那名乘客此刻醒着，端坐着，一动不动。"
+ },
+ "a:coach8|p:passenger|x:awake|1": {
+  "postedit": "熟睡者的眼睛睁着，直盯着过道。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "熟睡者的眼睛睁着，直盯着过道。"
+ },
+ "a:coach8|p:passenger|x:awake|2": {
+  "postedit": "那名乘客不再睡着。他看着你走过。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "那名乘客不再睡着。他看着你走过。"
+ },
+ "a:coach8|p:passenger|x:gone|0": {
+  "postedit": "那名乘客睡过的座位如今空了。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "那名乘客睡过的座位如今空了。"
+ },
+ "a:coach8|p:passenger|x:gone|1": {
+  "postedit": "这一次，车厢里没有人在睡觉。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "这一次，车厢里没有人在睡觉。"
+ },
+ "a:coach8|p:passenger|x:gone|2": {
+  "postedit": "打盹的乘客不见了，只剩一件叠好的外套。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "打盹的乘客不见了，只剩一件叠好的外套。"
+ },
+ "a:coach8|p:passenger|x:moved|0": {
+  "postedit": "熟睡的乘客挪到了更靠近过道的座位。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "熟睡的乘客挪到了更靠近过道的座位。"
+ },
+ "a:coach8|p:passenger|x:moved|1": {
+  "postedit": "打盹的身影比之前更近了，如今在你这一侧。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "打盹的身影比之前更近了，如今在你这一侧。"
+ },
+ "a:coach8|p:passenger|x:moved|2": {
+  "postedit": "那名乘客睡在了与片刻前不同的座位上。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "那名乘客睡在了与片刻前不同的座位上。"
+ },
+ "a:coach8|p:passenger|x:speaks|0": {
+  "postedit": "熟睡的乘客没有醒来，喃喃道：「又来了？」",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "熟睡的乘客没有醒来，喃喃道：「又来了？」"
+ },
+ "a:coach8|p:passenger|x:speaks|1": {
+  "postedit": "外套下面传来一个闷闷的声音：「你刚才就在这里。」",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "外套下面传来一个闷闷的声音：「你刚才就在这里。」"
+ },
+ "a:coach8|p:passenger|x:speaks|2": {
+  "postedit": "打盹的身影说出了你要下车的站名，可你从未告诉过任何人。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "打盹的身影说出了你要下车的站名，可你从未告诉过任何人。"
+ },
+ "a:coach8|p:passenger|x:two|0": {
+  "postedit": "原本只有一人的地方，如今睡着两名乘客。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "原本只有一人的地方，如今睡着两名乘客。"
+ },
+ "a:coach8|p:passenger|x:two|1": {
+  "postedit": "这一次是两件盖着脸的外套，而不是一件。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "这一次是两件盖着脸的外套，而不是一件。"
+ },
+ "a:coach8|p:passenger|x:two|2": {
+  "postedit": "又一个熟睡的身影加入了先前那一个。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "又一个熟睡的身影加入了先前那一个。"
+ },
+ "a:coach8|p:seatnum|v:eight|0": {
+  "postedit": "座位贴纸沿排标着8A、8B、8C。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "座位贴纸沿排标着8A、8B、8C。"
+ },
+ "a:coach8|p:seatnum|v:eight|1": {
+  "postedit": "小小的黄铜数字标着座位：第8排，一如往常。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "小小的黄铜数字标着座位：第8排，一如往常。"
+ },
+ "a:coach8|p:seatnum|v:eight|2": {
+  "postedit": "门旁的车厢号牌亮着「8号车厢」。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "门旁的车厢号牌亮着「8号车厢」。"
+ },
+ "a:coach8|p:seatnum|x:letters|0": {
+  "postedit": "座位贴纸标着8X、8Y、8Z，一些不该出现的字母。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "座位贴纸标着8X、8Y、8Z，一些不该出现的字母。"
+ },
+ "a:coach8|p:seatnum|x:letters|1": {
+  "postedit": "这一排用一种你不认识的字母编号。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "这一排用一种你不认识的字母编号。"
+ },
+ "a:coach8|p:seatnum|x:letters|2": {
+  "postedit": "座位标签如今只是一些符号，不再是数字。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "座位标签如今只是一些符号，不再是数字。"
+ },
+ "a:coach8|p:seatnum|x:missing|0": {
+  "postedit": "座位号被撬掉了，只剩下光秃秃的螺丝孔。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "座位号被撬掉了，只剩下光秃秃的螺丝孔。"
+ },
+ "a:coach8|p:seatnum|x:missing|1": {
+  "postedit": "门旁的车厢号牌一片漆黑，空无一字。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "门旁的车厢号牌一片漆黑，空无一字。"
+ },
+ "a:coach8|p:seatnum|x:missing|2": {
+  "postedit": "这一次，座位上根本没有任何编号。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "这一次，座位上根本没有任何编号。"
+ },
+ "a:coach8|p:seatnum|x:wrong|0": {
+  "postedit": "座位贴纸如今标着第7排，不是8。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "座位贴纸如今标着第7排，不是8。"
+ },
+ "a:coach8|p:seatnum|x:wrong|1": {
+  "postedit": "车厢号牌显示「9号车厢」。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "车厢号牌显示「9号车厢」。"
+ },
+ "a:coach8|p:seatnum|x:wrong|2": {
+  "postedit": "黄铜数字写着第6排，你本来确信是8。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "黄铜数字写着第6排，你本来确信是8。"
+ },
+ "a:coach8|p:sense|v:steady|0": {
+  "postedit": "这趟列车感觉和往常一样长。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "这趟列车感觉和往常一样长。"
+ },
+ "a:coach8|p:sense|v:steady|1": {
+  "postedit": "你怀着同样疲惫的耐心沿过道前行，一节车厢又一节。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "你怀着同样疲惫的耐心沿过道前行，一节车厢又一节。"
+ },
+ "a:coach8|p:sense|v:steady|2": {
+  "postedit": "一切都和一趟夜车该有的样子一样平常。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "一切都和一趟夜车该有的样子一样平常。"
+ },
+ "a:coach8|p:sense|x:calm|0": {
+  "postedit": "你忽然感到一种不对劲的平静，仿佛自己已经到站。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "你忽然感到一种不对劲的平静，仿佛自己已经到站。"
+ },
+ "a:coach8|p:sense|x:calm|1": {
+  "postedit": "一种不该出现在这里的奇怪满足感笼罩着你。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "一种不该出现在这里的奇怪满足感笼罩着你。"
+ },
+ "a:coach8|p:sense|x:calm|2": {
+  "postedit": "你毫无急迫之感，而这本身就让人觉得不对。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "你毫无急迫之感，而这本身就让人觉得不对。"
+ },
+ "a:coach8|p:sense|x:forget|0": {
+  "postedit": "有那么一瞬，你记不清自己走过了多少节车厢。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "有那么一瞬，你记不清自己走过了多少节车厢。"
+ },
+ "a:coach8|p:sense|x:forget|1": {
+  "postedit": "你数不清身后的车厢，这让你害怕。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "你数不清身后的车厢，这让你害怕。"
+ },
+ "a:coach8|p:sense|x:forget|2": {
+  "postedit": "你根本记不起自己是何时上的这趟车。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "你根本记不起自己是何时上的这趟车。"
+ },
+ "a:coach8|p:sense|x:watched|0": {
+  "postedit": "你觉得被人注视着，尽管每一位乘客都睡着了。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "你觉得被人注视着，尽管每一位乘客都睡着了。"
+ },
+ "a:coach8|p:sense|x:watched|1": {
+  "postedit": "那种身后有人的确信迟迟不散。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "那种身后有人的确信迟迟不散。"
+ },
+ "a:coach8|p:sense|x:watched|2": {
+  "postedit": "你的后颈发麻，你确信自己已不再像先前那样独自一人。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "你的后颈发麻，你确信自己已不再像先前那样独自一人。"
+ },
+ "a:coach8|p:sound|v:rhythm|0": {
+  "postedit": "铁轨在地板下敲着平稳的节奏。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "铁轨在地板下敲着平稳的节奏。"
+ },
+ "a:coach8|p:sound|v:rhythm|1": {
+  "postedit": "列车嗡嗡前行，车轮碾过轨缝咔嗒作响。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "列车嗡嗡前行，车轮碾过轨缝咔嗒作响。"
+ },
+ "a:coach8|p:sound|v:rhythm|2": {
+  "postedit": "那种列车疾驰时熟悉的摇晃与哐当声。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "那种列车疾驰时熟悉的摇晃与哐当声。"
+ },
+ "a:coach8|p:sound|x:announce|0": {
+  "postedit": "一声提示音响起，接着是一段含糊的广播，你听不清。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "一声提示音响起，接着是一段含糊的广播，你听不清。"
+ },
+ "a:coach8|p:sound|x:announce|1": {
+  "postedit": "广播里噼啪响起一个声音，随即中断。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "广播里噼啪响起一个声音，随即中断。"
+ },
+ "a:coach8|p:sound|x:announce|2": {
+  "postedit": "一段广播响起，几乎像是倒放的。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "一段广播响起，几乎像是倒放的。"
+ },
+ "a:coach8|p:sound|x:faster|0": {
+  "postedit": "铁轨敲得比应有的更快，一阵渐高的尖鸣。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "铁轨敲得比应有的更快，一阵渐高的尖鸣。"
+ },
+ "a:coach8|p:sound|x:faster|1": {
+  "postedit": "列车正在加速，哐当声的音调越来越高。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "列车正在加速，哐当声的音调越来越高。"
+ },
+ "a:coach8|p:sound|x:faster|2": {
+  "postedit": "一切都震得更厉害，你们正在提速。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "一切都震得更厉害，你们正在提速。"
+ },
+ "a:coach8|p:sound|x:silence|0": {
+  "postedit": "车轮安静了下来。你感觉不到丝毫移动。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "车轮安静了下来。你感觉不到丝毫移动。"
+ },
+ "a:coach8|p:sound|x:silence|1": {
+  "postedit": "列车的声音停了。死一般的寂静。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "列车的声音停了。死一般的寂静。"
+ },
+ "a:coach8|p:sound|x:silence|2": {
+  "postedit": "没有哐当声，没有摇晃。列车也许根本没在动。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "没有哐当声，没有摇晃。列车也许根本没在动。"
+ },
+ "a:coach8|p:sound|x:slowing|0": {
+  "postedit": "铁轨的节奏正在放慢。你要停下了吗？",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "铁轨的节奏正在放慢。你要停下了吗？"
+ },
+ "a:coach8|p:sound|x:slowing|1": {
+  "postedit": "哐当声拖长了，仿佛列车正在减速。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "哐当声拖长了，仿佛列车正在减速。"
+ },
+ "a:coach8|p:sound|x:slowing|2": {
+  "postedit": "地板下的节拍，一下与一下之间拉得更长了。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "地板下的节拍，一下与一下之间拉得更长了。"
+ },
+ "a:coach8|p:table|v:coffee|0": {
+  "postedit": "过道旁的折叠桌上放着一杯喝了一半的咖啡。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "过道旁的折叠桌上放着一杯喝了一半的咖啡。"
+ },
+ "a:coach8|p:table|v:coffee|1": {
+  "postedit": "小桌板放了下来，上面一只纸杯正在变凉，一如往常。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "小桌板放了下来，上面一只纸杯正在变凉，一如往常。"
+ },
+ "a:coach8|p:table|v:coffee|2": {
+  "postedit": "桌上放着某人的咖啡，还冒着淡淡的热气。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "桌上放着某人的咖啡，还冒着淡淡的热气。"
+ },
+ "a:coach8|p:table|x:cold|0": {
+  "postedit": "桌上的咖啡已经凉了，表面结了一层膜。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "桌上的咖啡已经凉了，表面结了一层膜。"
+ },
+ "a:coach8|p:table|x:cold|1": {
+  "postedit": "那只杯子如今冰凉，早已被搁置。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "那只杯子如今冰凉，早已被搁置。"
+ },
+ "a:coach8|p:table|x:cold|2": {
+  "postedit": "咖啡凉着，纹丝不动，一点热气也没有。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "咖啡凉着，纹丝不动，一点热气也没有。"
+ },
+ "a:coach8|p:table|x:empty|0": {
+  "postedit": "桌面空了，咖啡杯不见了。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "桌面空了，咖啡杯不见了。"
+ },
+ "a:coach8|p:table|x:empty|1": {
+  "postedit": "小桌板上如今什么也没有。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "小桌板上如今什么也没有。"
+ },
+ "a:coach8|p:table|x:empty|2": {
+  "postedit": "这一次，桌上没有杯子。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "这一次，桌上没有杯子。"
+ },
+ "a:coach8|p:table|x:many|0": {
+  "postedit": "桌上如今摆满了杯子，不是一只而是许多。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "桌上如今摆满了杯子，不是一只而是许多。"
+ },
+ "a:coach8|p:table|x:many|1": {
+  "postedit": "原本只有一杯的小桌板上，如今挤着好几杯咖啡。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "原本只有一杯的小桌板上，如今挤着好几杯咖啡。"
+ },
+ "a:coach8|p:table|x:many|2": {
+  "postedit": "桌上乱七八糟地摆着多得没人喝得完的杯子。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "桌上乱七八糟地摆着多得没人喝得完的杯子。"
+ },
+ "a:coach8|p:table|x:spilled|0": {
+  "postedit": "咖啡洒了，一片深色的污渍在桌面上蔓延。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "咖啡洒了，一片深色的污渍在桌面上蔓延。"
+ },
+ "a:coach8|p:table|x:spilled|1": {
+  "postedit": "杯子倒了，咖啡从桌沿流下。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "杯子倒了，咖啡从桌沿流下。"
+ },
+ "a:coach8|p:table|x:spilled|2": {
+  "postedit": "咖啡在桌上积成一滩，滴落到地板上。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "咖啡在桌上积成一滩，滴落到地板上。"
+ },
+ "a:coach8|p:window|v:night|0": {
+  "postedit": "车窗外，漆黑的原野和你自己淡淡的倒影。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "车窗外，漆黑的原野和你自己淡淡的倒影。"
+ },
+ "a:coach8|p:window|v:night|1": {
+  "postedit": "车窗里只有夜色和车厢幽灵般的映影。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "车窗里只有夜色和车厢幽灵般的映影。"
+ },
+ "a:coach8|p:window|v:night|2": {
+  "postedit": "黑暗的田野从窗外掠过，远处灯火零星。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "黑暗的田野从窗外掠过，远处灯火零星。"
+ },
+ "a:coach8|p:window|x:daylight|0": {
+  "postedit": "车窗被日光照得透亮。片刻之前还是夜晚。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "车窗被日光照得透亮。片刻之前还是夜晚。"
+ },
+ "a:coach8|p:window|x:daylight|1": {
+  "postedit": "玻璃外忽然变成了白天，不可思议。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "玻璃外忽然变成了白天，不可思议。"
+ },
+ "a:coach8|p:window|x:daylight|2": {
+  "postedit": "原本只有黑暗的窗口，此刻洒满阳光。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "原本只有黑暗的窗口，此刻洒满阳光。"
+ },
+ "a:coach8|p:window|x:reflection|0": {
+  "postedit": "玻璃里你的倒影比你慢了半秒。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "玻璃里你的倒影比你慢了半秒。"
+ },
+ "a:coach8|p:window|x:reflection|1": {
+  "postedit": "车窗里的倒影与车厢并不完全吻合。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "车窗里的倒影与车厢并不完全吻合。"
+ },
+ "a:coach8|p:window|x:reflection|2": {
+  "postedit": "车窗的倒影里站着一个人，而车厢里并没有这个人。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "车窗的倒影里站着一个人，而车厢里并没有这个人。"
+ },
+ "a:coach8|p:window|x:station|0": {
+  "postedit": "窗外一座亮着灯的站台滑过，一个车站，没有任何通报。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "窗外一座亮着灯的站台滑过，一个车站，没有任何通报。"
+ },
+ "a:coach8|p:window|x:station|1": {
+  "postedit": "窗外，一座站台经过，空荡而明亮。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "窗外，一座站台经过，空荡而明亮。"
+ },
+ "a:coach8|p:window|x:station|2": {
+  "postedit": "一座车站从玻璃外滑过，你却从没感到列车减速。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "一座车站从玻璃外滑过，你却从没感到列车减速。"
+ },
+ "a:coach8|p:window|x:tunnel|0": {
+  "postedit": "车窗一片纯黑，一条隧道，轰鸣着，望不到尽头。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "车窗一片纯黑，一条隧道，轰鸣着，望不到尽头。"
+ },
+ "a:coach8|p:window|x:tunnel|1": {
+  "postedit": "你此刻在隧道里，玻璃外只有飞驰的黑暗。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "你此刻在隧道里，玻璃外只有飞驰的黑暗。"
+ },
+ "a:coach8|p:window|x:tunnel|2": {
+  "postedit": "窗外只有黑色的隧道壁不断流过。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "窗外只有黑色的隧道壁不断流过。"
+ },
+ "a:coach8|progress": {
+  "postedit": "车厢 {level} / {goal}",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "车厢 {level} / {goal}"
+ },
+ "a:coach8|share_prompt": {
+  "postedit": "扶住车门。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "扶住车门。"
+ },
+ "a:coach8|tagline": {
+  "postedit": "列车员说是8号车厢。可这趟车似乎永远到不了那里。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "列车员说是8号车厢。可这趟车似乎永远到不了那里。"
+ },
+ "a:coach8|title_main": {
+  "postedit": "8号车厢",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "8号车厢"
+ },
+ "a:coach8|title|0": {
+  "postedit": "8号车厢",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "8号车厢"
+ },
+ "a:coach8|title|1": {
+  "postedit": "8号车厢",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "8号车厢"
+ },
+ "a:coach8|title|2": {
+  "postedit": "8号车厢",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "8号车厢"
+ },
+ "a:coach8|title|3": {
+  "postedit": "8号车厢",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "8号车厢"
+ },
+ "a:coach8|title|4": {
+  "postedit": "第8车厢",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "第8车厢"
+ },
+ "a:coach8|title|5": {
+  "postedit": "八号车厢",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "八号车厢"
+ },
+ "a:coach8|title|6": {
+  "postedit": "8号车厢",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "8号车厢"
+ },
+ "a:coach8|title|7": {
+  "postedit": "8号车厢",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "8号车厢"
+ },
+ "a:coach8|turn_back": {
+  "postedit": "退回上一节",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "退回上一节"
+ },
+ "ui|a11y_close": {
+  "postedit": "关闭",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "关闭"
+ },
+ "ui|a11y_settings": {
+  "postedit": "显示设置",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "显示设置"
+ },
+ "ui|a11y_sound_off": {
+  "postedit": "声音关",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "声音关"
+ },
+ "ui|a11y_sound_on": {
+  "postedit": "声音开",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "声音开"
+ },
+ "ui|ach_d_cold": {
+  "postedit": "不回看一眼就脱出。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "不回看一眼就脱出。"
+ },
+ "ui|ach_d_eight_times": {
+  "postedit": "把一个地方走出八次。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "把一个地方走出八次。"
+ },
+ "ui|ach_d_end_coach8": {
+  "postedit": "找到 Coach 8 的另一个结局。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "找到 Coach 8 的另一个结局。"
+ },
+ "ui|ach_d_end_hallway-eight": {
+  "postedit": "找到 Hallway 8 的另一个结局。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "找到 Hallway 8 的另一个结局。"
+ },
+ "ui|ach_d_end_stairway8": {
+  "postedit": "找到 Stairway 8 的另一个结局。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "找到 Stairway 8 的另一个结局。"
+ },
+ "ui|ach_d_flash_coach8": {
+  "postedit": "看遍 Coach 8 的每一个碎片。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "看遍 Coach 8 的每一个碎片。"
+ },
+ "ui|ach_d_flash_hallway-eight": {
+  "postedit": "看遍 Hallway 8 的每一个碎片。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "看遍 Hallway 8 的每一个碎片。"
+ },
+ "ui|ach_d_flash_stairway8": {
+  "postedit": "看遍 Stairway 8 的每一个碎片。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "看遍 Stairway 8 的每一个碎片。"
+ },
+ "ui|ach_d_flawless": {
+  "postedit": "一次不重来，走出一个地方。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "一次不重来，走出一个地方。"
+ },
+ "ui|ach_d_hard_all": {
+  "postedit": "在困难难度脱出全部三处。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "在困难难度脱出全部三处。"
+ },
+ "ui|ach_d_hard_coach8": {
+  "postedit": "在困难难度脱出 Coach 8。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "在困难难度脱出 Coach 8。"
+ },
+ "ui|ach_d_hard_hallway-eight": {
+  "postedit": "在困难难度脱出 Hallway 8。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "在困难难度脱出 Hallway 8。"
+ },
+ "ui|ach_d_hard_stairway8": {
+  "postedit": "在困难难度脱出 Stairway 8。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "在困难难度脱出 Stairway 8。"
+ },
+ "ui|ach_d_insane_all": {
+  "postedit": "在疯狂难度脱出全部三处。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "在疯狂难度脱出全部三处。"
+ },
+ "ui|ach_d_insane_coach8": {
+  "postedit": "在疯狂难度脱出 Coach 8。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "在疯狂难度脱出 Coach 8。"
+ },
+ "ui|ach_d_insane_hallway-eight": {
+  "postedit": "在疯狂难度脱出 Hallway 8。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "在疯狂难度脱出 Hallway 8。"
+ },
+ "ui|ach_d_insane_stairway8": {
+  "postedit": "在疯狂难度脱出 Stairway 8。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "在疯狂难度脱出 Stairway 8。"
+ },
+ "ui|ach_d_melon": {
+  "postedit": "谢谢你让灯一直亮着。Melon Labs 全体敬上。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "谢谢你让灯一直亮着。Melon Labs 全体敬上。"
+ },
+ "ui|ach_d_nerve": {
+  "postedit": "在最后一道门前折返，而且没错。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "在最后一道门前折返，而且没错。"
+ },
+ "ui|ach_d_npc_knows": {
+  "postedit": "被那个总在前方的身影认出。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "被那个总在前方的身影认出。"
+ },
+ "ui|ach_d_opening_night": {
+  "postedit": "在开幕当天游玩。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "在开幕当天游玩。"
+ },
+ "ui|ach_d_out_all": {
+  "postedit": "逃出全部三个地方。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "逃出全部三个地方。"
+ },
+ "ui|ach_d_out_coach8": {
+  "postedit": "走下列车。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "走下列车。"
+ },
+ "ui|ach_d_out_hallway-eight": {
+  "postedit": "逃出那条走廊。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "逃出那条走廊。"
+ },
+ "ui|ach_d_out_stairway8": {
+  "postedit": "抵达一楼。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "抵达一楼。"
+ },
+ "ui|ach_d_shared": {
+  "postedit": "把这个地方送给另一个人。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "把这个地方送给另一个人。"
+ },
+ "ui|ach_d_steady": {
+  "postedit": "不靠一次猜测就脱出。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "不靠一次猜测就脱出。"
+ },
+ "ui|ach_d_streak": {
+  "postedit": "连续三次无重置脱出。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "连续三次无重置脱出。"
+ },
+ "ui|ach_d_total_recall": {
+  "postedit": "看遍每一处的每一个碎片。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "看遍每一处的每一个碎片。"
+ },
+ "ui|ach_empty": {
+  "postedit": "还什么都没有。先脱出一处，就开始了。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "还什么都没有。先脱出一处，就开始了。"
+ },
+ "ui|ach_flash": {
+  "postedit": "闪回",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "闪回"
+ },
+ "ui|ach_load": {
+  "postedit": "读取",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "读取"
+ },
+ "ui|ach_locked": {
+  "postedit": "未解锁",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "未解锁"
+ },
+ "ui|ach_n_cold": {
+  "postedit": "一眼看穿",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "一眼看穿"
+ },
+ "ui|ach_n_eight_times": {
+  "postedit": "八次穿行",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "八次穿行"
+ },
+ "ui|ach_n_end_coach8": {
+  "postedit": "不属于你的站台",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "不属于你的站台"
+ },
+ "ui|ach_n_end_hallway-eight": {
+  "postedit": "打不开的门厅",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "打不开的门厅"
+ },
+ "ui|ach_n_end_stairway8": {
+  "postedit": "只向上的楼梯",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "只向上的楼梯"
+ },
+ "ui|ach_n_flash_coach8": {
+  "postedit": "车厢，已记住",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "车厢，已记住"
+ },
+ "ui|ach_n_flash_hallway-eight": {
+  "postedit": "走廊，已记住",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "走廊，已记住"
+ },
+ "ui|ach_n_flash_stairway8": {
+  "postedit": "楼梯，已记住",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "楼梯，已记住"
+ },
+ "ui|ach_n_flawless": {
+  "postedit": "毫无差错",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "毫无差错"
+ },
+ "ui|ach_n_hard_all": {
+  "postedit": "再无宽处",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "再无宽处"
+ },
+ "ui|ach_n_hard_coach8": {
+  "postedit": "Coach，更难",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "Coach，更难"
+ },
+ "ui|ach_n_hard_hallway-eight": {
+  "postedit": "Hallway，更难",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "Hallway，更难"
+ },
+ "ui|ach_n_hard_stairway8": {
+  "postedit": "Stairway，更难",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "Stairway，更难"
+ },
+ "ui|ach_n_insane_all": {
+  "postedit": "什么都别信",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "什么都别信"
+ },
+ "ui|ach_n_insane_coach8": {
+  "postedit": "Coach，重塑",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "Coach，重塑"
+ },
+ "ui|ach_n_insane_hallway-eight": {
+  "postedit": "Hallway，重塑",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "Hallway，重塑"
+ },
+ "ui|ach_n_insane_stairway8": {
+  "postedit": "Stairway，重塑",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "Stairway，重塑"
+ },
+ "ui|ach_n_melon": {
+  "postedit": "Melon 支持者",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "Melon 支持者"
+ },
+ "ui|ach_n_nerve": {
+  "postedit": "定力",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "定力"
+ },
+ "ui|ach_n_npc_knows": {
+  "postedit": "它认得你",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "它认得你"
+ },
+ "ui|ach_n_opening_night": {
+  "postedit": "首演之夜",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "首演之夜"
+ },
+ "ui|ach_n_out_all": {
+  "postedit": "彻底出去",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "彻底出去"
+ },
+ "ui|ach_n_out_coach8": {
+  "postedit": "走出 Coach 8",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "走出 Coach 8"
+ },
+ "ui|ach_n_out_hallway-eight": {
+  "postedit": "走出 Hallway 8",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "走出 Hallway 8"
+ },
+ "ui|ach_n_out_stairway8": {
+  "postedit": "走出 Stairway 8",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "走出 Stairway 8"
+ },
+ "ui|ach_n_shared": {
+  "postedit": "传了下去",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "传了下去"
+ },
+ "ui|ach_n_steady": {
+  "postedit": "笃定",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "笃定"
+ },
+ "ui|ach_n_streak": {
+  "postedit": "连胜",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "连胜"
+ },
+ "ui|ach_n_total_recall": {
+  "postedit": "全部记起",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "全部记起"
+ },
+ "ui|ach_open": {
+  "postedit": "成就",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "成就"
+ },
+ "ui|ach_progress": {
+  "postedit": "已解锁 {n}/{total}",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "已解锁 {n}/{total}"
+ },
+ "ui|ach_save": {
+  "postedit": "保存",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "保存"
+ },
+ "ui|ach_section": {
+  "postedit": "成就",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "成就"
+ },
+ "ui|again": {
+  "postedit": "再走一遍",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "再走一遍"
+ },
+ "ui|age_normal": {
+  "postedit": "普通",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "普通"
+ },
+ "ui|age_simple": {
+  "postedit": "浅显",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "浅显"
+ },
+ "ui|back": {
+  "postedit": "返回",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "返回"
+ },
+ "ui|begin": {
+  "postedit": "开始",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "开始"
+ },
+ "ui|change": {
+  "postedit": "更换场景",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "更换场景"
+ },
+ "ui|col_recall": {
+  "postedit": "回想这一碎片",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "回想这一碎片"
+ },
+ "ui|col_recall_empty": {
+  "postedit": "你曾见过的碎片，它的字句已经淡去。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "你曾见过的碎片，它的字句已经淡去。"
+ },
+ "ui|col_section": {
+  "postedit": "回忆",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "回忆"
+ },
+ "ui|conf_1": {
+  "postedit": "纯属猜测",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "纯属猜测"
+ },
+ "ui|conf_2": {
+  "postedit": "大概吧",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "大概吧"
+ },
+ "ui|conf_3": {
+  "postedit": "几乎确定",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "几乎确定"
+ },
+ "ui|conf_4": {
+  "postedit": "确定",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "确定"
+ },
+ "ui|conf_q": {
+  "postedit": "你有多确定？",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "你有多确定？"
+ },
+ "ui|diff_easy": {
+  "postedit": "简单",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "简单"
+ },
+ "ui|diff_hard": {
+  "postedit": "困难",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "困难"
+ },
+ "ui|diff_hint_hard": {
+  "postedit": "困难会加入新的变化种类。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "困难会加入新的变化种类。"
+ },
+ "ui|diff_hint_insane": {
+  "postedit": "疯狂每一轮都重造何为寻常。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "疯狂每一轮都重造何为寻常。"
+ },
+ "ui|diff_hint_locked": {
+  "postedit": "先脱出一次，解锁困难。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "先脱出一次，解锁困难。"
+ },
+ "ui|diff_insane": {
+  "postedit": "疯狂",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "疯狂"
+ },
+ "ui|diff_normal": {
+  "postedit": "普通",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "普通"
+ },
+ "ui|end_credits": {
+  "postedit": "片尾字幕",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "片尾字幕"
+ },
+ "ui|ending_back": {
+  "postedit": "回到起点",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "回到起点"
+ },
+ "ui|erase": {
+  "postedit": "清除",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "清除"
+ },
+ "ui|erase_body": {
+  "postedit": "这个地方关于你的一切都将消失：你拾起的碎片、你赢得的印记、每一次的历程。此操作无法撤销。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "这个地方关于你的一切都将消失：你拾起的碎片、你赢得的印记、每一次的历程。此操作无法撤销。"
+ },
+ "ui|erase_cancel": {
+  "postedit": "保留",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "保留"
+ },
+ "ui|erase_title": {
+  "postedit": "清除你的记忆？",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "清除你的记忆？"
+ },
+ "ui|fold_1": {
+  "postedit": "是你自己。你伸手去碰了什么，这地方就把去路折了回来。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "是你自己。你伸手去碰了什么，这地方就把去路折了回来。"
+ },
+ "ui|fold_2": {
+  "postedit": "你找到的东西，从来不必去碰。想看就看，但碰错了，就会被送回这里。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "你找到的东西，从来不必去碰。想看就看，但碰错了，就会被送回这里。"
+ },
+ "ui|fold_hide": {
+  "postedit": "不再显示。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "不再显示。"
+ },
+ "ui|fold_title": {
+  "postedit": "回到起点。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "回到起点。"
+ },
+ "ui|furthest": {
+  "postedit": "最远到达 {n}",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "最远到达 {n}"
+ },
+ "ui|give_up": {
+  "postedit": "放弃 · 回到起点",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "放弃 · 回到起点"
+ },
+ "ui|hesitate_1": {
+  "postedit": "你迟疑了。再看一眼。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "你迟疑了。再看一眼。"
+ },
+ "ui|hesitate_2": {
+  "postedit": "你没有把握。你再看了看。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "你没有把握。你再看了看。"
+ },
+ "ui|hesitate_3": {
+  "postedit": "疑虑让你停下。再读一遍。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "疑虑让你停下。再读一遍。"
+ },
+ "ui|hesitate_4": {
+  "postedit": "你按住脚步，任目光再次扫过它。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "你按住脚步，任目光再次扫过它。"
+ },
+ "ui|instructions": {
+  "postedit": "游戏说明",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "游戏说明"
+ },
+ "ui|language": {
+  "postedit": "语言",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "语言"
+ },
+ "ui|look_back": {
+  "postedit": "回望。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "回望。"
+ },
+ "ui|mem_title": {
+  "postedit": "记忆",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "记忆"
+ },
+ "ui|nudge_arcs": {
+  "postedit": "另外两个地方也叫 8。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "另外两个地方也叫 8。"
+ },
+ "ui|nudge_eight": {
+  "postedit": "从同一个地方逃出八次，是另一种记忆。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "从同一个地方逃出八次，是另一种记忆。"
+ },
+ "ui|nudge_frags": {
+  "postedit": "这里还有 {n} 段你没见过的记忆。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "这里还有 {n} 段你没见过的记忆。"
+ },
+ "ui|promo_bad": {
+  "postedit": "这个码在这里没有用。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "这个码在这里没有用。"
+ },
+ "ui|promo_go": {
+  "postedit": "兑换",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "兑换"
+ },
+ "ui|promo_have": {
+  "postedit": "已经兑换过了。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "已经兑换过了。"
+ },
+ "ui|promo_hint": {
+  "postedit": "兑换码",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "兑换码"
+ },
+ "ui|promo_ok": {
+  "postedit": "已解锁。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "已解锁。"
+ },
+ "ui|read_cold": {
+  "postedit": "你没有回看一眼就走了过去。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "你没有回看一眼就走了过去。"
+ },
+ "ui|read_nerve": {
+  "postedit": "你在最后一道门前折返，而你是对的。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "你在最后一道门前折返，而你是对的。"
+ },
+ "ui|read_steady": {
+  "postedit": "你一次也没把它说成是猜的。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "你一次也没把它说成是猜的。"
+ },
+ "ui|rec_cold": {
+  "postedit": "没有回看一眼，就走了出去。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "没有回看一眼，就走了出去。"
+ },
+ "ui|rec_nerve": {
+  "postedit": "在最后一道门前折返，而且没错。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "在最后一道门前折返，而且没错。"
+ },
+ "ui|rec_section": {
+  "postedit": "记录",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "记录"
+ },
+ "ui|rec_steady": {
+  "postedit": "没有一次靠猜，就走了出去。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "没有一次靠猜，就走了出去。"
+ },
+ "ui|rec_streak": {
+  "postedit": "连续无重置脱出：{n}",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "连续无重置脱出：{n}"
+ },
+ "ui|rules_plain": {
+  "postedit": "有变化？往回走。没变化？往前走。连对八次就能出去。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "有变化？往回走。没变化？往前走。连对八次就能出去。"
+ },
+ "ui|select_lead_1": {
+  "postedit": "一个你无法真正离开的地方。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "一个你无法真正离开的地方。"
+ },
+ "ui|select_lead_2": {
+  "postedit": "选择一条穿行的路。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "选择一条穿行的路。"
+ },
+ "ui|set_age": {
+  "postedit": "阅读",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "阅读"
+ },
+ "ui|set_bright": {
+  "postedit": "亮度",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "亮度"
+ },
+ "ui|set_diff": {
+  "postedit": "难度",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "难度"
+ },
+ "ui|set_done": {
+  "postedit": "完成",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "完成"
+ },
+ "ui|set_motion": {
+  "postedit": "减少动态效果",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "减少动态效果"
+ },
+ "ui|set_text": {
+  "postedit": "文字大小",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "文字大小"
+ },
+ "ui|settings_title": {
+  "postedit": "显示",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "显示"
+ },
+ "ui|share_1": {
+  "postedit": "有一个你无法真正离开的地方。我出来了。现在轮到你。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "有一个你无法真正离开的地方。我出来了。现在轮到你。"
+ },
+ "ui|share_2": {
+  "postedit": "在一个无法真正离开的地方，有人找到了门。去找你的那扇。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "在一个无法真正离开的地方，有人找到了门。去找你的那扇。"
+ },
+ "ui|share_3": {
+  "postedit": "八次怀疑自己的机会。我信对了。现在看你。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "八次怀疑自己的机会。我信对了。现在看你。"
+ },
+ "ui|share_4": {
+  "postedit": "我已经知道出去的路。我不会告诉你在哪。来看看吧。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "我已经知道出去的路。我不会告诉你在哪。来看看吧。"
+ },
+ "ui|share_5": {
+  "postedit": "一个安静的地方，八个小小的疑虑，只有一条路能穿过。我找到了。你呢？",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "一个安静的地方，八个小小的疑虑，只有一条路能穿过。我找到了。你呢？"
+ },
+ "ui|share_6": {
+  "postedit": "我走了八遍，信了自己记住的。看你行不行。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "我走了八遍，信了自己记住的。看你行不行。"
+ },
+ "ui|share_7": {
+  "postedit": "出路，取决于你记得什么。我记住了。现在换你试试。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "出路，取决于你记得什么。我记住了。现在换你试试。"
+ },
+ "ui|share_8": {
+  "postedit": "我和外面的冷空气之间，隔着八道门。我全打开了。轮到你了。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "我和外面的冷空气之间，隔着八道门。我全打开了。轮到你了。"
+ },
+ "ui|share_copied": {
+  "postedit": "链接已复制",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "链接已复制"
+ },
+ "ui|share_copy": {
+  "postedit": "复制链接",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "复制链接"
+ },
+ "ui|share_native": {
+  "postedit": "分享",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "分享"
+ },
+ "ui|view_credits": {
+  "postedit": "查看制作人员",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "查看制作人员"
+ }
+}

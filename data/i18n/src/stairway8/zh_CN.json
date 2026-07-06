@@ -1,0 +1,1334 @@
+{
+ "a:stairway8|act2|end|climb|0": {
+  "postedit": "你走进那扇近路门，笃定它会把你送到一楼。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "你走进那扇近路门，笃定它会把你送到一楼。"
+ },
+ "a:stairway8|act2|end|climb|1": {
+  "postedit": "墙上的数字比你出发的那一层还要高。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "墙上的数字比你出发的那一层还要高。"
+ },
+ "a:stairway8|act2|end|climb|2": {
+  "postedit": "向下的一段成了向上的一段，从这里起，每一扇门都通向只会上升的楼梯。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "向下的一段成了向上的一段，从这里起，每一扇门都通向只会上升的楼梯。"
+ },
+ "a:stairway8|act2|exit|action": {
+  "postedit": "抄这条近路",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "抄这条近路"
+ },
+ "a:stairway8|act2|exit|tempt": {
+  "postedit": "下面一扇平台门半敞着，门后的楼梯仿佛直通街道。一条向下的近路。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "下面一扇平台门半敞着，门后的楼梯仿佛直通街道。一条向下的近路。"
+ },
+ "a:stairway8|act2|flashback|0": {
+  "postedit": "你曾坐电梯上来过。你记得电梯门合上，隔住了一张脸。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "你曾坐电梯上来过。你记得电梯门合上，隔住了一张脸。"
+ },
+ "a:stairway8|act2|flashback|1": {
+  "postedit": "你本要去某一层。如今你说不出那个数字，只记得自己并不想去。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "你本要去某一层。如今你说不出那个数字，只记得自己并不想去。"
+ },
+ "a:stairway8|act2|flashback|2": {
+  "postedit": "第一次，下面的身影朝你挥了手，你告诉自己那是冲着别人的。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "第一次，下面的身影朝你挥了手，你告诉自己那是冲着别人的。"
+ },
+ "a:stairway8|act2|flashback|3": {
+  "postedit": "这些刻痕你从前读过。其中一道是计数，一直划过了八。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "这些刻痕你从前读过。其中一道是计数，一直划过了八。"
+ },
+ "a:stairway8|act2|flashback|4": {
+  "postedit": "你本确信下一层就是一楼。你从前也这样确信过。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "你本确信下一层就是一楼。你从前也这样确信过。"
+ },
+ "a:stairway8|act2|t:door|fold|0": {
+  "postedit": "门荡开，通向你三层前经过的那个平台。数字没了。你又回到了最顶层。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "门荡开，通向你三层前经过的那个平台。数字没了。你又回到了最顶层。"
+ },
+ "a:stairway8|act2|t:door|herring|0": {
+  "postedit": "门上的漆还黏手，像刚刷过，可它旁边的牌子早已泛黄。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "门上的漆还黏手，像刚刷过，可它旁边的牌子早已泛黄。"
+ },
+ "a:stairway8|act2|t:door|herring|1": {
+  "postedit": "一股冷风从门缝里透上来，裹着某种你说不出名字的东西。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "一股冷风从门缝里透上来，裹着某种你说不出名字的东西。"
+ },
+ "a:stairway8|act2|t:door|reaction|0": {
+  "postedit": "推杠让开一指宽便停住，仿佛被一条你看不见的链子拽着。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "推杠让开一指宽便停住，仿佛被一条你看不见的链子拽着。"
+ },
+ "a:stairway8|act2|t:door|reaction|1": {
+  "postedit": "门后，隐约传来同一道楼梯间向下延伸的声响。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "门后，隐约传来同一道楼梯间向下延伸的声响。"
+ },
+ "a:stairway8|act2|t:door|verb": {
+  "postedit": "试试那扇平台门",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "试试那扇平台门"
+ },
+ "a:stairway8|act2|t:figure|fold|0": {
+  "postedit": "它不慌不忙地爬上来迎你，等它到了你这层平台，你却莫名回到了最顶层，孤身一人。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "它不慌不忙地爬上来迎你，等它到了你这层平台，你却莫名回到了最顶层，孤身一人。"
+ },
+ "a:stairway8|act2|t:figure|herring|0": {
+  "postedit": "下面那件外套和你的一个颜色。大多数外套都是。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "下面那件外套和你的一个颜色。大多数外套都是。"
+ },
+ "a:stairway8|act2|t:figure|herring|1": {
+  "postedit": "它比你喊它时近了一层平台。毕竟你一直在往下走。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "它比你喊它时近了一层平台。毕竟你一直在往下走。"
+ },
+ "a:stairway8|act2|t:figure|reaction|0": {
+  "postedit": "你的声音慢了一拍才回来，带着你自己的语调。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "你的声音慢了一拍才回来，带着你自己的语调。"
+ },
+ "a:stairway8|act2|t:figure|reaction|1": {
+  "postedit": "远远的下方，一张脸朝着声音仰了起来，或者只是一张脸的影子。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "远远的下方，一张脸朝着声音仰了起来，或者只是一张脸的影子。"
+ },
+ "a:stairway8|act2|t:figure|verb": {
+  "postedit": "朝楼梯井下方喊",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "朝楼梯井下方喊"
+ },
+ "a:stairway8|act2|t:notice|fold|0": {
+  "postedit": "你一路读到底，底下写着「起点」，而这里确实是起点。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "你一路读到底，底下写着「起点」，而这里确实是起点。"
+ },
+ "a:stairway8|act2|t:notice|herring|0": {
+  "postedit": "贴它的胶带是新的，还发着亮。这样的告示总是换来换去。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "贴它的胶带是新的，还发着亮。这样的告示总是换来换去。"
+ },
+ "a:stairway8|act2|t:notice|herring|1": {
+  "postedit": "纸是温的，像刚从机器里出来。大楼在夜里总是古怪。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "纸是温的，像刚从机器里出来。大楼在夜里总是古怪。"
+ },
+ "a:stairway8|act2|t:notice|reaction|0": {
+  "postedit": "电梯故障停用，请走楼梯。有人把「走」字重重划了两道线。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "电梯故障停用，请走楼梯。有人把「走」字重重划了两道线。"
+ },
+ "a:stairway8|act2|t:notice|reaction|1": {
+  "postedit": "印字下方，有人用铅笔写了一个数字，又划掉了。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "印字下方，有人用铅笔写了一个数字，又划掉了。"
+ },
+ "a:stairway8|act2|t:notice|verb": {
+  "postedit": "读那张告示",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "读那张告示"
+ },
+ "a:stairway8|act2|t:railing|fold|0": {
+  "postedit": "你的目光顺着它往下走，你的脚跟着你的目光，于是你又在往上爬，回到了起点。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "你的目光顺着它往下走，你的脚跟着你的目光，于是你又在往上爬，回到了起点。"
+ },
+ "a:stairway8|act2|t:railing|herring|0": {
+  "postedit": "它是冷的，可一层平台前你松手时它还是温的。这说明不了什么。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "它是冷的，可一层平台前你松手时它还是温的。这说明不了什么。"
+ },
+ "a:stairway8|act2|t:railing|herring|1": {
+  "postedit": "它绿得和你记忆中不太一样。这下面的光线不好。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "它绿得和你记忆中不太一样。这下面的光线不好。"
+ },
+ "a:stairway8|act2|t:railing|reaction|0": {
+  "postedit": "它比空气更冷，微微震颤着，就像远远的下方也有人攥着它时那样。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "它比空气更冷，微微震颤着，就像远远的下方也有人攥着它时那样。"
+ },
+ "a:stairway8|act2|t:railing|reaction|1": {
+  "postedit": "你的手没在上面留下任何印子，尽管本该留下。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "你的手没在上面留下任何印子，尽管本该留下。"
+ },
+ "a:stairway8|act2|t:railing|verb": {
+  "postedit": "抓住扶手",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "抓住扶手"
+ },
+ "a:stairway8|adaptive|long_look|0": {
+  "postedit": "你看得比平时更久，却不记得自己何时停下了脚步。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "你看得比平时更久，却不记得自己何时停下了脚步。"
+ },
+ "a:stairway8|adaptive|long_look|1": {
+  "postedit": "你意识到自己一直站在楼梯平台上。站了多久了？",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "你意识到自己一直站在楼梯平台上。站了多久了？"
+ },
+ "a:stairway8|adaptive|long_look|2": {
+  "postedit": "时间在滑动。你一直盯着楼梯井向下望，却不知过了多久。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "时间在滑动。你一直盯着楼梯井向下望，却不知过了多久。"
+ },
+ "a:stairway8|adaptive|repeat_inspect|0": {
+  "postedit": "你又查看了一下{THING}，说不清为什么。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "你又查看了一下{THING}，说不清为什么。"
+ },
+ "a:stairway8|adaptive|repeat_inspect|1": {
+  "postedit": "你的目光径直落向{THING}，如今总是这样。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "你的目光径直落向{THING}，如今总是这样。"
+ },
+ "a:stairway8|adaptive|repeat_inspect|2": {
+  "postedit": "{THING}再次引起了你的注意。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "{THING}再次引起了你的注意。"
+ },
+ "a:stairway8|attempt": {
+  "postedit": "这段楼梯走了{n}次。这一次，你出去了。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "这段楼梯走了{n}次。这一次，你出去了。"
+ },
+ "a:stairway8|attempt_first": {
+  "postedit": "第一次下楼，楼梯就没让你回头。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "第一次下楼，楼梯就没让你回头。"
+ },
+ "a:stairway8|framing|cutscene|0": {
+  "postedit": "楼梯平台上有什么变了，你却没留意，径直往下走。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "楼梯平台上有什么变了，你却没留意，径直往下走。"
+ },
+ "a:stairway8|framing|cutscene|1": {
+  "postedit": "若某个平台和你记忆中不完全一样，就往回上。若一样，就继续往下走。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "若某个平台和你记忆中不完全一样，就往回上。若一样，就继续往下走。"
+ },
+ "a:stairway8|framing|intro|0": {
+  "postedit": "故障停用",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "故障停用"
+ },
+ "a:stairway8|framing|intro|2": {
+  "postedit": "你按下呼叫按钮。毫无反应。一张告示贴在门上：",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "你按下呼叫按钮。毫无反应。一张告示贴在门上："
+ },
+ "a:stairway8|framing|intro|3": {
+  "postedit": "电梯故障停用，请走楼梯。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "电梯故障停用，请走楼梯。"
+ },
+ "a:stairway8|framing|intro|5": {
+  "postedit": "只要一层平台和你记忆中完全一样，就继续往下走。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "只要一层平台和你记忆中完全一样，就继续往下走。"
+ },
+ "a:stairway8|framing|intro|6": {
+  "postedit": "如果有任何变化，是楼梯间把你调转了方向。往回爬上去。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "如果有任何变化，是楼梯间把你调转了方向。往回爬上去。"
+ },
+ "a:stairway8|framing|intro|8": {
+  "postedit": "一楼就是出去的路。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "一楼就是出去的路。"
+ },
+ "a:stairway8|framing|intro|9": {
+  "postedit": "一旦数乱了平台，你就会回到最顶层。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "一旦数乱了平台，你就会回到最顶层。"
+ },
+ "a:stairway8|framing|win|0": {
+  "postedit": "最后一段楼梯通向大堂。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "最后一段楼梯通向大堂。"
+ },
+ "a:stairway8|framing|win|1": {
+  "postedit": "门外透进日光。街道。你身后的电梯，仍旧死着。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "门外透进日光。街道。你身后的电梯，仍旧死着。"
+ },
+ "a:stairway8|framing|win|2": {
+  "postedit": "下了八层，你的记忆守住了每一层平台。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "下了八层，你的记忆守住了每一层平台。"
+ },
+ "a:stairway8|framing|win|3": {
+  "postedit": "一楼。",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "一楼。"
+ },
+ "a:stairway8|go_on": {
+  "postedit": "向下",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "向下"
+ },
+ "a:stairway8|label|door": {
+  "postedit": "防火门",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "防火门"
+ },
+ "a:stairway8|label|extinguisher": {
+  "postedit": "灭火器",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "灭火器"
+ },
+ "a:stairway8|label|figure": {
+  "postedit": "楼梯上的身影",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "楼梯上的身影"
+ },
+ "a:stairway8|label|lighting": {
+  "postedit": "灯光",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "灯光"
+ },
+ "a:stairway8|label|notice": {
+  "postedit": "电梯告示",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "电梯告示"
+ },
+ "a:stairway8|label|number": {
+  "postedit": "楼层号",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "楼层号"
+ },
+ "a:stairway8|label|railing": {
+  "postedit": "扶手",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "扶手"
+ },
+ "a:stairway8|label|sense": {
+  "postedit": "这种感觉",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "这种感觉"
+ },
+ "a:stairway8|label|sound": {
+  "postedit": "声音",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "声音"
+ },
+ "a:stairway8|label|stairs": {
+  "postedit": "下行的楼梯",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "下行的楼梯"
+ },
+ "a:stairway8|p:door|v:closed|0": {
+  "postedit": "通往这一层的防火门关着，门上的夹丝玻璃一片昏暗。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "通往这一层的防火门关着，门上的夹丝玻璃一片昏暗。"
+ },
+ "a:stairway8|p:door|v:closed|1": {
+  "postedit": "沉重的灰色防火门关着，立在平台上。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "沉重的灰色防火门关着，立在平台上。"
+ },
+ "a:stairway8|p:door|v:closed|2": {
+  "postedit": "通往这一层的门关着，一如它该有的样子。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "通往这一层的门关着，一如它该有的样子。"
+ },
+ "a:stairway8|p:door|x:ajar|0": {
+  "postedit": "防火门微微开着一道缝。一道黑缝，没有光。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "防火门微微开着一道缝。一道黑缝，没有光。"
+ },
+ "a:stairway8|p:door|x:ajar|1": {
+  "postedit": "沉重的门开着一道缝，它从来不会这样。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "沉重的门开着一道缝，它从来不会这样。"
+ },
+ "a:stairway8|p:door|x:ajar|2": {
+  "postedit": "这一次，防火门没有完全关上。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "这一次，防火门没有完全关上。"
+ },
+ "a:stairway8|p:door|x:handle|0": {
+  "postedit": "防火门如今没有把手了。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "防火门如今没有把手了。"
+ },
+ "a:stairway8|p:door|x:handle|1": {
+  "postedit": "门把手原来的位置，只剩几个光秃秃的孔。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "门把手原来的位置，只剩几个光秃秃的孔。"
+ },
+ "a:stairway8|p:door|x:handle|2": {
+  "postedit": "防火门上的把手不见了。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "防火门上的把手不见了。"
+ },
+ "a:stairway8|p:door|x:propped|0": {
+  "postedit": "防火门被撑得大开，对着一层漆黑。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "防火门被撑得大开，对着一层漆黑。"
+ },
+ "a:stairway8|p:door|x:propped|1": {
+  "postedit": "有人用东西把防火门卡开了。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "有人用东西把防火门卡开了。"
+ },
+ "a:stairway8|p:door|x:propped|2": {
+  "postedit": "门整个敞开着，却看不见有什么撑着它。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "门整个敞开着，却看不见有什么撑着它。"
+ },
+ "a:stairway8|p:door|x:window|0": {
+  "postedit": "门上的夹丝玻璃窗变黑了，被遮住了。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "门上的夹丝玻璃窗变黑了，被遮住了。"
+ },
+ "a:stairway8|p:door|x:window|1": {
+  "postedit": "防火门上的小窗从另一侧被挡住了。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "防火门上的小窗从另一侧被挡住了。"
+ },
+ "a:stairway8|p:door|x:window|2": {
+  "postedit": "有什么东西从里面抵着门上的玻璃。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "有什么东西从里面抵着门上的玻璃。"
+ },
+ "a:stairway8|p:extinguisher|v:present|0": {
+  "postedit": "一具灭火器挂在门旁的支架上。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "一具灭火器挂在门旁的支架上。"
+ },
+ "a:stairway8|p:extinguisher|v:present|1": {
+  "postedit": "红色的灭火器在墙上它的位置。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "红色的灭火器在墙上它的位置。"
+ },
+ "a:stairway8|p:extinguisher|v:present|2": {
+  "postedit": "平台的灭火器搁在它的挂钩上。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "平台的灭火器搁在它的挂钩上。"
+ },
+ "a:stairway8|p:extinguisher|x:floor|0": {
+  "postedit": "灭火器侧躺在地上。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "灭火器侧躺在地上。"
+ },
+ "a:stairway8|p:extinguisher|x:floor|1": {
+  "postedit": "灭火器被放在了平台上。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "灭火器被放在了平台上。"
+ },
+ "a:stairway8|p:extinguisher|x:floor|2": {
+  "postedit": "灭火器从挂钩上取下，松松地靠在墙边。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "灭火器从挂钩上取下，松松地靠在墙边。"
+ },
+ "a:stairway8|p:extinguisher|x:gauge|0": {
+  "postedit": "灭火器的压力表指在红区。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "灭火器的压力表指在红区。"
+ },
+ "a:stairway8|p:extinguisher|x:gauge|1": {
+  "postedit": "灭火器上的指针深深地落在红区。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "灭火器上的指针深深地落在红区。"
+ },
+ "a:stairway8|p:extinguisher|x:gauge|2": {
+  "postedit": "灭火器的表盘已跌到了空。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "灭火器的表盘已跌到了空。"
+ },
+ "a:stairway8|p:extinguisher|x:gone|0": {
+  "postedit": "灭火器的支架空着。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "灭火器的支架空着。"
+ },
+ "a:stairway8|p:extinguisher|x:gone|1": {
+  "postedit": "灭火器不见了，只剩下支架。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "灭火器不见了，只剩下支架。"
+ },
+ "a:stairway8|p:extinguisher|x:gone|2": {
+  "postedit": "这一次，墙上没有灭火器。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "这一次，墙上没有灭火器。"
+ },
+ "a:stairway8|p:figure|v:below|0": {
+  "postedit": "远远的下方，另一个人正沿楼梯间盘旋而下，始终领先一两段。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "远远的下方，另一个人正沿楼梯间盘旋而下，始终领先一两段。"
+ },
+ "a:stairway8|p:figure|v:below|1": {
+  "postedit": "一个身影在你前方顺着楼梯井往下走，始终保持着同样的距离。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "一个身影在你前方顺着楼梯井往下走，始终保持着同样的距离。"
+ },
+ "a:stairway8|p:figure|v:below|2": {
+  "postedit": "有人在下面的楼梯上，以你的步速往下走，从不靠近。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "有人在下面的楼梯上，以你的步速往下走，从不靠近。"
+ },
+ "a:stairway8|p:figure|x:ascending|0": {
+  "postedit": "那身影如今在往上爬，顺着楼梯朝你上来。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "那身影如今在往上爬，顺着楼梯朝你上来。"
+ },
+ "a:stairway8|p:figure|x:ascending|1": {
+  "postedit": "脚步声升了上来：下面的身影在往上，不是往下。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "脚步声升了上来：下面的身影在往上，不是往下。"
+ },
+ "a:stairway8|p:figure|x:ascending|2": {
+  "postedit": "楼梯上那一个转过身，正在往上来。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "楼梯上那一个转过身，正在往上来。"
+ },
+ "a:stairway8|p:figure|x:closer|0": {
+  "postedit": "楼梯上的身影比之前近得多，只在下面一段。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "楼梯上的身影比之前近得多，只在下面一段。"
+ },
+ "a:stairway8|p:figure|x:closer|1": {
+  "postedit": "往下走的身影已经拉近了距离，几乎到了你这层平台。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "往下走的身影已经拉近了距离，几乎到了你这层平台。"
+ },
+ "a:stairway8|p:figure|x:closer|2": {
+  "postedit": "下面那个人如今只在下面几级台阶。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "下面那个人如今只在下面几级台阶。"
+ },
+ "a:stairway8|p:figure|x:facing|0": {
+  "postedit": "下面的身影停了下来。它正抬头看着你。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "下面的身影停了下来。它正抬头看着你。"
+ },
+ "a:stairway8|p:figure|x:facing|1": {
+  "postedit": "楼梯井下方，那身影一动不动，仰起脸朝向你。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "楼梯井下方，那身影一动不动，仰起脸朝向你。"
+ },
+ "a:stairway8|p:figure|x:facing|2": {
+  "postedit": "楼梯上那一个此刻不再往下走了。它在注视着你。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "楼梯上那一个此刻不再往下走了。它在注视着你。"
+ },
+ "a:stairway8|p:figure|x:gone|0": {
+  "postedit": "下面的楼梯间空了。方才往下走的那个人不见了。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "下面的楼梯间空了。方才往下走的那个人不见了。"
+ },
+ "a:stairway8|p:figure|x:gone|1": {
+  "postedit": "这一次，楼梯上没有身影。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "这一次，楼梯上没有身影。"
+ },
+ "a:stairway8|p:figure|x:gone|2": {
+  "postedit": "你前方的那一个从楼梯井里消失了。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "你前方的那一个从楼梯井里消失了。"
+ },
+ "a:stairway8|p:figure|x:knows|0": {
+  "postedit": "下面的身影抬起头，扬起一只手，仿佛一直在等你。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "下面的身影抬起头，扬起一只手，仿佛一直在等你。"
+ },
+ "a:stairway8|p:figure|x:knows|1": {
+  "postedit": "那身影朝楼梯井上方无声地动着嘴。也许是「又来了」。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "那身影朝楼梯井上方无声地动着嘴。也许是「又来了」。"
+ },
+ "a:stairway8|p:figure|x:knows|2": {
+  "postedit": "它招手让你下去，缓慢而笃定，仿佛认识你。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "它招手让你下去，缓慢而笃定，仿佛认识你。"
+ },
+ "a:stairway8|p:lighting|v:steady|0": {
+  "postedit": "一盏罩着金属网的灯泡把平稳的光洒满平台。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "一盏罩着金属网的灯泡把平稳的光洒满平台。"
+ },
+ "a:stairway8|p:lighting|v:steady|1": {
+  "postedit": "楼梯间的灯在头顶均匀地亮着，一如往常。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "楼梯间的灯在头顶均匀地亮着，一如往常。"
+ },
+ "a:stairway8|p:lighting|v:steady|2": {
+  "postedit": "平台上的荧光灯带亮着惯常那种平板的白光。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "平台上的荧光灯带亮着惯常那种平板的白光。"
+ },
+ "a:stairway8|p:lighting|v:steady|3": {
+  "postedit": "这里的光和上面每一层平台落下来的一样。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "这里的光和上面每一层平台落下来的一样。"
+ },
+ "a:stairway8|p:lighting|x:dim|0": {
+  "postedit": "这层平台比它上面几层更暗。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "这层平台比它上面几层更暗。"
+ },
+ "a:stairway8|p:lighting|x:dim|1": {
+  "postedit": "这里的光已经罢了一半的工，角落始终黑着。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "这里的光已经罢了一半的工，角落始终黑着。"
+ },
+ "a:stairway8|p:lighting|x:dim|2": {
+  "postedit": "一片灰蒙蒙的昏暗笼在平台上。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "一片灰蒙蒙的昏暗笼在平台上。"
+ },
+ "a:stairway8|p:lighting|x:flicker|0": {
+  "postedit": "罩网的灯泡断续闪了几下，随后稳定。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "罩网的灯泡断续闪了几下，随后稳定。"
+ },
+ "a:stairway8|p:lighting|x:flicker|1": {
+  "postedit": "楼梯间的灯以一种前所未有的方式闪烁。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "楼梯间的灯以一种前所未有的方式闪烁。"
+ },
+ "a:stairway8|p:lighting|x:flicker|2": {
+  "postedit": "头顶的灯跳了一下，又亮了回来。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "头顶的灯跳了一下，又亮了回来。"
+ },
+ "a:stairway8|p:lighting|x:red|0": {
+  "postedit": "平台被红光照着，一盏你不记得的应急灯泡。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "平台被红光照着，一盏你不记得的应急灯泡。"
+ },
+ "a:stairway8|p:lighting|x:red|1": {
+  "postedit": "一切都笼在低沉的红色应急光里。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "一切都笼在低沉的红色应急光里。"
+ },
+ "a:stairway8|p:lighting|x:red|2": {
+  "postedit": "白光不见了，只剩一盏红灯泡。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "白光不见了，只剩一盏红灯泡。"
+ },
+ "a:stairway8|p:notice|v:out|0": {
+  "postedit": "电梯上贴着一张告示，写着「故障停用，请走楼梯」。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "电梯上贴着一张告示，写着「故障停用，请走楼梯」。"
+ },
+ "a:stairway8|p:notice|v:out|1": {
+  "postedit": "那张检修告示还在：电梯故障。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "那张检修告示还在：电梯故障。"
+ },
+ "a:stairway8|p:notice|v:out|2": {
+  "postedit": "「故障停用」，贴在电梯门上的牌子这样写着。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "「故障停用」，贴在电梯门上的牌子这样写着。"
+ },
+ "a:stairway8|p:notice|x:arrow|0": {
+  "postedit": "告示上的箭头指向上，不是下。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "告示上的箭头指向上，不是下。"
+ },
+ "a:stairway8|p:notice|x:arrow|1": {
+  "postedit": "牌子上的箭头翻转过来，指回楼梯上方。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "牌子上的箭头翻转过来，指回楼梯上方。"
+ },
+ "a:stairway8|p:notice|x:arrow|2": {
+  "postedit": "告示如今指引你向上。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "告示如今指引你向上。"
+ },
+ "a:stairway8|p:notice|x:gone|0": {
+  "postedit": "电梯告示不见了。只有光秃秃的金属门。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "电梯告示不见了。只有光秃秃的金属门。"
+ },
+ "a:stairway8|p:notice|x:gone|1": {
+  "postedit": "这一次，电梯上没有牌子。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "这一次，电梯上没有牌子。"
+ },
+ "a:stairway8|p:notice|x:gone|2": {
+  "postedit": "那张检修告示被取下了。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "那张检修告示被取下了。"
+ },
+ "a:stairway8|p:notice|x:service|0": {
+  "postedit": "告示如今写着「电梯运行中」。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "告示如今写着「电梯运行中」。"
+ },
+ "a:stairway8|p:notice|x:service|1": {
+  "postedit": "牌子上说电梯又能用了。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "牌子上说电梯又能用了。"
+ },
+ "a:stairway8|p:notice|x:service|2": {
+  "postedit": "「故障停用」变成了「恢复运行」。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "「故障停用」变成了「恢复运行」。"
+ },
+ "a:stairway8|p:notice|x:wording|0": {
+  "postedit": "告示写着「请勿使用楼梯」。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "告示写着「请勿使用楼梯」。"
+ },
+ "a:stairway8|p:notice|x:wording|1": {
+  "postedit": "牌子警告着「楼梯封闭」，它以前从没这样。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "牌子警告着「楼梯封闭」，它以前从没这样。"
+ },
+ "a:stairway8|p:notice|x:wording|2": {
+  "postedit": "告示如今叫你根本别走楼梯。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "告示如今叫你根本别走楼梯。"
+ },
+ "a:stairway8|p:number|v:eight|0": {
+  "postedit": "一个大大的漆写的8标在平台的墙上。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "一个大大的漆写的8标在平台的墙上。"
+ },
+ "a:stairway8|p:number|v:eight|1": {
+  "postedit": "楼层号8用镂版刷印在混凝土上。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "楼层号8用镂版刷印在混凝土上。"
+ },
+ "a:stairway8|p:number|v:eight|2": {
+  "postedit": "墙上漆着「8」，笔画下方凝着几道漆的垂痕。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "墙上漆着「8」，笔画下方凝着几道漆的垂痕。"
+ },
+ "a:stairway8|p:number|v:eight|3": {
+  "postedit": "墙上写着8，和上一层平台一样。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "墙上写着8，和上一层平台一样。"
+ },
+ "a:stairway8|p:number|x:basement|0": {
+  "postedit": "墙上写着B。地下室。你离它还远着呢。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "墙上写着B。地下室。你离它还远着呢。"
+ },
+ "a:stairway8|p:number|x:basement|1": {
+  "postedit": "数字不见了，一个漆写的「B」立在它的位置。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "数字不见了，一个漆写的「B」立在它的位置。"
+ },
+ "a:stairway8|p:number|x:basement|2": {
+  "postedit": "镂版刷印着B，可你才刚开始往下走。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "镂版刷印着B，可你才刚开始往下走。"
+ },
+ "a:stairway8|p:number|x:faded|0": {
+  "postedit": "漆写的数字已褪成一个灰色的残影。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "漆写的数字已褪成一个灰色的残影。"
+ },
+ "a:stairway8|p:number|x:faded|1": {
+  "postedit": "有人把数字擦掉了一半。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "有人把数字擦掉了一半。"
+ },
+ "a:stairway8|p:number|x:faded|2": {
+  "postedit": "墙上的8几乎快没了。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "墙上的8几乎快没了。"
+ },
+ "a:stairway8|p:number|x:reversed|0": {
+  "postedit": "8是反着漆的，仿佛镜中所见。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "8是反着漆的，仿佛镜中所见。"
+ },
+ "a:stairway8|p:number|x:reversed|1": {
+  "postedit": "楼层号左右镜像反了。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "楼层号左右镜像反了。"
+ },
+ "a:stairway8|p:number|x:reversed|2": {
+  "postedit": "镂版刷印的数字读起来是反的。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "镂版刷印的数字读起来是反的。"
+ },
+ "a:stairway8|p:number|x:wrong|0": {
+  "postedit": "墙上写着7。它一向写的是8。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "墙上写着7。它一向写的是8。"
+ },
+ "a:stairway8|p:number|x:wrong|1": {
+  "postedit": "漆写的数字如今是6，不是8。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "漆写的数字如今是6，不是8。"
+ },
+ "a:stairway8|p:number|x:wrong|2": {
+  "postedit": "楼层号变了：上面写着9。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "楼层号变了：上面写着9。"
+ },
+ "a:stairway8|p:railing|v:cold|0": {
+  "postedit": "钢制扶手在你手下冰冷而绵延不断。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "钢制扶手在你手下冰冷而绵延不断。"
+ },
+ "a:stairway8|p:railing|v:cold|1": {
+  "postedit": "漆过的扶手正在它一向所在的位置。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "漆过的扶手正在它一向所在的位置。"
+ },
+ "a:stairway8|p:railing|v:cold|2": {
+  "postedit": "你的手搭上扶手，沿着这段楼梯连绵不断。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "你的手搭上扶手，沿着这段楼梯连绵不断。"
+ },
+ "a:stairway8|p:railing|x:gap|0": {
+  "postedit": "临着落差的一段扶手不见了。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "临着落差的一段扶手不见了。"
+ },
+ "a:stairway8|p:railing|x:gap|1": {
+  "postedit": "扶手上有一处缺口，一截被拆掉了。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "扶手上有一处缺口，一截被拆掉了。"
+ },
+ "a:stairway8|p:railing|x:gap|2": {
+  "postedit": "扶手有一部分就是不在那里。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "扶手有一部分就是不在那里。"
+ },
+ "a:stairway8|p:railing|x:paint|0": {
+  "postedit": "扶手和上面几段楼梯的颜色不一样。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "扶手和上面几段楼梯的颜色不一样。"
+ },
+ "a:stairway8|p:railing|x:paint|1": {
+  "postedit": "有人重新漆过了这一段扶手。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "有人重新漆过了这一段扶手。"
+ },
+ "a:stairway8|p:railing|x:paint|2": {
+  "postedit": "扶手的漆在这里是绿色，不是灰色。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "扶手的漆在这里是绿色，不是灰色。"
+ },
+ "a:stairway8|p:railing|x:wet|0": {
+  "postedit": "扶手是湿的，尽管没有什么滴在上面。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "扶手是湿的，尽管没有什么滴在上面。"
+ },
+ "a:stairway8|p:railing|x:wet|1": {
+  "postedit": "你的手从扶手上离开时是潮的。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "你的手从扶手上离开时是潮的。"
+ },
+ "a:stairway8|p:railing|x:wet|2": {
+  "postedit": "扶手在你掌下滑腻。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "扶手在你掌下滑腻。"
+ },
+ "a:stairway8|p:sense|v:steady|0": {
+  "postedit": "楼梯井感觉和一向一样深。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "楼梯井感觉和一向一样深。"
+ },
+ "a:stairway8|p:sense|v:steady|1": {
+  "postedit": "你怀着同样的戒备，一段又一段地往下走。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "你怀着同样的戒备，一段又一段地往下走。"
+ },
+ "a:stairway8|p:sense|v:steady|2": {
+  "postedit": "一切都显得平常，就这一切所能有的那种平常而言。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "一切都显得平常，就这一切所能有的那种平常而言。"
+ },
+ "a:stairway8|p:sense|x:deeper|0": {
+  "postedit": "楼梯井感觉比应有的更深，一楼更远了。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "楼梯井感觉比应有的更深，一楼更远了。"
+ },
+ "a:stairway8|p:sense|x:deeper|1": {
+  "postedit": "你觉得自己下的远不止八层。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "你觉得自己下的远不止八层。"
+ },
+ "a:stairway8|p:sense|x:deeper|2": {
+  "postedit": "底部似乎又往远处退了。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "底部似乎又往远处退了。"
+ },
+ "a:stairway8|p:sense|x:forget|0": {
+  "postedit": "有那么一瞬，你记不清自己经过了多少层平台。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "有那么一瞬，你记不清自己经过了多少层平台。"
+ },
+ "a:stairway8|p:sense|x:forget|1": {
+  "postedit": "你数不清头顶上方的楼梯段，这让你害怕。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "你数不清头顶上方的楼梯段，这让你害怕。"
+ },
+ "a:stairway8|p:sense|x:forget|2": {
+  "postedit": "你记不起自己是从哪一层开始的。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "你记不起自己是从哪一层开始的。"
+ },
+ "a:stairway8|p:sense|x:up|0": {
+  "postedit": "有一瞬你笃定自己一直在往上爬，而不是往下。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "有一瞬你笃定自己一直在往上爬，而不是往下。"
+ },
+ "a:stairway8|p:sense|x:up|1": {
+  "postedit": "一种错乱的感觉攫住你：下，一直都是上。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "一种错乱的感觉攫住你：下，一直都是上。"
+ },
+ "a:stairway8|p:sense|x:up|2": {
+  "postedit": "你短暂而冰冷地觉得，自己走错了方向。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "你短暂而冰冷地觉得，自己走错了方向。"
+ },
+ "a:stairway8|p:sound|v:quiet|0": {
+  "postedit": "你的脚步声沿楼梯井向上回响，渐渐消散。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "你的脚步声沿楼梯井向上回响，渐渐消散。"
+ },
+ "a:stairway8|p:sound|v:quiet|1": {
+  "postedit": "楼梯间很静，只有你自己的脚步声。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "楼梯间很静，只有你自己的脚步声。"
+ },
+ "a:stairway8|p:sound|v:quiet|2": {
+  "postedit": "远远的下方，大楼兀自嗡鸣。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "远远的下方，大楼兀自嗡鸣。"
+ },
+ "a:stairway8|p:sound|x:drip|0": {
+  "postedit": "楼梯井下方某处有水在滴。滴答。滴答。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "楼梯井下方某处有水在滴。滴答。滴答。"
+ },
+ "a:stairway8|p:sound|x:drip|1": {
+  "postedit": "缓慢的滴水声从下方回响上来。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "缓慢的滴水声从下方回响上来。"
+ },
+ "a:stairway8|p:sound|x:drip|2": {
+  "postedit": "有什么在滴水，就在下面几层。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "有什么在滴水，就在下面几层。"
+ },
+ "a:stairway8|p:sound|x:footsteps|0": {
+  "postedit": "脚步声朝你爬上来，随后停下。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "脚步声朝你爬上来，随后停下。"
+ },
+ "a:stairway8|p:sound|x:footsteps|1": {
+  "postedit": "你听见下面一段楼梯上，有不属于你的脚步声。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "你听见下面一段楼梯上，有不属于你的脚步声。"
+ },
+ "a:stairway8|p:sound|x:footsteps|2": {
+  "postedit": "有那么一瞬，楼梯上还有别人。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "有那么一瞬，楼梯上还有别人。"
+ },
+ "a:stairway8|p:sound|x:silence|0": {
+  "postedit": "大楼的嗡鸣停了。死一般的安静。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "大楼的嗡鸣停了。死一般的安静。"
+ },
+ "a:stairway8|p:sound|x:silence|1": {
+  "postedit": "四下里完全寂静。太寂静了。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "四下里完全寂静。太寂静了。"
+ },
+ "a:stairway8|p:sound|x:silence|2": {
+  "postedit": "连你脚步的回声也仿佛消失了。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "连你脚步的回声也仿佛消失了。"
+ },
+ "a:stairway8|p:sound|x:slam|0": {
+  "postedit": "远远的下方一扇门砰地关上，随后是寂静。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "远远的下方一扇门砰地关上，随后是寂静。"
+ },
+ "a:stairway8|p:sound|x:slam|1": {
+  "postedit": "你脚下某处，一扇门砰地关上。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "你脚下某处，一扇门砰地关上。"
+ },
+ "a:stairway8|p:sound|x:slam|2": {
+  "postedit": "下面几层，一扇沉重的门关上了。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "下面几层，一扇沉重的门关上了。"
+ },
+ "a:stairway8|p:stairs|v:clear|0": {
+  "postedit": "下行的一段楼梯畅通无阻，台阶平整而干燥。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "下行的一段楼梯畅通无阻，台阶平整而干燥。"
+ },
+ "a:stairway8|p:stairs|v:clear|1": {
+  "postedit": "楼梯一如往常地向下延伸，上面什么也没有。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "楼梯一如往常地向下延伸，上面什么也没有。"
+ },
+ "a:stairway8|p:stairs|v:clear|2": {
+  "postedit": "下一段楼梯向下落去，干净而空荡。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "下一段楼梯向下落去，干净而空荡。"
+ },
+ "a:stairway8|p:stairs|x:debris|0": {
+  "postedit": "下面的台阶上留着什么东西，也许是个包。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "下面的台阶上留着什么东西，也许是个包。"
+ },
+ "a:stairway8|p:stairs|x:debris|1": {
+  "postedit": "下一段楼梯上散落着杂物。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "下一段楼梯上散落着杂物。"
+ },
+ "a:stairway8|p:stairs|x:debris|2": {
+  "postedit": "一个黑影蹲在楼梯半途。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "一个黑影蹲在楼梯半途。"
+ },
+ "a:stairway8|p:stairs|x:missing|0": {
+  "postedit": "下面一段楼梯里缺了一级台阶。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "下面一段楼梯里缺了一级台阶。"
+ },
+ "a:stairway8|p:stairs|x:missing|1": {
+  "postedit": "楼梯上本该有一级台阶的地方空着一道缺口。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "楼梯上本该有一级台阶的地方空着一道缺口。"
+ },
+ "a:stairway8|p:stairs|x:missing|2": {
+  "postedit": "下行的一段楼梯少了一级踏板。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "下行的一段楼梯少了一级踏板。"
+ },
+ "a:stairway8|p:stairs|x:up|0": {
+  "postedit": "刷印在台阶上的箭头指向上，不是下。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "刷印在台阶上的箭头指向上，不是下。"
+ },
+ "a:stairway8|p:stairs|x:up|1": {
+  "postedit": "漆在楼梯上的方向反了过来。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "漆在楼梯上的方向反了过来。"
+ },
+ "a:stairway8|p:stairs|x:up|2": {
+  "postedit": "台阶如今仿佛通向上方，尽管你正在往下走。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "台阶如今仿佛通向上方，尽管你正在往下走。"
+ },
+ "a:stairway8|p:stairs|x:wet|0": {
+  "postedit": "下面的台阶在光里泛着湿亮。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "下面的台阶在光里泛着湿亮。"
+ },
+ "a:stairway8|p:stairs|x:wet|1": {
+  "postedit": "下一段楼梯被水弄得滑腻。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "下一段楼梯被水弄得滑腻。"
+ },
+ "a:stairway8|p:stairs|x:wet|2": {
+  "postedit": "下行的楼梯湿了，尽管你没见有什么洒过。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "下行的楼梯湿了，尽管你没见有什么洒过。"
+ },
+ "a:stairway8|progress": {
+  "postedit": "{floor}层   ·   已下 {level}/{goal}",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "{floor}层   ·   已下 {level}/{goal}"
+ },
+ "a:stairway8|share_prompt": {
+  "postedit": "让下面的门开着。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "让下面的门开着。"
+ },
+ "a:stairway8|tagline": {
+  "postedit": "电梯坏了。八层楼往下，一次一层平台。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "电梯坏了。八层楼往下，一次一层平台。"
+ },
+ "a:stairway8|title_main": {
+  "postedit": "楼梯8",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "楼梯8"
+ },
+ "a:stairway8|title|0": {
+  "postedit": "楼梯8",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "楼梯8"
+ },
+ "a:stairway8|title|1": {
+  "postedit": "楼梯8",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "楼梯8"
+ },
+ "a:stairway8|title|2": {
+  "postedit": "楼梯8",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "楼梯8"
+ },
+ "a:stairway8|title|3": {
+  "postedit": "楼梯8",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "楼梯8"
+ },
+ "a:stairway8|title|4": {
+  "postedit": "楼梯井8",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "楼梯井8"
+ },
+ "a:stairway8|title|5": {
+  "postedit": "楼梯八",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "楼梯八"
+ },
+ "a:stairway8|title|6": {
+  "postedit": "楼梯8",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "楼梯8"
+ },
+ "a:stairway8|title|7": {
+  "postedit": "楼梯8",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "楼梯8"
+ },
+ "a:stairway8|turn_back": {
+  "postedit": "折返向上",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "折返向上"
+ }
+}

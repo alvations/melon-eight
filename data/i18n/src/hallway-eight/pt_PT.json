@@ -1,0 +1,1106 @@
+{
+ "a:hallway-eight|act2|end|lobby|0": {
+  "postedit": "Empurras a porta iluminada à espera da rua.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Empurras a porta iluminada à espera da rua."
+ },
+ "a:hallway-eight|act2|end|lobby|1": {
+  "postedit": "É o átrio onde começaste, o vidro ainda trancado, a noite ainda negra por trás.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "É o átrio onde começaste, o vidro ainda trancado, a noite ainda negra por trás."
+ },
+ "a:hallway-eight|act2|end|lobby|2": {
+  "postedit": "O corredor que percorreste simplesmente desapareceu. Estás de volta ao início de um edifício que já não tem saída.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "O corredor que percorreste simplesmente desapareceu. Estás de volta ao início de um edifício que já não tem saída."
+ },
+ "a:hallway-eight|act2|exit|action": {
+  "postedit": "atravessá-la",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "atravessá-la"
+ },
+ "a:hallway-eight|act2|exit|tempt": {
+  "postedit": "Uma porta à frente está aberta, um EXIT iluminado a zumbir verde por cima. A rua deve ser logo ali.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Uma porta à frente está aberta, um EXIT iluminado a zumbir verde por cima. A rua deve ser logo ali."
+ },
+ "a:hallway-eight|act2|flashback|0": {
+  "postedit": "Uma luz de secretária ainda arde umas portas atrás. Uma chávena de café que arrefeceu no seu próprio anel. O relógio marca uma hora que o relógio não consegue marcar.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Uma luz de secretária ainda arde umas portas atrás. Uma chávena de café que arrefeceu no seu próprio anel. O relógio marca uma hora que o relógio não consegue marcar."
+ },
+ "a:hallway-eight|act2|flashback|1": {
+  "postedit": "Um telemóvel vibra numa sala a que ainda não chegaste. O nome no ecrã é quase o teu.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Um telemóvel vibra numa sala a que ainda não chegaste. O nome no ecrã é quase o teu."
+ },
+ "a:hallway-eight|act2|flashback|2": {
+  "postedit": "Estiveste às portas do átrio às seis. Voltaste atrás por algo de que já te esqueceste.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Estiveste às portas do átrio às seis. Voltaste atrás por algo de que já te esqueceste."
+ },
+ "a:hallway-eight|act2|flashback|3": {
+  "postedit": "O homem de cinzento segurou a porta corta-fogo uma vez, há muito tempo, e olhou para ti como se olha para alguém que se está prestes a deixar para trás.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "O homem de cinzento segurou a porta corta-fogo uma vez, há muito tempo, e olhou para ti como se olha para alguém que se está prestes a deixar para trás."
+ },
+ "a:hallway-eight|act2|flashback|4": {
+  "postedit": "Já contaste até oito antes. Tens quase a certeza. Tens quase a certeza de que nunca lá chegaste.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Já contaste até oito antes. Tens quase a certeza. Tens quase a certeza de que nunca lá chegaste."
+ },
+ "a:hallway-eight|act2|t:camera|fold|0": {
+  "postedit": "A câmara segue a tua mão de volta pelo caminho por onde vieste, e os teus pés seguem a câmara, e estás de novo no início.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "A câmara segue a tua mão de volta pelo caminho por onde vieste, e os teus pés seguem a câmara, e estás de novo no início."
+ },
+ "a:hallway-eight|act2|t:camera|herring|0": {
+  "postedit": "Uma luz vermelha de que não te lembras pisca uma vez. Provavelmente esteve sempre acesa.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Uma luz vermelha de que não te lembras pisca uma vez. Provavelmente esteve sempre acesa."
+ },
+ "a:hallway-eight|act2|t:camera|herring|1": {
+  "postedit": "Por um segundo a lente embacia, como se alguém lhe soprasse por dentro.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Por um segundo a lente embacia, como se alguém lhe soprasse por dentro."
+ },
+ "a:hallway-eight|act2|t:camera|reaction|0": {
+  "postedit": "Roda, sem pressa, e fixa-se em ti. Nada mais se mexe.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Roda, sem pressa, e fixa-se em ti. Nada mais se mexe."
+ },
+ "a:hallway-eight|act2|t:camera|reaction|1": {
+  "postedit": "A lente inclina-se até ao nível dos teus olhos e fica ali, paciente.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "A lente inclina-se até ao nível dos teus olhos e fica ali, paciente."
+ },
+ "a:hallway-eight|act2|t:camera|verb": {
+  "postedit": "acenar à câmara",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "acenar à câmara"
+ },
+ "a:hallway-eight|act2|t:door|fold|0": {
+  "postedit": "Abre para um troço de corredor que já percorreste. O número na tua cabeça desapareceu. Estás de novo no início.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Abre para um troço de corredor que já percorreste. O número na tua cabeça desapareceu. Estás de novo no início."
+ },
+ "a:hallway-eight|act2|t:door|herring|0": {
+  "postedit": "O metal está quente, mais quente do que uma porta trancada devia estar. Não deve querer dizer nada.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "O metal está quente, mais quente do que uma porta trancada devia estar. Não deve querer dizer nada."
+ },
+ "a:hallway-eight|act2|t:door|herring|1": {
+  "postedit": "Há uma corrente de ar por baixo dela que antes não estava. Ou estava, e nunca reparaste.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Há uma corrente de ar por baixo dela que antes não estava. Ou estava, e nunca reparaste."
+ },
+ "a:hallway-eight|act2|t:door|reaction|0": {
+  "postedit": "A maçaneta roda um pouco e para, como se a segurassem do outro lado.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "A maçaneta roda um pouco e para, como se a segurassem do outro lado."
+ },
+ "a:hallway-eight|act2|t:door|reaction|1": {
+  "postedit": "Encostas-lhe o ouvido. Algo do outro lado silencia, como uma sala silencia quando entras.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Encostas-lhe o ouvido. Algo do outro lado silencia, como uma sala silencia quando entras."
+ },
+ "a:hallway-eight|act2|t:door|verb": {
+  "postedit": "experimentar a porta de serviço",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "experimentar a porta de serviço"
+ },
+ "a:hallway-eight|act2|t:figure|fold|0": {
+  "postedit": "Ele vira-se, por fim, e é um rosto que conheces bem demais, e vê-lo devolve-te ao início.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Ele vira-se, por fim, e é um rosto que conheces bem demais, e vê-lo devolve-te ao início."
+ },
+ "a:hallway-eight|act2|t:figure|herring|0": {
+  "postedit": "Por um momento o fato dele parece o teu. Cinzento é cinzento.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Por um momento o fato dele parece o teu. Cinzento é cinzento."
+ },
+ "a:hallway-eight|act2|t:figure|herring|1": {
+  "postedit": "Está um pouco mais perto do que quando o chamaste. Foi só o caminhar, de certeza.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Está um pouco mais perto do que quando o chamaste. Foi só o caminhar, de certeza."
+ },
+ "a:hallway-eight|act2|t:figure|reaction|0": {
+  "postedit": "A tua voz desce o corredor e não volta. Ele não se vira.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "A tua voz desce o corredor e não volta. Ele não se vira."
+ },
+ "a:hallway-eight|act2|t:figure|reaction|1": {
+  "postedit": "Ele hesita, meio passo, como se hesita ao ouvir o próprio nome no meio da multidão. Depois segue em frente.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Ele hesita, meio passo, como se hesita ao ouvir o próprio nome no meio da multidão. Depois segue em frente."
+ },
+ "a:hallway-eight|act2|t:figure|verb": {
+  "postedit": "chamar o homem de cinzento",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "chamar o homem de cinzento"
+ },
+ "a:hallway-eight|act2|t:poster|fold|0": {
+  "postedit": "Aproximas-te até só existirem os pontos, e quando te afastas o corredor reiniciou-se à tua volta.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Aproximas-te até só existirem os pontos, e quando te afastas o corredor reiniciou-se à tua volta."
+ },
+ "a:hallway-eight|act2|t:poster|herring|0": {
+  "postedit": "A tinta ainda está pegajosa. Acabada de imprimir. Não quer dizer nada, e sabes que não quer dizer nada, e ainda assim a tua mão recua.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "A tinta ainda está pegajosa. Acabada de imprimir. Não quer dizer nada, e sabes que não quer dizer nada, e ainda assim a tua mão recua."
+ },
+ "a:hallway-eight|act2|t:poster|herring|1": {
+  "postedit": "As cores estão vivas demais para o desbotado que parecia há um instante. Um truque da luz.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "As cores estão vivas demais para o desbotado que parecia há um instante. Um truque da luz."
+ },
+ "a:hallway-eight|act2|t:poster|reaction|0": {
+  "postedit": "De perto, a praia é apenas pontos de tinta. Um sítio aonde ias ir.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "De perto, a praia é apenas pontos de tinta. Um sítio aonde ias ir."
+ },
+ "a:hallway-eight|act2|t:poster|reaction|1": {
+  "postedit": "O canto foi descolado e colado de novo tantas vezes que o papel ficou mole.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "O canto foi descolado e colado de novo tantas vezes que o papel ficou mole."
+ },
+ "a:hallway-eight|act2|t:poster|verb": {
+  "postedit": "olhar de perto para o cartaz",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "olhar de perto para o cartaz"
+ },
+ "a:hallway-eight|adaptive|long_look|0": {
+  "postedit": "Ficas a olhar mais tempo do que o costume. Não te lembras de teres decidido parar.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Ficas a olhar mais tempo do que o costume. Não te lembras de teres decidido parar."
+ },
+ "a:hallway-eight|adaptive|long_look|1": {
+  "postedit": "Dás por ti imóvel. Há quanto tempo?",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Dás por ti imóvel. Há quanto tempo?"
+ },
+ "a:hallway-eight|adaptive|long_look|2": {
+  "postedit": "O tempo escorrega. Estavas a olhar fixamente e não sabes há quanto tempo.",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "O tempo escorrega. Estavas a olhar fixamente e não sabes há quanto tempo."
+ },
+ "a:hallway-eight|adaptive|repeat_inspect|0": {
+  "postedit": "Olhas de novo para {THING}. Não sabes bem porquê.",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "Olhas de novo para {THING}. Não sabes bem porquê."
+ },
+ "a:hallway-eight|adaptive|repeat_inspect|1": {
+  "postedit": "O teu olhar vai direto para {THING}, como agora parece ser sempre.",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "O teu olhar vai direto para {THING}, como agora parece ser sempre."
+ },
+ "a:hallway-eight|adaptive|repeat_inspect|2": {
+  "postedit": "De novo, o teu olhar pousa sobre {THING}.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "De novo, o teu olhar pousa sobre {THING}."
+ },
+ "a:hallway-eight|attempt": {
+  "postedit": "{n} vezes por este corredor, e desta vez a porta abriu.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "{n} vezes por este corredor, e desta vez a porta abriu."
+ },
+ "a:hallway-eight|attempt_first": {
+  "postedit": "À primeira, e o corredor deixou-te ir.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "À primeira, e o corredor deixou-te ir."
+ },
+ "a:hallway-eight|framing|cutscene|0": {
+  "postedit": "Algo no corredor tinha mudado, e passaste por ele sem ver.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Algo no corredor tinha mudado, e passaste por ele sem ver."
+ },
+ "a:hallway-eight|framing|cutscene|1": {
+  "postedit": "Se um troço não estiver exatamente como o recordas, volta para trás. Se estiver, segue em frente.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Se um troço não estiver exatamente como o recordas, volta para trás. Se estiver, segue em frente."
+ },
+ "a:hallway-eight|framing|intro|0": {
+  "postedit": "DEPOIS DO HORÁRIO",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "DEPOIS DO HORÁRIO"
+ },
+ "a:hallway-eight|framing|intro|2": {
+  "postedit": "Ficaste até demasiado tarde. As portas do átrio estão trancadas, as luzes meio apagadas.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Ficaste até demasiado tarde. As portas do átrio estão trancadas, as luzes meio apagadas."
+ },
+ "a:hallway-eight|framing|intro|3": {
+  "postedit": "Um letreiro escrito à mão está pendurado por cima: SAÍDA DE EMERGÊNCIA, USE O CORREDOR.",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "Um letreiro escrito à mão está pendurado por cima: SAÍDA DE EMERGÊNCIA, USE O CORREDOR."
+ },
+ "a:hallway-eight|framing|intro|5": {
+  "postedit": "Enquanto um troço de corredor estiver exatamente como o recordas, avança.",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "Enquanto um troço de corredor estiver exatamente como o recordas, avança."
+ },
+ "a:hallway-eight|framing|intro|6": {
+  "postedit": "Se algo mudou, o caminho dobrou-se sobre si. Volta pelo caminho por onde vieste.",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "Se algo mudou, o caminho dobrou-se sobre si. Volta pelo caminho por onde vieste."
+ },
+ "a:hallway-eight|framing|intro|8": {
+  "postedit": "A oitava porta corta-fogo dá para a saída.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "A oitava porta corta-fogo dá para a saída."
+ },
+ "a:hallway-eight|framing|intro|9": {
+  "postedit": "Perde o fio ao que viste, e o edifício devolve-te ao início.",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "Perde o fio ao que viste, e o edifício devolve-te ao início."
+ },
+ "a:hallway-eight|framing|win|0": {
+  "postedit": "A oitava porta corta-fogo cede sob as tuas mãos.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "A oitava porta corta-fogo cede sob as tuas mãos."
+ },
+ "a:hallway-eight|framing|win|1": {
+  "postedit": "Ar frio. Uma escadaria a descer para a rua. A cidade, ainda ali.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Ar frio. Uma escadaria a descer para a rua. A cidade, ainda ali."
+ },
+ "a:hallway-eight|framing|win|2": {
+  "postedit": "Começavas a pensar que o corredor não tinha fim.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Começavas a pensar que o corredor não tinha fim."
+ },
+ "a:hallway-eight|framing|win|3": {
+  "postedit": "Estás lá fora.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "Estás lá fora."
+ },
+ "a:hallway-eight|go_on": {
+  "postedit": "Avançar",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "Avançar"
+ },
+ "a:hallway-eight|label|camera": {
+  "postedit": "a câmara",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "a câmara"
+ },
+ "a:hallway-eight|label|door": {
+  "postedit": "a porta de serviço",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "a porta de serviço"
+ },
+ "a:hallway-eight|label|figure": {
+  "postedit": "o homem no corredor",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "o homem no corredor"
+ },
+ "a:hallway-eight|label|floor": {
+  "postedit": "o chão",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "o chão"
+ },
+ "a:hallway-eight|label|lighting": {
+  "postedit": "a iluminação",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "a iluminação"
+ },
+ "a:hallway-eight|label|poster": {
+  "postedit": "o cartaz",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "o cartaz"
+ },
+ "a:hallway-eight|label|sense": {
+  "postedit": "esta sensação",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "esta sensação"
+ },
+ "a:hallway-eight|label|sign": {
+  "postedit": "o letreiro de saída",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "o letreiro de saída"
+ },
+ "a:hallway-eight|label|sound": {
+  "postedit": "o som",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "o som"
+ },
+ "a:hallway-eight|p:camera|v:away|0": {
+  "postedit": "Uma pequena câmara de videovigilância no canto aponta para o fundo do corredor.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Uma pequena câmara de videovigilância no canto aponta para o fundo do corredor."
+ },
+ "a:hallway-eight|p:camera|v:away|1": {
+  "postedit": "A câmara de segurança vigia o outro extremo, virada para longe de ti.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "A câmara de segurança vigia o outro extremo, virada para longe de ti."
+ },
+ "a:hallway-eight|p:camera|v:away|2": {
+  "postedit": "Lá em cima no canto, a câmara aponta em frente, como sempre.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Lá em cima no canto, a câmara aponta em frente, como sempre."
+ },
+ "a:hallway-eight|p:camera|x:atyou|0": {
+  "postedit": "A câmara de videovigilância voltou-se. Aponta diretamente para ti.",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "A câmara de videovigilância voltou-se. Aponta diretamente para ti."
+ },
+ "a:hallway-eight|p:camera|x:atyou|1": {
+  "postedit": "A câmara de segurança está agora inclinada para baixo, sobre ti.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "A câmara de segurança está agora inclinada para baixo, sobre ti."
+ },
+ "a:hallway-eight|p:camera|x:atyou|2": {
+  "postedit": "A câmara no canto está virada para ti, a lente ao nível dos teus olhos.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "A câmara no canto está virada para ti, a lente ao nível dos teus olhos."
+ },
+ "a:hallway-eight|p:camera|x:red|0": {
+  "postedit": "Uma luz vermelha pisca na câmara. Nunca costumava piscar.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Uma luz vermelha pisca na câmara. Nunca costumava piscar."
+ },
+ "a:hallway-eight|p:camera|x:red|1": {
+  "postedit": "A luz de gravação da câmara brilha vermelha pela primeira vez.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "A luz de gravação da câmara brilha vermelha pela primeira vez."
+ },
+ "a:hallway-eight|p:camera|x:red|2": {
+  "postedit": "O pequeno LED na câmara pulsa vermelho.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "O pequeno LED na câmara pulsa vermelho."
+ },
+ "a:hallway-eight|p:door|v:closed|0": {
+  "postedit": "Uma porta de serviço cinzenta está fechada na parede da esquerda.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Uma porta de serviço cinzenta está fechada na parede da esquerda."
+ },
+ "a:hallway-eight|p:door|v:closed|1": {
+  "postedit": "A porta de serviço à tua esquerda está fechada, como de costume.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "A porta de serviço à tua esquerda está fechada, como de costume."
+ },
+ "a:hallway-eight|p:door|v:closed|2": {
+  "postedit": "Ali está a porta de serviço, bem fechada.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Ali está a porta de serviço, bem fechada."
+ },
+ "a:hallway-eight|p:door|x:ajar|0": {
+  "postedit": "A porta de serviço está ligeiramente entreaberta. Escuridão lá dentro.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "A porta de serviço está ligeiramente entreaberta. Escuridão lá dentro."
+ },
+ "a:hallway-eight|p:door|x:ajar|1": {
+  "postedit": "A porta de serviço está aberta uma fresta, apesar de nunca a teres visto aberta.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "A porta de serviço está aberta uma fresta, apesar de nunca a teres visto aberta."
+ },
+ "a:hallway-eight|p:door|x:ajar|2": {
+  "postedit": "A porta cinzenta está entreaberta; uma fenda negra fina onde devia ficar rente.",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "A porta cinzenta está entreaberta; uma fenda negra fina onde devia ficar rente."
+ },
+ "a:hallway-eight|p:door|x:gone|0": {
+  "postedit": "Não há porta de serviço na parede da esquerda. Apenas parede lisa.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Não há porta de serviço na parede da esquerda. Apenas parede lisa."
+ },
+ "a:hallway-eight|p:door|x:gone|1": {
+  "postedit": "A porta de serviço desapareceu por completo.",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "A porta de serviço desapareceu por completo."
+ },
+ "a:hallway-eight|p:door|x:gone|2": {
+  "postedit": "A parede da esquerda está intacta, sem porta nenhuma.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "A parede da esquerda está intacta, sem porta nenhuma."
+ },
+ "a:hallway-eight|p:figure|v:distant|0": {
+  "postedit": "Lá ao fundo do corredor, um homem de fato cinzento afasta-se de ti.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Lá ao fundo do corredor, um homem de fato cinzento afasta-se de ti."
+ },
+ "a:hallway-eight|p:figure|v:distant|1": {
+  "postedit": "Uma figura de fato move-se à frente ao longe, de costas.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Uma figura de fato move-se à frente ao longe, de costas."
+ },
+ "a:hallway-eight|p:figure|v:distant|2": {
+  "postedit": "O homem de cinzento está à frente, como sempre, a caminhar.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "O homem de cinzento está à frente, como sempre, a caminhar."
+ },
+ "a:hallway-eight|p:figure|v:distant|3": {
+  "postedit": "Pelo corredor, um homem de fato afasta-se em direção ao ponto de fuga.",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "Pelo corredor, um homem de fato afasta-se em direção ao ponto de fuga."
+ },
+ "a:hallway-eight|p:figure|x:closer|0": {
+  "postedit": "O homem de fato cinzento está muito mais perto do que devia.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "O homem de fato cinzento está muito mais perto do que devia."
+ },
+ "a:hallway-eight|p:figure|x:closer|1": {
+  "postedit": "A figura de fato parou a meio caminho, mais perto do que antes.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "A figura de fato parou a meio caminho, mais perto do que antes."
+ },
+ "a:hallway-eight|p:figure|x:closer|2": {
+  "postedit": "O homem de cinzento está agora a apenas alguns passos à frente, ainda de costas.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "O homem de cinzento está agora a apenas alguns passos à frente, ainda de costas."
+ },
+ "a:hallway-eight|p:figure|x:facing|0": {
+  "postedit": "O homem de fato cinzento parou. Está virado para ti.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "O homem de fato cinzento parou. Está virado para ti."
+ },
+ "a:hallway-eight|p:figure|x:facing|1": {
+  "postedit": "Pelo corredor, a figura de fato está imóvel, a olhar na tua direção.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Pelo corredor, a figura de fato está imóvel, a olhar na tua direção."
+ },
+ "a:hallway-eight|p:figure|x:facing|2": {
+  "postedit": "O homem de cinzento não está a caminhar. Está a observar-te.",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "O homem de cinzento não está a caminhar. Está a observar-te."
+ },
+ "a:hallway-eight|p:figure|x:gone|0": {
+  "postedit": "O corredor à frente está vazio. Ninguém o percorre.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "O corredor à frente está vazio. Ninguém o percorre."
+ },
+ "a:hallway-eight|p:figure|x:gone|1": {
+  "postedit": "Desta vez não há figura à frente.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Desta vez não há figura à frente."
+ },
+ "a:hallway-eight|p:figure|x:gone|2": {
+  "postedit": "O homem de fato cinzento não se vê em lado nenhum.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "O homem de fato cinzento não se vê em lado nenhum."
+ },
+ "a:hallway-eight|p:figure|x:knows|0": {
+  "postedit": "O homem de cinzento voltou-se e levantou uma mão, como se te conhecesse.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "O homem de cinzento voltou-se e levantou uma mão, como se te conhecesse."
+ },
+ "a:hallway-eight|p:figure|x:knows|1": {
+  "postedit": "A figura de fato vira-se para ti e acena-te para que te aproximes, devagar e com intenção.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "A figura de fato vira-se para ti e acena-te para que te aproximes, devagar e com intenção."
+ },
+ "a:hallway-eight|p:figure|x:knows|2": {
+  "postedit": "O homem articula algo ao fundo do corredor. Talvez seja « outra vez ».",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "O homem articula algo ao fundo do corredor. Talvez seja « outra vez »."
+ },
+ "a:hallway-eight|p:floor|v:dry|0": {
+  "postedit": "As placas cinzentas do chão estendem-se, secas e baças.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "As placas cinzentas do chão estendem-se, secas e baças."
+ },
+ "a:hallway-eight|p:floor|v:dry|1": {
+  "postedit": "Debaixo dos pés, as habituais placas cinzentas gastas.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Debaixo dos pés, as habituais placas cinzentas gastas."
+ },
+ "a:hallway-eight|p:floor|v:dry|2": {
+  "postedit": "O chão de placas está seco, sem refletir nada.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "O chão de placas está seco, sem refletir nada."
+ },
+ "a:hallway-eight|p:floor|x:cracked|0": {
+  "postedit": "Uma fenda atravessa as placas do chão, que não estava lá antes.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Uma fenda atravessa as placas do chão, que não estava lá antes."
+ },
+ "a:hallway-eight|p:floor|x:cracked|1": {
+  "postedit": "Uma das placas do chão está partida ao meio.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Uma das placas do chão está partida ao meio."
+ },
+ "a:hallway-eight|p:floor|x:cracked|2": {
+  "postedit": "O revestimento está fraturado numa linha irregular à frente.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "O revestimento está fraturado numa linha irregular à frente."
+ },
+ "a:hallway-eight|p:floor|x:wet|0": {
+  "postedit": "As placas à frente brilham com um lustro húmido e escuro.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "As placas à frente brilham com um lustro húmido e escuro."
+ },
+ "a:hallway-eight|p:floor|x:wet|1": {
+  "postedit": "O chão está molhado, apesar de não teres visto ninguém a limpá-lo.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "O chão está molhado, apesar de não teres visto ninguém a limpá-lo."
+ },
+ "a:hallway-eight|p:floor|x:wet|2": {
+  "postedit": "Uma película de água espalha-se pelas placas.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Uma película de água espalha-se pelas placas."
+ },
+ "a:hallway-eight|p:lighting|v:steady|0": {
+  "postedit": "As luzes fluorescentes zumbem suavemente por cima.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "As luzes fluorescentes zumbem suavemente por cima."
+ },
+ "a:hallway-eight|p:lighting|v:steady|1": {
+  "postedit": "As luzes do teto emitem um brilho constante e uniforme.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "As luzes do teto emitem um brilho constante e uniforme."
+ },
+ "a:hallway-eight|p:lighting|v:steady|2": {
+  "postedit": "Por cima, as fluorescentes zumbem no tom do costume.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Por cima, as fluorescentes zumbem no tom do costume."
+ },
+ "a:hallway-eight|p:lighting|v:steady|3": {
+  "postedit": "A iluminação é plana e vulgar, como é sempre.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "A iluminação é plana e vulgar, como é sempre."
+ },
+ "a:hallway-eight|p:lighting|x:dim|0": {
+  "postedit": "O corredor parece um tom mais escuro do que recordas.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "O corredor parece um tom mais escuro do que recordas."
+ },
+ "a:hallway-eight|p:lighting|x:dim|1": {
+  "postedit": "As luzes estão mais fracas aqui, como se metade tivesse desistido.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "As luzes estão mais fracas aqui, como se metade tivesse desistido."
+ },
+ "a:hallway-eight|p:lighting|x:dim|2": {
+  "postedit": "Uma penumbra cinzenta assentou sobre tudo.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Uma penumbra cinzenta assentou sobre tudo."
+ },
+ "a:hallway-eight|p:lighting|x:flicker|0": {
+  "postedit": "Um dos tubos fluorescentes vacila e depois firma.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Um dos tubos fluorescentes vacila e depois firma."
+ },
+ "a:hallway-eight|p:lighting|x:flicker|1": {
+  "postedit": "As luzes tremeluzem, uma vez, duas, antes de estabilizar.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "As luzes tremeluzem, uma vez, duas, antes de estabilizar."
+ },
+ "a:hallway-eight|p:lighting|x:flicker|2": {
+  "postedit": "Há um leve tremular nas luzes do teto que não estava lá antes.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Há um leve tremular nas luzes do teto que não estava lá antes."
+ },
+ "a:hallway-eight|p:lighting|x:warm|0": {
+  "postedit": "A luz tem um tom quente, amarelado.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "A luz tem um tom quente, amarelado."
+ },
+ "a:hallway-eight|p:lighting|x:warm|1": {
+  "postedit": "As fluorescentes brilham num âmbar estranho, quase como um pôr do sol.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "As fluorescentes brilham num âmbar estranho, quase como um pôr do sol."
+ },
+ "a:hallway-eight|p:lighting|x:warm|2": {
+  "postedit": "O habitual branco frio ficou ligeiramente dourado.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "O habitual branco frio ficou ligeiramente dourado."
+ },
+ "a:hallway-eight|p:poster|v:travel|0": {
+  "postedit": "Um cartaz de viagem desbotado agarra-se à parede, uma praia, um céu azul.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Um cartaz de viagem desbotado agarra-se à parede, uma praia, um céu azul."
+ },
+ "a:hallway-eight|p:poster|v:travel|1": {
+  "postedit": "O velho cartaz de uma costa soalheira ainda está colado à parede.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "O velho cartaz de uma costa soalheira ainda está colado à parede."
+ },
+ "a:hallway-eight|p:poster|v:travel|2": {
+  "postedit": "Na parede, aquele anúncio desbotado de um sítio quente.",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "Na parede, aquele anúncio desbotado de um sítio quente."
+ },
+ "a:hallway-eight|p:poster|v:travel|3": {
+  "postedit": "O cartaz de viagem está pendurado com a habitual ligeira inclinação.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "O cartaz de viagem está pendurado com a habitual ligeira inclinação."
+ },
+ "a:hallway-eight|p:poster|x:gone|0": {
+  "postedit": "A parede está nua. Um retângulo pálido marca onde estava um cartaz.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "A parede está nua. Um retângulo pálido marca onde estava um cartaz."
+ },
+ "a:hallway-eight|p:poster|x:gone|1": {
+  "postedit": "O cartaz de viagem desapareceu; resta apenas a fita.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "O cartaz de viagem desapareceu; resta apenas a fita."
+ },
+ "a:hallway-eight|p:poster|x:gone|2": {
+  "postedit": "Agora não há nada pendurado na parede.",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "Agora não há nada pendurado na parede."
+ },
+ "a:hallway-eight|p:poster|x:mountains|0": {
+  "postedit": "O cartaz mostra montanhas nevadas, não uma praia.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "O cartaz mostra montanhas nevadas, não uma praia."
+ },
+ "a:hallway-eight|p:poster|x:mountains|1": {
+  "postedit": "O cartaz da costa é agora uma fotografia de montanhas cinzentas.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "O cartaz da costa é agora uma fotografia de montanhas cinzentas."
+ },
+ "a:hallway-eight|p:poster|x:mountains|2": {
+  "postedit": "O anúncio mostra um cume frio sob nuvens pesadas.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "O anúncio mostra um cume frio sob nuvens pesadas."
+ },
+ "a:hallway-eight|p:poster|x:upside|0": {
+  "postedit": "O cartaz de viagem está pendurado de cabeça para baixo.",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "O cartaz de viagem está pendurado de cabeça para baixo."
+ },
+ "a:hallway-eight|p:poster|x:upside|1": {
+  "postedit": "A praia no cartaz está invertida, o céu em baixo.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "A praia no cartaz está invertida, o céu em baixo."
+ },
+ "a:hallway-eight|p:poster|x:upside|2": {
+  "postedit": "Alguém virou o cartaz; está pendurado ao contrário.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Alguém virou o cartaz; está pendurado ao contrário."
+ },
+ "a:hallway-eight|p:sense|v:steady|0": {
+  "postedit": "O corredor parece exatamente tão comprido como sempre foi.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "O corredor parece exatamente tão comprido como sempre foi."
+ },
+ "a:hallway-eight|p:sense|v:steady|1": {
+  "postedit": "Levas o mesmo receio surdo que tens desde o átrio.",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "Levas o mesmo receio surdo que tens desde o átrio."
+ },
+ "a:hallway-eight|p:sense|v:steady|2": {
+  "postedit": "Tudo parece comum, na medida em que este sítio alguma vez é comum.",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "Tudo parece comum, na medida em que este sítio alguma vez é comum."
+ },
+ "a:hallway-eight|p:sense|x:calm|0": {
+  "postedit": "Sentes-te de repente, erradamente, calmo, como se já tivesses escapado.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Sentes-te de repente, erradamente, calmo, como se já tivesses escapado."
+ },
+ "a:hallway-eight|p:sense|x:calm|1": {
+  "postedit": "Um estranho alívio percorre-te, que nada tem que fazer aqui.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Um estranho alívio percorre-te, que nada tem que fazer aqui."
+ },
+ "a:hallway-eight|p:sense|x:calm|2": {
+  "postedit": "Não sentes medo nenhum, e isso mesmo parece errado.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Não sentes medo nenhum, e isso mesmo parece errado."
+ },
+ "a:hallway-eight|p:sense|x:forget|0": {
+  "postedit": "Por um momento não te lembras por quantas portas já passaste.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Por um momento não te lembras por quantas portas já passaste."
+ },
+ "a:hallway-eight|p:sense|x:forget|1": {
+  "postedit": "Perdes a conta dos corredores, e isso perturba-te.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Perdes a conta dos corredores, e isso perturba-te."
+ },
+ "a:hallway-eight|p:sense|x:forget|2": {
+  "postedit": "Não te lembras sequer porque estás aqui em baixo.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Não te lembras sequer porque estás aqui em baixo."
+ },
+ "a:hallway-eight|p:sense|x:longer|0": {
+  "postedit": "O corredor parece mais comprido desta vez, embora não saibas dizer porquê.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "O corredor parece mais comprido desta vez, embora não saibas dizer porquê."
+ },
+ "a:hallway-eight|p:sense|x:longer|1": {
+  "postedit": "O outro extremo parece mais distante do que devia.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "O outro extremo parece mais distante do que devia."
+ },
+ "a:hallway-eight|p:sense|x:longer|2": {
+  "postedit": "As paredes parecem ter-se esticado desde o último troço.",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "As paredes parecem ter-se esticado desde o último troço."
+ },
+ "a:hallway-eight|p:sign|v:exit|0": {
+  "postedit": "O letreiro {SIGN} iluminado brilha ao fundo.",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "O letreiro {SIGN} iluminado brilha ao fundo."
+ },
+ "a:hallway-eight|p:sign|v:exit|1": {
+  "postedit": "À frente, o letreiro {SIGN} está pendurado sobre o corredor.",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "À frente, o letreiro {SIGN} está pendurado sobre o corredor."
+ },
+ "a:hallway-eight|p:sign|v:exit|2": {
+  "postedit": "O letreiro {SIGN} verde indica o caminho, como deve ser.",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "O letreiro {SIGN} verde indica o caminho, como deve ser."
+ },
+ "a:hallway-eight|p:sign|v:exit|3": {
+  "postedit": "Consegues distinguir o letreiro {SIGN} ao longe.",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "Consegues distinguir o letreiro {SIGN} ao longe."
+ },
+ "a:hallway-eight|p:sign|x:dark|0": {
+  "postedit": "O letreiro de saída está apagado. Sem luz por trás das letras.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "O letreiro de saída está apagado. Sem luz por trás das letras."
+ },
+ "a:hallway-eight|p:sign|x:dark|1": {
+  "postedit": "O letreiro de saída apagou-se.",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "O letreiro de saída apagou-se."
+ },
+ "a:hallway-eight|p:sign|x:dark|2": {
+  "postedit": "Onde o letreiro de saída devia brilhar, há apenas um painel morto.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Onde o letreiro de saída devia brilhar, há apenas um painel morto."
+ },
+ "a:hallway-eight|p:sign|x:number|0": {
+  "postedit": "O letreiro diz EXIT 3. Nunca teve um número.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "O letreiro diz EXIT 3. Nunca teve um número."
+ },
+ "a:hallway-eight|p:sign|x:number|1": {
+  "postedit": "Apareceu um número no letreiro: EXIT 3.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Apareceu um número no letreiro: EXIT 3."
+ },
+ "a:hallway-eight|p:sign|x:number|2": {
+  "postedit": "O letreiro de saída tem agora um algarismo de que não te lembras: 3.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "O letreiro de saída tem agora um algarismo de que não te lembras: 3."
+ },
+ "a:hallway-eight|p:sign|x:reversed|0": {
+  "postedit": "O letreiro de saída aponta na direção errada, EXIT ←.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "O letreiro de saída aponta na direção errada, EXIT ←."
+ },
+ "a:hallway-eight|p:sign|x:reversed|1": {
+  "postedit": "A seta do letreiro de saída aponta agora para o caminho por onde vieste: ←.",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "A seta do letreiro de saída aponta agora para o caminho por onde vieste: ←."
+ },
+ "a:hallway-eight|p:sign|x:reversed|2": {
+  "postedit": "EXIT ←. A seta inverteu-se.",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "EXIT ←. A seta inverteu-se."
+ },
+ "a:hallway-eight|p:sound|v:vent|0": {
+  "postedit": "Algures, a ventilação expira um sopro baixo e constante.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Algures, a ventilação expira um sopro baixo e constante."
+ },
+ "a:hallway-eight|p:sound|v:vent|1": {
+  "postedit": "O sistema de ar zumbe nas paredes, constante como sempre.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "O sistema de ar zumbe nas paredes, constante como sempre."
+ },
+ "a:hallway-eight|p:sound|v:vent|2": {
+  "postedit": "Ouves o zumbido familiar da ventilação distante.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Ouves o zumbido familiar da ventilação distante."
+ },
+ "a:hallway-eight|p:sound|x:drip|0": {
+  "postedit": "Um pingar lento bate algures fora de vista.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Um pingar lento bate algures fora de vista."
+ },
+ "a:hallway-eight|p:sound|x:drip|1": {
+  "postedit": "Está a pingar água, não consegues perceber de onde.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Está a pingar água, não consegues perceber de onde."
+ },
+ "a:hallway-eight|p:sound|x:drip|2": {
+  "postedit": "Tique. Tique. Algo está a pingar por perto.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Tique. Tique. Algo está a pingar por perto."
+ },
+ "a:hallway-eight|p:sound|x:footsteps|0": {
+  "postedit": "Passos ecoam algures atrás de ti e depois param.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Passos ecoam algures atrás de ti e depois param."
+ },
+ "a:hallway-eight|p:sound|x:footsteps|1": {
+  "postedit": "Ouves passos que não coincidem com os teus.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Ouves passos que não coincidem com os teus."
+ },
+ "a:hallway-eight|p:sound|x:footsteps|2": {
+  "postedit": "Por um momento há dois pares de passos.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Por um momento há dois pares de passos."
+ },
+ "a:hallway-eight|p:sound|x:silence|0": {
+  "postedit": "A ventilação parou. O silêncio pressiona-te os ouvidos.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "A ventilação parou. O silêncio pressiona-te os ouvidos."
+ },
+ "a:hallway-eight|p:sound|x:silence|1": {
+  "postedit": "Está completamente silencioso. Silencioso demais.",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "Está completamente silencioso. Silencioso demais."
+ },
+ "a:hallway-eight|p:sound|x:silence|2": {
+  "postedit": "Reparas que o zumbido desapareceu. A quietude parece errada.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Reparas que o zumbido desapareceu. A quietude parece errada."
+ },
+ "a:hallway-eight|progress": {
+  "postedit": "Corredor {level} / {goal}",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "Corredor {level} / {goal}"
+ },
+ "a:hallway-eight|share_prompt": {
+  "postedit": "Deixa a porta aberta.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Deixa a porta aberta."
+ },
+ "a:hallway-eight|tagline": {
+  "postedit": "Fechado depois do horário. Segue o corredor até à saída de emergência.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Fechado depois do horário. Segue o corredor até à saída de emergência."
+ },
+ "a:hallway-eight|title_main": {
+  "postedit": "Corredor 8",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Corredor 8"
+ },
+ "a:hallway-eight|title|0": {
+  "postedit": "Corredor 8",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "Corredor 8"
+ },
+ "a:hallway-eight|title|1": {
+  "postedit": "Corredor 8",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "Corredor 8"
+ },
+ "a:hallway-eight|title|2": {
+  "postedit": "Corredor 8",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "Corredor 8"
+ },
+ "a:hallway-eight|title|3": {
+  "postedit": "Corredor 8",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "Corredor 8"
+ },
+ "a:hallway-eight|title|4": {
+  "postedit": "Passagem 8",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Passagem 8"
+ },
+ "a:hallway-eight|title|5": {
+  "postedit": "Corredor Oito",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Corredor Oito"
+ },
+ "a:hallway-eight|title|6": {
+  "postedit": "CORREDOR 8",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "CORREDOR 8"
+ },
+ "a:hallway-eight|title|7": {
+  "postedit": "Corredor  8",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "Corredor  8"
+ },
+ "a:hallway-eight|turn_back": {
+  "postedit": "Dar meia-volta",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Dar meia-volta"
+ }
+}

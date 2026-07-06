@@ -1,0 +1,27 @@
+{
+  "name": "hallway8-tools",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Dev toolchain for the browser game 8 (hallway8): headless-browser emulation tests, audio measurement/calibration, screenshot capture, and render-order diagnostics. The game itself needs no build step and no Node; this is only for the reproducible test/measurement tools.",
+  "license": "Apache-2.0",
+  "author": "alvations (Melon Lab)",
+  "scripts": {
+    "emu": "node tests/emulation.cjs",
+    "measure-audio": "node scripts/measure_audio.cjs",
+    "measure-sfx-vs-bgm": "node scripts/measure_sfx_vs_bgm.cjs",
+    "render-audio": "node scripts/render_audio.cjs",
+    "render-all-audio": "node scripts/render_all_audio.cjs",
+    "example-themes": "node scripts/examples/melodic_themes.cjs",
+    "example-sfx": "node scripts/examples/sfx_kit.cjs",
+    "shots": "node scripts/ux_shots.cjs",
+    "video": "node scripts/capture_video.cjs",
+    "probe-render": "node scripts/probe_render.cjs",
+    "postinstall": "echo 'Next: npx playwright install chromium'"
+  },
+  "devDependencies": {
+    "playwright": "^1.44.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

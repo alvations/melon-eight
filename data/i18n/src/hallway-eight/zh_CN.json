@@ -1,0 +1,1106 @@
+{
+ "a:hallway-eight|act2|end|lobby|0": {
+  "postedit": "你推开那扇亮着的门，等着看见街道。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "你推开那扇亮着的门，等着看见街道。"
+ },
+ "a:hallway-eight|act2|end|lobby|1": {
+  "postedit": "那是你出发的大堂，玻璃门仍旧锁着，门后的夜仍旧一片漆黑。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "那是你出发的大堂，玻璃门仍旧锁着，门后的夜仍旧一片漆黑。"
+ },
+ "a:hallway-eight|act2|end|lobby|2": {
+  "postedit": "你走过的走廊就这么没了。你回到了一栋再没有出口的大楼的起点。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "你走过的走廊就这么没了。你回到了一栋再没有出口的大楼的起点。"
+ },
+ "a:hallway-eight|act2|exit|action": {
+  "postedit": "穿门而出",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "穿门而出"
+ },
+ "a:hallway-eight|act2|exit|tempt": {
+  "postedit": "前方一扇门敞开着，上方一块亮着的EXIT泛着绿光低鸣。街道一定就在那门后。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "前方一扇门敞开着，上方一块亮着的EXIT泛着绿光低鸣。街道一定就在那门后。"
+ },
+ "a:hallway-eight|act2|flashback|0": {
+  "postedit": "往回几扇门，一盏台灯还亮着。一杯咖啡凉在自己留下的圈痕里。钟上显示着一个钟不可能显示的时间。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "往回几扇门，一盏台灯还亮着。一杯咖啡凉在自己留下的圈痕里。钟上显示着一个钟不可能显示的时间。"
+ },
+ "a:hallway-eight|act2|flashback|1": {
+  "postedit": "一部手机在你还没走到的房间里震动。屏幕上的名字，几乎就是你的。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "一部手机在你还没走到的房间里震动。屏幕上的名字，几乎就是你的。"
+ },
+ "a:hallway-eight|act2|flashback|2": {
+  "postedit": "六点，你本已到了大堂门口。你为了某样东西折了回来，如今已想不起是什么。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "六点，你本已到了大堂门口。你为了某样东西折了回来，如今已想不起是什么。"
+ },
+ "a:hallway-eight|act2|flashback|3": {
+  "postedit": "很久以前，那个灰衣男人曾为你扶着防火门，用你望着一个即将被自己抛下的人的眼神望着你。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "很久以前，那个灰衣男人曾为你扶着防火门，用你望着一个即将被自己抛下的人的眼神望着你。"
+ },
+ "a:hallway-eight|act2|flashback|4": {
+  "postedit": "你从前数到过八。你几乎确定。你也几乎确定，自己从没数到过。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "你从前数到过八。你几乎确定。你也几乎确定，自己从没数到过。"
+ },
+ "a:hallway-eight|act2|t:camera|fold|0": {
+  "postedit": "摄像头随着你的手转向你来时的方向，你的脚跟着摄像头，于是你又回到了起点。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "摄像头随着你的手转向你来时的方向，你的脚跟着摄像头，于是你又回到了起点。"
+ },
+ "a:hallway-eight|act2|t:camera|herring|0": {
+  "postedit": "一点你不记得的红灯闪了一下。它大概一直都亮着。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "一点你不记得的红灯闪了一下。它大概一直都亮着。"
+ },
+ "a:hallway-eight|act2|t:camera|herring|1": {
+  "postedit": "有一瞬镜头蒙上了雾，仿佛被从里面呵了口气。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "有一瞬镜头蒙上了雾，仿佛被从里面呵了口气。"
+ },
+ "a:hallway-eight|act2|t:camera|reaction|0": {
+  "postedit": "它不慌不忙地转过来，定在了你身上。别的什么都没动。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "它不慌不忙地转过来，定在了你身上。别的什么都没动。"
+ },
+ "a:hallway-eight|act2|t:camera|reaction|1": {
+  "postedit": "镜头向下倾斜，与你的视线齐平，就那样耐心地停着。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "镜头向下倾斜，与你的视线齐平，就那样耐心地停着。"
+ },
+ "a:hallway-eight|act2|t:camera|verb": {
+  "postedit": "朝摄像头挥手",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "朝摄像头挥手"
+ },
+ "a:hallway-eight|act2|t:door|fold|0": {
+  "postedit": "门开向一段你早已走过的走廊。你脑中的那个数字没了。你又回到了起点。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "门开向一段你早已走过的走廊。你脑中的那个数字没了。你又回到了起点。"
+ },
+ "a:hallway-eight|act2|t:door|herring|0": {
+  "postedit": "金属是温的，比一扇锁着的门该有的更温。这大概什么也说明不了。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "金属是温的，比一扇锁着的门该有的更温。这大概什么也说明不了。"
+ },
+ "a:hallway-eight|act2|t:door|herring|1": {
+  "postedit": "门缝下有一股之前没有的穿堂风。又或者一直都有，只是你从没留意。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "门缝下有一股之前没有的穿堂风。又或者一直都有，只是你从没留意。"
+ },
+ "a:hallway-eight|act2|t:door|reaction|0": {
+  "postedit": "把手转了一点便停住，仿佛被另一侧的什么攥着。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "把手转了一点便停住，仿佛被另一侧的什么攥着。"
+ },
+ "a:hallway-eight|act2|t:door|reaction|1": {
+  "postedit": "你把耳朵贴上去。门那头有什么静了下来，就像你进屋时房间会静下来那样。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "你把耳朵贴上去。门那头有什么静了下来，就像你进屋时房间会静下来那样。"
+ },
+ "a:hallway-eight|act2|t:door|verb": {
+  "postedit": "试试那扇检修门",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "试试那扇检修门"
+ },
+ "a:hallway-eight|act2|t:figure|fold|0": {
+  "postedit": "他终于回过头，那是一张你太过熟悉的脸，只这一眼，就把你送回了起点。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "他终于回过头，那是一张你太过熟悉的脸，只这一眼，就把你送回了起点。"
+ },
+ "a:hallway-eight|act2|t:figure|herring|0": {
+  "postedit": "有一瞬，他的西装看着像你的。灰色都一样。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "有一瞬，他的西装看着像你的。灰色都一样。"
+ },
+ "a:hallway-eight|act2|t:figure|herring|1": {
+  "postedit": "他比你喊他时近了一点。想必只是走路的缘故。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "他比你喊他时近了一点。想必只是走路的缘故。"
+ },
+ "a:hallway-eight|act2|t:figure|reaction|0": {
+  "postedit": "你的声音顺着走廊传去，没有回来。他没有回头。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "你的声音顺着走廊传去，没有回来。他没有回头。"
+ },
+ "a:hallway-eight|act2|t:figure|reaction|1": {
+  "postedit": "他顿了半步，就像你在人群里听见自己的名字时那样。随后他继续往前走。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "他顿了半步，就像你在人群里听见自己的名字时那样。随后他继续往前走。"
+ },
+ "a:hallway-eight|act2|t:figure|verb": {
+  "postedit": "朝那个灰衣男人喊话",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "朝那个灰衣男人喊话"
+ },
+ "a:hallway-eight|act2|t:poster|fold|0": {
+  "postedit": "你凑近，直到眼里只剩那些墨点，等你退开时，走廊已在你四周重置。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "你凑近，直到眼里只剩那些墨点，等你退开时，走廊已在你四周重置。"
+ },
+ "a:hallway-eight|act2|t:poster|herring|0": {
+  "postedit": "墨迹还没干，黏手，像刚印出来的。这什么也说明不了，你也知道它什么也说明不了，可你还是缩回了手。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "墨迹还没干，黏手，像刚印出来的。这什么也说明不了，你也知道它什么也说明不了，可你还是缩回了手。"
+ },
+ "a:hallway-eight|act2|t:poster|herring|1": {
+  "postedit": "颜色太鲜亮了，不像片刻前那么褪色。不过是光的错觉。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "颜色太鲜亮了，不像片刻前那么褪色。不过是光的错觉。"
+ },
+ "a:hallway-eight|act2|t:poster|reaction|0": {
+  "postedit": "凑近了，那片沙滩只是一颗颗墨点。一个你本打算去的地方。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "凑近了，那片沙滩只是一颗颗墨点。一个你本打算去的地方。"
+ },
+ "a:hallway-eight|act2|t:poster|reaction|1": {
+  "postedit": "那一角被揭起又按回太多次，纸都变软了。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "那一角被揭起又按回太多次，纸都变软了。"
+ },
+ "a:hallway-eight|act2|t:poster|verb": {
+  "postedit": "凑近看那张海报",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "凑近看那张海报"
+ },
+ "a:hallway-eight|adaptive|long_look|0": {
+  "postedit": "你看得比平时更久，却不记得自己何时停下了脚步。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "你看得比平时更久，却不记得自己何时停下了脚步。"
+ },
+ "a:hallway-eight|adaptive|long_look|1": {
+  "postedit": "你意识到自己一直站着不动。站了多久了？",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "你意识到自己一直站着不动。站了多久了？"
+ },
+ "a:hallway-eight|adaptive|long_look|2": {
+  "postedit": "时间在滑动。你一直盯着看，却不知过了多久。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "时间在滑动。你一直盯着看，却不知过了多久。"
+ },
+ "a:hallway-eight|adaptive|repeat_inspect|0": {
+  "postedit": "你又看了一眼{THING}，说不清为什么。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "你又看了一眼{THING}，说不清为什么。"
+ },
+ "a:hallway-eight|adaptive|repeat_inspect|1": {
+  "postedit": "你的目光径直落向{THING}，如今总是这样。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "你的目光径直落向{THING}，如今总是这样。"
+ },
+ "a:hallway-eight|adaptive|repeat_inspect|2": {
+  "postedit": "{THING}再次引起了你的注意。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "{THING}再次引起了你的注意。"
+ },
+ "a:hallway-eight|attempt": {
+  "postedit": "这条走廊走了{n}次。这一次，门开了。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "这条走廊走了{n}次。这一次，门开了。"
+ },
+ "a:hallway-eight|attempt_first": {
+  "postedit": "第一次，走廊就放你走了。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "第一次，走廊就放你走了。"
+ },
+ "a:hallway-eight|framing|cutscene|0": {
+  "postedit": "走廊里有什么变了，你却没留意，径直走了过去。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "走廊里有什么变了，你却没留意，径直走了过去。"
+ },
+ "a:hallway-eight|framing|cutscene|1": {
+  "postedit": "若某一段和你记忆中不完全一样，就回头。若一样，就往前走。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "若某一段和你记忆中不完全一样，就回头。若一样，就往前走。"
+ },
+ "a:hallway-eight|framing|intro|0": {
+  "postedit": "打烊之后",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "打烊之后"
+ },
+ "a:hallway-eight|framing|intro|2": {
+  "postedit": "你待得太晚了。大堂的门锁着，灯熄了一半。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "你待得太晚了。大堂的门锁着，灯熄了一半。"
+ },
+ "a:hallway-eight|framing|intro|3": {
+  "postedit": "门上挂着一块手写的牌子：安全出口，请走走廊。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "门上挂着一块手写的牌子：安全出口，请走走廊。"
+ },
+ "a:hallway-eight|framing|intro|5": {
+  "postedit": "只要一段走廊和你记忆中完全一样，就继续前行。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "只要一段走廊和你记忆中完全一样，就继续前行。"
+ },
+ "a:hallway-eight|framing|intro|6": {
+  "postedit": "如果有任何变化，去路已经折了回来。沿原路返回。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "如果有任何变化，去路已经折了回来。沿原路返回。"
+ },
+ "a:hallway-eight|framing|intro|8": {
+  "postedit": "第八道防火门通向外面。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "第八道防火门通向外面。"
+ },
+ "a:hallway-eight|framing|intro|9": {
+  "postedit": "一旦记不清所见，大楼就会把你送回起点。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "一旦记不清所见，大楼就会把你送回起点。"
+ },
+ "a:hallway-eight|framing|win|0": {
+  "postedit": "第八道防火门在你手下让开了。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "第八道防火门在你手下让开了。"
+ },
+ "a:hallway-eight|framing|win|1": {
+  "postedit": "冷空气。一段通向街道的楼梯。城市，仍在那里。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "冷空气。一段通向街道的楼梯。城市，仍在那里。"
+ },
+ "a:hallway-eight|framing|win|2": {
+  "postedit": "你本已开始觉得这走廊没有尽头。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "你本已开始觉得这走廊没有尽头。"
+ },
+ "a:hallway-eight|framing|win|3": {
+  "postedit": "你出来了。",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "你出来了。"
+ },
+ "a:hallway-eight|go_on": {
+  "postedit": "继续前行",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "继续前行"
+ },
+ "a:hallway-eight|label|camera": {
+  "postedit": "监控摄像头",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "监控摄像头"
+ },
+ "a:hallway-eight|label|door": {
+  "postedit": "检修门",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "检修门"
+ },
+ "a:hallway-eight|label|figure": {
+  "postedit": "走廊尽头的男人",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "走廊尽头的男人"
+ },
+ "a:hallway-eight|label|floor": {
+  "postedit": "地面",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "地面"
+ },
+ "a:hallway-eight|label|lighting": {
+  "postedit": "灯光",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "灯光"
+ },
+ "a:hallway-eight|label|poster": {
+  "postedit": "海报",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "海报"
+ },
+ "a:hallway-eight|label|sense": {
+  "postedit": "这种感觉",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "这种感觉"
+ },
+ "a:hallway-eight|label|sign": {
+  "postedit": "出口指示牌",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "出口指示牌"
+ },
+ "a:hallway-eight|label|sound": {
+  "postedit": "声音",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "声音"
+ },
+ "a:hallway-eight|p:camera|v:away|0": {
+  "postedit": "角落里一个小小的监控摄像头对着走廊深处。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "角落里一个小小的监控摄像头对着走廊深处。"
+ },
+ "a:hallway-eight|p:camera|v:away|1": {
+  "postedit": "监控摄像头盯着走廊另一头，偏转着背离你。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "监控摄像头盯着走廊另一头，偏转着背离你。"
+ },
+ "a:hallway-eight|p:camera|v:away|2": {
+  "postedit": "角落上方，摄像头朝着前方，一如往常。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "角落上方，摄像头朝着前方，一如往常。"
+ },
+ "a:hallway-eight|p:camera|x:atyou|0": {
+  "postedit": "监控摄像头转过来了。它径直对准你。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "监控摄像头转过来了。它径直对准你。"
+ },
+ "a:hallway-eight|p:camera|x:atyou|1": {
+  "postedit": "监控摄像头如今朝下对着你倾斜。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "监控摄像头如今朝下对着你倾斜。"
+ },
+ "a:hallway-eight|p:camera|x:atyou|2": {
+  "postedit": "角落里的摄像头面朝着你，镜头与你的双眼齐平。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "角落里的摄像头面朝着你，镜头与你的双眼齐平。"
+ },
+ "a:hallway-eight|p:camera|x:red|0": {
+  "postedit": "摄像头上一点红灯在闪。它从不曾闪过。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "摄像头上一点红灯在闪。它从不曾闪过。"
+ },
+ "a:hallway-eight|p:camera|x:red|1": {
+  "postedit": "摄像头的录制灯第一次亮起红光。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "摄像头的录制灯第一次亮起红光。"
+ },
+ "a:hallway-eight|p:camera|x:red|2": {
+  "postedit": "摄像头上的小LED红光一跳一跳。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "摄像头上的小LED红光一跳一跳。"
+ },
+ "a:hallway-eight|p:door|v:closed|0": {
+  "postedit": "左侧墙上，一扇灰色的检修门关着。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "左侧墙上，一扇灰色的检修门关着。"
+ },
+ "a:hallway-eight|p:door|v:closed|1": {
+  "postedit": "你左手边的检修门关着，一如往常。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "你左手边的检修门关着，一如往常。"
+ },
+ "a:hallway-eight|p:door|v:closed|2": {
+  "postedit": "检修门就在那儿，关得严严实实。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "检修门就在那儿，关得严严实实。"
+ },
+ "a:hallway-eight|p:door|x:ajar|0": {
+  "postedit": "检修门微微开着一道缝。里面一片漆黑。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "检修门微微开着一道缝。里面一片漆黑。"
+ },
+ "a:hallway-eight|p:door|x:ajar|1": {
+  "postedit": "检修门开着一道缝，尽管你从没见它开过。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "检修门开着一道缝，尽管你从没见它开过。"
+ },
+ "a:hallway-eight|p:door|x:ajar|2": {
+  "postedit": "那扇灰门半掩着，本该严丝合缝的地方裂着一道细黑的缝。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "那扇灰门半掩着，本该严丝合缝的地方裂着一道细黑的缝。"
+ },
+ "a:hallway-eight|p:door|x:gone|0": {
+  "postedit": "左侧墙上没有检修门。只有一面光滑的墙。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "左侧墙上没有检修门。只有一面光滑的墙。"
+ },
+ "a:hallway-eight|p:door|x:gone|1": {
+  "postedit": "检修门完全消失了。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "检修门完全消失了。"
+ },
+ "a:hallway-eight|p:door|x:gone|2": {
+  "postedit": "左侧的墙连成一片，根本没有门。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "左侧的墙连成一片，根本没有门。"
+ },
+ "a:hallway-eight|p:figure|v:distant|0": {
+  "postedit": "走廊远处，一个穿灰西装的男人正背离你走去。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "走廊远处，一个穿灰西装的男人正背离你走去。"
+ },
+ "a:hallway-eight|p:figure|v:distant|1": {
+  "postedit": "一个西装身影在远处前方走动，背对着你。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "一个西装身影在远处前方走动，背对着你。"
+ },
+ "a:hallway-eight|p:figure|v:distant|2": {
+  "postedit": "那个灰衣男人一如往常在前方，继续走着。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "那个灰衣男人一如往常在前方，继续走着。"
+ },
+ "a:hallway-eight|p:figure|v:distant|3": {
+  "postedit": "走廊尽头，一个西装男人朝着消失点渐行渐远。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "走廊尽头，一个西装男人朝着消失点渐行渐远。"
+ },
+ "a:hallway-eight|p:figure|x:closer|0": {
+  "postedit": "那个穿灰西装的男人比他应处的位置近得多。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "那个穿灰西装的男人比他应处的位置近得多。"
+ },
+ "a:hallway-eight|p:figure|x:closer|1": {
+  "postedit": "西装身影在半途停下，比之前更近。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "西装身影在半途停下，比之前更近。"
+ },
+ "a:hallway-eight|p:figure|x:closer|2": {
+  "postedit": "那个灰衣男人如今只在前方几步之遥，仍背对着你。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "那个灰衣男人如今只在前方几步之遥，仍背对着你。"
+ },
+ "a:hallway-eight|p:figure|x:facing|0": {
+  "postedit": "那个穿灰西装的男人停了下来。他正面朝着你。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "那个穿灰西装的男人停了下来。他正面朝着你。"
+ },
+ "a:hallway-eight|p:figure|x:facing|1": {
+  "postedit": "走廊尽头，西装身影一动不动，望向你这边。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "走廊尽头，西装身影一动不动，望向你这边。"
+ },
+ "a:hallway-eight|p:figure|x:facing|2": {
+  "postedit": "那个灰衣男人没有在走。他在注视着你。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "那个灰衣男人没有在走。他在注视着你。"
+ },
+ "a:hallway-eight|p:figure|x:gone|0": {
+  "postedit": "前方的走廊空无一人。没有人在走。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "前方的走廊空无一人。没有人在走。"
+ },
+ "a:hallway-eight|p:figure|x:gone|1": {
+  "postedit": "这一次，前方没有身影。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "这一次，前方没有身影。"
+ },
+ "a:hallway-eight|p:figure|x:gone|2": {
+  "postedit": "那个穿灰西装的男人不见踪影。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "那个穿灰西装的男人不见踪影。"
+ },
+ "a:hallway-eight|p:figure|x:knows|0": {
+  "postedit": "那个灰衣男人转过身，举起一只手，仿佛认识你。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "那个灰衣男人转过身，举起一只手，仿佛认识你。"
+ },
+ "a:hallway-eight|p:figure|x:knows|1": {
+  "postedit": "西装身影面朝着你招手，缓慢而刻意。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "西装身影面朝着你招手，缓慢而刻意。"
+ },
+ "a:hallway-eight|p:figure|x:knows|2": {
+  "postedit": "那个男人在走廊那头无声地动着嘴。也许是「又来了」。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "那个男人在走廊那头无声地动着嘴。也许是「又来了」。"
+ },
+ "a:hallway-eight|p:floor|v:dry|0": {
+  "postedit": "灰色的地砖向远处延伸，干燥而暗淡。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "灰色的地砖向远处延伸，干燥而暗淡。"
+ },
+ "a:hallway-eight|p:floor|v:dry|1": {
+  "postedit": "脚下是惯常那些磨损的灰色地砖。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "脚下是惯常那些磨损的灰色地砖。"
+ },
+ "a:hallway-eight|p:floor|v:dry|2": {
+  "postedit": "铺砖的地面干燥，什么也映不出。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "铺砖的地面干燥，什么也映不出。"
+ },
+ "a:hallway-eight|p:floor|x:cracked|0": {
+  "postedit": "一道之前没有的裂缝横穿地砖。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "一道之前没有的裂缝横穿地砖。"
+ },
+ "a:hallway-eight|p:floor|x:cracked|1": {
+  "postedit": "有一块地砖从中间裂开了。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "有一块地砖从中间裂开了。"
+ },
+ "a:hallway-eight|p:floor|x:cracked|2": {
+  "postedit": "前方的地砖沿着一条锯齿状的线碎裂开。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "前方的地砖沿着一条锯齿状的线碎裂开。"
+ },
+ "a:hallway-eight|p:floor|x:wet|0": {
+  "postedit": "前方的地砖泛着潮湿而幽暗的光泽。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "前方的地砖泛着潮湿而幽暗的光泽。"
+ },
+ "a:hallway-eight|p:floor|x:wet|1": {
+  "postedit": "地面湿了，尽管你没见任何人清扫过。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "地面湿了，尽管你没见任何人清扫过。"
+ },
+ "a:hallway-eight|p:floor|x:wet|2": {
+  "postedit": "一片薄薄的水在地砖上蔓延。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "一片薄薄的水在地砖上蔓延。"
+ },
+ "a:hallway-eight|p:lighting|v:steady|0": {
+  "postedit": "头顶的荧光灯轻声嗡鸣。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "头顶的荧光灯轻声嗡鸣。"
+ },
+ "a:hallway-eight|p:lighting|v:steady|1": {
+  "postedit": "顶灯发出平稳而均匀的光。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "顶灯发出平稳而均匀的光。"
+ },
+ "a:hallway-eight|p:lighting|v:steady|2": {
+  "postedit": "头顶，荧光灯以惯常的音调嗡嗡响。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "头顶，荧光灯以惯常的音调嗡嗡响。"
+ },
+ "a:hallway-eight|p:lighting|v:steady|3": {
+  "postedit": "灯光平淡无奇，一如往常。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "灯光平淡无奇，一如往常。"
+ },
+ "a:hallway-eight|p:lighting|x:dim|0": {
+  "postedit": "走廊似乎比你记忆中暗了一分。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "走廊似乎比你记忆中暗了一分。"
+ },
+ "a:hallway-eight|p:lighting|x:dim|1": {
+  "postedit": "这里的灯更暗了，仿佛有一半罢了工。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "这里的灯更暗了，仿佛有一半罢了工。"
+ },
+ "a:hallway-eight|p:lighting|x:dim|2": {
+  "postedit": "一片灰暗笼罩了一切。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "一片灰暗笼罩了一切。"
+ },
+ "a:hallway-eight|p:lighting|x:flicker|0": {
+  "postedit": "一根荧光灯管断续闪了几下，随后稳住。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "一根荧光灯管断续闪了几下，随后稳住。"
+ },
+ "a:hallway-eight|p:lighting|x:flicker|1": {
+  "postedit": "灯光闪了一下，两下，才平稳下来。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "灯光闪了一下，两下，才平稳下来。"
+ },
+ "a:hallway-eight|p:lighting|x:flicker|2": {
+  "postedit": "顶灯有一丝之前没有的微弱频闪。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "顶灯有一丝之前没有的微弱频闪。"
+ },
+ "a:hallway-eight|p:lighting|x:warm|0": {
+  "postedit": "灯光泛着一层温暖的淡黄色。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "灯光泛着一层温暖的淡黄色。"
+ },
+ "a:hallway-eight|p:lighting|x:warm|1": {
+  "postedit": "荧光灯泛出奇异的琥珀色，几乎像落日。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "荧光灯泛出奇异的琥珀色，几乎像落日。"
+ },
+ "a:hallway-eight|p:lighting|x:warm|2": {
+  "postedit": "惯常的冷白色微微转成了金色。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "惯常的冷白色微微转成了金色。"
+ },
+ "a:hallway-eight|p:poster|v:travel|0": {
+  "postedit": "一张褪色的旅行海报贴在墙上，一片沙滩，一方蓝天。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "一张褪色的旅行海报贴在墙上，一片沙滩，一方蓝天。"
+ },
+ "a:hallway-eight|p:poster|v:travel|1": {
+  "postedit": "那张阳光海岸的旧海报仍贴在墙上。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "那张阳光海岸的旧海报仍贴在墙上。"
+ },
+ "a:hallway-eight|p:poster|v:travel|2": {
+  "postedit": "墙上，那张褪色的广告，宣传着某个温暖的地方。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "墙上，那张褪色的广告，宣传着某个温暖的地方。"
+ },
+ "a:hallway-eight|p:poster|v:travel|3": {
+  "postedit": "旅行海报如往常般略微歪斜地挂着。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "旅行海报如往常般略微歪斜地挂着。"
+ },
+ "a:hallway-eight|p:poster|x:gone|0": {
+  "postedit": "墙面光秃秃的。一块浅色的方形印记标出海报曾在的位置。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "墙面光秃秃的。一块浅色的方形印记标出海报曾在的位置。"
+ },
+ "a:hallway-eight|p:poster|x:gone|1": {
+  "postedit": "旅行海报不见了，只剩下胶带。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "旅行海报不见了，只剩下胶带。"
+ },
+ "a:hallway-eight|p:poster|x:gone|2": {
+  "postedit": "此刻墙上什么也没挂。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "此刻墙上什么也没挂。"
+ },
+ "a:hallway-eight|p:poster|x:mountains|0": {
+  "postedit": "海报上是白雪覆盖的群山，而不是沙滩。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "海报上是白雪覆盖的群山，而不是沙滩。"
+ },
+ "a:hallway-eight|p:poster|x:mountains|1": {
+  "postedit": "那张海岸海报如今成了一张灰色群山的照片。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "那张海岸海报如今成了一张灰色群山的照片。"
+ },
+ "a:hallway-eight|p:poster|x:mountains|2": {
+  "postedit": "广告上是浓云下一座冰冷的山巅。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "广告上是浓云下一座冰冷的山巅。"
+ },
+ "a:hallway-eight|p:poster|x:upside|0": {
+  "postedit": "旅行海报上下颠倒地挂着。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "旅行海报上下颠倒地挂着。"
+ },
+ "a:hallway-eight|p:poster|x:upside|1": {
+  "postedit": "海报上的沙滩倒了过来，天空在下方。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "海报上的沙滩倒了过来，天空在下方。"
+ },
+ "a:hallway-eight|p:poster|x:upside|2": {
+  "postedit": "有人把海报翻了个个儿，它上下颠倒地挂着。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "有人把海报翻了个个儿，它上下颠倒地挂着。"
+ },
+ "a:hallway-eight|p:sense|v:steady|0": {
+  "postedit": "走廊感觉和一向一样长。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "走廊感觉和一向一样长。"
+ },
+ "a:hallway-eight|p:sense|v:steady|1": {
+  "postedit": "你怀着从大堂起就有的那份低沉的不安。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "你怀着从大堂起就有的那份低沉的不安。"
+ },
+ "a:hallway-eight|p:sense|v:steady|2": {
+  "postedit": "一切都显得平常，就像这地方所能有的那种平常。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "一切都显得平常，就像这地方所能有的那种平常。"
+ },
+ "a:hallway-eight|p:sense|x:calm|0": {
+  "postedit": "你忽然感到一种不对劲的平静，仿佛自己已经逃了出去。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "你忽然感到一种不对劲的平静，仿佛自己已经逃了出去。"
+ },
+ "a:hallway-eight|p:sense|x:calm|1": {
+  "postedit": "一阵不该出现在这里的奇怪宽慰漫过你。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "一阵不该出现在这里的奇怪宽慰漫过你。"
+ },
+ "a:hallway-eight|p:sense|x:calm|2": {
+  "postedit": "你毫无惧意，而这本身就让人觉得不对。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "你毫无惧意，而这本身就让人觉得不对。"
+ },
+ "a:hallway-eight|p:sense|x:forget|0": {
+  "postedit": "有那么一瞬，你记不清自己经过了多少扇门。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "有那么一瞬，你记不清自己经过了多少扇门。"
+ },
+ "a:hallway-eight|p:sense|x:forget|1": {
+  "postedit": "你数不清走过的走廊，这让你心神不宁。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "你数不清走过的走廊，这让你心神不宁。"
+ },
+ "a:hallway-eight|p:sense|x:forget|2": {
+  "postedit": "你根本记不起自己为何会在这下面。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "你根本记不起自己为何会在这下面。"
+ },
+ "a:hallway-eight|p:sense|x:longer|0": {
+  "postedit": "这一次走廊感觉更长了，你却说不清为什么。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "这一次走廊感觉更长了，你却说不清为什么。"
+ },
+ "a:hallway-eight|p:sense|x:longer|1": {
+  "postedit": "另一头似乎比应有的更远。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "另一头似乎比应有的更远。"
+ },
+ "a:hallway-eight|p:sense|x:longer|2": {
+  "postedit": "墙壁仿佛自上一段起又被拉长了。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "墙壁仿佛自上一段起又被拉长了。"
+ },
+ "a:hallway-eight|p:sign|v:exit|0": {
+  "postedit": "亮着的{SIGN}指示牌在走廊另一头发着光。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "亮着的{SIGN}指示牌在走廊另一头发着光。"
+ },
+ "a:hallway-eight|p:sign|v:exit|1": {
+  "postedit": "前方，{SIGN}指示牌悬在走廊上方。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "前方，{SIGN}指示牌悬在走廊上方。"
+ },
+ "a:hallway-eight|p:sign|v:exit|2": {
+  "postedit": "绿色的{SIGN}指示牌指着方向，一如它该有的样子。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "绿色的{SIGN}指示牌指着方向，一如它该有的样子。"
+ },
+ "a:hallway-eight|p:sign|v:exit|3": {
+  "postedit": "你能辨认出远处的{SIGN}指示牌。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "你能辨认出远处的{SIGN}指示牌。"
+ },
+ "a:hallway-eight|p:sign|x:dark|0": {
+  "postedit": "出口指示牌熄着。字母背后没有光。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "出口指示牌熄着。字母背后没有光。"
+ },
+ "a:hallway-eight|p:sign|x:dark|1": {
+  "postedit": "出口指示牌灭了。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "出口指示牌灭了。"
+ },
+ "a:hallway-eight|p:sign|x:dark|2": {
+  "postedit": "出口指示牌本该发光的地方，只有一块死寂的面板。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "出口指示牌本该发光的地方，只有一块死寂的面板。"
+ },
+ "a:hallway-eight|p:sign|x:number|0": {
+  "postedit": "指示牌上写着EXIT 3。它上面从没有过数字。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "指示牌上写着EXIT 3。它上面从没有过数字。"
+ },
+ "a:hallway-eight|p:sign|x:number|1": {
+  "postedit": "指示牌上出现了一个数字：EXIT 3。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "指示牌上出现了一个数字：EXIT 3。"
+ },
+ "a:hallway-eight|p:sign|x:number|2": {
+  "postedit": "出口指示牌上如今多了一个你不记得的数字：3。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "出口指示牌上如今多了一个你不记得的数字：3。"
+ },
+ "a:hallway-eight|p:sign|x:reversed|0": {
+  "postedit": "出口指示牌指错了方向，EXIT ←。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "出口指示牌指错了方向，EXIT ←。"
+ },
+ "a:hallway-eight|p:sign|x:reversed|1": {
+  "postedit": "出口指示牌上的箭头如今指回你来时的方向：←。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "出口指示牌上的箭头如今指回你来时的方向：←。"
+ },
+ "a:hallway-eight|p:sign|x:reversed|2": {
+  "postedit": "EXIT ←。箭头反了过来。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "EXIT ←。箭头反了过来。"
+ },
+ "a:hallway-eight|p:sound|v:vent|0": {
+  "postedit": "某处，通风系统吐出一口低沉而持续的气息。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "某处，通风系统吐出一口低沉而持续的气息。"
+ },
+ "a:hallway-eight|p:sound|v:vent|1": {
+  "postedit": "空调在墙内嗡鸣，一如既往地平稳。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "空调在墙内嗡鸣，一如既往地平稳。"
+ },
+ "a:hallway-eight|p:sound|v:vent|2": {
+  "postedit": "你听见远处通风系统熟悉的低鸣。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "你听见远处通风系统熟悉的低鸣。"
+ },
+ "a:hallway-eight|p:sound|x:drip|0": {
+  "postedit": "看不见的某处，缓慢的水滴在滴答。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "看不见的某处，缓慢的水滴在滴答。"
+ },
+ "a:hallway-eight|p:sound|x:drip|1": {
+  "postedit": "有水在滴，你辨不清来自何处。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "有水在滴，你辨不清来自何处。"
+ },
+ "a:hallway-eight|p:sound|x:drip|2": {
+  "postedit": "滴答。滴答。附近有什么在滴水。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "滴答。滴答。附近有什么在滴水。"
+ },
+ "a:hallway-eight|p:sound|x:footsteps|0": {
+  "postedit": "脚步声在你身后某处回响，随后停下。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "脚步声在你身后某处回响，随后停下。"
+ },
+ "a:hallway-eight|p:sound|x:footsteps|1": {
+  "postedit": "你听见与自己不合拍的脚步声。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "你听见与自己不合拍的脚步声。"
+ },
+ "a:hallway-eight|p:sound|x:footsteps|2": {
+  "postedit": "有那么一瞬，出现了两串脚步声。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "有那么一瞬，出现了两串脚步声。"
+ },
+ "a:hallway-eight|p:sound|x:silence|0": {
+  "postedit": "通风停了。寂静压在你的耳膜上。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "通风停了。寂静压在你的耳膜上。"
+ },
+ "a:hallway-eight|p:sound|x:silence|1": {
+  "postedit": "四下里完全安静。太安静了。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "四下里完全安静。太安静了。"
+ },
+ "a:hallway-eight|p:sound|x:silence|2": {
+  "postedit": "你注意到嗡鸣消失了。这份寂静让人觉得不对。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "你注意到嗡鸣消失了。这份寂静让人觉得不对。"
+ },
+ "a:hallway-eight|progress": {
+  "postedit": "走廊 {level} / {goal}",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "走廊 {level} / {goal}"
+ },
+ "a:hallway-eight|share_prompt": {
+  "postedit": "让门开着。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "让门开着。"
+ },
+ "a:hallway-eight|tagline": {
+  "postedit": "打烊后被锁在里面。沿着走廊走向安全出口。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "打烊后被锁在里面。沿着走廊走向安全出口。"
+ },
+ "a:hallway-eight|title_main": {
+  "postedit": "走廊8",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "走廊8"
+ },
+ "a:hallway-eight|title|0": {
+  "postedit": "走廊8",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "走廊8"
+ },
+ "a:hallway-eight|title|1": {
+  "postedit": "走廊8",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "走廊8"
+ },
+ "a:hallway-eight|title|2": {
+  "postedit": "走廊8",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "走廊8"
+ },
+ "a:hallway-eight|title|3": {
+  "postedit": "走廊8",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "走廊8"
+ },
+ "a:hallway-eight|title|4": {
+  "postedit": "通道8",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "通道8"
+ },
+ "a:hallway-eight|title|5": {
+  "postedit": "走廊八",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "走廊八"
+ },
+ "a:hallway-eight|title|6": {
+  "postedit": "走廊8",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "走廊8"
+ },
+ "a:hallway-eight|title|7": {
+  "postedit": "走廊8",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "走廊8"
+ },
+ "a:hallway-eight|turn_back": {
+  "postedit": "转身返回",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "转身返回"
+ }
+}

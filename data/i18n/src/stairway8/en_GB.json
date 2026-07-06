@@ -1,0 +1,1100 @@
+{
+  "a:stairway8|title_main": {
+    "text": "Stairway 8",
+    "score": 96,
+    "postedit": "Stairway 8",
+    "postedit_score": 96
+  },
+  "a:stairway8|tagline": {
+    "text": "The lift is out. Eight floors down, one landing at a time.",
+    "score": 95,
+    "postedit": "The lift is out. Eight floors down, one landing at a time.",
+    "postedit_score": 95
+  },
+  "a:stairway8|go_on": {
+    "text": "Descend",
+    "score": 96,
+    "postedit": "Descend",
+    "postedit_score": 96
+  },
+  "a:stairway8|turn_back": {
+    "text": "Back up",
+    "score": 96,
+    "postedit": "Back up",
+    "postedit_score": 96
+  },
+  "a:stairway8|progress": {
+    "text": "Floor {floor}   ·   {level}/{goal} down",
+    "score": 96,
+    "postedit": "Floor {floor}   ·   {level}/{goal} down",
+    "postedit_score": 96
+  },
+  "a:stairway8|label|lighting": {
+    "text": "light",
+    "score": 96,
+    "postedit": "light",
+    "postedit_score": 96
+  },
+  "a:stairway8|label|sound": {
+    "text": "sound",
+    "score": 96,
+    "postedit": "sound",
+    "postedit_score": 96
+  },
+  "a:stairway8|label|number": {
+    "text": "floor number",
+    "score": 96,
+    "postedit": "floor number",
+    "postedit_score": 96
+  },
+  "a:stairway8|label|door": {
+    "text": "fire door",
+    "score": 96,
+    "postedit": "fire door",
+    "postedit_score": 96
+  },
+  "a:stairway8|label|notice": {
+    "text": "lift notice",
+    "score": 95,
+    "postedit": "lift notice",
+    "postedit_score": 95
+  },
+  "a:stairway8|label|railing": {
+    "text": "handrail",
+    "score": 96,
+    "postedit": "handrail",
+    "postedit_score": 96
+  },
+  "a:stairway8|label|extinguisher": {
+    "text": "extinguisher",
+    "score": 96,
+    "postedit": "extinguisher",
+    "postedit_score": 96
+  },
+  "a:stairway8|label|stairs": {
+    "text": "stairs down",
+    "score": 96,
+    "postedit": "stairs down",
+    "postedit_score": 96
+  },
+  "a:stairway8|label|figure": {
+    "text": "figure on the stairs",
+    "score": 96,
+    "postedit": "figure on the stairs",
+    "postedit_score": 96
+  },
+  "a:stairway8|label|sense": {
+    "text": "feeling",
+    "score": 96,
+    "postedit": "feeling",
+    "postedit_score": 96
+  },
+  "a:stairway8|title|0": {
+    "text": "Stairway 8",
+    "score": 96,
+    "postedit": "Stairway 8",
+    "postedit_score": 96
+  },
+  "a:stairway8|title|1": {
+    "text": "Stairway 8",
+    "score": 96,
+    "postedit": "Stairway 8",
+    "postedit_score": 96
+  },
+  "a:stairway8|title|2": {
+    "text": "Stairway 8",
+    "score": 96,
+    "postedit": "Stairway 8",
+    "postedit_score": 96
+  },
+  "a:stairway8|title|3": {
+    "text": "Stairway 8",
+    "score": 96,
+    "postedit": "Stairway 8",
+    "postedit_score": 96
+  },
+  "a:stairway8|title|4": {
+    "text": "Stairwell 8",
+    "score": 96,
+    "postedit": "Stairwell 8",
+    "postedit_score": 96
+  },
+  "a:stairway8|title|5": {
+    "text": "Stairway Eight",
+    "score": 96,
+    "postedit": "Stairway Eight",
+    "postedit_score": 96
+  },
+  "a:stairway8|title|6": {
+    "text": "STAIRWAY 8",
+    "score": 96,
+    "postedit": "STAIRWAY 8",
+    "postedit_score": 96
+  },
+  "a:stairway8|title|7": {
+    "text": "Stairway  8",
+    "score": 96,
+    "postedit": "Stairway  8",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:lighting|v:steady|0": {
+    "text": "A caged bulb throws steady light across the landing.",
+    "score": 96,
+    "postedit": "A caged bulb throws steady light across the landing.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:lighting|v:steady|1": {
+    "text": "The stairwell light burns evenly overhead, as always.",
+    "score": 96,
+    "postedit": "The stairwell light burns evenly overhead, as always.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:lighting|v:steady|2": {
+    "text": "The fluorescent strip on the landing glows its usual flat white.",
+    "score": 96,
+    "postedit": "The fluorescent strip on the landing glows its usual flat white.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:lighting|v:steady|3": {
+    "text": "Light falls here the same as every landing above.",
+    "score": 96,
+    "postedit": "Light falls here the same as every landing above.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:lighting|x:flicker|0": {
+    "text": "The caged bulb stutters, then steadies.",
+    "score": 96,
+    "postedit": "The caged bulb stutters, then steadies.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:lighting|x:flicker|1": {
+    "text": "The stairwell light flickers in a way it hasn't before.",
+    "score": 96,
+    "postedit": "The stairwell light flickers in a way it hasn't before.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:lighting|x:flicker|2": {
+    "text": "Overhead, the light trips once and comes back.",
+    "score": 96,
+    "postedit": "Overhead, the light trips once and comes back.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:lighting|x:dim|0": {
+    "text": "This landing is dimmer than the ones above it.",
+    "score": 96,
+    "postedit": "This landing is dimmer than the ones above it.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:lighting|x:dim|1": {
+    "text": "The light here has half given up; the corners stay dark.",
+    "score": 96,
+    "postedit": "The light here has half given up; the corners stay dark.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:lighting|x:dim|2": {
+    "text": "A grey murk hangs over the landing.",
+    "score": 96,
+    "postedit": "A grey murk hangs over the landing.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:lighting|x:red|0": {
+    "text": "The landing is lit red, an emergency bulb you don't remember.",
+    "score": 96,
+    "postedit": "The landing is lit red, an emergency bulb you don't remember.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:lighting|x:red|1": {
+    "text": "Everything wears a low red emergency glow.",
+    "score": 96,
+    "postedit": "Everything wears a low red emergency glow.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:lighting|x:red|2": {
+    "text": "The white light is gone; only a red bulb remains.",
+    "score": 96,
+    "postedit": "The white light is gone; only a red bulb remains.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:sound|v:quiet|0": {
+    "text": "Your footsteps echo up the shaft and fade.",
+    "score": 96,
+    "postedit": "Your footsteps echo up the shaft and fade.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:sound|v:quiet|1": {
+    "text": "The stairwell is quiet but for your own steps.",
+    "score": 96,
+    "postedit": "The stairwell is quiet but for your own steps.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:sound|v:quiet|2": {
+    "text": "Far below, the building hums to itself.",
+    "score": 96,
+    "postedit": "Far below, the building hums to itself.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:sound|x:drip|0": {
+    "text": "Water drips somewhere down the shaft. Tick. Tick.",
+    "score": 96,
+    "postedit": "Water drips somewhere down the shaft. Tick. Tick.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:sound|x:drip|1": {
+    "text": "A slow drip echoes up from below.",
+    "score": 96,
+    "postedit": "A slow drip echoes up from below.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:sound|x:drip|2": {
+    "text": "Something is dripping, floors down.",
+    "score": 96,
+    "postedit": "Something is dripping, floors down.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:sound|x:slam|0": {
+    "text": "A door slams far below, then silence.",
+    "score": 96,
+    "postedit": "A door slams far below, then silence.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:sound|x:slam|1": {
+    "text": "Somewhere beneath you a door bangs shut.",
+    "score": 96,
+    "postedit": "Somewhere beneath you a door bangs shut.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:sound|x:slam|2": {
+    "text": "A heavy door closes several floors down.",
+    "score": 96,
+    "postedit": "A heavy door closes several floors down.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:sound|x:footsteps|0": {
+    "text": "Footsteps climb towards you, then stop.",
+    "score": 95,
+    "postedit": "Footsteps climb towards you, then stop.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:sound|x:footsteps|1": {
+    "text": "You hear steps that aren't yours on the flight below.",
+    "score": 96,
+    "postedit": "You hear steps that aren't yours on the flight below.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:sound|x:footsteps|2": {
+    "text": "For a moment, someone else is on the stairs.",
+    "score": 96,
+    "postedit": "For a moment, someone else is on the stairs.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:sound|x:silence|0": {
+    "text": "The building's hum has stopped. Dead quiet.",
+    "score": 96,
+    "postedit": "The building's hum has stopped. Dead quiet.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:sound|x:silence|1": {
+    "text": "It is completely silent. Too silent.",
+    "score": 96,
+    "postedit": "It is completely silent. Too silent.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:sound|x:silence|2": {
+    "text": "Even the echo of your steps seems to vanish.",
+    "score": 96,
+    "postedit": "Even the echo of your steps seems to vanish.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:number|v:eight|0": {
+    "text": "A large painted 8 marks the landing wall.",
+    "score": 96,
+    "postedit": "A large painted 8 marks the landing wall.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:number|v:eight|1": {
+    "text": "The floor number, 8, is stencilled on the concrete.",
+    "score": 96,
+    "postedit": "The floor number, 8, is stencilled on the concrete.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:number|v:eight|2": {
+    "text": "'8' is painted on the wall, drips frozen beneath the strokes.",
+    "score": 96,
+    "postedit": "'8' is painted on the wall, drips frozen beneath the strokes.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:number|v:eight|3": {
+    "text": "The wall reads 8, the same as the landing before.",
+    "score": 96,
+    "postedit": "The wall reads 8, the same as the landing before.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:number|x:wrong|0": {
+    "text": "The wall reads 7. It has always read 8.",
+    "score": 96,
+    "postedit": "The wall reads 7. It has always read 8.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:number|x:wrong|1": {
+    "text": "The painted number is a 6 now, not an 8.",
+    "score": 96,
+    "postedit": "The painted number is a 6 now, not an 8.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:number|x:wrong|2": {
+    "text": "The floor number has changed: it says 9.",
+    "score": 96,
+    "postedit": "The floor number has changed: it says 9.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:number|x:basement|0": {
+    "text": "The wall reads B. Basement. You are nowhere near it.",
+    "score": 96,
+    "postedit": "The wall reads B. Basement. You are nowhere near it.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:number|x:basement|1": {
+    "text": "The number is gone; a painted 'B' stands in its place.",
+    "score": 96,
+    "postedit": "The number is gone; a painted 'B' stands in its place.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:number|x:basement|2": {
+    "text": "The stencil reads B, though you've barely started down.",
+    "score": 96,
+    "postedit": "The stencil reads B, though you've barely started down.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:number|x:faded|0": {
+    "text": "The painted number has faded to a grey ghost.",
+    "score": 96,
+    "postedit": "The painted number has faded to a grey ghost.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:number|x:faded|1": {
+    "text": "Someone has scrubbed the number half away.",
+    "score": 96,
+    "postedit": "Someone has scrubbed the number half away.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:number|x:faded|2": {
+    "text": "The 8 on the wall is almost gone.",
+    "score": 96,
+    "postedit": "The 8 on the wall is almost gone.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:number|x:reversed|0": {
+    "text": "The 8 is painted backwards, as if seen in a mirror.",
+    "score": 96,
+    "postedit": "The 8 is painted backwards, as if seen in a mirror.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:number|x:reversed|1": {
+    "text": "The floor number is mirror-reversed.",
+    "score": 96,
+    "postedit": "The floor number is mirror-reversed.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:number|x:reversed|2": {
+    "text": "The stencilled number reads the wrong way round.",
+    "score": 96,
+    "postedit": "The stencilled number reads the wrong way round.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:door|v:closed|0": {
+    "text": "The fire door to the floor is shut, its wired glass dark.",
+    "score": 96,
+    "postedit": "The fire door to the floor is shut, its wired glass dark.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:door|v:closed|1": {
+    "text": "The heavy grey fire door stands closed on the landing.",
+    "score": 96,
+    "postedit": "The heavy grey fire door stands closed on the landing.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:door|v:closed|2": {
+    "text": "The door onto the floor is closed, the way it should be.",
+    "score": 96,
+    "postedit": "The door onto the floor is closed, the way it should be.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:door|x:ajar|0": {
+    "text": "The fire door hangs slightly ajar. A black gap, no light.",
+    "score": 96,
+    "postedit": "The fire door hangs slightly ajar. A black gap, no light.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:door|x:ajar|1": {
+    "text": "The heavy door is open a crack; it never is.",
+    "score": 96,
+    "postedit": "The heavy door is open a crack; it never is.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:door|x:ajar|2": {
+    "text": "The fire door isn't quite shut this time.",
+    "score": 96,
+    "postedit": "The fire door isn't quite shut this time.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:door|x:propped|0": {
+    "text": "The fire door is propped wide open onto a dark floor.",
+    "score": 96,
+    "postedit": "The fire door is propped wide open onto a dark floor.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:door|x:propped|1": {
+    "text": "Someone has wedged the fire door open.",
+    "score": 96,
+    "postedit": "Someone has wedged the fire door open.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:door|x:propped|2": {
+    "text": "The door stands fully open, held by nothing you can see.",
+    "score": 96,
+    "postedit": "The door stands fully open, held by nothing you can see.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:door|x:window|0": {
+    "text": "The wired-glass window in the door has gone black, covered.",
+    "score": 96,
+    "postedit": "The wired-glass window in the door has gone black, covered.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:door|x:window|1": {
+    "text": "The little window in the fire door is blocked from the other side.",
+    "score": 96,
+    "postedit": "The little window in the fire door is blocked from the other side.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:door|x:window|2": {
+    "text": "Something presses against the glass in the door.",
+    "score": 96,
+    "postedit": "Something presses against the glass in the door.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:door|x:handle|0": {
+    "text": "The fire door has no handle now.",
+    "score": 96,
+    "postedit": "The fire door has no handle now.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:door|x:handle|1": {
+    "text": "Where the door handle was, only bare holes.",
+    "score": 96,
+    "postedit": "Where the door handle was, only bare holes.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:door|x:handle|2": {
+    "text": "The handle is missing from the fire door.",
+    "score": 96,
+    "postedit": "The handle is missing from the fire door.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:notice|v:out|0": {
+    "text": "A taped notice on the lift reads OUT OF ORDER, USE STAIRS.",
+    "score": 95,
+    "postedit": "A taped notice on the lift reads OUT OF ORDER, USE STAIRS.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:notice|v:out|1": {
+    "text": "The repair notice is still there: lift out of order.",
+    "score": 95,
+    "postedit": "The repair notice is still there: lift out of order.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:notice|v:out|2": {
+    "text": "OUT OF ORDER, says the sign taped across the lift doors.",
+    "score": 95,
+    "postedit": "OUT OF ORDER, says the sign taped across the lift doors.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:notice|x:gone|0": {
+    "text": "The lift notice is gone. Just bare metal doors.",
+    "score": 95,
+    "postedit": "The lift notice is gone. Just bare metal doors.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:notice|x:gone|1": {
+    "text": "No sign on the lift this time.",
+    "score": 95,
+    "postedit": "No sign on the lift this time.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:notice|x:gone|2": {
+    "text": "The repair notice has been taken down.",
+    "score": 96,
+    "postedit": "The repair notice has been taken down.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:notice|x:service|0": {
+    "text": "The notice now reads LIFT IN SERVICE.",
+    "score": 95,
+    "postedit": "The notice now reads LIFT IN SERVICE.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:notice|x:service|1": {
+    "text": "The sign says the lift is working again.",
+    "score": 95,
+    "postedit": "The sign says the lift is working again.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:notice|x:service|2": {
+    "text": "OUT OF ORDER has become BACK IN SERVICE.",
+    "score": 96,
+    "postedit": "OUT OF ORDER has become BACK IN SERVICE.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:notice|x:wording|0": {
+    "text": "The notice reads DO NOT USE STAIRS.",
+    "score": 96,
+    "postedit": "The notice reads DO NOT USE STAIRS.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:notice|x:wording|1": {
+    "text": "The sign warns STAIRS CLOSED, it never did before.",
+    "score": 96,
+    "postedit": "The sign warns STAIRS CLOSED, it never did before.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:notice|x:wording|2": {
+    "text": "The notice now tells you not to take the stairs at all.",
+    "score": 96,
+    "postedit": "The notice now tells you not to take the stairs at all.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:notice|x:arrow|0": {
+    "text": "The arrow on the notice points up, not down.",
+    "score": 96,
+    "postedit": "The arrow on the notice points up, not down.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:notice|x:arrow|1": {
+    "text": "The sign's arrow has flipped to point back up the stairs.",
+    "score": 96,
+    "postedit": "The sign's arrow has flipped to point back up the stairs.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:notice|x:arrow|2": {
+    "text": "The notice directs you upward now.",
+    "score": 96,
+    "postedit": "The notice directs you upward now.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:railing|v:cold|0": {
+    "text": "The steel handrail runs cold and unbroken under your hand.",
+    "score": 96,
+    "postedit": "The steel handrail runs cold and unbroken under your hand.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:railing|v:cold|1": {
+    "text": "The painted railing is right where it always is.",
+    "score": 96,
+    "postedit": "The painted railing is right where it always is.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:railing|v:cold|2": {
+    "text": "Your hand finds the handrail, continuous along the flight.",
+    "score": 96,
+    "postedit": "Your hand finds the handrail, continuous along the flight.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:railing|x:gap|0": {
+    "text": "A section of the handrail is missing over the drop.",
+    "score": 96,
+    "postedit": "A section of the handrail is missing over the drop.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:railing|x:gap|1": {
+    "text": "The railing has a gap where a length has been removed.",
+    "score": 96,
+    "postedit": "The railing has a gap where a length has been removed.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:railing|x:gap|2": {
+    "text": "Part of the handrail simply isn't there.",
+    "score": 96,
+    "postedit": "Part of the handrail simply isn't there.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:railing|x:wet|0": {
+    "text": "The handrail is wet, though nothing drips on it.",
+    "score": 96,
+    "postedit": "The handrail is wet, though nothing drips on it.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:railing|x:wet|1": {
+    "text": "Your hand comes away damp from the rail.",
+    "score": 96,
+    "postedit": "Your hand comes away damp from the rail.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:railing|x:wet|2": {
+    "text": "The railing is slick under your palm.",
+    "score": 96,
+    "postedit": "The railing is slick under your palm.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:railing|x:paint|0": {
+    "text": "The railing is a different colour from the flights above.",
+    "score": 95,
+    "postedit": "The railing is a different colour from the flights above.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:railing|x:paint|1": {
+    "text": "Someone has repainted this stretch of handrail.",
+    "score": 96,
+    "postedit": "Someone has repainted this stretch of handrail.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:railing|x:paint|2": {
+    "text": "The rail's paint is green here, not grey.",
+    "score": 96,
+    "postedit": "The rail's paint is green here, not grey.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:extinguisher|v:present|0": {
+    "text": "A fire extinguisher hangs on its bracket beside the door.",
+    "score": 96,
+    "postedit": "A fire extinguisher hangs on its bracket beside the door.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:extinguisher|v:present|1": {
+    "text": "The red extinguisher is in its place on the wall.",
+    "score": 96,
+    "postedit": "The red extinguisher is in its place on the wall.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:extinguisher|v:present|2": {
+    "text": "The landing's fire extinguisher sits on its hook.",
+    "score": 96,
+    "postedit": "The landing's fire extinguisher sits on its hook.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:extinguisher|x:gone|0": {
+    "text": "The extinguisher bracket is empty.",
+    "score": 96,
+    "postedit": "The extinguisher bracket is empty.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:extinguisher|x:gone|1": {
+    "text": "The fire extinguisher is gone; only the bracket remains.",
+    "score": 96,
+    "postedit": "The fire extinguisher is gone; only the bracket remains.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:extinguisher|x:gone|2": {
+    "text": "No extinguisher on the wall this time.",
+    "score": 96,
+    "postedit": "No extinguisher on the wall this time.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:extinguisher|x:floor|0": {
+    "text": "The extinguisher lies on the floor, on its side.",
+    "score": 96,
+    "postedit": "The extinguisher lies on the floor, on its side.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:extinguisher|x:floor|1": {
+    "text": "The fire extinguisher has been set down on the landing.",
+    "score": 96,
+    "postedit": "The fire extinguisher has been set down on the landing.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:extinguisher|x:floor|2": {
+    "text": "The extinguisher stands loose against the wall, off its hook.",
+    "score": 96,
+    "postedit": "The extinguisher stands loose against the wall, off its hook.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:extinguisher|x:gauge|0": {
+    "text": "The extinguisher's pressure gauge reads in the red.",
+    "score": 96,
+    "postedit": "The extinguisher's pressure gauge reads in the red.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:extinguisher|x:gauge|1": {
+    "text": "The needle on the extinguisher sits deep in the red.",
+    "score": 96,
+    "postedit": "The needle on the extinguisher sits deep in the red.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:extinguisher|x:gauge|2": {
+    "text": "The extinguisher's gauge has dropped to empty.",
+    "score": 96,
+    "postedit": "The extinguisher's gauge has dropped to empty.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:stairs|v:clear|0": {
+    "text": "The flight down is clear, its steps even and dry.",
+    "score": 96,
+    "postedit": "The flight down is clear, its steps even and dry.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:stairs|v:clear|1": {
+    "text": "The stairs descend as always, nothing on them.",
+    "score": 96,
+    "postedit": "The stairs descend as always, nothing on them.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:stairs|v:clear|2": {
+    "text": "The next flight drops away, clean and empty.",
+    "score": 96,
+    "postedit": "The next flight drops away, clean and empty.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:stairs|x:wet|0": {
+    "text": "The steps below shine wet in the light.",
+    "score": 96,
+    "postedit": "The steps below shine wet in the light.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:stairs|x:wet|1": {
+    "text": "The next flight is slick with water.",
+    "score": 96,
+    "postedit": "The next flight is slick with water.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:stairs|x:wet|2": {
+    "text": "The stairs down are wet, though you saw no spill.",
+    "score": 96,
+    "postedit": "The stairs down are wet, though you saw no spill.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:stairs|x:missing|0": {
+    "text": "One of the steps in the flight below is missing.",
+    "score": 96,
+    "postedit": "One of the steps in the flight below is missing.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:stairs|x:missing|1": {
+    "text": "There's a gap in the stairs where a step should be.",
+    "score": 96,
+    "postedit": "There's a gap in the stairs where a step should be.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:stairs|x:missing|2": {
+    "text": "A tread is gone from the flight down.",
+    "score": 96,
+    "postedit": "A tread is gone from the flight down.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:stairs|x:up|0": {
+    "text": "The arrow stencilled on the steps points UP, not down.",
+    "score": 96,
+    "postedit": "The arrow stencilled on the steps points UP, not down.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:stairs|x:up|1": {
+    "text": "The direction painted on the stairs has reversed.",
+    "score": 96,
+    "postedit": "The direction painted on the stairs has reversed.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:stairs|x:up|2": {
+    "text": "The steps seem to lead up now, though you are going down.",
+    "score": 96,
+    "postedit": "The steps seem to lead up now, though you are going down.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:stairs|x:debris|0": {
+    "text": "Something has been left on the steps below, a bag, maybe.",
+    "score": 96,
+    "postedit": "Something has been left on the steps below, a bag, maybe.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:stairs|x:debris|1": {
+    "text": "There's debris scattered across the next flight.",
+    "score": 96,
+    "postedit": "There's debris scattered across the next flight.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:stairs|x:debris|2": {
+    "text": "A dark shape sits partway down the flight.",
+    "score": 96,
+    "postedit": "A dark shape sits partway down the flight.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:figure|v:below|0": {
+    "text": "Far below, someone else winds down the stairwell, always a flight or two ahead.",
+    "score": 96,
+    "postedit": "Far below, someone else winds down the stairwell, always a flight or two ahead.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:figure|v:below|1": {
+    "text": "A figure descends the shaft ahead of you, keeping the same distance.",
+    "score": 96,
+    "postedit": "A figure descends the shaft ahead of you, keeping the same distance.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:figure|v:below|2": {
+    "text": "Someone is on the stairs below, going down at your pace, never closer.",
+    "score": 96,
+    "postedit": "Someone is on the stairs below, going down at your pace, never closer.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:figure|x:facing|0": {
+    "text": "The figure below has stopped. It is looking up at you.",
+    "score": 96,
+    "postedit": "The figure below has stopped. It is looking up at you.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:figure|x:facing|1": {
+    "text": "Down the shaft, the figure stands still, face turned up towards you.",
+    "score": 95,
+    "postedit": "Down the shaft, the figure stands still, face turned up towards you.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:figure|x:facing|2": {
+    "text": "The one on the stairs isn't descending now. It's watching you.",
+    "score": 96,
+    "postedit": "The one on the stairs isn't descending now. It's watching you.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:figure|x:closer|0": {
+    "text": "The figure on the stairs is much closer than before, just a flight down.",
+    "score": 96,
+    "postedit": "The figure on the stairs is much closer than before, just a flight down.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:figure|x:closer|1": {
+    "text": "The descending figure has closed the distance; it's nearly on your landing.",
+    "score": 96,
+    "postedit": "The descending figure has closed the distance; it's nearly on your landing.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:figure|x:closer|2": {
+    "text": "Whoever is below is only a few steps down now.",
+    "score": 96,
+    "postedit": "Whoever is below is only a few steps down now.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:figure|x:gone|0": {
+    "text": "The stairwell below is empty. Whoever was descending is gone.",
+    "score": 96,
+    "postedit": "The stairwell below is empty. Whoever was descending is gone.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:figure|x:gone|1": {
+    "text": "There is no figure on the stairs this time.",
+    "score": 96,
+    "postedit": "There is no figure on the stairs this time.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:figure|x:gone|2": {
+    "text": "The one ahead of you has vanished from the shaft.",
+    "score": 96,
+    "postedit": "The one ahead of you has vanished from the shaft.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:figure|x:ascending|0": {
+    "text": "The figure is climbing now, coming up the stairs towards you.",
+    "score": 95,
+    "postedit": "The figure is climbing now, coming up the stairs towards you.",
+    "postedit_score": 95
+  },
+  "a:stairway8|p:figure|x:ascending|1": {
+    "text": "Footsteps rise: the figure below is ascending, not descending.",
+    "score": 96,
+    "postedit": "Footsteps rise: the figure below is ascending, not descending.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:figure|x:ascending|2": {
+    "text": "The one on the stairs has turned around and is coming up.",
+    "score": 96,
+    "postedit": "The one on the stairs has turned around and is coming up.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:figure|x:knows|0": {
+    "text": "The figure below looks up and lifts a hand, as if it has been waiting for you.",
+    "score": 96,
+    "postedit": "The figure below looks up and lifts a hand, as if it has been waiting for you.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:figure|x:knows|1": {
+    "text": "The figure mouths something up the shaft. It might be 'again.'",
+    "score": 96,
+    "postedit": "The figure mouths something up the shaft. It might be 'again.'",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:figure|x:knows|2": {
+    "text": "It beckons you down, slow and certain, as though it knows you.",
+    "score": 96,
+    "postedit": "It beckons you down, slow and certain, as though it knows you.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:sense|v:steady|0": {
+    "text": "The shaft feels exactly as deep as it always has.",
+    "score": 96,
+    "postedit": "The shaft feels exactly as deep as it always has.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:sense|v:steady|1": {
+    "text": "You carry the same wariness down flight after flight.",
+    "score": 96,
+    "postedit": "You carry the same wariness down flight after flight.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:sense|v:steady|2": {
+    "text": "Everything feels ordinary, as far as any of this is ordinary.",
+    "score": 96,
+    "postedit": "Everything feels ordinary, as far as any of this is ordinary.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:sense|x:deeper|0": {
+    "text": "The shaft feels deeper than it should, the ground floor further off.",
+    "score": 96,
+    "postedit": "The shaft feels deeper than it should, the ground floor further off.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:sense|x:deeper|1": {
+    "text": "You feel you've descended far more than eight floors.",
+    "score": 96,
+    "postedit": "You feel you've descended far more than eight floors.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:sense|x:deeper|2": {
+    "text": "The bottom seems to have moved further away.",
+    "score": 96,
+    "postedit": "The bottom seems to have moved further away.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:sense|x:forget|0": {
+    "text": "For a moment you can't remember how many landings you've passed.",
+    "score": 96,
+    "postedit": "For a moment you can't remember how many landings you've passed.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:sense|x:forget|1": {
+    "text": "You lose count of the flights above you, and it frightens you.",
+    "score": 96,
+    "postedit": "You lose count of the flights above you, and it frightens you.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:sense|x:forget|2": {
+    "text": "You can't recall which floor you started on.",
+    "score": 96,
+    "postedit": "You can't recall which floor you started on.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:sense|x:up|0": {
+    "text": "For an instant you're certain you've been climbing, not descending.",
+    "score": 96,
+    "postedit": "For an instant you're certain you've been climbing, not descending.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:sense|x:up|1": {
+    "text": "A wrong feeling grips you: that down has been up all along.",
+    "score": 96,
+    "postedit": "A wrong feeling grips you: that down has been up all along.",
+    "postedit_score": 96
+  },
+  "a:stairway8|p:sense|x:up|2": {
+    "text": "You feel, briefly and coldly, that you are going the wrong way.",
+    "score": 96,
+    "postedit": "You feel, briefly and coldly, that you are going the wrong way.",
+    "postedit_score": 96
+  },
+  "a:stairway8|adaptive|repeat_inspect|0": {
+    "text": "You check the {THING} again. You aren't sure why.",
+    "score": 96,
+    "postedit": "You check the {THING} again. You aren't sure why.",
+    "postedit_score": 96
+  },
+  "a:stairway8|adaptive|repeat_inspect|1": {
+    "text": "Your eyes go straight to the {THING}, the way they always seem to now.",
+    "score": 96,
+    "postedit": "Your eyes go straight to the {THING}, the way they always seem to now.",
+    "postedit_score": 96
+  },
+  "a:stairway8|adaptive|repeat_inspect|2": {
+    "text": "The {THING} draws your attention once more.",
+    "score": 96,
+    "postedit": "The {THING} draws your attention once more.",
+    "postedit_score": 96
+  },
+  "a:stairway8|adaptive|long_look|0": {
+    "text": "You spend longer looking than usual. You don't remember deciding to stop.",
+    "score": 96,
+    "postedit": "You spend longer looking than usual. You don't remember deciding to stop.",
+    "postedit_score": 96
+  },
+  "a:stairway8|adaptive|long_look|1": {
+    "text": "You realise you've been standing on the landing. For how long?",
+    "score": 96,
+    "postedit": "You realise you've been standing on the landing. For how long?",
+    "postedit_score": 96
+  },
+  "a:stairway8|adaptive|long_look|2": {
+    "text": "Time slips. You were staring down the shaft, and you don't know for how long.",
+    "score": 96,
+    "postedit": "Time slips. You were staring down the shaft, and you don't know for how long.",
+    "postedit_score": 96
+  },
+  "a:stairway8|framing|intro|0": {
+    "text": "OUT OF ORDER",
+    "score": 96,
+    "postedit": "OUT OF ORDER",
+    "postedit_score": 96
+  },
+  "a:stairway8|framing|intro|2": {
+    "text": "You press the call button. Nothing. A notice is taped across the doors:",
+    "score": 96,
+    "postedit": "You press the call button. Nothing. A notice is taped across the doors:",
+    "postedit_score": 96
+  },
+  "a:stairway8|framing|intro|3": {
+    "text": "LIFT OUT OF ORDER, USE STAIRS.",
+    "score": 95,
+    "postedit": "LIFT OUT OF ORDER, USE STAIRS.",
+    "postedit_score": 95
+  },
+  "a:stairway8|framing|intro|5": {
+    "text": "While a landing is exactly as you remember it, keep descending.",
+    "score": 96,
+    "postedit": "While a landing is exactly as you remember it, keep descending.",
+    "postedit_score": 96
+  },
+  "a:stairway8|framing|intro|6": {
+    "text": "If anything has changed, the stairwell has turned you around. Climb back up.",
+    "score": 96,
+    "postedit": "If anything has changed, the stairwell has turned you around. Climb back up.",
+    "postedit_score": 96
+  },
+  "a:stairway8|framing|intro|8": {
+    "text": "The ground floor is the way out.",
+    "score": 96,
+    "postedit": "The ground floor is the way out.",
+    "postedit_score": 96
+  },
+  "a:stairway8|framing|intro|9": {
+    "text": "Lose count of the landings, and you'll be back at the top.",
+    "score": 96,
+    "postedit": "Lose count of the landings, and you'll be back at the top.",
+    "postedit_score": 96
+  },
+  "a:stairway8|framing|win|0": {
+    "text": "The last flight opens onto the lobby.",
+    "score": 96,
+    "postedit": "The last flight opens onto the lobby.",
+    "postedit_score": 96
+  },
+  "a:stairway8|framing|win|1": {
+    "text": "Daylight through the doors. The street. The lift behind you, still dead.",
+    "score": 95,
+    "postedit": "Daylight through the doors. The street. The lift behind you, still dead.",
+    "postedit_score": 95
+  },
+  "a:stairway8|framing|win|2": {
+    "text": "Eight floors down, and your memory held every landing.",
+    "score": 96,
+    "postedit": "Eight floors down, and your memory held every landing.",
+    "postedit_score": 96
+  },
+  "a:stairway8|framing|win|3": {
+    "text": "Ground floor.",
+    "score": 96,
+    "postedit": "Ground floor.",
+    "postedit_score": 96
+  }
+}

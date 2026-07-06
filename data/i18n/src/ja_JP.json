@@ -1,0 +1,2114 @@
+{
+ "a:coach8|act2|end|platform|0": {
+  "postedit": "ホームへ降り立つと、背後で扉がシューと閉まる。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "ホームへ降り立つと、背後で扉がシューと閉まる。"
+ },
+ "a:coach8|act2|end|platform|1": {
+  "postedit": "列車はあなたを置いて、トンネルへ滑り去っていく。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "列車はあなたを置いて、トンネルへ滑り去っていく。"
+ },
+ "a:coach8|act2|end|platform|2": {
+  "postedit": "誰もいないホームの標示は、聞いたこともない駅の名。案内板に載る唯一の列車は、今出ていったあの列車だ。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "誰もいないホームの標示は、聞いたこともない駅の名。案内板に載る唯一の列車は、今出ていったあの列車だ。"
+ },
+ "a:coach8|act2|exit|action": {
+  "postedit": "ホームへ降りる",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "ホームへ降りる"
+ },
+ "a:coach8|act2|exit|tempt": {
+  "postedit": "列車が速度を落とし、車両の端の扉が明るいホームへと開く。ただ降りれば、それで着く。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "列車が速度を落とし、車両の端の扉が明るいホームへと開く。ただ降りれば、それで着く。"
+ },
+ "a:coach8|act2|exit|utterance": {
+  "postedit": "乗客がようやくこちらを向き、あなたがすでに知っている声で言う。「あなたは降りる駅を過ぎてしまった。」",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "乗客がようやくこちらを向き、あなたがすでに知っている声で言う。「あなたは降りる駅を過ぎてしまった。」"
+ },
+ "a:coach8|act2|flashback|0": {
+  "postedit": "前に一度、もっと後ろに席があった、上着をかけて。あなたは8号車を探して立ち上がった。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "前に一度、もっと後ろに席があった、上着をかけて。あなたは8号車を探して立ち上がった。"
+ },
+ "a:coach8|act2|flashback|1": {
+  "postedit": "終点で誰かが待っているはずだった。その名を、つかまえておけない。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "終点で誰かが待っているはずだった。その名を、つかまえておけない。"
+ },
+ "a:coach8|act2|flashback|2": {
+  "postedit": "眠っている乗客の上着は、あなたのと同じ。もう二度と見ない。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "眠っている乗客の上着は、あなたのと同じ。もう二度と見ない。"
+ },
+ "a:coach8|act2|flashback|3": {
+  "postedit": "テーブルに引っかかれた文字は、あなた自身の手のものだ。「また」か、それとも「八」か。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "テーブルに引っかかれた文字は、あなた自身の手のものだ。「また」か、それとも「八」か。"
+ },
+ "a:coach8|act2|flashback|4": {
+  "postedit": "次の駅が自分の駅だと確信していた。次の駅は、いつでも次の駅だ。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "次の駅が自分の駅だと確信していた。次の駅は、いつでも次の駅だ。"
+ },
+ "a:coach8|act2|t:luggage|fold|0": {
+  "postedit": "中には車両の列が、小さくたたまれて遠ざかっていく。顔を上げると、あなたはまた先頭の車両にいる。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "中には車両の列が、小さくたたまれて遠ざかっていく。顔を上げると、あなたはまた先頭の車両にいる。"
+ },
+ "a:coach8|act2|t:luggage|herring|0": {
+  "postedit": "荷札のインクがまだ濡れている。たぶんずっと濡れていたのだ。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "荷札のインクがまだ濡れている。たぶんずっと濡れていたのだ。"
+ },
+ "a:coach8|act2|t:luggage|herring|1": {
+  "postedit": "荷札には、あなた自身のイニシャルが、あなたの手で書かれている。ありふれたイニシャルだ。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "荷札には、あなた自身のイニシャルが、あなたの手で書かれている。ありふれたイニシャルだ。"
+ },
+ "a:coach8|act2|t:luggage|reaction|0": {
+  "postedit": "誰かのたたんだシャツ、文庫本、切符の半券。どこかへ向かう、ありふれたもの。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "誰かのたたんだシャツ、文庫本、切符の半券。どこかへ向かう、ありふれたもの。"
+ },
+ "a:coach8|act2|t:luggage|reaction|1": {
+  "postedit": "見た目より重く、最後まで開ききろうとしない。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "見た目より重く、最後まで開ききろうとしない。"
+ },
+ "a:coach8|act2|t:luggage|verb": {
+  "postedit": "荷物を開ける",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "荷物を開ける"
+ },
+ "a:coach8|act2|t:passenger|fold|0": {
+  "postedit": "乗客は眠りながら、はっきりと一度、あなたの名を口にする。その響きが、あなたを先頭の車両へ運び戻す。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "乗客は眠りながら、はっきりと一度、あなたの名を口にする。その響きが、あなたを先頭の車両へ運び戻す。"
+ },
+ "a:coach8|act2|t:passenger|herring|0": {
+  "postedit": "そのコートは、あなたのと同じ仕立て。コートはコートだ。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "そのコートは、あなたのと同じ仕立て。コートはコートだ。"
+ },
+ "a:coach8|act2|t:passenger|herring|1": {
+  "postedit": "一瞬、上着の下の顔がこちらを向いている。そして、向いていない。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "一瞬、上着の下の顔がこちらを向いている。そして、向いていない。"
+ },
+ "a:coach8|act2|t:passenger|reaction|0": {
+  "postedit": "呟き、留めておける言葉はない。乗客は目を覚まさない。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "呟き、留めておける言葉はない。乗客は目を覚まさない。"
+ },
+ "a:coach8|act2|t:passenger|reaction|1": {
+  "postedit": "身じろぎして、落ち着く。その寝息が、あなたの息と歩調を合わせていく。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "身じろぎして、落ち着く。その寝息が、あなたの息と歩調を合わせていく。"
+ },
+ "a:coach8|act2|t:passenger|verb": {
+  "postedit": "眠っている乗客をつつく",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "眠っている乗客をつつく"
+ },
+ "a:coach8|act2|t:table|fold|0": {
+  "postedit": "指で正の字をなぞって数を見失い、その見失いが、あなたを先頭の車両へ戻す。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "指で正の字をなぞって数を見失い、その見失いが、あなたを先頭の車両へ戻す。"
+ },
+ "a:coach8|act2|t:table|herring|0": {
+  "postedit": "そのそばに、まだ濡れたコーヒーの輪染み、たった今誰かが立ったように。誰かが立ったのだ。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "そのそばに、まだ濡れたコーヒーの輪染み、たった今誰かが立ったように。誰かが立ったのだ。"
+ },
+ "a:coach8|act2|t:table|herring|1": {
+  "postedit": "引っかき傷は生々しく、数分前のもののようだ。あるいは、何年もかけて磨かれたのか。見分けがつかない。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "引っかき傷は生々しく、数分前のもののようだ。あるいは、何年もかけて磨かれたのか。見分けがつかない。"
+ },
+ "a:coach8|act2|t:table|reaction|0": {
+  "postedit": "鍵か爪で化粧板に刻まれた文字。ほとんどが「また」。そして正の字。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "鍵か爪で化粧板に刻まれた文字。ほとんどが「また」。そして正の字。"
+ },
+ "a:coach8|act2|t:table|reaction|1": {
+  "postedit": "新しい傷の下に、古い傷、手でこすられてほとんど平らになっている。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "新しい傷の下に、古い傷、手でこすられてほとんど平らになっている。"
+ },
+ "a:coach8|act2|t:table|verb": {
+  "postedit": "引っかかれた文字を読む",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "引っかかれた文字を読む"
+ },
+ "a:coach8|act2|t:window|fold|0": {
+  "postedit": "闇がすべてになるまで見つめると、車両はあなたの映り込みの周りでやり直しになり、始まりに戻る。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "闇がすべてになるまで見つめると、車両はあなたの映り込みの周りでやり直しになり、始まりに戻る。"
+ },
+ "a:coach8|act2|t:window|herring|0": {
+  "postedit": "あなたのものではない手のひらの跡が、ガラスに曇って、消えていく。あるいは、あなたのものだ。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "あなたのものではない手のひらの跡が、ガラスに曇って、消えていく。あるいは、あなたのものだ。"
+ },
+ "a:coach8|act2|t:window|herring|1": {
+  "postedit": "外の灯りは、町かもしれないし、二重に映った列車かもしれない。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "外の灯りは、町かもしれないし、二重に映った列車かもしれない。"
+ },
+ "a:coach8|act2|t:window|reaction|0": {
+  "postedit": "ガラスに映るあなたが、半秒遅れてついてくる。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "ガラスに映るあなたが、半秒遅れてついてくる。"
+ },
+ "a:coach8|act2|t:window|reaction|1": {
+  "postedit": "黒いガラス、トンネル、そして読み取れないほど速く流れ去るホーム。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "黒いガラス、トンネル、そして読み取れないほど速く流れ去るホーム。"
+ },
+ "a:coach8|act2|t:window|verb": {
+  "postedit": "窓の外を見る",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "窓の外を見る"
+ },
+ "a:coach8|adaptive|long_look|0": {
+  "postedit": "いつもより長く見てしまう。立ち止まった覚えはない。",
+  "postedit_score": 95,
+  "score": 91,
+  "text": "いつもより長く見てしまう。立ち止まった覚えはない。"
+ },
+ "a:coach8|adaptive|long_look|1": {
+  "postedit": "通路に立ち尽くしていたと気づく。いつから？",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "通路に立ち尽くしていたと気づく。いつから？"
+ },
+ "a:coach8|adaptive|long_look|2": {
+  "postedit": "列車は揺れ続け、どれほど見つめていたのかわからない。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "列車は揺れ続け、どれほど見つめていたのかわからない。"
+ },
+ "a:coach8|adaptive|repeat_inspect|0": {
+  "postedit": "また{THING}に目が行く。理由はよくわからない。",
+  "postedit_score": 95,
+  "score": 91,
+  "text": "また{THING}に目が行く。理由はよくわからない。"
+ },
+ "a:coach8|adaptive|repeat_inspect|1": {
+  "postedit": "視線はまっすぐ{THING}へ向かう。最近はいつもそうだ。",
+  "postedit_score": 95,
+  "score": 91,
+  "text": "視線はまっすぐ{THING}へ向かう。最近はいつもそうだ。"
+ },
+ "a:coach8|adaptive|repeat_inspect|2": {
+  "postedit": "{THING}がまた目を引く。",
+  "postedit_score": 95,
+  "score": 91,
+  "text": "{THING}がまた目を引く。"
+ },
+ "a:coach8|attempt": {
+  "postedit": "この列車を{n}回。今回は、あなたの駅に着いた。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "この列車を{n}回。今回は、あなたの駅に着いた。"
+ },
+ "a:coach8|attempt_first": {
+  "postedit": "最初の一度で、列車は引き返さなかった。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "最初の一度で、列車は引き返さなかった。"
+ },
+ "a:coach8|framing|cutscene|0": {
+  "postedit": "車両の何かが変わっていたのに、あなたは気づかず進んだ。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "車両の何かが変わっていたのに、あなたは気づかず進んだ。"
+ },
+ "a:coach8|framing|cutscene|1": {
+  "postedit": "車両が記憶と少しでも違えば、引き返せ。同じなら、進み続けろ。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "車両が記憶と少しでも違えば、引き返せ。同じなら、進み続けろ。"
+ },
+ "a:coach8|framing|intro|0": {
+  "postedit": "終電",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "終電"
+ },
+ "a:coach8|framing|intro|2": {
+  "postedit": "車掌は切符に鋏を入れ、列車の前方へ顎をしゃくった。8号車、あちらだ。",
+  "postedit_score": 95,
+  "score": 90,
+  "text": "車掌は切符に鋏を入れ、列車の前方へ顎をしゃくった。8号車、あちらだ。"
+ },
+ "a:coach8|framing|intro|3": {
+  "postedit": "それはもう少し前のこと。まだ歩き続けていて、どの車両も同じに見える。",
+  "postedit_score": 95,
+  "score": 91,
+  "text": "それはもう少し前のこと。まだ歩き続けていて、どの車両も同じに見える。"
+ },
+ "a:coach8|framing|intro|5": {
+  "postedit": "車両が記憶のとおりであるうちは、前へ歩き続けよ。",
+  "postedit_score": 95,
+  "score": 91,
+  "text": "車両が記憶のとおりであるうちは、前へ歩き続けよ。"
+ },
+ "a:coach8|framing|intro|6": {
+  "postedit": "何かが変わっていたら、引き返せ。この車両はあなたを引き戻している。",
+  "postedit_score": 95,
+  "score": 90,
+  "text": "何かが変わっていたら、引き返せ。この車両はあなたを引き戻している。"
+ },
+ "a:coach8|framing|intro|8": {
+  "postedit": "8両進めば、ようやく腰を下ろせる。",
+  "postedit_score": 95,
+  "score": 91,
+  "text": "8両進めば、ようやく腰を下ろせる。"
+ },
+ "a:coach8|framing|intro|9": {
+  "postedit": "確信を失えば、列車はあなたを出発点へ戻す。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "確信を失えば、列車はあなたを出発点へ戻す。"
+ },
+ "a:coach8|framing|win|0": {
+  "postedit": "もう一枚扉を引き開けると、座席番号は8を示している。",
+  "postedit_score": 95,
+  "score": 91,
+  "text": "もう一枚扉を引き開けると、座席番号は8を示している。"
+ },
+ "a:coach8|framing|win|1": {
+  "postedit": "8号車。あなたの席が、黒い窓のそばで空いたまま待っている。",
+  "postedit_score": 95,
+  "score": 91,
+  "text": "8号車。あなたの席が、黒い窓のそばで空いて待っている。"
+ },
+ "a:coach8|framing|win|2": {
+  "postedit": "ようやくそこに身を沈める。列車は夜を貫いて走り続ける。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "ようやくそこに身を沈める。列車は夜を貫いて走り続ける。"
+ },
+ "a:coach8|framing|win|3": {
+  "postedit": "あなたは自分の席を見つけた。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "あなたは自分の席を見つけた。"
+ },
+ "a:coach8|go_on": {
+  "postedit": "次の車両へ",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "次の車両へ"
+ },
+ "a:coach8|label|door": {
+  "postedit": "連結扉",
+  "postedit_score": 96,
+  "score": 92,
+  "text": "連結扉"
+ },
+ "a:coach8|label|lighting": {
+  "postedit": "照明",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "照明"
+ },
+ "a:coach8|label|luggage": {
+  "postedit": "荷物棚",
+  "postedit_score": 96,
+  "score": 93,
+  "text": "荷物棚"
+ },
+ "a:coach8|label|passenger": {
+  "postedit": "眠っている乗客",
+  "postedit_score": 96,
+  "score": 92,
+  "text": "眠っている乗客"
+ },
+ "a:coach8|label|seatnum": {
+  "postedit": "座席番号",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "座席番号"
+ },
+ "a:coach8|label|sense": {
+  "postedit": "この感じ",
+  "postedit_score": 96,
+  "score": 88,
+  "text": "感覚"
+ },
+ "a:coach8|label|sound": {
+  "postedit": "音",
+  "postedit_score": 96,
+  "score": 93,
+  "text": "音"
+ },
+ "a:coach8|label|table": {
+  "postedit": "テーブル",
+  "postedit_score": 96,
+  "score": 93,
+  "text": "テーブル"
+ },
+ "a:coach8|label|window": {
+  "postedit": "窓",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "窓"
+ },
+ "a:coach8|p:door|v:closed|0": {
+  "postedit": "車両の端の連結扉は閉じていて、ガラスは暗い。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "車両の端の連結扉は閉じていて、ガラスは暗い。"
+ },
+ "a:coach8|p:door|v:closed|1": {
+  "postedit": "次の車両への自動扉は、いつものとおり閉まっている。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "次の車両への自動扉は、いつものとおり閉まっている。"
+ },
+ "a:coach8|p:door|v:closed|2": {
+  "postedit": "端の扉は閉じ、その先の連結部は薄暗い。",
+  "postedit_score": 95,
+  "score": 91,
+  "text": "端の扉は閉じ、その先の連結部は薄暗い。"
+ },
+ "a:coach8|p:door|x:glass|0": {
+  "postedit": "連結扉のガラスが曇り、手のひらの跡がついている。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "連結扉のガラスが曇り、手のひらの跡がついている。"
+ },
+ "a:coach8|p:door|x:glass|1": {
+  "postedit": "端の扉の窓が、向こう側から何かでこすられている。",
+  "postedit_score": 95,
+  "score": 90,
+  "text": "端の扉の窓に、向こう側から何かがこすりつけられている。"
+ },
+ "a:coach8|p:door|x:glass|2": {
+  "postedit": "連結扉のガラスが、蜘蛛の巣状にひび割れている。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "連結扉のガラスが、蜘蛛の巣状にひび割れている。"
+ },
+ "a:coach8|p:door|x:locked|0": {
+  "postedit": "連結扉に赤いランプが灯る。「施錠」。",
+  "postedit_score": 95,
+  "score": 91,
+  "text": "連結扉に赤いランプが灯る。「施錠」。"
+ },
+ "a:coach8|p:door|x:locked|1": {
+  "postedit": "端の扉の表示が、さっきまで緑だったのに施錠を示している。",
+  "postedit_score": 95,
+  "score": 91,
+  "text": "端の扉の表示が、さっきまで緑だったのに施錠を示している。"
+ },
+ "a:coach8|p:door|x:locked|2": {
+  "postedit": "次の車両への扉に「立入禁止」とある。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "次の車両への扉に「立入禁止」とある。"
+ },
+ "a:coach8|p:door|x:open|0": {
+  "postedit": "連結扉が開いたまま動かず、冷たい風が吹き込む。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "連結扉が開いたまま動かず、冷たい風が吹き込む。"
+ },
+ "a:coach8|p:door|x:open|1": {
+  "postedit": "自動扉が閉まらない。その先の連結部が轟音を立てている。",
+  "postedit_score": 95,
+  "score": 91,
+  "text": "自動扉が閉まらない。その先の連結部が轟音を立てている。"
+ },
+ "a:coach8|p:door|x:open|2": {
+  "postedit": "端の扉が、揺れる連結部に向かって大きく開いている。",
+  "postedit_score": 95,
+  "score": 91,
+  "text": "端の扉が、揺れる連結部に向かって大きく開いている。"
+ },
+ "a:coach8|p:lighting|v:dim|0": {
+  "postedit": "車内の照明は夜のために落とされ、柔らかな琥珀色だ。",
+  "postedit_score": 95,
+  "score": 91,
+  "text": "車内の照明は夜のために落とされ、柔らかな琥珀色だ。"
+ },
+ "a:coach8|p:lighting|v:dim|1": {
+  "postedit": "いつものように、荷物棚に沿って夜間照明がぼんやりとにじむ。",
+  "postedit_score": 95,
+  "score": 90,
+  "text": "いつものように、荷物棚に沿って落とした夜間照明がにじむ。"
+ },
+ "a:coach8|p:lighting|v:dim|2": {
+  "postedit": "天井の明かりは琥珀色の夜間モードまで絞られている。",
+  "postedit_score": 95,
+  "score": 91,
+  "text": "天井の明かりは琥珀色の夜間モードまで絞られている。"
+ },
+ "a:coach8|p:lighting|v:dim|3": {
+  "postedit": "車両は前と同じ柔らかな金色に照らされている。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "車両は前と同じ柔らかな金色に照らされている。"
+ },
+ "a:coach8|p:lighting|x:bright|0": {
+  "postedit": "照明が全開になっている。夜間モードではなく、きつく白い。",
+  "postedit_score": 95,
+  "score": 90,
+  "text": "照明が全開になり、夜間モードではなく、きつく白い。"
+ },
+ "a:coach8|p:lighting|x:bright|1": {
+  "postedit": "この車両は前よりずっと明るく照らされている。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "この車両は前よりずっと明るく照らされている。"
+ },
+ "a:coach8|p:lighting|x:bright|2": {
+  "postedit": "柔らかな琥珀色は消え、すべてが白く光っている。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "柔らかな琥珀色は消え、すべてが白く光っている。"
+ },
+ "a:coach8|p:lighting|x:flicker|0": {
+  "postedit": "車内の照明が列車の揺れとともにちらつき、やがて落ち着く。",
+  "postedit_score": 95,
+  "score": 91,
+  "text": "車内の照明が列車の揺れとともにちらつき、やがて落ち着く。"
+ },
+ "a:coach8|p:lighting|x:flicker|1": {
+  "postedit": "頭上で一本の照明がまたたく。",
+  "postedit_score": 95,
+  "score": 91,
+  "text": "頭上で一本の照明がまたたく。"
+ },
+ "a:coach8|p:lighting|x:flicker|2": {
+  "postedit": "琥珀色の明かりが一度消えて、また点く。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "琥珀色の明かりが一度消えて、また点く。"
+ },
+ "a:coach8|p:lighting|x:off|0": {
+  "postedit": "車内は暗く、床の非常灯だけが光っている。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "車内は暗く、床の非常灯だけが光っている。"
+ },
+ "a:coach8|p:lighting|x:off|1": {
+  "postedit": "ここは照明が消えていて、通路の標示灯だけがにじむ。",
+  "postedit_score": 95,
+  "score": 91,
+  "text": "ここは照明が消えていて、通路の標示灯だけがにじむ。"
+ },
+ "a:coach8|p:lighting|x:off|2": {
+  "postedit": "暗闇。ただ床沿いに細い光の線が一本だけ。",
+  "postedit_score": 95,
+  "score": 91,
+  "text": "暗闇。ただ床沿いに細い光の線が一本だけ。"
+ },
+ "a:coach8|p:luggage|v:stowed|0": {
+  "postedit": "扉のそばの荷物棚に、スーツケースが一つ載っている。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "扉のそばの荷物棚に、スーツケースが一つ載っている。"
+ },
+ "a:coach8|p:luggage|v:stowed|1": {
+  "postedit": "頭上の棚には、いつもどおりの鞄がまばらに載っている。",
+  "postedit_score": 95,
+  "score": 91,
+  "text": "頭上の棚には、いつもどおりの鞄がまばらに載っている。"
+ },
+ "a:coach8|p:luggage|v:stowed|2": {
+  "postedit": "前と同じく、ハードケースが一つ荷物棚に載って揺れている。",
+  "postedit_score": 95,
+  "score": 91,
+  "text": "前と同じく、ハードケースが一つ荷物棚に載って揺れている。"
+ },
+ "a:coach8|p:luggage|x:gone|0": {
+  "postedit": "荷物棚は今、空だ。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "荷物棚は今、空だ。"
+ },
+ "a:coach8|p:luggage|x:gone|1": {
+  "postedit": "扉のそばのスーツケースが消えている。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "扉のそばのスーツケースが消えている。"
+ },
+ "a:coach8|p:luggage|x:gone|2": {
+  "postedit": "今回は棚に鞄が一つもない。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "今回は棚に鞄が一つもない。"
+ },
+ "a:coach8|p:luggage|x:more|0": {
+  "postedit": "荷物棚はぎっしり詰まり、前よりずっと多くの鞄がある。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "荷物棚はぎっしり詰まり、前よりずっと多くの鞄がある。"
+ },
+ "a:coach8|p:luggage|x:more|1": {
+  "postedit": "スーツケースが今や天井近くまで積み上がっている。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "スーツケースが今や天井近くまで積み上がっている。"
+ },
+ "a:coach8|p:luggage|x:more|2": {
+  "postedit": "棚は、そこになかったはずの荷物であふれている。",
+  "postedit_score": 95,
+  "score": 91,
+  "text": "棚は、そこになかったはずの荷物であふれている。"
+ },
+ "a:coach8|p:luggage|x:open|0": {
+  "postedit": "棚のスーツケースが開いたまま、空になっている。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "棚のスーツケースが開いたまま、空になっている。"
+ },
+ "a:coach8|p:luggage|x:open|1": {
+  "postedit": "一つのケースが荷物棚の上で開き、中身をぶちまけている。",
+  "postedit_score": 95,
+  "score": 90,
+  "text": "一つのケースが荷物棚の上で開いて、中身をぶちまけている。"
+ },
+ "a:coach8|p:luggage|x:open|2": {
+  "postedit": "ハードケースが大きく開き、中身が消えている。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "ハードケースが大きく開き、中身が消えている。"
+ },
+ "a:coach8|p:passenger|v:sleeping|0": {
+  "postedit": "一人の乗客が遠くの窓にもたれて眠り、上着を顔にかけている。",
+  "postedit_score": 95,
+  "score": 91,
+  "text": "一人の乗客が遠くの窓にもたれて眠り、上着を顔にかけている。"
+ },
+ "a:coach8|p:passenger|v:sleeping|1": {
+  "postedit": "一人の乗客が車両の半ばで、頭を後ろに預けてうたた寝している。",
+  "postedit_score": 95,
+  "score": 91,
+  "text": "一人の乗客が車両の半ばで、頭を後ろに預けてうたた寝している。"
+ },
+ "a:coach8|p:passenger|v:sleeping|2": {
+  "postedit": "同じ眠った人影が、前と同じく窓側の席に沈み込んでいる。",
+  "postedit_score": 95,
+  "score": 91,
+  "text": "同じ眠った人影が、前と同じく窓側の席に沈み込んでいる。"
+ },
+ "a:coach8|p:passenger|x:awake|0": {
+  "postedit": "乗客は今、目を覚まして背筋を伸ばし、じっと動かない。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "乗客は今、目を覚まして背筋を伸ばし、じっと動かない。"
+ },
+ "a:coach8|p:passenger|x:awake|1": {
+  "postedit": "眠っていた人の目が開き、通路にじっと据えられている。",
+  "postedit_score": 95,
+  "score": 91,
+  "text": "眠っていた人の目が開き、通路に据えられている。"
+ },
+ "a:coach8|p:passenger|x:awake|2": {
+  "postedit": "乗客はもう眠っていない。通り過ぎるあなたを見ている。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "乗客はもう眠っていない。通り過ぎるあなたを見ている。"
+ },
+ "a:coach8|p:passenger|x:gone|0": {
+  "postedit": "乗客が眠っていた席は、今は空いている。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "乗客が眠っていた席は、今は空いている。"
+ },
+ "a:coach8|p:passenger|x:gone|1": {
+  "postedit": "今回は車両で誰も眠っていない。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "今回は車両で誰も眠っていない。"
+ },
+ "a:coach8|p:passenger|x:gone|2": {
+  "postedit": "うたた寝していた乗客は消え、たたまれた上着だけが残っている。",
+  "postedit_score": 95,
+  "score": 91,
+  "text": "うたた寝していた乗客は消え、たたまれた上着だけが残っている。"
+ },
+ "a:coach8|p:passenger|x:moved|0": {
+  "postedit": "眠っている乗客が、通路寄りの席に移っている。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "眠っている乗客が、通路寄りの席に移っている。"
+ },
+ "a:coach8|p:passenger|x:moved|1": {
+  "postedit": "うたた寝の人影が前より近く、今はあなたの側にいる。",
+  "postedit_score": 95,
+  "score": 91,
+  "text": "うたた寝の人影が前より近く、今はあなたの側にいる。"
+ },
+ "a:coach8|p:passenger|x:moved|2": {
+  "postedit": "乗客は、ついさっきとは違う席で眠っている。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "乗客は、ついさっきとは違う席で眠っている。"
+ },
+ "a:coach8|p:passenger|x:speaks|0": {
+  "postedit": "眠っている乗客が、目を覚まさぬまま呟く。「またか？」",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "眠っている乗客が、目を覚まさぬまま呟く。「またか？」"
+ },
+ "a:coach8|p:passenger|x:speaks|1": {
+  "postedit": "上着の下から、くぐもった声。「さっきもここにいたろう。」",
+  "postedit_score": 95,
+  "score": 91,
+  "text": "上着の下から、くぐもった声。「さっきもここにいたろう。」"
+ },
+ "a:coach8|p:passenger|x:speaks|2": {
+  "postedit": "うたた寝の人影が、誰にも言っていないはずのあなたの降車駅の名を口にする。",
+  "postedit_score": 95,
+  "score": 91,
+  "text": "うたた寝の人影が、誰にも言っていないはずのあなたの降車駅の名を口にする。"
+ },
+ "a:coach8|p:passenger|x:two|0": {
+  "postedit": "一人だったところに、今は二人の乗客が眠っている。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "一人だったところに、今は二人の乗客が眠っている。"
+ },
+ "a:coach8|p:passenger|x:two|1": {
+  "postedit": "今回は顔に上着をかけた人影が、一人ではなく二人いる。",
+  "postedit_score": 95,
+  "score": 91,
+  "text": "今回は顔に上着をかけた人影が、一人ではなく二人いる。"
+ },
+ "a:coach8|p:passenger|x:two|2": {
+  "postedit": "二人目の眠った人影が、最初の一人に加わっている。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "二人目の眠った人影が、最初の一人に加わっている。"
+ },
+ "a:coach8|p:seatnum|v:eight|0": {
+  "postedit": "座席のシールは列に沿って8A、8B、8Cと並ぶ。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "座席のシールは列に沿って8A、8B、8Cと並ぶ。"
+ },
+ "a:coach8|p:seatnum|v:eight|1": {
+  "postedit": "小さな真鍮の数字が座席を示す。いつものとおり8列目。",
+  "postedit_score": 95,
+  "score": 91,
+  "text": "小さな真鍮の数字が座席を示す。いつものとおり8列目。"
+ },
+ "a:coach8|p:seatnum|v:eight|2": {
+  "postedit": "扉のそばの車両番号表示が「8号車」と光る。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "扉のそばの車両番号表示が「8号車」と光る。"
+ },
+ "a:coach8|p:seatnum|x:letters|0": {
+  "postedit": "座席のシールは8X、8Y、8Zと読める。あるはずのない文字だ。",
+  "postedit_score": 95,
+  "score": 90,
+  "text": "座席のシールは8X、8Y、8Zと読める。あるはずのない文字だ。"
+ },
+ "a:coach8|p:seatnum|x:letters|1": {
+  "postedit": "その列は、見覚えのない文字体系で番号が振られている。",
+  "postedit_score": 95,
+  "score": 91,
+  "text": "その列は、見覚えのない文字体系で番号が振られている。"
+ },
+ "a:coach8|p:seatnum|x:letters|2": {
+  "postedit": "座席の表示は今や数字ではなく、ただの記号だ。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "座席の表示は今や数字ではなく、ただの記号だ。"
+ },
+ "a:coach8|p:seatnum|x:missing|0": {
+  "postedit": "座席番号は剥ぎ取られ、むき出しのねじ穴だけが残っている。",
+  "postedit_score": 95,
+  "score": 91,
+  "text": "座席番号は剥ぎ取られ、むき出しのねじ穴だけが残っている。"
+ },
+ "a:coach8|p:seatnum|x:missing|1": {
+  "postedit": "扉のそばの車両番号表示が、暗く空白のままだ。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "扉のそばの車両番号表示が、暗く空白のままだ。"
+ },
+ "a:coach8|p:seatnum|x:missing|2": {
+  "postedit": "今回は座席に番号がまったくない。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "今回は座席に番号がまったくない。"
+ },
+ "a:coach8|p:seatnum|x:wrong|0": {
+  "postedit": "座席のシールは今、8ではなく7列目と読める。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "座席のシールは今、8ではなく7列目と読める。"
+ },
+ "a:coach8|p:seatnum|x:wrong|1": {
+  "postedit": "車両番号表示が「9号車」と読める。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "車両番号表示が「9号車」と読める。"
+ },
+ "a:coach8|p:seatnum|x:wrong|2": {
+  "postedit": "真鍮の数字は6列目と告げる。8だったと確信していたのに。",
+  "postedit_score": 95,
+  "score": 91,
+  "text": "真鍮の数字は6列目と告げる。8だったと確信していたのに。"
+ },
+ "a:coach8|p:sense|v:steady|0": {
+  "postedit": "列車はいつもとまったく同じ長さに感じられる。",
+  "postedit_score": 95,
+  "score": 91,
+  "text": "列車はいつもとまったく同じ長さに感じられる。"
+ },
+ "a:coach8|p:sense|v:steady|1": {
+  "postedit": "同じ疲れた辛抱を抱えたまま、車両また車両と通路を進んでいく。",
+  "postedit_score": 95,
+  "score": 89,
+  "text": "同じ疲れた辛抱を抱えて、車両また車両と通路を進む。"
+ },
+ "a:coach8|p:sense|v:steady|2": {
+  "postedit": "すべてが、夜行列車らしくごく当たり前に感じられる。",
+  "postedit_score": 95,
+  "score": 91,
+  "text": "すべてが、夜行列車らしくごく当たり前に感じられる。"
+ },
+ "a:coach8|p:sense|x:calm|0": {
+  "postedit": "ふいに、間違った穏やかさに包まれる。もう着いてしまったかのように。",
+  "postedit_score": 95,
+  "score": 91,
+  "text": "ふいに、間違った穏やかさに包まれる。もう着いてしまったかのように。"
+ },
+ "a:coach8|p:sense|x:calm|1": {
+  "postedit": "ここにあるはずのない奇妙な満ち足りが、あなたを覆う。",
+  "postedit_score": 95,
+  "score": 90,
+  "text": "ここにあるはずのない奇妙な満ち足りが、あなたを覆う。"
+ },
+ "a:coach8|p:sense|x:calm|2": {
+  "postedit": "焦りがまったくない。それ自体が間違っている気がする。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "焦りがまったくない。それ自体が間違っている気がする。"
+ },
+ "a:coach8|p:sense|x:forget|0": {
+  "postedit": "一瞬、何両歩いてきたのか思い出せない。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "一瞬、何両歩いてきたのか思い出せない。"
+ },
+ "a:coach8|p:sense|x:forget|1": {
+  "postedit": "後ろの車両の数がわからなくなり、それが怖い。",
+  "postedit_score": 95,
+  "score": 91,
+  "text": "後ろの車両の数がわからなくなり、それが怖い。"
+ },
+ "a:coach8|p:sense|x:forget|2": {
+  "postedit": "そもそもこの列車に乗った覚えがまったくない。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "そもそもこの列車に乗った覚えがまったくない。"
+ },
+ "a:coach8|p:sense|x:watched|0": {
+  "postedit": "乗客は皆眠っているのに、見られている気がする。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "乗客は皆眠っているのに、見られている気がする。"
+ },
+ "a:coach8|p:sense|x:watched|1": {
+  "postedit": "背後に誰かがいるという確信が、消えてくれない。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "背後に誰かがいるという確信が、消えてくれない。"
+ },
+ "a:coach8|p:sense|x:watched|2": {
+  "postedit": "首筋がぞわりとする。さっきまでとは違って、独りではないと確信する。",
+  "postedit_score": 95,
+  "score": 90,
+  "text": "首筋がぞわりとする。さっきまでとは違い、独りではないと確信する。"
+ },
+ "a:coach8|p:sound|v:rhythm|0": {
+  "postedit": "レールが床の下で一定のリズムを刻む。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "レールが床の下で一定のリズムを刻む。"
+ },
+ "a:coach8|p:sound|v:rhythm|1": {
+  "postedit": "列車はうなりを上げて進み、車輪が継ぎ目で音を立てる。",
+  "postedit_score": 95,
+  "score": 91,
+  "text": "列車はうなりを上げて進み、車輪が継ぎ目で音を立てる。"
+ },
+ "a:coach8|p:sound|v:rhythm|2": {
+  "postedit": "走る列車の、あの聞き慣れた揺れとがたつき。",
+  "postedit_score": 95,
+  "score": 91,
+  "text": "走る列車の、あの聞き慣れた揺れとがたつき。"
+ },
+ "a:coach8|p:sound|x:announce|0": {
+  "postedit": "チャイムが鳴り、聞き取れないくぐもった車内放送が続く。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "チャイムが鳴り、聞き取れないくぐもった車内放送が続く。"
+ },
+ "a:coach8|p:sound|x:announce|1": {
+  "postedit": "スピーカーが声とともに雑音を立て、そして途切れる。",
+  "postedit_score": 95,
+  "score": 91,
+  "text": "スピーカーが声とともに雑音を立て、そして途切れる。"
+ },
+ "a:coach8|p:sound|x:announce|2": {
+  "postedit": "車内放送が流れる。まるで逆再生のように。",
+  "postedit_score": 95,
+  "score": 90,
+  "text": "車内放送が流れる。ほとんど逆再生のように。"
+ },
+ "a:coach8|p:sound|x:faster|0": {
+  "postedit": "レールが本来より速く鳴り、高まるうなりを上げる。",
+  "postedit_score": 95,
+  "score": 91,
+  "text": "レールが本来より速く鳴り、高まるうなりを上げる。"
+ },
+ "a:coach8|p:sound|x:faster|1": {
+  "postedit": "列車は加速し、がたつきの音が高くなっていく。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "列車は加速し、がたつきの音が高くなっていく。"
+ },
+ "a:coach8|p:sound|x:faster|2": {
+  "postedit": "すべてが激しく揺れる。速度が上がっている。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "すべてが激しく揺れる。速度が上がっている。"
+ },
+ "a:coach8|p:sound|x:silence|0": {
+  "postedit": "車輪の音が消えた。もう何の動きも感じない。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "車輪の音が消えた。もう何の動きも感じない。"
+ },
+ "a:coach8|p:sound|x:silence|1": {
+  "postedit": "列車の音が止んだ。しんと静まりかえっている。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "列車の音が止んだ。しんと静まりかえっている。"
+ },
+ "a:coach8|p:sound|x:silence|2": {
+  "postedit": "がたつきも揺れもない。列車は動いていないのかもしれない。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "がたつきも揺れもない。列車は動いていないのかもしれない。"
+ },
+ "a:coach8|p:sound|x:slowing|0": {
+  "postedit": "レールのリズムが遅くなっていく。止まろうとしているのか。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "レールのリズムが遅くなっていく。止まろうとしているのか。"
+ },
+ "a:coach8|p:sound|x:slowing|1": {
+  "postedit": "がたつきが間延びする。列車が速度を落としているかのように。",
+  "postedit_score": 95,
+  "score": 91,
+  "text": "がたつきが間延びする。列車が速度を落としているかのように。"
+ },
+ "a:coach8|p:sound|x:slowing|2": {
+  "postedit": "床の下の鼓動が、打つ間隔を長く引き延ばしていく。",
+  "postedit_score": 95,
+  "score": 90,
+  "text": "床の下の鼓動が、打つ間隔を長く引き延ばす。"
+ },
+ "a:coach8|p:table|v:coffee|0": {
+  "postedit": "通路側の折りたたみテーブルに、飲みかけのコーヒーが置かれている。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "通路側の折りたたみテーブルに、飲みかけのコーヒーが置かれている。"
+ },
+ "a:coach8|p:table|v:coffee|1": {
+  "postedit": "テーブルは下ろされ、いつものように紙コップが冷めていく。",
+  "postedit_score": 95,
+  "score": 91,
+  "text": "テーブルは下ろされ、いつものように紙コップが冷めていく。"
+ },
+ "a:coach8|p:table|v:coffee|2": {
+  "postedit": "テーブルの上で、誰かのコーヒーがまだかすかに湯気を立てている。",
+  "postedit_score": 95,
+  "score": 91,
+  "text": "テーブルの上に、誰かのコーヒーがまだかすかに湯気を立てている。"
+ },
+ "a:coach8|p:table|x:cold|0": {
+  "postedit": "テーブルのコーヒーは冷めきり、表面に膜が張っている。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "テーブルのコーヒーは冷めきり、表面に膜が張っている。"
+ },
+ "a:coach8|p:table|x:cold|1": {
+  "postedit": "コップは今や冷たく、とうに放り出されている。",
+  "postedit_score": 95,
+  "score": 91,
+  "text": "コップは今や冷たく、とうに放り出されている。"
+ },
+ "a:coach8|p:table|x:cold|2": {
+  "postedit": "コーヒーは冷たく静かで、湯気はまったくない。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "コーヒーは冷たく静かで、湯気はまったくない。"
+ },
+ "a:coach8|p:table|x:empty|0": {
+  "postedit": "テーブルには何もない。コーヒーのコップが消えている。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "テーブルは何もない。コーヒーのコップが消えている。"
+ },
+ "a:coach8|p:table|x:empty|1": {
+  "postedit": "折りたたみテーブルには今、何も載っていない。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "折りたたみテーブルには今、何も載っていない。"
+ },
+ "a:coach8|p:table|x:empty|2": {
+  "postedit": "今回はテーブルにコップがない。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "今回はテーブルにコップがない。"
+ },
+ "a:coach8|p:table|x:many|0": {
+  "postedit": "テーブルは今やコップだらけだ。一つではなく、いくつも。",
+  "postedit_score": 95,
+  "score": 91,
+  "text": "テーブルは今やコップだらけだ。一つではなく、いくつも。"
+ },
+ "a:coach8|p:table|x:many|1": {
+  "postedit": "一つだったところに、いくつものコーヒーがテーブルに並んでいる。",
+  "postedit_score": 95,
+  "score": 91,
+  "text": "一つだったところに、いくつものコーヒーがテーブルに並んでいる。"
+ },
+ "a:coach8|p:table|x:many|2": {
+  "postedit": "テーブルは、誰も飲みきれないほど多くのコップで散らかっている。",
+  "postedit_score": 95,
+  "score": 91,
+  "text": "テーブルは、誰も飲みきれないほど多くのコップで散らかっている。"
+ },
+ "a:coach8|p:table|x:spilled|0": {
+  "postedit": "コーヒーがこぼれ、黒い染みがテーブルに広がっている。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "コーヒーがこぼれ、黒い染みがテーブルに広がっている。"
+ },
+ "a:coach8|p:table|x:spilled|1": {
+  "postedit": "コップが倒れ、コーヒーがテーブルの縁から流れ落ちている。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "コップが倒れ、コーヒーがテーブルの縁から流れ落ちている。"
+ },
+ "a:coach8|p:table|x:spilled|2": {
+  "postedit": "コーヒーがテーブルに溜まり、床へ滴っている。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "コーヒーがテーブルに溜まり、床へ滴っている。"
+ },
+ "a:coach8|p:window|v:night|0": {
+  "postedit": "窓の向こうは黒い田園と、自分自身の淡い映り込み。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "窓の向こうは黒い田園と、自分自身の淡い映り込み。"
+ },
+ "a:coach8|p:window|v:night|1": {
+  "postedit": "窓には夜と、車内の亡霊のような影しか映らない。",
+  "postedit_score": 95,
+  "score": 91,
+  "text": "窓には夜と、車内の亡霊のような影しか映らない。"
+ },
+ "a:coach8|p:window|v:night|2": {
+  "postedit": "暗い野が窓を流れ、遠くの灯りが点々と散らばる。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "暗い野が窓を流れ、遠くの灯りが点々と散らばる。"
+ },
+ "a:coach8|p:window|x:daylight|0": {
+  "postedit": "窓が日の光で明るい。ついさっきまで夜だったのに。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "窓が日の光で明るい。ついさっきまで夜だったのに。"
+ },
+ "a:coach8|p:window|x:daylight|1": {
+  "postedit": "ガラスの外は突然、ありえないことに、昼だ。",
+  "postedit_score": 95,
+  "score": 91,
+  "text": "ガラスの外は突然、ありえないことに、昼だ。"
+ },
+ "a:coach8|p:window|x:daylight|2": {
+  "postedit": "暗闇しかなかった窓を、日差しが満たしている。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "暗闇しかなかった窓を、日差しが満たしている。"
+ },
+ "a:coach8|p:window|x:reflection|0": {
+  "postedit": "ガラスに映るあなたの姿が、半秒だけ遅れている。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "ガラスに映るあなたの姿が、半秒だけ遅れている。"
+ },
+ "a:coach8|p:window|x:reflection|1": {
+  "postedit": "窓の映り込みが、車内とどこか噛み合わない。",
+  "postedit_score": 95,
+  "score": 91,
+  "text": "窓の映り込みが、車内とどこか噛み合わない。"
+ },
+ "a:coach8|p:window|x:reflection|2": {
+  "postedit": "窓の映り込みに、車内にはいない誰かが立っている。",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "窓の映り込みに、車内にはいない誰かが立っている。"
+ },
+ "a:coach8|p:window|x:station|0": {
+  "postedit": "窓を、明るいホームが滑るように過ぎる。予告のない駅だ。",
+  "postedit_score": 95,
+  "score": 91,
+  "text": "窓を、明るいホームが滑るように過ぎる。予告のない駅だ。"
+ },
+ "a:coach8|p:window|x:station|1": {
+  "postedit": "外を、誰もいない明るいホームが過ぎていく。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "外を、誰もいない明るいホームが過ぎていく。"
+ },
+ "a:coach8|p:window|x:station|2": {
+  "postedit": "駅がガラスの外を過ぎていく。列車が減速したのは感じなかった。",
+  "postedit_score": 95,
+  "score": 91,
+  "text": "駅がガラスの外を過ぎる。列車が減速したのは感じなかった。"
+ },
+ "a:coach8|p:window|x:tunnel|0": {
+  "postedit": "窓は真っ黒だ。轟音を立てるトンネル、果てがない。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "窓は真っ黒だ。轟音を立てるトンネル、果てがない。"
+ },
+ "a:coach8|p:window|x:tunnel|1": {
+  "postedit": "今はトンネルの中。ガラスには走り去る闇しか映らない。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "今はトンネルの中。ガラスには走り去る闇しか映らない。"
+ },
+ "a:coach8|p:window|x:tunnel|2": {
+  "postedit": "黒いトンネルの壁だけが、窓を流れていく。",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "黒いトンネルの壁だけが、窓を流れていく。"
+ },
+ "a:coach8|progress": {
+  "postedit": "車両 {level} / {goal}",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "車両 {level} / {goal}"
+ },
+ "a:coach8|share_prompt": {
+  "postedit": "扉を押さえておいて。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "扉を押さえておいて。"
+ },
+ "a:coach8|tagline": {
+  "postedit": "車掌は8号車だと言った。列車はいつまでもそこに着かない。",
+  "postedit_score": 96,
+  "score": 92,
+  "text": "車掌は8号車だと言った。列車はいつまでもそこに着かない。"
+ },
+ "a:coach8|title_main": {
+  "postedit": "8号車",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "8号車"
+ },
+ "a:coach8|title|0": {
+  "postedit": "8号車",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "8号車"
+ },
+ "a:coach8|title|1": {
+  "postedit": "8号車",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "8号車"
+ },
+ "a:coach8|title|2": {
+  "postedit": "8号車",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "8号車"
+ },
+ "a:coach8|title|3": {
+  "postedit": "8号車",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "8号車"
+ },
+ "a:coach8|title|4": {
+  "postedit": "第8車両",
+  "postedit_score": 96,
+  "score": 91,
+  "text": "第8車両"
+ },
+ "a:coach8|title|5": {
+  "postedit": "八号車",
+  "postedit_score": 96,
+  "score": 92,
+  "text": "八号車"
+ },
+ "a:coach8|title|6": {
+  "postedit": "8号車",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "8号車"
+ },
+ "a:coach8|title|7": {
+  "postedit": "8 号車",
+  "postedit_score": 96,
+  "score": 93,
+  "text": "8 号車"
+ },
+ "a:coach8|turn_back": {
+  "postedit": "一つ後ろの車両へ",
+  "postedit_score": 96,
+  "score": 92,
+  "text": "一つ後ろの車両へ"
+ },
+ "ui|a11y_close": {
+  "postedit": "閉じる",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "閉じる"
+ },
+ "ui|a11y_settings": {
+  "postedit": "表示設定",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "表示設定"
+ },
+ "ui|a11y_sound_off": {
+  "postedit": "サウンド オフ",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "サウンド オフ"
+ },
+ "ui|a11y_sound_on": {
+  "postedit": "サウンド オン",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "サウンド オン"
+ },
+ "ui|ach_d_cold": {
+  "postedit": "二度見せずに抜け出す。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "二度見せずに抜け出す。"
+ },
+ "ui|ach_d_eight_times": {
+  "postedit": "同じ場所を八度抜ける。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "同じ場所を八度抜ける。"
+ },
+ "ui|ach_d_end_coach8": {
+  "postedit": "Coach 8 のもう一つの結末を見つける。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "Coach 8 のもう一つの結末を見つける。"
+ },
+ "ui|ach_d_end_hallway-eight": {
+  "postedit": "Hallway 8 のもう一つの結末を見つける。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "Hallway 8 のもう一つの結末を見つける。"
+ },
+ "ui|ach_d_end_stairway8": {
+  "postedit": "Stairway 8 のもう一つの結末を見つける。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "Stairway 8 のもう一つの結末を見つける。"
+ },
+ "ui|ach_d_flash_coach8": {
+  "postedit": "Coach 8 のすべての断片を見る。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "Coach 8 のすべての断片を見る。"
+ },
+ "ui|ach_d_flash_hallway-eight": {
+  "postedit": "Hallway 8 のすべての断片を見る。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "Hallway 8 のすべての断片を見る。"
+ },
+ "ui|ach_d_flash_stairway8": {
+  "postedit": "Stairway 8 のすべての断片を見る。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "Stairway 8 のすべての断片を見る。"
+ },
+ "ui|ach_d_flawless": {
+  "postedit": "一度もやり直さずに、ある場所を抜ける。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "一度もやり直さずに、ある場所を抜ける。"
+ },
+ "ui|ach_d_hard_all": {
+  "postedit": "三つすべてをむずかしいで抜ける。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "三つすべてをむずかしいで抜ける。"
+ },
+ "ui|ach_d_hard_coach8": {
+  "postedit": "むずかしいで Coach 8 を抜ける。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "むずかしいで Coach 8 を抜ける。"
+ },
+ "ui|ach_d_hard_hallway-eight": {
+  "postedit": "むずかしいで Hallway 8 を抜ける。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "むずかしいで Hallway 8 を抜ける。"
+ },
+ "ui|ach_d_hard_stairway8": {
+  "postedit": "むずかしいで Stairway 8 を抜ける。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "むずかしいで Stairway 8 を抜ける。"
+ },
+ "ui|ach_d_insane_all": {
+  "postedit": "三つすべてを狂気で抜ける。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "三つすべてを狂気で抜ける。"
+ },
+ "ui|ach_d_insane_coach8": {
+  "postedit": "狂気で Coach 8 を抜ける。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "狂気で Coach 8 を抜ける。"
+ },
+ "ui|ach_d_insane_hallway-eight": {
+  "postedit": "狂気で Hallway 8 を抜ける。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "狂気で Hallway 8 を抜ける。"
+ },
+ "ui|ach_d_insane_stairway8": {
+  "postedit": "狂気で Stairway 8 を抜ける。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "狂気で Stairway 8 を抜ける。"
+ },
+ "ui|ach_d_melon": {
+  "postedit": "灯りを絶やさずにいてくれてありがとう。Melon Labs 一同より。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "灯りを絶やさずにいてくれてありがとう。Melon Labs 一同より。"
+ },
+ "ui|ach_d_nerve": {
+  "postedit": "最後の扉で引き返し、そして正しい。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "最後の扉で引き返し、そして正しい。"
+ },
+ "ui|ach_d_npc_knows": {
+  "postedit": "いつも先を行くものに、気づかれる。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "いつも先を行くものに、気づかれる。"
+ },
+ "ui|ach_d_opening_night": {
+  "postedit": "公開されたその日に遊ぶ。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "公開されたその日に遊ぶ。"
+ },
+ "ui|ach_d_out_all": {
+  "postedit": "三つの場所すべてから脱け出す。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "三つの場所すべてから脱け出す。"
+ },
+ "ui|ach_d_out_coach8": {
+  "postedit": "列車を降りる。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "列車を降りる。"
+ },
+ "ui|ach_d_out_hallway-eight": {
+  "postedit": "廊下から脱け出す。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "廊下から脱け出す。"
+ },
+ "ui|ach_d_out_stairway8": {
+  "postedit": "一階へたどり着く。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "一階へたどり着く。"
+ },
+ "ui|ach_d_shared": {
+  "postedit": "この場所を誰かに送る。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "この場所を誰かに送る。"
+ },
+ "ui|ach_d_steady": {
+  "postedit": "一度も迷わずに抜け出す。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "一度も迷わずに抜け出す。"
+ },
+ "ui|ach_d_streak": {
+  "postedit": "無傷の脱出、三回連続。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "無傷の脱出、三回連続。"
+ },
+ "ui|ach_d_total_recall": {
+  "postedit": "どこであれ、最後の一片まで見る。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "どこであれ、最後の一片まで見る。"
+ },
+ "ui|ach_empty": {
+  "postedit": "まだ何もない。どこかを抜け出して始めよう。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "まだ何もない。どこかを抜け出して始めよう。"
+ },
+ "ui|ach_flash": {
+  "postedit": "回想",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "回想"
+ },
+ "ui|ach_load": {
+  "postedit": "読み込み",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "読み込み"
+ },
+ "ui|ach_locked": {
+  "postedit": "未解除",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "未解除"
+ },
+ "ui|ach_n_cold": {
+  "postedit": "一読で",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "一読で"
+ },
+ "ui|ach_n_eight_times": {
+  "postedit": "八度の道のり",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "八度の道のり"
+ },
+ "ui|ach_n_end_coach8": {
+  "postedit": "あなたのものではないホーム",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "あなたのものではないホーム"
+ },
+ "ui|ach_n_end_hallway-eight": {
+  "postedit": "開かないロビー",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "開かないロビー"
+ },
+ "ui|ach_n_end_stairway8": {
+  "postedit": "上りしかない階段",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "上りしかない階段"
+ },
+ "ui|ach_n_flash_coach8": {
+  "postedit": "覚えていた車両",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "覚えていた車両"
+ },
+ "ui|ach_n_flash_hallway-eight": {
+  "postedit": "覚えていた廊下",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "覚えていた廊下"
+ },
+ "ui|ach_n_flash_stairway8": {
+  "postedit": "覚えていた階段",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "覚えていた階段"
+ },
+ "ui|ach_n_flawless": {
+  "postedit": "一度も間違えず",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "一度も間違えず"
+ },
+ "ui|ach_n_hard_all": {
+  "postedit": "もう甘い場所はない",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "もう甘い場所はない"
+ },
+ "ui|ach_n_hard_coach8": {
+  "postedit": "Coach、さらに難しく",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "Coach、さらに難しく"
+ },
+ "ui|ach_n_hard_hallway-eight": {
+  "postedit": "Hallway、さらに難しく",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "Hallway、さらに難しく"
+ },
+ "ui|ach_n_hard_stairway8": {
+  "postedit": "Stairway、さらに難しく",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "Stairway、さらに難しく"
+ },
+ "ui|ach_n_insane_all": {
+  "postedit": "何も信じるな",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "何も信じるな"
+ },
+ "ui|ach_n_insane_coach8": {
+  "postedit": "Coach、作り直し",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "Coach、作り直し"
+ },
+ "ui|ach_n_insane_hallway-eight": {
+  "postedit": "Hallway、作り直し",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "Hallway、作り直し"
+ },
+ "ui|ach_n_insane_stairway8": {
+  "postedit": "Stairway、作り直し",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "Stairway、作り直し"
+ },
+ "ui|ach_n_melon": {
+  "postedit": "Melon サポーター",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "Melon サポーター"
+ },
+ "ui|ach_n_nerve": {
+  "postedit": "胆力",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "胆力"
+ },
+ "ui|ach_n_npc_knows": {
+  "postedit": "それはあなたを知っている",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "それはあなたを知っている"
+ },
+ "ui|ach_n_opening_night": {
+  "postedit": "初日の夜",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "初日の夜"
+ },
+ "ui|ach_n_out_all": {
+  "postedit": "すべての外へ",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "すべての外へ"
+ },
+ "ui|ach_n_out_coach8": {
+  "postedit": "Coach 8 を抜けて",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "Coach 8 を抜けて"
+ },
+ "ui|ach_n_out_hallway-eight": {
+  "postedit": "Hallway 8 を抜けて",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "Hallway 8 を抜けて"
+ },
+ "ui|ach_n_out_stairway8": {
+  "postedit": "Stairway 8 を抜けて",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "Stairway 8 を抜けて"
+ },
+ "ui|ach_n_shared": {
+  "postedit": "手渡した",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "手渡した"
+ },
+ "ui|ach_n_steady": {
+  "postedit": "迷いなく",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "迷いなく"
+ },
+ "ui|ach_n_streak": {
+  "postedit": "連続",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "連続"
+ },
+ "ui|ach_n_total_recall": {
+  "postedit": "すべての記憶",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "すべての記憶"
+ },
+ "ui|ach_open": {
+  "postedit": "実績",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "実績"
+ },
+ "ui|ach_progress": {
+  "postedit": "{total} 中 {n} 解除",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "{total} 中 {n} 解除"
+ },
+ "ui|ach_save": {
+  "postedit": "保存",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "保存"
+ },
+ "ui|ach_section": {
+  "postedit": "実績",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "実績"
+ },
+ "ui|again": {
+  "postedit": "もう一度歩く",
+  "postedit_score": 96,
+  "score": 92,
+  "text": "もう一度歩く"
+ },
+ "ui|age_normal": {
+  "postedit": "ふつう",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "ふつう"
+ },
+ "ui|age_simple": {
+  "postedit": "やさしい表現",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "やさしい表現"
+ },
+ "ui|back": {
+  "postedit": "戻る",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "戻る"
+ },
+ "ui|begin": {
+  "postedit": "はじめる",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "はじめる"
+ },
+ "ui|change": {
+  "postedit": "シナリオを変える",
+  "postedit_score": 96,
+  "score": 92,
+  "text": "シナリオを変える"
+ },
+ "ui|col_recall": {
+  "postedit": "この断片を思い出す",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "この断片を思い出す"
+ },
+ "ui|col_recall_empty": {
+  "postedit": "かつて見た断片。その言葉はもう薄れている。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "かつて見た断片。その言葉はもう薄れている。"
+ },
+ "ui|col_section": {
+  "postedit": "回想",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "回想"
+ },
+ "ui|conf_1": {
+  "postedit": "あてずっぽう",
+  "postedit_score": 96,
+  "score": 90,
+  "text": "あてずっぽう"
+ },
+ "ui|conf_2": {
+  "postedit": "たぶんそう",
+  "postedit_score": 96,
+  "score": 91,
+  "text": "たぶんそう"
+ },
+ "ui|conf_3": {
+  "postedit": "ほぼ確実",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "ほぼ確実"
+ },
+ "ui|conf_4": {
+  "postedit": "確実",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "確実"
+ },
+ "ui|conf_q": {
+  "postedit": "どれくらい確信がある？",
+  "postedit_score": 96,
+  "score": 93,
+  "text": "どれくらい確信がある？"
+ },
+ "ui|diff_easy": {
+  "postedit": "やさしい",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "やさしい"
+ },
+ "ui|diff_hard": {
+  "postedit": "むずかしい",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "むずかしい"
+ },
+ "ui|diff_hint_hard": {
+  "postedit": "むずかしいでは新しい種類の変化が加わる。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "むずかしいでは新しい種類の変化が加わる。"
+ },
+ "ui|diff_hint_insane": {
+  "postedit": "狂気では、何が普通かが毎回作り直される。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "狂気では、何が普通かが毎回作り直される。"
+ },
+ "ui|diff_hint_locked": {
+  "postedit": "一度脱出すると、むずかしいが解放される。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "一度脱出すると、むずかしいが解放される。"
+ },
+ "ui|diff_insane": {
+  "postedit": "狂気",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "狂気"
+ },
+ "ui|diff_normal": {
+  "postedit": "ふつう",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "ふつう"
+ },
+ "ui|end_credits": {
+  "postedit": "エンドロール",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "エンドロール"
+ },
+ "ui|ending_back": {
+  "postedit": "最初に戻る",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "最初に戻る"
+ },
+ "ui|erase": {
+  "postedit": "消去",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "消去"
+ },
+ "ui|erase_body": {
+  "postedit": "この場所があなたについて覚えているすべてが消えます。集めた断片も、得た印も、これまでのすべての周回も。元には戻せません。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "この場所があなたについて覚えているすべてが消えます。集めた断片も、得た印も、これまでのすべての周回も。元には戻せません。"
+ },
+ "ui|erase_cancel": {
+  "postedit": "残す",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "残す"
+ },
+ "ui|erase_title": {
+  "postedit": "記憶を消去しますか？",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "記憶を消去しますか？"
+ },
+ "ui|fold_1": {
+  "postedit": "あなたのせいだ。何かに手を伸ばし、その場所が道を折り返した。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "あなたのせいだ。何かに手を伸ばし、その場所が道を折り返した。"
+ },
+ "ui|fold_2": {
+  "postedit": "見つけたものに触れる必要はない。見るのは自由だが、誤って触れれば、ここへ戻される。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "見つけたものに触れる必要はない。見るのは自由だが、誤って触れれば、ここへ戻される。"
+ },
+ "ui|fold_hide": {
+  "postedit": "今後は表示しない。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "今後は表示しない。"
+ },
+ "ui|fold_title": {
+  "postedit": "また始まりへ。",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "また始まりへ。"
+ },
+ "ui|furthest": {
+  "postedit": "最高到達 {n}",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "最高到達 {n}"
+ },
+ "ui|give_up": {
+  "postedit": "あきらめる · 最初に戻る",
+  "postedit_score": 96,
+  "score": 93,
+  "text": "あきらめる · 最初に戻る"
+ },
+ "ui|hesitate_1": {
+  "postedit": "ためらう。もう一度見る。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "ためらう。もう一度見る。"
+ },
+ "ui|hesitate_2": {
+  "postedit": "確信が持てない。もう一度見てみる。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "確信が持てない。もう一度見てみる。"
+ },
+ "ui|hesitate_3": {
+  "postedit": "迷いが足を止める。もう一度読む。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "迷いが足を止める。もう一度読む。"
+ },
+ "ui|hesitate_4": {
+  "postedit": "思いとどまり、もう一度視線を走らせる。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "思いとどまり、もう一度視線を走らせる。"
+ },
+ "ui|instructions": {
+  "postedit": "遊び方",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "遊び方"
+ },
+ "ui|language": {
+  "postedit": "言語",
+  "postedit_score": 97,
+  "score": 97,
+  "text": "言語"
+ },
+ "ui|look_back": {
+  "postedit": "振り返る。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "振り返る。"
+ },
+ "ui|mem_title": {
+  "postedit": "記憶",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "記憶"
+ },
+ "ui|nudge_arcs": {
+  "postedit": "ほかにも「8」と呼ばれる場所が二つある。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "ほかにも「8」と呼ばれる場所が二つある。"
+ },
+ "ui|nudge_eight": {
+  "postedit": "同じ場所から八度抜け出すのは、また別の記憶のかたちだ。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "同じ場所から八度抜け出すのは、また別の記憶のかたちだ。"
+ },
+ "ui|nudge_frags": {
+  "postedit": "ここにはまだ見ていない記憶が{n}個ある。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "ここにはまだ見ていない記憶が{n}個ある。"
+ },
+ "ui|promo_bad": {
+  "postedit": "このコードはここでは何も起きません。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "このコードはここでは何も起きません。"
+ },
+ "ui|promo_go": {
+  "postedit": "引き換え",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "引き換え"
+ },
+ "ui|promo_have": {
+  "postedit": "すでに引き換え済みです。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "すでに引き換え済みです。"
+ },
+ "ui|promo_hint": {
+  "postedit": "コード",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "コード"
+ },
+ "ui|promo_ok": {
+  "postedit": "解除しました。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "解除しました。"
+ },
+ "ui|read_cold": {
+  "postedit": "二度見もせずに歩き抜けた。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "二度見もせずに歩き抜けた。"
+ },
+ "ui|read_nerve": {
+  "postedit": "いちばん最後の扉で引き返し、それが正しかった。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "いちばん最後の扉で引き返し、それが正しかった。"
+ },
+ "ui|read_steady": {
+  "postedit": "一度も当てずっぽうとは口にしなかった。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "一度も当てずっぽうとは口にしなかった。"
+ },
+ "ui|rec_cold": {
+  "postedit": "二度見せずに抜け出した。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "二度見せずに抜け出した。"
+ },
+ "ui|rec_nerve": {
+  "postedit": "最後の扉で引き返し、それが正しかった。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "最後の扉で引き返し、それが正しかった。"
+ },
+ "ui|rec_section": {
+  "postedit": "記録",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "記録"
+ },
+ "ui|rec_steady": {
+  "postedit": "一度も迷わずに抜け出した。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "一度も迷わずに抜け出した。"
+ },
+ "ui|rec_streak": {
+  "postedit": "無傷の脱出、連続 {n} 回",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "無傷の脱出、連続 {n} 回"
+ },
+ "ui|rules_plain": {
+  "postedit": "何か変わった？ もどる。何も変わらない？ すすむ。八回連続で外に出られる。",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "何か変わった？ もどる。何も変わらない？ すすむ。八回連続で外に出られる。"
+ },
+ "ui|select_lead_1": {
+  "postedit": "どうしても抜け出せない、どこか。",
+  "postedit_score": 96,
+  "score": 89,
+  "text": "どうしても出られない、どこか。"
+ },
+ "ui|select_lead_2": {
+  "postedit": "通り抜ける道を選べ。",
+  "postedit_score": 96,
+  "score": 91,
+  "text": "通り抜ける道を選べ。"
+ },
+ "ui|set_age": {
+  "postedit": "読みやすさ",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "読みやすさ"
+ },
+ "ui|set_bright": {
+  "postedit": "明るさ",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "明るさ"
+ },
+ "ui|set_diff": {
+  "postedit": "難易度",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "難易度"
+ },
+ "ui|set_done": {
+  "postedit": "完了",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "完了"
+ },
+ "ui|set_motion": {
+  "postedit": "動きを減らす",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "動きを減らす"
+ },
+ "ui|set_text": {
+  "postedit": "文字サイズ",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "文字サイズ"
+ },
+ "ui|settings_title": {
+  "postedit": "表示",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "表示"
+ },
+ "ui|share_1": {
+  "postedit": "どうしても抜け出せない場所がある。私は出た。次はあなたの番。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "どうしても抜け出せない場所がある。私は出た。次はあなたの番。"
+ },
+ "ui|share_2": {
+  "postedit": "どうしても抜け出せない場所で、誰かが出口を見つけた。あなたの出口を探して。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "どうしても抜け出せない場所で、誰かが出口を見つけた。あなたの出口を探して。"
+ },
+ "ui|share_3": {
+  "postedit": "自分を疑う機会は八度。正しいものを信じた。次はあなた。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "自分を疑う機会は八度。正しいものを信じた。次はあなた。"
+ },
+ "ui|share_4": {
+  "postedit": "出口はもう分かっている。どこかは言わない。来て、確かめて。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "出口はもう分かっている。どこかは言わない。来て、確かめて。"
+ },
+ "ui|share_5": {
+  "postedit": "静かな場所、八つの小さな疑い、抜ける道はひとつ。私は見つけた。あなたは？",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "静かな場所、八つの小さな疑い、抜ける道はひとつ。私は見つけた。あなたは？"
+ },
+ "ui|share_6": {
+  "postedit": "八度歩いて、覚えていることを信じた。あなたにできるか試して。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "八度歩いて、覚えていることを信じた。あなたにできるか試して。"
+ },
+ "ui|share_7": {
+  "postedit": "出口は、何を覚えているかで決まる。私は覚えていた。次はあなたの番。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "出口は、何を覚えているかで決まる。私は覚えていた。次はあなたの番。"
+ },
+ "ui|share_8": {
+  "postedit": "私と外の冷たい空気の間に、八つの扉。すべて開けた。次はあなた。",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "私と外の冷たい空気の間に、八つの扉。すべて開けた。次はあなた。"
+ },
+ "ui|share_copied": {
+  "postedit": "リンクをコピーしました",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "リンクをコピーしました"
+ },
+ "ui|share_copy": {
+  "postedit": "リンクをコピー",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "リンクをコピー"
+ },
+ "ui|share_native": {
+  "postedit": "共有",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "共有"
+ },
+ "ui|view_credits": {
+  "postedit": "クレジットを見る",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "クレジットを見る"
+ }
+}

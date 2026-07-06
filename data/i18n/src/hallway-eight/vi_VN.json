@@ -1,0 +1,1106 @@
+{
+ "a:hallway-eight|act2|end|lobby|0": {
+  "postedit": "Bạn đẩy cửa sáng đèn, ngỡ sẽ ra tới phố.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Bạn đẩy cửa sáng đèn, ngỡ sẽ ra tới phố."
+ },
+ "a:hallway-eight|act2|end|lobby|1": {
+  "postedit": "Đó là cái sảnh bạn khởi đầu, cửa kính vẫn khóa, màn đêm vẫn đen kịt phía sau.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Đó là cái sảnh bạn khởi đầu, cửa kính vẫn khóa, màn đêm vẫn đen kịt phía sau."
+ },
+ "a:hallway-eight|act2|end|lobby|2": {
+  "postedit": "Hành lang bạn vừa đi qua đơn giản là biến mất. Bạn trở lại điểm đầu của một tòa nhà không còn lối ra.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Hành lang bạn vừa đi qua đơn giản là biến mất. Bạn trở lại điểm đầu của một tòa nhà không còn lối ra."
+ },
+ "a:hallway-eight|act2|exit|action": {
+  "postedit": "bước qua nó",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "bước qua nó"
+ },
+ "a:hallway-eight|act2|exit|tempt": {
+  "postedit": "Phía trước một cánh cửa mở, tấm biển EXIT phát sáng xanh rì rì bên trên. Con phố hẳn chỉ ở ngay bên kia.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Phía trước một cánh cửa mở, tấm biển EXIT phát sáng xanh rì rì bên trên. Con phố hẳn chỉ ở ngay bên kia."
+ },
+ "a:hallway-eight|act2|flashback|0": {
+  "postedit": "Cách đây vài cửa, một chiếc đèn bàn vẫn còn sáng. Một cốc cà phê đã nguội bên vệt vòng của chính nó. Chiếc đồng hồ chỉ một giờ mà nó không thể chỉ.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Cách đây vài cửa, một chiếc đèn bàn vẫn còn sáng. Một cốc cà phê đã nguội bên vệt vòng của chính nó. Chiếc đồng hồ chỉ một giờ mà nó không thể chỉ."
+ },
+ "a:hallway-eight|act2|flashback|1": {
+  "postedit": "Một chiếc điện thoại đang rung trong căn phòng bạn chưa tới. Cái tên trên màn hình gần như là tên bạn.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Một chiếc điện thoại đang rung trong căn phòng bạn chưa tới. Cái tên trên màn hình gần như là tên bạn."
+ },
+ "a:hallway-eight|act2|flashback|2": {
+  "postedit": "Bạn đã ra tới cửa sảnh lúc sáu giờ. Rồi bạn quay lại vì một thứ mà giờ đã quên.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Bạn đã ra tới cửa sảnh lúc sáu giờ. Rồi bạn quay lại vì một thứ mà giờ đã quên."
+ },
+ "a:hallway-eight|act2|flashback|3": {
+  "postedit": "Người đàn ông xám từng giữ cánh cửa chống cháy, đã lâu lắm rồi, và nhìn bạn theo cái cách bạn nhìn một người mình sắp bỏ lại phía sau.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Người đàn ông xám từng giữ cánh cửa chống cháy, đã lâu lắm rồi, và nhìn bạn theo cái cách bạn nhìn một người mình sắp bỏ lại phía sau."
+ },
+ "a:hallway-eight|act2|flashback|4": {
+  "postedit": "Bạn từng đếm tới tám. Bạn gần như chắc thế. Bạn cũng gần như chắc mình chưa bao giờ tới được.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Bạn từng đếm tới tám. Bạn gần như chắc thế. Bạn cũng gần như chắc mình chưa bao giờ tới được."
+ },
+ "a:hallway-eight|act2|t:camera|fold|0": {
+  "postedit": "Camera dõi theo tay bạn về phía lối bạn vừa tới, chân bạn dõi theo camera, và bạn lại ở điểm đầu.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Camera dõi theo tay bạn về phía lối bạn vừa tới, chân bạn dõi theo camera, và bạn lại ở điểm đầu."
+ },
+ "a:hallway-eight|act2|t:camera|herring|0": {
+  "postedit": "Một đèn đỏ bạn không nhớ nhấp nháy một cái. Chắc nó vẫn luôn sáng.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Một đèn đỏ bạn không nhớ nhấp nháy một cái. Chắc nó vẫn luôn sáng."
+ },
+ "a:hallway-eight|act2|t:camera|herring|1": {
+  "postedit": "Trong một giây ống kính mờ hơi nước, như thể có hơi thở từ bên trong.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Trong một giây ống kính mờ hơi nước, như thể có hơi thở từ bên trong."
+ },
+ "a:hallway-eight|act2|t:camera|reaction|0": {
+  "postedit": "Nó xoay, thong thả, rồi dừng lại nơi bạn. Chẳng còn gì khác nhúc nhích.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Nó xoay, thong thả, rồi dừng lại nơi bạn. Chẳng còn gì khác nhúc nhích."
+ },
+ "a:hallway-eight|act2|t:camera|reaction|1": {
+  "postedit": "Ống kính nghiêng xuống ngang tầm mắt bạn và giữ nguyên ở đó, kiên nhẫn.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Ống kính nghiêng xuống ngang tầm mắt bạn và giữ nguyên ở đó, kiên nhẫn."
+ },
+ "a:hallway-eight|act2|t:camera|verb": {
+  "postedit": "vẫy tay với camera",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "vẫy tay với camera"
+ },
+ "a:hallway-eight|act2|t:door|fold|0": {
+  "postedit": "Nó mở ra một đoạn hành lang bạn đã đi qua. Con số trong đầu bạn biến mất. Bạn lại ở điểm đầu.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Nó mở ra một đoạn hành lang bạn đã đi qua. Con số trong đầu bạn biến mất. Bạn lại ở điểm đầu."
+ },
+ "a:hallway-eight|act2|t:door|herring|0": {
+  "postedit": "Kim loại ấm, ấm hơn mức một cánh cửa khóa nên có. Chắc chẳng có nghĩa gì.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Kim loại ấm, ấm hơn mức một cánh cửa khóa nên có. Chắc chẳng có nghĩa gì."
+ },
+ "a:hallway-eight|act2|t:door|herring|1": {
+  "postedit": "Có một luồng gió lùa dưới cửa mà trước đây không có. Hoặc vẫn luôn có, mà bạn chưa từng để ý.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Có một luồng gió lùa dưới cửa mà trước đây không có. Hoặc vẫn luôn có, mà bạn chưa từng để ý."
+ },
+ "a:hallway-eight|act2|t:door|reaction|0": {
+  "postedit": "Tay nắm xoay một chút rồi khựng lại, như bị giữ từ phía bên kia.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Tay nắm xoay một chút rồi khựng lại, như bị giữ từ phía bên kia."
+ },
+ "a:hallway-eight|act2|t:door|reaction|1": {
+  "postedit": "Bạn áp tai vào cửa. Có gì đó bên kia lặng đi, như một căn phòng lặng đi khi bạn bước vào.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Bạn áp tai vào cửa. Có gì đó bên kia lặng đi, như một căn phòng lặng đi khi bạn bước vào."
+ },
+ "a:hallway-eight|act2|t:door|verb": {
+  "postedit": "thử cửa bảo trì",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "thử cửa bảo trì"
+ },
+ "a:hallway-eight|act2|t:figure|fold|0": {
+  "postedit": "Rốt cuộc ông ta quay lại, và đó là một gương mặt bạn quá quen, và chỉ nhìn thấy nó thôi đã đưa bạn về lại điểm đầu.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Rốt cuộc ông ta quay lại, và đó là một gương mặt bạn quá quen, và chỉ nhìn thấy nó thôi đã đưa bạn về lại điểm đầu."
+ },
+ "a:hallway-eight|act2|t:figure|herring|0": {
+  "postedit": "Trong một thoáng bộ com lê của ông ta trông giống của bạn. Xám thì cũng là xám.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Trong một thoáng bộ com lê của ông ta trông giống của bạn. Xám thì cũng là xám."
+ },
+ "a:hallway-eight|act2|t:figure|herring|1": {
+  "postedit": "Ông ta gần hơn một chút so với lúc bạn gọi. Chắc chỉ vì đang bước đi thôi.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Ông ta gần hơn một chút so với lúc bạn gọi. Chắc chỉ vì đang bước đi thôi."
+ },
+ "a:hallway-eight|act2|t:figure|reaction|0": {
+  "postedit": "Giọng bạn vọng dọc hành lang và không quay lại. Ông ta không ngoảnh đầu.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Giọng bạn vọng dọc hành lang và không quay lại. Ông ta không ngoảnh đầu."
+ },
+ "a:hallway-eight|act2|t:figure|reaction|1": {
+  "postedit": "Ông ta khựng lại, nửa bước chân, như cái cách bạn khựng lại khi nghe tên mình giữa đám đông. Rồi ông ta đi tiếp.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Ông ta khựng lại, nửa bước chân, như cái cách bạn khựng lại khi nghe tên mình giữa đám đông. Rồi ông ta đi tiếp."
+ },
+ "a:hallway-eight|act2|t:figure|verb": {
+  "postedit": "gọi với theo người đàn ông xám",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "gọi với theo người đàn ông xám"
+ },
+ "a:hallway-eight|act2|t:poster|fold|0": {
+  "postedit": "Bạn ghé sát cho đến khi chỉ còn những chấm mực, và khi lùi lại, hành lang đã đặt lại quanh bạn.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Bạn ghé sát cho đến khi chỉ còn những chấm mực, và khi lùi lại, hành lang đã đặt lại quanh bạn."
+ },
+ "a:hallway-eight|act2|t:poster|herring|0": {
+  "postedit": "Mực vẫn còn dính. Vừa mới in. Nó chẳng có nghĩa gì, bạn biết nó chẳng có nghĩa gì, vậy mà tay bạn vẫn rụt lại.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Mực vẫn còn dính. Vừa mới in. Nó chẳng có nghĩa gì, bạn biết nó chẳng có nghĩa gì, vậy mà tay bạn vẫn rụt lại."
+ },
+ "a:hallway-eight|act2|t:poster|herring|1": {
+  "postedit": "Màu sắc quá tươi so với vẻ phai nhạt của nó vừa nãy. Chỉ là ánh sáng đánh lừa.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Màu sắc quá tươi so với vẻ phai nhạt của nó vừa nãy. Chỉ là ánh sáng đánh lừa."
+ },
+ "a:hallway-eight|act2|t:poster|reaction|0": {
+  "postedit": "Nhìn gần, bãi biển chỉ là những chấm mực. Một nơi mà bạn đã định sẽ đến.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Nhìn gần, bãi biển chỉ là những chấm mực. Một nơi mà bạn đã định sẽ đến."
+ },
+ "a:hallway-eight|act2|t:poster|reaction|1": {
+  "postedit": "Góc áp phích đã bị bóc ra rồi ép lại nhiều lần đến mức giấy đã mềm nhũn.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Góc áp phích đã bị bóc ra rồi ép lại nhiều lần đến mức giấy đã mềm nhũn."
+ },
+ "a:hallway-eight|act2|t:poster|verb": {
+  "postedit": "nhìn gần tấm áp phích hơn",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "nhìn gần tấm áp phích hơn"
+ },
+ "a:hallway-eight|adaptive|long_look|0": {
+  "postedit": "Bạn nhìn lâu hơn thường lệ. Bạn không nhớ mình đã dừng lại từ lúc nào.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Bạn nhìn lâu hơn thường lệ. Bạn không nhớ mình đã dừng lại từ lúc nào."
+ },
+ "a:hallway-eight|adaptive|long_look|1": {
+  "postedit": "Bạn nhận ra mình đang đứng bất động. Bao lâu rồi?",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Bạn nhận ra mình đang đứng bất động. Bao lâu rồi?"
+ },
+ "a:hallway-eight|adaptive|long_look|2": {
+  "postedit": "Thời gian trượt đi. Bạn cứ nhìn chằm chằm, mà chẳng biết bao lâu.",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "Thời gian trượt đi. Bạn cứ nhìn chằm chằm, mà chẳng biết bao lâu."
+ },
+ "a:hallway-eight|adaptive|repeat_inspect|0": {
+  "postedit": "Bạn lại nhìn {THING}. Không rõ vì sao.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Bạn lại nhìn {THING}. Không rõ vì sao."
+ },
+ "a:hallway-eight|adaptive|repeat_inspect|1": {
+  "postedit": "Ánh mắt bạn hướng thẳng tới {THING}, như dạo này vẫn thế.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Ánh mắt bạn hướng thẳng tới {THING}, như dạo này vẫn thế."
+ },
+ "a:hallway-eight|adaptive|repeat_inspect|2": {
+  "postedit": "{THING} lại thu hút sự chú ý của bạn.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "{THING} lại thu hút sự chú ý của bạn."
+ },
+ "a:hallway-eight|attempt": {
+  "postedit": "{n} lần qua hành lang này, và lần này cửa đã mở.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "{n} lần qua hành lang này, và lần này cửa đã mở."
+ },
+ "a:hallway-eight|attempt_first": {
+  "postedit": "Ngay lần đầu, hành lang đã để bạn đi.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Ngay lần đầu, hành lang đã để bạn đi."
+ },
+ "a:hallway-eight|framing|cutscene|0": {
+  "postedit": "Có gì đó trong hành lang đã đổi, mà bạn cứ thế bước qua.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Có gì đó trong hành lang đã đổi, mà bạn cứ thế bước qua."
+ },
+ "a:hallway-eight|framing|cutscene|1": {
+  "postedit": "Nếu một đoạn không giống hệt như bạn nhớ, hãy quay lại. Nếu giống, cứ đi tiếp.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Nếu một đoạn không giống hệt như bạn nhớ, hãy quay lại. Nếu giống, cứ đi tiếp."
+ },
+ "a:hallway-eight|framing|intro|0": {
+  "postedit": "SAU GIỜ ĐÓNG CỬA",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "SAU GIỜ ĐÓNG CỬA"
+ },
+ "a:hallway-eight|framing|intro|2": {
+  "postedit": "Bạn ở lại quá muộn. Cửa sảnh đã khóa, đèn tắt một nửa.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Bạn ở lại quá muộn. Cửa sảnh đã khóa, đèn tắt một nửa."
+ },
+ "a:hallway-eight|framing|intro|3": {
+  "postedit": "Một tấm biển viết tay treo phía trên: LỐI THOÁT HIỂM, ĐI THEO HÀNH LANG.",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "Một tấm biển viết tay treo phía trên: LỐI THOÁT HIỂM, ĐI THEO HÀNH LANG."
+ },
+ "a:hallway-eight|framing|intro|5": {
+  "postedit": "Chừng nào một đoạn hành lang còn y hệt như trong trí nhớ, cứ đi tiếp.",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "Chừng nào một đoạn hành lang còn y hệt như trong trí nhớ, cứ đi tiếp."
+ },
+ "a:hallway-eight|framing|intro|6": {
+  "postedit": "Nếu có gì thay đổi, lối đi đã gấp ngược lại. Hãy quay về lối bạn vừa tới.",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "Nếu có gì thay đổi, lối đi đã gấp ngược lại. Hãy quay về lối bạn vừa tới."
+ },
+ "a:hallway-eight|framing|intro|8": {
+  "postedit": "Cánh cửa chống cháy thứ tám dẫn ra ngoài.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Cánh cửa chống cháy thứ tám dẫn ra ngoài."
+ },
+ "a:hallway-eight|framing|intro|9": {
+  "postedit": "Lạc mất những gì đã thấy, và tòa nhà sẽ đưa bạn về lại điểm đầu.",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "Lạc mất những gì đã thấy, và tòa nhà sẽ đưa bạn về lại điểm đầu."
+ },
+ "a:hallway-eight|framing|win|0": {
+  "postedit": "Cánh cửa chống cháy thứ tám hé ra dưới tay bạn.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Cánh cửa chống cháy thứ tám hé ra dưới tay bạn."
+ },
+ "a:hallway-eight|framing|win|1": {
+  "postedit": "Khí lạnh. Một cầu thang xuống phố. Thành phố, vẫn còn đó.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Khí lạnh. Một cầu thang xuống phố. Thành phố, vẫn còn đó."
+ },
+ "a:hallway-eight|framing|win|2": {
+  "postedit": "Bạn đã bắt đầu nghĩ rằng hành lang chẳng có điểm cuối.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Bạn đã bắt đầu nghĩ rằng hành lang chẳng có điểm cuối."
+ },
+ "a:hallway-eight|framing|win|3": {
+  "postedit": "Bạn đã ra ngoài.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "Bạn đã ra ngoài."
+ },
+ "a:hallway-eight|go_on": {
+  "postedit": "Đi tiếp",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "Đi tiếp"
+ },
+ "a:hallway-eight|label|camera": {
+  "postedit": "camera an ninh",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "camera an ninh"
+ },
+ "a:hallway-eight|label|door": {
+  "postedit": "cửa bảo trì",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "cửa bảo trì"
+ },
+ "a:hallway-eight|label|figure": {
+  "postedit": "người đàn ông cuối hành lang",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "người đàn ông cuối hành lang"
+ },
+ "a:hallway-eight|label|floor": {
+  "postedit": "sàn",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "sàn"
+ },
+ "a:hallway-eight|label|lighting": {
+  "postedit": "đèn",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "đèn"
+ },
+ "a:hallway-eight|label|poster": {
+  "postedit": "tấm áp phích",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "tấm áp phích"
+ },
+ "a:hallway-eight|label|sense": {
+  "postedit": "cảm giác này",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "cảm giác này"
+ },
+ "a:hallway-eight|label|sign": {
+  "postedit": "biển lối ra",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "biển lối ra"
+ },
+ "a:hallway-eight|label|sound": {
+  "postedit": "âm thanh",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "âm thanh"
+ },
+ "a:hallway-eight|p:camera|v:away|0": {
+  "postedit": "Một chiếc camera an ninh nhỏ ở góc chĩa về cuối hành lang.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Một chiếc camera an ninh nhỏ ở góc chĩa về cuối hành lang."
+ },
+ "a:hallway-eight|p:camera|v:away|1": {
+  "postedit": "Camera an ninh dõi về đầu kia, xoay lệch khỏi bạn.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Camera an ninh dõi về đầu kia, xoay lệch khỏi bạn."
+ },
+ "a:hallway-eight|p:camera|v:away|2": {
+  "postedit": "Trên cao ở góc, camera hướng về phía trước, như mọi khi.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Trên cao ở góc, camera hướng về phía trước, như mọi khi."
+ },
+ "a:hallway-eight|p:camera|x:atyou|0": {
+  "postedit": "Camera an ninh đã xoay. Nó chĩa thẳng vào bạn.",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "Camera an ninh đã xoay. Nó chĩa thẳng vào bạn."
+ },
+ "a:hallway-eight|p:camera|x:atyou|1": {
+  "postedit": "Camera an ninh giờ nghiêng xuống nhìn bạn.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Camera an ninh giờ nghiêng xuống nhìn bạn."
+ },
+ "a:hallway-eight|p:camera|x:atyou|2": {
+  "postedit": "Chiếc camera ở góc quay mặt về phía bạn, ống kính ngang tầm mắt bạn.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Chiếc camera ở góc quay mặt về phía bạn, ống kính ngang tầm mắt bạn."
+ },
+ "a:hallway-eight|p:camera|x:red|0": {
+  "postedit": "Một đèn đỏ nhấp nháy trên camera. Nó chưa từng nhấp nháy.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Một đèn đỏ nhấp nháy trên camera. Nó chưa từng nhấp nháy."
+ },
+ "a:hallway-eight|p:camera|x:red|1": {
+  "postedit": "Đèn ghi hình của camera lần đầu tiên phát sáng đỏ.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Đèn ghi hình của camera lần đầu tiên phát sáng đỏ."
+ },
+ "a:hallway-eight|p:camera|x:red|2": {
+  "postedit": "Chiếc đèn LED nhỏ trên camera đập nhịp đỏ.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Chiếc đèn LED nhỏ trên camera đập nhịp đỏ."
+ },
+ "a:hallway-eight|p:door|v:closed|0": {
+  "postedit": "Một cánh cửa bảo trì màu xám đóng im trên bức tường bên trái.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Một cánh cửa bảo trì màu xám đóng im trên bức tường bên trái."
+ },
+ "a:hallway-eight|p:door|v:closed|1": {
+  "postedit": "Cửa bảo trì bên trái bạn đóng, như thường lệ.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Cửa bảo trì bên trái bạn đóng, như thường lệ."
+ },
+ "a:hallway-eight|p:door|v:closed|2": {
+  "postedit": "Cửa bảo trì kia kìa, đóng chặt.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Cửa bảo trì kia kìa, đóng chặt."
+ },
+ "a:hallway-eight|p:door|x:ajar|0": {
+  "postedit": "Cửa bảo trì hé mở một chút. Bên trong tối đen.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Cửa bảo trì hé mở một chút. Bên trong tối đen."
+ },
+ "a:hallway-eight|p:door|x:ajar|1": {
+  "postedit": "Cửa bảo trì hé một khe, dù bạn chưa từng thấy nó mở.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Cửa bảo trì hé một khe, dù bạn chưa từng thấy nó mở."
+ },
+ "a:hallway-eight|p:door|x:ajar|2": {
+  "postedit": "Cánh cửa xám khép hờ; một khe đen mảnh nơi lẽ ra phải khít.",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "Cánh cửa xám khép hờ; một khe đen mảnh nơi lẽ ra phải khít."
+ },
+ "a:hallway-eight|p:door|x:gone|0": {
+  "postedit": "Trên bức tường bên trái không có cửa bảo trì. Chỉ là bức tường trơn.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Trên bức tường bên trái không có cửa bảo trì. Chỉ là bức tường trơn."
+ },
+ "a:hallway-eight|p:door|x:gone|1": {
+  "postedit": "Cửa bảo trì biến mất hoàn toàn.",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "Cửa bảo trì biến mất hoàn toàn."
+ },
+ "a:hallway-eight|p:door|x:gone|2": {
+  "postedit": "Bức tường bên trái liền một khối, chẳng có cửa nào cả.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Bức tường bên trái liền một khối, chẳng có cửa nào cả."
+ },
+ "a:hallway-eight|p:figure|v:distant|0": {
+  "postedit": "Xa cuối hành lang, một người đàn ông mặc com lê xám đang đi khuất dần khỏi bạn.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Xa cuối hành lang, một người đàn ông mặc com lê xám đang đi khuất dần khỏi bạn."
+ },
+ "a:hallway-eight|p:figure|v:distant|1": {
+  "postedit": "Một bóng người com lê di chuyển phía trước đằng xa, quay lưng lại.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Một bóng người com lê di chuyển phía trước đằng xa, quay lưng lại."
+ },
+ "a:hallway-eight|p:figure|v:distant|2": {
+  "postedit": "Người đàn ông xám vẫn ở phía trước như mọi khi, tiếp tục bước đi.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Người đàn ông xám vẫn ở phía trước như mọi khi, tiếp tục bước đi."
+ },
+ "a:hallway-eight|p:figure|v:distant|3": {
+  "postedit": "Cuối hành lang, một người đàn ông com lê lùi xa dần về phía điểm hút.",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "Cuối hành lang, một người đàn ông com lê lùi xa dần về phía điểm hút."
+ },
+ "a:hallway-eight|p:figure|x:closer|0": {
+  "postedit": "Người đàn ông com lê xám gần hơn nhiều so với lẽ ra.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Người đàn ông com lê xám gần hơn nhiều so với lẽ ra."
+ },
+ "a:hallway-eight|p:figure|x:closer|1": {
+  "postedit": "Bóng người com lê đã dừng lại giữa chừng, gần hơn trước.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Bóng người com lê đã dừng lại giữa chừng, gần hơn trước."
+ },
+ "a:hallway-eight|p:figure|x:closer|2": {
+  "postedit": "Người đàn ông xám giờ chỉ cách vài bước phía trước, vẫn quay lưng.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Người đàn ông xám giờ chỉ cách vài bước phía trước, vẫn quay lưng."
+ },
+ "a:hallway-eight|p:figure|x:facing|0": {
+  "postedit": "Người đàn ông com lê xám đã dừng lại. Ông ta đang quay mặt về phía bạn.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Người đàn ông com lê xám đã dừng lại. Ông ta đang quay mặt về phía bạn."
+ },
+ "a:hallway-eight|p:figure|x:facing|1": {
+  "postedit": "Cuối hành lang, bóng người com lê đứng bất động, nhìn về phía bạn.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Cuối hành lang, bóng người com lê đứng bất động, nhìn về phía bạn."
+ },
+ "a:hallway-eight|p:figure|x:facing|2": {
+  "postedit": "Người đàn ông xám không bước đi. Ông ta đang dõi theo bạn.",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "Người đàn ông xám không bước đi. Ông ta đang dõi theo bạn."
+ },
+ "a:hallway-eight|p:figure|x:gone|0": {
+  "postedit": "Hành lang phía trước trống không. Chẳng ai đang bước đi.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Hành lang phía trước trống không. Chẳng ai đang bước đi."
+ },
+ "a:hallway-eight|p:figure|x:gone|1": {
+  "postedit": "Lần này phía trước không có bóng người.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Lần này phía trước không có bóng người."
+ },
+ "a:hallway-eight|p:figure|x:gone|2": {
+  "postedit": "Người đàn ông com lê xám chẳng thấy đâu.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Người đàn ông com lê xám chẳng thấy đâu."
+ },
+ "a:hallway-eight|p:figure|x:knows|0": {
+  "postedit": "Người đàn ông xám đã quay lại và giơ một tay lên, như thể quen biết bạn.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Người đàn ông xám đã quay lại và giơ một tay lên, như thể quen biết bạn."
+ },
+ "a:hallway-eight|p:figure|x:knows|1": {
+  "postedit": "Bóng người com lê quay mặt về phía bạn và vẫy gọi, chậm rãi và có chủ ý.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Bóng người com lê quay mặt về phía bạn và vẫy gọi, chậm rãi và có chủ ý."
+ },
+ "a:hallway-eight|p:figure|x:knows|2": {
+  "postedit": "Người đàn ông mấp máy điều gì đó cuối hành lang. Có thể là « lại nữa ».",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "Người đàn ông mấp máy điều gì đó cuối hành lang. Có thể là « lại nữa »."
+ },
+ "a:hallway-eight|p:floor|v:dry|0": {
+  "postedit": "Những viên gạch nền xám trải dài, khô và xỉn.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Những viên gạch nền xám trải dài, khô và xỉn."
+ },
+ "a:hallway-eight|p:floor|v:dry|1": {
+  "postedit": "Dưới chân là những viên gạch xám sờn quen thuộc.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Dưới chân là những viên gạch xám sờn quen thuộc."
+ },
+ "a:hallway-eight|p:floor|v:dry|2": {
+  "postedit": "Nền gạch khô ráo, chẳng phản chiếu gì.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Nền gạch khô ráo, chẳng phản chiếu gì."
+ },
+ "a:hallway-eight|p:floor|x:cracked|0": {
+  "postedit": "Một vết nứt chạy ngang nền gạch mà trước đây không có.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Một vết nứt chạy ngang nền gạch mà trước đây không có."
+ },
+ "a:hallway-eight|p:floor|x:cracked|1": {
+  "postedit": "Một viên gạch nền nứt toạc chính giữa.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Một viên gạch nền nứt toạc chính giữa."
+ },
+ "a:hallway-eight|p:floor|x:cracked|2": {
+  "postedit": "Lớp gạch vỡ thành một đường răng cưa phía trước.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Lớp gạch vỡ thành một đường răng cưa phía trước."
+ },
+ "a:hallway-eight|p:floor|x:wet|0": {
+  "postedit": "Những viên gạch phía trước lấp lánh một lớp bóng ẩm ướt, sẫm màu.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Những viên gạch phía trước lấp lánh một lớp bóng ẩm ướt, sẫm màu."
+ },
+ "a:hallway-eight|p:floor|x:wet|1": {
+  "postedit": "Nền ướt, dù bạn chẳng thấy ai lau dọn.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Nền ướt, dù bạn chẳng thấy ai lau dọn."
+ },
+ "a:hallway-eight|p:floor|x:wet|2": {
+  "postedit": "Một lớp nước mỏng loang trên nền gạch.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Một lớp nước mỏng loang trên nền gạch."
+ },
+ "a:hallway-eight|p:lighting|v:steady|0": {
+  "postedit": "Đèn huỳnh quang trên đầu rì rì khe khẽ.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Đèn huỳnh quang trên đầu rì rì khe khẽ."
+ },
+ "a:hallway-eight|p:lighting|v:steady|1": {
+  "postedit": "Đèn trần tỏa ra thứ ánh sáng đều đặn, ổn định.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Đèn trần tỏa ra thứ ánh sáng đều đặn, ổn định."
+ },
+ "a:hallway-eight|p:lighting|v:steady|2": {
+  "postedit": "Trên đầu, đèn huỳnh quang o o ở cao độ quen thuộc.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Trên đầu, đèn huỳnh quang o o ở cao độ quen thuộc."
+ },
+ "a:hallway-eight|p:lighting|v:steady|3": {
+  "postedit": "Ánh đèn nhạt nhòa và chẳng có gì đặc biệt, như mọi khi.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Ánh đèn nhạt nhòa và chẳng có gì đặc biệt, như mọi khi."
+ },
+ "a:hallway-eight|p:lighting|x:dim|0": {
+  "postedit": "Hành lang có vẻ tối hơn một chút so với bạn nhớ.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Hành lang có vẻ tối hơn một chút so với bạn nhớ."
+ },
+ "a:hallway-eight|p:lighting|x:dim|1": {
+  "postedit": "Đèn ở đây mờ hơn, như thể một nửa đã bỏ cuộc.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Đèn ở đây mờ hơn, như thể một nửa đã bỏ cuộc."
+ },
+ "a:hallway-eight|p:lighting|x:dim|2": {
+  "postedit": "Một màn xám mờ đục đã phủ xuống mọi thứ.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Một màn xám mờ đục đã phủ xuống mọi thứ."
+ },
+ "a:hallway-eight|p:lighting|x:flicker|0": {
+  "postedit": "Một bóng đèn huỳnh quang giật lên vài cái, rồi ổn định.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Một bóng đèn huỳnh quang giật lên vài cái, rồi ổn định."
+ },
+ "a:hallway-eight|p:lighting|x:flicker|1": {
+  "postedit": "Đèn chớp một cái, hai cái, rồi mới yên.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Đèn chớp một cái, hai cái, rồi mới yên."
+ },
+ "a:hallway-eight|p:lighting|x:flicker|2": {
+  "postedit": "Đèn trần có một thoáng nhấp nháy mờ vốn trước đây không có.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Đèn trần có một thoáng nhấp nháy mờ vốn trước đây không có."
+ },
+ "a:hallway-eight|p:lighting|x:warm|0": {
+  "postedit": "Ánh đèn ngả một sắc vàng ấm.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Ánh đèn ngả một sắc vàng ấm."
+ },
+ "a:hallway-eight|p:lighting|x:warm|1": {
+  "postedit": "Đèn huỳnh quang phát ra sắc hổ phách kỳ lạ, gần như ánh hoàng hôn.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Đèn huỳnh quang phát ra sắc hổ phách kỳ lạ, gần như ánh hoàng hôn."
+ },
+ "a:hallway-eight|p:lighting|x:warm|2": {
+  "postedit": "Sắc trắng lạnh quen thuộc đã ngả sang vàng nhạt.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Sắc trắng lạnh quen thuộc đã ngả sang vàng nhạt."
+ },
+ "a:hallway-eight|p:poster|v:travel|0": {
+  "postedit": "Một tấm áp phích du lịch bạc màu dán trên tường, một bãi biển, một bầu trời xanh.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Một tấm áp phích du lịch bạc màu dán trên tường, một bãi biển, một bầu trời xanh."
+ },
+ "a:hallway-eight|p:poster|v:travel|1": {
+  "postedit": "Tấm áp phích cũ về một bờ biển đầy nắng vẫn còn dán trên tường.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Tấm áp phích cũ về một bờ biển đầy nắng vẫn còn dán trên tường."
+ },
+ "a:hallway-eight|p:poster|v:travel|2": {
+  "postedit": "Trên tường, tấm quảng cáo phai màu ấy về một nơi nào đó ấm áp.",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "Trên tường, tấm quảng cáo phai màu ấy về một nơi nào đó ấm áp."
+ },
+ "a:hallway-eight|p:poster|v:travel|3": {
+  "postedit": "Tấm áp phích du lịch treo hơi nghiêng như thường lệ.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Tấm áp phích du lịch treo hơi nghiêng như thường lệ."
+ },
+ "a:hallway-eight|p:poster|x:gone|0": {
+  "postedit": "Bức tường trống trơn. Một khung chữ nhật nhạt màu đánh dấu nơi từng có tấm áp phích.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Bức tường trống trơn. Một khung chữ nhật nhạt màu đánh dấu nơi từng có tấm áp phích."
+ },
+ "a:hallway-eight|p:poster|x:gone|1": {
+  "postedit": "Tấm áp phích du lịch biến mất; chỉ còn lại lớp băng dính.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Tấm áp phích du lịch biến mất; chỉ còn lại lớp băng dính."
+ },
+ "a:hallway-eight|p:poster|x:gone|2": {
+  "postedit": "Giờ trên tường chẳng treo gì.",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "Giờ trên tường chẳng treo gì."
+ },
+ "a:hallway-eight|p:poster|x:mountains|0": {
+  "postedit": "Tấm áp phích hiện ra những ngọn núi phủ tuyết, không phải bãi biển.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Tấm áp phích hiện ra những ngọn núi phủ tuyết, không phải bãi biển."
+ },
+ "a:hallway-eight|p:poster|x:mountains|1": {
+  "postedit": "Tấm áp phích bờ biển giờ thành một bức ảnh những ngọn núi xám.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Tấm áp phích bờ biển giờ thành một bức ảnh những ngọn núi xám."
+ },
+ "a:hallway-eight|p:poster|x:mountains|2": {
+  "postedit": "Tấm quảng cáo hiện ra một đỉnh núi lạnh lẽo dưới lớp mây dày.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Tấm quảng cáo hiện ra một đỉnh núi lạnh lẽo dưới lớp mây dày."
+ },
+ "a:hallway-eight|p:poster|x:upside|0": {
+  "postedit": "Tấm áp phích du lịch treo lộn ngược.",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "Tấm áp phích du lịch treo lộn ngược."
+ },
+ "a:hallway-eight|p:poster|x:upside|1": {
+  "postedit": "Bãi biển trên tấm áp phích bị lật ngược, bầu trời ở phía dưới.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Bãi biển trên tấm áp phích bị lật ngược, bầu trời ở phía dưới."
+ },
+ "a:hallway-eight|p:poster|x:upside|2": {
+  "postedit": "Ai đó đã lật tấm áp phích; nó treo ngược đầu.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Ai đó đã lật tấm áp phích; nó treo ngược đầu."
+ },
+ "a:hallway-eight|p:sense|v:steady|0": {
+  "postedit": "Hành lang cảm giác dài đúng như xưa nay.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Hành lang cảm giác dài đúng như xưa nay."
+ },
+ "a:hallway-eight|p:sense|v:steady|1": {
+  "postedit": "Bạn mang theo cùng nỗi bất an trầm lặng có từ lúc ở sảnh.",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "Bạn mang theo cùng nỗi bất an trầm lặng có từ lúc ở sảnh."
+ },
+ "a:hallway-eight|p:sense|v:steady|2": {
+  "postedit": "Mọi thứ đều bình thường, theo cái cách mà nơi này có thể bình thường.",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "Mọi thứ đều bình thường, theo cái cách mà nơi này có thể bình thường."
+ },
+ "a:hallway-eight|p:sense|x:calm|0": {
+  "postedit": "Bạn bỗng thấy một sự bình thản sai trái, như thể mình đã thoát ra.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Bạn bỗng thấy một sự bình thản sai trái, như thể mình đã thoát ra."
+ },
+ "a:hallway-eight|p:sense|x:calm|1": {
+  "postedit": "Một sự nhẹ nhõm kỳ lạ tràn qua bạn, thứ lẽ ra chẳng nên có ở đây.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Một sự nhẹ nhõm kỳ lạ tràn qua bạn, thứ lẽ ra chẳng nên có ở đây."
+ },
+ "a:hallway-eight|p:sense|x:calm|2": {
+  "postedit": "Bạn chẳng thấy chút sợ hãi nào, và chính điều đó đã là sai.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Bạn chẳng thấy chút sợ hãi nào, và chính điều đó đã là sai."
+ },
+ "a:hallway-eight|p:sense|x:forget|0": {
+  "postedit": "Trong một thoáng bạn không nhớ nổi mình đã đi qua bao nhiêu cánh cửa.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Trong một thoáng bạn không nhớ nổi mình đã đi qua bao nhiêu cánh cửa."
+ },
+ "a:hallway-eight|p:sense|x:forget|1": {
+  "postedit": "Bạn đếm lạc số hành lang, và điều đó khiến bạn bất an.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Bạn đếm lạc số hành lang, và điều đó khiến bạn bất an."
+ },
+ "a:hallway-eight|p:sense|x:forget|2": {
+  "postedit": "Bạn chẳng thể nhớ nổi vì sao mình lại ở dưới này.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Bạn chẳng thể nhớ nổi vì sao mình lại ở dưới này."
+ },
+ "a:hallway-eight|p:sense|x:longer|0": {
+  "postedit": "Lần này hành lang cảm giác dài hơn, mà bạn chẳng nói được vì sao.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Lần này hành lang cảm giác dài hơn, mà bạn chẳng nói được vì sao."
+ },
+ "a:hallway-eight|p:sense|x:longer|1": {
+  "postedit": "Đầu kia dường như xa hơn lẽ ra.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Đầu kia dường như xa hơn lẽ ra."
+ },
+ "a:hallway-eight|p:sense|x:longer|2": {
+  "postedit": "Những bức tường như đã giãn ra kể từ đoạn vừa rồi.",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "Những bức tường như đã giãn ra kể từ đoạn vừa rồi."
+ },
+ "a:hallway-eight|p:sign|v:exit|0": {
+  "postedit": "Tấm biển {SIGN} phát sáng ở đầu kia.",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "Tấm biển {SIGN} phát sáng ở đầu kia."
+ },
+ "a:hallway-eight|p:sign|v:exit|1": {
+  "postedit": "Phía trước, tấm biển {SIGN} treo phía trên hành lang.",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "Phía trước, tấm biển {SIGN} treo phía trên hành lang."
+ },
+ "a:hallway-eight|p:sign|v:exit|2": {
+  "postedit": "Tấm biển {SIGN} xanh chỉ đường, đúng như lẽ ra.",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "Tấm biển {SIGN} xanh chỉ đường, đúng như lẽ ra."
+ },
+ "a:hallway-eight|p:sign|v:exit|3": {
+  "postedit": "Bạn có thể nhận ra tấm biển {SIGN} ở đằng xa.",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "Bạn có thể nhận ra tấm biển {SIGN} ở đằng xa."
+ },
+ "a:hallway-eight|p:sign|x:dark|0": {
+  "postedit": "Biển lối ra tối om. Không có ánh sáng sau các chữ.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Biển lối ra tối om. Không có ánh sáng sau các chữ."
+ },
+ "a:hallway-eight|p:sign|x:dark|1": {
+  "postedit": "Biển lối ra đã tắt.",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "Biển lối ra đã tắt."
+ },
+ "a:hallway-eight|p:sign|x:dark|2": {
+  "postedit": "Nơi biển lối ra lẽ ra phát sáng, chỉ còn một tấm bảng chết.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Nơi biển lối ra lẽ ra phát sáng, chỉ còn một tấm bảng chết."
+ },
+ "a:hallway-eight|p:sign|x:number|0": {
+  "postedit": "Tấm biển ghi EXIT 3. Trên đó chưa từng có con số nào.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Tấm biển ghi EXIT 3. Trên đó chưa từng có con số nào."
+ },
+ "a:hallway-eight|p:sign|x:number|1": {
+  "postedit": "Một con số đã hiện lên trên tấm biển: EXIT 3.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Một con số đã hiện lên trên tấm biển: EXIT 3."
+ },
+ "a:hallway-eight|p:sign|x:number|2": {
+  "postedit": "Biển lối ra giờ mang một chữ số bạn không nhớ: 3.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Biển lối ra giờ mang một chữ số bạn không nhớ: 3."
+ },
+ "a:hallway-eight|p:sign|x:reversed|0": {
+  "postedit": "Biển lối ra chỉ sai hướng, EXIT ←.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Biển lối ra chỉ sai hướng, EXIT ←."
+ },
+ "a:hallway-eight|p:sign|x:reversed|1": {
+  "postedit": "Mũi tên trên biển lối ra giờ chỉ ngược về phía bạn vừa tới: ←.",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "Mũi tên trên biển lối ra giờ chỉ ngược về phía bạn vừa tới: ←."
+ },
+ "a:hallway-eight|p:sign|x:reversed|2": {
+  "postedit": "EXIT ←. Mũi tên đã đảo ngược.",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "EXIT ←. Mũi tên đã đảo ngược."
+ },
+ "a:hallway-eight|p:sound|v:vent|0": {
+  "postedit": "Đâu đó, hệ thống thông gió thở ra một hơi trầm và đều.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Đâu đó, hệ thống thông gió thở ra một hơi trầm và đều."
+ },
+ "a:hallway-eight|p:sound|v:vent|1": {
+  "postedit": "Hệ thống điều hòa rì rì trong tường, ổn định như mọi khi.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Hệ thống điều hòa rì rì trong tường, ổn định như mọi khi."
+ },
+ "a:hallway-eight|p:sound|v:vent|2": {
+  "postedit": "Bạn nghe tiếng ù quen thuộc của hệ thống thông gió xa xa.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Bạn nghe tiếng ù quen thuộc của hệ thống thông gió xa xa."
+ },
+ "a:hallway-eight|p:sound|x:drip|0": {
+  "postedit": "Một giọt nước chậm rãi tí tách đâu đó khuất tầm nhìn.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Một giọt nước chậm rãi tí tách đâu đó khuất tầm nhìn."
+ },
+ "a:hallway-eight|p:sound|x:drip|1": {
+  "postedit": "Nước đang nhỏ giọt, bạn không định được từ đâu.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Nước đang nhỏ giọt, bạn không định được từ đâu."
+ },
+ "a:hallway-eight|p:sound|x:drip|2": {
+  "postedit": "Tí. Tách. Có gì đó đang nhỏ giọt gần đây.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Tí. Tách. Có gì đó đang nhỏ giọt gần đây."
+ },
+ "a:hallway-eight|p:sound|x:footsteps|0": {
+  "postedit": "Tiếng bước chân vọng đâu đó sau lưng bạn, rồi ngừng.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Tiếng bước chân vọng đâu đó sau lưng bạn, rồi ngừng."
+ },
+ "a:hallway-eight|p:sound|x:footsteps|1": {
+  "postedit": "Bạn nghe những bước chân không khớp với bước của mình.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Bạn nghe những bước chân không khớp với bước của mình."
+ },
+ "a:hallway-eight|p:sound|x:footsteps|2": {
+  "postedit": "Trong một thoáng có hai loạt bước chân.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Trong một thoáng có hai loạt bước chân."
+ },
+ "a:hallway-eight|p:sound|x:silence|0": {
+  "postedit": "Hệ thống thông gió đã ngừng. Sự im lặng đè lên tai bạn.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Hệ thống thông gió đã ngừng. Sự im lặng đè lên tai bạn."
+ },
+ "a:hallway-eight|p:sound|x:silence|1": {
+  "postedit": "Hoàn toàn tĩnh lặng. Tĩnh lặng quá đỗi.",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "Hoàn toàn tĩnh lặng. Tĩnh lặng quá đỗi."
+ },
+ "a:hallway-eight|p:sound|x:silence|2": {
+  "postedit": "Bạn nhận ra tiếng ù đã biến mất. Sự tĩnh lặng nghe thật sai.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Bạn nhận ra tiếng ù đã biến mất. Sự tĩnh lặng nghe thật sai."
+ },
+ "a:hallway-eight|progress": {
+  "postedit": "Hành lang {level} / {goal}",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "Hành lang {level} / {goal}"
+ },
+ "a:hallway-eight|share_prompt": {
+  "postedit": "Cứ để cửa mở.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Cứ để cửa mở."
+ },
+ "a:hallway-eight|tagline": {
+  "postedit": "Bị khóa lại sau giờ đóng cửa. Men theo hành lang tới lối thoát hiểm.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Bị khóa lại sau giờ đóng cửa. Men theo hành lang tới lối thoát hiểm."
+ },
+ "a:hallway-eight|title_main": {
+  "postedit": "Hành lang 8",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Hành lang 8"
+ },
+ "a:hallway-eight|title|0": {
+  "postedit": "Hành lang 8",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "Hành lang 8"
+ },
+ "a:hallway-eight|title|1": {
+  "postedit": "Hành lang 8",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "Hành lang 8"
+ },
+ "a:hallway-eight|title|2": {
+  "postedit": "Hành lang 8",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "Hành lang 8"
+ },
+ "a:hallway-eight|title|3": {
+  "postedit": "Hành lang 8",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "Hành lang 8"
+ },
+ "a:hallway-eight|title|4": {
+  "postedit": "Lối đi 8",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Lối đi 8"
+ },
+ "a:hallway-eight|title|5": {
+  "postedit": "Hành lang Tám",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Hành lang Tám"
+ },
+ "a:hallway-eight|title|6": {
+  "postedit": "HÀNH LANG 8",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "HÀNH LANG 8"
+ },
+ "a:hallway-eight|title|7": {
+  "postedit": "Hành lang  8",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "Hành lang  8"
+ },
+ "a:hallway-eight|turn_back": {
+  "postedit": "Quay đầu lại",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Quay đầu lại"
+ }
+}
