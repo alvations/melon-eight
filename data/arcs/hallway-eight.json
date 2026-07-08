@@ -36,13 +36,13 @@
     "HALLWAY 8",
     "Hallway  8"
   ],
+  "_sign_variants_comment": "COSMETIC drift only: spacing and case. NEVER change the arrow GLYPH or direction here, because the sign's anomalies (reversed/dark/number) are about the arrow: a clean-loop arrow swap would read as a real change and a fair turn-back would be reset. The arrow only ever changes when it is a genuine anomaly.",
   "sign_variants": [
     "EXIT →",
     "EXIT →",
     "EXIT →",
     "EXIT→",
     "Exit →",
-    "EXIT ⇢",
     "EXIT → "
   ],
   "anchor_order": [

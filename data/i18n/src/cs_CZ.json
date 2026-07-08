@@ -1,193 +1,2582 @@
 {
-  "ui|select_lead_1": {"text": "Místo, které tak úplně nedokážeš opustit.", "score": 93, "postedit": "Místo, které tak úplně nedokážeš opustit.", "postedit_score": 95},
-  "ui|select_lead_2": {"text": "Vyber si cestu skrz.", "score": 94, "postedit": "Vyber si cestu skrz.", "postedit_score": 95},
-  "ui|begin": {"text": "Začít", "score": 96, "postedit": "Začít", "postedit_score": 96},
-  "ui|back": {"text": "Zpět", "score": 95, "postedit": "Zpět", "postedit_score": 96},
-  "ui|again": {"text": "Projít to znovu", "score": 94, "postedit": "Projít to znovu", "postedit_score": 95},
-  "ui|change": {"text": "Změnit scénář", "score": 95, "postedit": "Změnit scénář", "postedit_score": 96},
-  "ui|give_up": {"text": "Vzdát to · zpátky na začátek", "score": 94, "postedit": "Vzdát to · zpátky na začátek", "postedit_score": 95},
-  "ui|conf_q": {"text": "Jak jsi si jistý?", "score": 94, "postedit": "Jak jsi si jistý?", "postedit_score": 95},
-  "ui|conf_1": {"text": "Jen hádám", "score": 94, "postedit": "Jen hádám", "postedit_score": 95},
-  "ui|conf_2": {"text": "Myslím, že ano", "score": 94, "postedit": "Myslím, že ano", "postedit_score": 95},
-  "ui|conf_3": {"text": "Skoro jistě", "score": 94, "postedit": "Skoro jistě", "postedit_score": 95},
-  "ui|conf_4": {"text": "Určitě", "score": 95, "postedit": "Určitě", "postedit_score": 96},
-  "ui|language": {"text": "Jazyk", "score": 96, "postedit": "Jazyk", "postedit_score": 96},
-
-  "a:coach8|title_main": {"text": "Vagon 8", "score": 95, "postedit": "Vagon 8", "postedit_score": 96},
-  "a:coach8|tagline": {"text": "Průvodčí řekl vagon 8. Zdá se, že se k němu vlak nikdy nedostane.", "score": 93, "postedit": "Průvodčí řekl vagon 8. Zdá se, že se k němu vlak nikdy nedostane.", "postedit_score": 95},
-  "a:coach8|go_on": {"text": "Další vagon", "score": 95, "postedit": "Další vagon", "postedit_score": 96},
-  "a:coach8|turn_back": {"text": "O vagon zpět", "score": 94, "postedit": "O vagon zpět", "postedit_score": 95},
-  "a:coach8|progress": {"text": "Vagon {level} / {goal}", "score": 96, "postedit": "Vagon {level} / {goal}", "postedit_score": 96},
-
-  "a:coach8|label|lighting": {"text": "světlo", "score": 94, "postedit": "světlo", "postedit_score": 96},
-  "a:coach8|label|sound": {"text": "zvuk", "score": 94, "postedit": "zvuk", "postedit_score": 96},
-  "a:coach8|label|window": {"text": "okno", "score": 95, "postedit": "okno", "postedit_score": 96},
-  "a:coach8|label|passenger": {"text": "spícího cestujícího", "score": 93, "postedit": "spícího cestujícího", "postedit_score": 95},
-  "a:coach8|label|seatnum": {"text": "čísla sedadel", "score": 93, "postedit": "čísla sedadel", "postedit_score": 95},
-  "a:coach8|label|door": {"text": "spojovací dveře", "score": 93, "postedit": "spojovací dveře", "postedit_score": 95},
-  "a:coach8|label|luggage": {"text": "zavazadlovou polici", "score": 93, "postedit": "zavazadlovou polici", "postedit_score": 95},
-  "a:coach8|label|table": {"text": "stolek", "score": 94, "postedit": "stolek", "postedit_score": 96},
-  "a:coach8|label|sense": {"text": "ten pocit", "score": 93, "postedit": "ten pocit", "postedit_score": 95},
-
-  "a:coach8|title|0": {"text": "Vagon 8", "score": 95, "postedit": "Vagon 8", "postedit_score": 96},
-  "a:coach8|title|1": {"text": "Vagon 8", "score": 95, "postedit": "Vagon 8", "postedit_score": 96},
-  "a:coach8|title|2": {"text": "Vagon 8", "score": 95, "postedit": "Vagon 8", "postedit_score": 96},
-  "a:coach8|title|3": {"text": "Vagon 8", "score": 95, "postedit": "Vagon 8", "postedit_score": 96},
-  "a:coach8|title|4": {"text": "Vůz 8", "score": 94, "postedit": "Vůz 8", "postedit_score": 95},
-  "a:coach8|title|5": {"text": "Vagon osm", "score": 93, "postedit": "Vagon osm", "postedit_score": 95},
-  "a:coach8|title|6": {"text": "VAGON 8", "score": 95, "postedit": "VAGON 8", "postedit_score": 96},
-  "a:coach8|title|7": {"text": "Vagon  8", "score": 95, "postedit": "Vagon  8", "postedit_score": 96},
-
-  "a:coach8|p:lighting|v:dim|0": {"text": "Světla ve voze jsou ztlumená na noc, měkký jantarový nádech.", "score": 93, "postedit": "Světla ve voze jsou ztlumená na noc, měkký jantarový nádech.", "postedit_score": 95},
-  "a:coach8|p:lighting|v:dim|1": {"text": "Tlumené noční osvětlení se táhne podél zavazadlových polic, jako vždycky.", "score": 93, "postedit": "Tlumené noční osvětlení se táhne podél zavazadlových polic, jako vždycky.", "postedit_score": 95},
-  "a:coach8|p:lighting|v:dim|2": {"text": "Stropní světla jsou stažená do jantarového nočního režimu.", "score": 94, "postedit": "Stropní světla jsou stažená do jantarového nočního režimu.", "postedit_score": 95},
-  "a:coach8|p:lighting|v:dim|3": {"text": "Vagon je zalitý stejným měkkým zlatem jako ten předchozí.", "score": 93, "postedit": "Vagon je zalitý stejným měkkým zlatem jako ten předchozí.", "postedit_score": 95},
-  "a:coach8|p:lighting|x:flicker|0": {"text": "Světla ve voze zablikají s pohybem vlaku, pak se ustálí.", "score": 93, "postedit": "Světla ve voze zablikají s pohybem vlaku, pak se ustálí.", "postedit_score": 95},
-  "a:coach8|p:lighting|x:flicker|1": {"text": "Jeden světelný pruh nad hlavou zakolísá.", "score": 94, "postedit": "Jeden světelný pruh nad hlavou zakolísá.", "postedit_score": 95},
-  "a:coach8|p:lighting|x:flicker|2": {"text": "Jantarové světlo zhasne a zase se rozsvítí.", "score": 94, "postedit": "Jantarové světlo zhasne a zase se rozsvítí.", "postedit_score": 96},
-  "a:coach8|p:lighting|x:bright|0": {"text": "Světla svítí naplno, ostře a bíle, ne v nočním režimu.", "score": 93, "postedit": "Světla svítí naplno, ostře a bíle, ne v nočním režimu.", "postedit_score": 95},
-  "a:coach8|p:lighting|x:bright|1": {"text": "Tenhle vagon je nasvícený mnohem jasněji než ten předchozí.", "score": 94, "postedit": "Tenhle vagon je nasvícený mnohem jasněji než ten předchozí.", "postedit_score": 96},
-  "a:coach8|p:lighting|x:bright|2": {"text": "Měkký jantar je pryč, všechno září bílou.", "score": 93, "postedit": "Měkký jantar je pryč, všechno září bílou.", "postedit_score": 95},
-  "a:coach8|p:lighting|x:off|0": {"text": "Ve voze je tma, jen nouzové pásky u podlahy svítí.", "score": 93, "postedit": "Ve voze je tma, jen nouzové pásky u podlahy svítí.", "postedit_score": 95},
-  "a:coach8|p:lighting|x:off|1": {"text": "Světla tady zhasla, září jen značky v uličce.", "score": 93, "postedit": "Světla tady zhasla, září jen značky v uličce.", "postedit_score": 95},
-  "a:coach8|p:lighting|x:off|2": {"text": "Tma, jen tenká čára světla podél podlahy.", "score": 93, "postedit": "Tma, jen tenká čára světla podél podlahy.", "postedit_score": 95},
-
-  "a:coach8|p:sound|v:rhythm|0": {"text": "Koleje pod podlahou tepou svým pravidelným rytmem.", "score": 94, "postedit": "Koleje pod podlahou tepou svým pravidelným rytmem.", "postedit_score": 96},
-  "a:coach8|p:sound|v:rhythm|1": {"text": "Vlak si hučí dál, kola klapou přes spoje kolejnic.", "score": 93, "postedit": "Vlak si hučí dál, kola klapou přes spoje kolejnic.", "postedit_score": 95},
-  "a:coach8|p:sound|v:rhythm|2": {"text": "To známé houpání a rachot rozjetého vlaku.", "score": 93, "postedit": "To známé houpání a rachot rozjetého vlaku.", "postedit_score": 95},
-  "a:coach8|p:sound|x:slowing|0": {"text": "Rytmus kolejí se zpomaluje. Zastavuješ?", "score": 93, "postedit": "Rytmus kolejí se zpomaluje. Zastavuješ?", "postedit_score": 95},
-  "a:coach8|p:sound|x:slowing|1": {"text": "Rachot se vleče, jako by vlak ztrácel rychlost.", "score": 94, "postedit": "Rachot se vleče, jako by vlak ztrácel rychlost.", "postedit_score": 95},
-  "a:coach8|p:sound|x:slowing|2": {"text": "Údery pod podlahou se mezi klapnutími protahují.", "score": 93, "postedit": "Údery pod podlahou se mezi klapnutími protahují.", "postedit_score": 95},
-  "a:coach8|p:sound|x:silence|0": {"text": "Kola ztichla. Necítíš vůbec žádný pohyb.", "score": 94, "postedit": "Kola ztichla. Necítíš vůbec žádný pohyb.", "postedit_score": 96},
-  "a:coach8|p:sound|x:silence|1": {"text": "Zvuk vlaku ustal. Naprostý klid.", "score": 94, "postedit": "Zvuk vlaku ustal. Naprostý klid.", "postedit_score": 95},
-  "a:coach8|p:sound|x:silence|2": {"text": "Žádný rachot, žádné houpání. Vlak možná vůbec nejede.", "score": 93, "postedit": "Žádný rachot, žádné houpání. Vlak možná vůbec nejede.", "postedit_score": 95},
-  "a:coach8|p:sound|x:announce|0": {"text": "Zazní gong, pak tlumené hlášení, kterému nerozumíš.", "score": 93, "postedit": "Zazní gong, pak tlumené hlášení, kterému nerozumíš.", "postedit_score": 95},
-  "a:coach8|p:sound|x:announce|1": {"text": "Z reproduktoru zapraská hlas a zase utichne.", "score": 93, "postedit": "Z reproduktoru zapraská hlas a zase utichne.", "postedit_score": 95},
-  "a:coach8|p:sound|x:announce|2": {"text": "Ozve se hlášení, skoro jako by pozpátku.", "score": 93, "postedit": "Ozve se hlášení, skoro jako by pozpátku.", "postedit_score": 95},
-  "a:coach8|p:sound|x:faster|0": {"text": "Koleje tepou rychleji, než mají, s rostoucím kvílením.", "score": 93, "postedit": "Koleje tepou rychleji, než mají, s rostoucím kvílením.", "postedit_score": 95},
-  "a:coach8|p:sound|x:faster|1": {"text": "Vlak zrychluje, rachot stoupá do výšky.", "score": 93, "postedit": "Vlak zrychluje, rachot stoupá do výšky.", "postedit_score": 95},
-  "a:coach8|p:sound|x:faster|2": {"text": "Všechno drnčí silněji, zrychluješ.", "score": 94, "postedit": "Všechno drnčí silněji, zrychluješ.", "postedit_score": 95},
-
-  "a:coach8|p:window|v:night|0": {"text": "Za oknem černá krajina a tvůj vlastní matný odraz.", "score": 93, "postedit": "Za oknem černá krajina a tvůj vlastní matný odraz.", "postedit_score": 95},
-  "a:coach8|p:window|v:night|1": {"text": "Okno ukazuje jen noc a přízrak vozu.", "score": 94, "postedit": "Okno ukazuje jen noc a přízrak vozu.", "postedit_score": 95},
-  "a:coach8|p:window|v:night|2": {"text": "Za oknem se míhají tmavá pole, tu a tam rozseté vzdálené světlo.", "score": 93, "postedit": "Za oknem se míhají tmavá pole, tu a tam rozseté vzdálené světlo.", "postedit_score": 95},
-  "a:coach8|p:window|x:station|0": {"text": "Za oknem klouže osvětlené nástupiště, stanice, bez hlášení.", "score": 93, "postedit": "Za oknem klouže osvětlené nástupiště, stanice, bez hlášení.", "postedit_score": 95},
-  "a:coach8|p:window|x:station|1": {"text": "Venku míjí nástupiště stanice, prázdné a jasné.", "score": 94, "postedit": "Venku míjí nástupiště stanice, prázdné a jasné.", "postedit_score": 95},
-  "a:coach8|p:window|x:station|2": {"text": "Za sklem klouže stanice, ani jsi necítil, že vlak zpomalil.", "score": 93, "postedit": "Za sklem klouže stanice, ani jsi necítil, že vlak zpomalil.", "postedit_score": 95},
-  "a:coach8|p:window|x:reflection|0": {"text": "Tvůj odraz ve skle se za tebou opožďuje o půl vteřiny.", "score": 93, "postedit": "Tvůj odraz ve skle se za tebou opožďuje o půl vteřiny.", "postedit_score": 95},
-  "a:coach8|p:window|x:reflection|1": {"text": "Odraz v okně tak úplně neodpovídá vozu.", "score": 94, "postedit": "Odraz v okně tak úplně neodpovídá vozu.", "postedit_score": 95},
-  "a:coach8|p:window|x:reflection|2": {"text": "V odrazu okna stojí někdo, kdo ve voze není.", "score": 93, "postedit": "V odrazu okna stojí někdo, kdo ve voze není.", "postedit_score": 95},
-  "a:coach8|p:window|x:daylight|0": {"text": "Okno září denním světlem. Ještě před chvílí byla noc.", "score": 93, "postedit": "Okno září denním světlem. Ještě před chvílí byla noc.", "postedit_score": 95},
-  "a:coach8|p:window|x:daylight|1": {"text": "Za sklem je náhle, nemožně, den.", "score": 93, "postedit": "Za sklem je náhle, nemožně, den.", "postedit_score": 95},
-  "a:coach8|p:window|x:daylight|2": {"text": "Okno zaplňuje sluneční světlo tam, kde byla jen tma.", "score": 94, "postedit": "Okno zaplňuje sluneční světlo tam, kde byla jen tma.", "postedit_score": 95},
-  "a:coach8|p:window|x:tunnel|0": {"text": "Okno je úplně černé, tunel, hučící, bez konce.", "score": 93, "postedit": "Okno je úplně černé, tunel, hučící, bez konce.", "postedit_score": 95},
-  "a:coach8|p:window|x:tunnel|1": {"text": "Teď jsi v tunelu, sklo ukazuje jen ubíhající tmu.", "score": 93, "postedit": "Teď jsi v tunelu, sklo ukazuje jen ubíhající tmu.", "postedit_score": 95},
-  "a:coach8|p:window|x:tunnel|2": {"text": "Za oknem ubíhá jen černá stěna tunelu.", "score": 93, "postedit": "Za oknem ubíhá jen černá stěna tunelu.", "postedit_score": 95},
-
-  "a:coach8|p:passenger|v:sleeping|0": {"text": "U vzdáleného okna spí osamělý cestující, kabát přes obličej.", "score": 93, "postedit": "U vzdáleného okna spí osamělý cestující, kabát přes obličej.", "postedit_score": 95},
-  "a:coach8|p:passenger|v:sleeping|1": {"text": "Jeden cestující podřimuje uprostřed vozu, hlavu zvrácenou dozadu.", "score": 93, "postedit": "Jeden cestující podřimuje uprostřed vozu, hlavu zvrácenou dozadu.", "postedit_score": 95},
-  "a:coach8|p:passenger|v:sleeping|2": {"text": "Táž spící postava se hrbí na sedadle u okna, jako předtím.", "score": 93, "postedit": "Táž spící postava se hrbí na sedadle u okna, jako předtím.", "postedit_score": 95},
-  "a:coach8|p:passenger|x:gone|0": {"text": "Sedadlo, kde cestující spal, je teď prázdné.", "score": 94, "postedit": "Sedadlo, kde cestující spal, je teď prázdné.", "postedit_score": 96},
-  "a:coach8|p:passenger|x:gone|1": {"text": "Tentokrát ve voze nikdo nespí.", "score": 94, "postedit": "Tentokrát ve voze nikdo nespí.", "postedit_score": 96},
-  "a:coach8|p:passenger|x:gone|2": {"text": "Dřímající cestující je pryč, zůstal jen složený kabát.", "score": 93, "postedit": "Dřímající cestující je pryč, zůstal jen složený kabát.", "postedit_score": 95},
-  "a:coach8|p:passenger|x:awake|0": {"text": "Cestující je teď vzhůru, sedí vzpřímeně, úplně nehybně.", "score": 93, "postedit": "Cestující je teď vzhůru, sedí vzpřímeně, úplně nehybně.", "postedit_score": 95},
-  "a:coach8|p:passenger|x:awake|1": {"text": "Spáčovy oči jsou otevřené, upřené do uličky.", "score": 94, "postedit": "Spáčovy oči jsou otevřené, upřené do uličky.", "postedit_score": 95},
-  "a:coach8|p:passenger|x:awake|2": {"text": "Cestující už nespí. Sleduje, jak procházíš kolem.", "score": 94, "postedit": "Cestující už nespí. Sleduje, jak procházíš kolem.", "postedit_score": 96},
-  "a:coach8|p:passenger|x:moved|0": {"text": "Spící cestující se přesunul na sedadlo blíž k uličce.", "score": 93, "postedit": "Spící cestující se přesunul na sedadlo blíž k uličce.", "postedit_score": 95},
-  "a:coach8|p:passenger|x:moved|1": {"text": "Dřímající postava je blíž než předtím, teď na tvé straně.", "score": 93, "postedit": "Dřímající postava je blíž než předtím, teď na tvé straně.", "postedit_score": 95},
-  "a:coach8|p:passenger|x:moved|2": {"text": "Cestující spí na jiném sedadle než před chvílí.", "score": 93, "postedit": "Cestující spí na jiném sedadle než před chvílí.", "postedit_score": 95},
-  "a:coach8|p:passenger|x:two|0": {"text": "Teď tu spí dva cestující, kde byl jeden.", "score": 94, "postedit": "Teď tu spí dva cestující, kde byl jeden.", "postedit_score": 96},
-  "a:coach8|p:passenger|x:two|1": {"text": "Tentokrát jsou tu dva kabáty přes obličej, ne jeden.", "score": 93, "postedit": "Tentokrát jsou tu dva kabáty přes obličej, ne jeden.", "postedit_score": 95},
-  "a:coach8|p:passenger|x:two|2": {"text": "K první spící postavě přibyla druhá.", "score": 94, "postedit": "K první spící postavě přibyla druhá.", "postedit_score": 96},
-  "a:coach8|p:passenger|x:speaks|0": {"text": "Spící cestující zamumlá, aniž se probudí: „zase?“", "score": 93, "postedit": "Spící cestující zamumlá, aniž se probudí: „zase?“", "postedit_score": 95},
-  "a:coach8|p:passenger|x:speaks|1": {"text": "Zpod kabátu tlumený hlas: „vždyť jsi tu byl právě teď.“", "score": 93, "postedit": "Zpod kabátu tlumený hlas: „vždyť jsi tu byl právě teď.“", "postedit_score": 95},
-  "a:coach8|p:passenger|x:speaks|2": {"text": "Dřímající postava vysloví název tvé stanice, i když jsi ho nikomu neřekl.", "score": 92, "postedit": "Dřímající postava vysloví název tvé stanice, i když jsi ho nikomu neřekl.", "postedit_score": 95},
-
-  "a:coach8|p:seatnum|v:eight|0": {"text": "Nálepky na sedadlech hlásají 8A, 8B, 8C podél celé řady.", "score": 93, "postedit": "Nálepky na sedadlech hlásají 8A, 8B, 8C podél celé řady.", "postedit_score": 95},
-  "a:coach8|p:seatnum|v:eight|1": {"text": "Sedadla značí drobná mosazná čísla: řada 8, jako vždycky.", "score": 93, "postedit": "Sedadla značí drobná mosazná čísla: řada 8, jako vždycky.", "postedit_score": 95},
-  "a:coach8|p:seatnum|v:eight|2": {"text": "Panel s číslem vozu u dveří svítí VAGON 8.", "score": 93, "postedit": "Panel s číslem vozu u dveří svítí VAGON 8.", "postedit_score": 95},
-  "a:coach8|p:seatnum|x:wrong|0": {"text": "Nálepky na sedadlech teď hlásají řadu 7, ne 8.", "score": 94, "postedit": "Nálepky na sedadlech teď hlásají řadu 7, ne 8.", "postedit_score": 96},
-  "a:coach8|p:seatnum|x:wrong|1": {"text": "Panel s číslem vozu hlásá VAGON 9.", "score": 94, "postedit": "Panel s číslem vozu hlásá VAGON 9.", "postedit_score": 96},
-  "a:coach8|p:seatnum|x:wrong|2": {"text": "Mosazná čísla říkají řadu 6, byl sis jistý, že je to 8.", "score": 93, "postedit": "Mosazná čísla říkají řadu 6, byl sis jistý, že je to 8.", "postedit_score": 95},
-  "a:coach8|p:seatnum|x:missing|0": {"text": "Čísla sedadel byla vypáčena, zůstaly jen holé díry po šroubech.", "score": 93, "postedit": "Čísla sedadel byla vypáčena, zůstaly jen holé díry po šroubech.", "postedit_score": 95},
-  "a:coach8|p:seatnum|x:missing|1": {"text": "Panel s číslem vozu u dveří je zhaslý a prázdný.", "score": 93, "postedit": "Panel s číslem vozu u dveří je zhaslý a prázdný.", "postedit_score": 95},
-  "a:coach8|p:seatnum|x:missing|2": {"text": "Tentokrát na sedadlech nejsou vůbec žádná čísla.", "score": 94, "postedit": "Tentokrát na sedadlech nejsou vůbec žádná čísla.", "postedit_score": 96},
-  "a:coach8|p:seatnum|x:letters|0": {"text": "Nálepky na sedadlech hlásají 8X, 8Y, 8Z, písmena, která sem nepatří.", "score": 93, "postedit": "Nálepky na sedadlech hlásají 8X, 8Y, 8Z, písmena, která sem nepatří.", "postedit_score": 95},
-  "a:coach8|p:seatnum|x:letters|1": {"text": "Řada je očíslovaná abecedou, kterou nepoznáváš.", "score": 93, "postedit": "Řada je očíslovaná abecedou, kterou nepoznáváš.", "postedit_score": 95},
-  "a:coach8|p:seatnum|x:letters|2": {"text": "Označení sedadel jsou teď jen symboly, ne čísla.", "score": 93, "postedit": "Označení sedadel jsou teď jen symboly, ne čísla.", "postedit_score": 95},
-
-  "a:coach8|p:door|v:closed|0": {"text": "Spojovací dveře na konci vozu jsou zavřené, jejich sklo tmavé.", "score": 93, "postedit": "Spojovací dveře na konci vozu jsou zavřené, jejich sklo tmavé.", "postedit_score": 95},
-  "a:coach8|p:door|v:closed|1": {"text": "Automatické dveře do dalšího vozu jsou zavřené, jako obvykle.", "score": 94, "postedit": "Automatické dveře do dalšího vozu jsou zavřené, jako obvykle.", "postedit_score": 95},
-  "a:coach8|p:door|v:closed|2": {"text": "Koncové dveře jsou zavřené, průchod za nimi je v šeru.", "score": 93, "postedit": "Koncové dveře jsou zavřené, průchod za nimi je v šeru.", "postedit_score": 95},
-  "a:coach8|p:door|x:open|0": {"text": "Spojovací dveře se zasekly dokořán, dovnitř proudí studený vzduch.", "score": 93, "postedit": "Spojovací dveře se zasekly dokořán, dovnitř proudí studený vzduch.", "postedit_score": 95},
-  "a:coach8|p:door|x:open|1": {"text": "Automatické dveře se nechtějí zavřít, průchod za nimi hučí.", "score": 93, "postedit": "Automatické dveře se nechtějí zavřít, průchod za nimi hučí.", "postedit_score": 95},
-  "a:coach8|p:door|x:open|2": {"text": "Koncové dveře zejí dokořán do rozechvělého průchodu.", "score": 92, "postedit": "Koncové dveře zejí dokořán do rozechvělého průchodu.", "postedit_score": 95},
-  "a:coach8|p:door|x:locked|0": {"text": "Na spojovacích dveřích svítí červené světlo: ZAMČENO.", "score": 94, "postedit": "Na spojovacích dveřích svítí červené světlo: ZAMČENO.", "postedit_score": 95},
-  "a:coach8|p:door|x:locked|1": {"text": "Koncové dveře ukazují kontrolku zámku, která byla předtím zelená.", "score": 93, "postedit": "Koncové dveře ukazují kontrolku zámku, která byla předtím zelená.", "postedit_score": 95},
-  "a:coach8|p:door|x:locked|2": {"text": "Na dveřích do dalšího vozu stojí NEVSTUPOVAT.", "score": 94, "postedit": "Na dveřích do dalšího vozu stojí NEVSTUPOVAT.", "postedit_score": 95},
-  "a:coach8|p:door|x:glass|0": {"text": "Sklo ve spojovacích dveřích je zamlžené, otisk dlaně na něm.", "score": 93, "postedit": "Sklo ve spojovacích dveřích je zamlžené, otisk dlaně na něm.", "postedit_score": 95},
-  "a:coach8|p:door|x:glass|1": {"text": "Něco maže okénko koncových dveří z druhé strany.", "score": 93, "postedit": "Něco maže okénko koncových dveří z druhé strany.", "postedit_score": 95},
-  "a:coach8|p:door|x:glass|2": {"text": "Sklo spojovacích dveří je popraskané do pavučiny.", "score": 93, "postedit": "Sklo spojovacích dveří je popraskané do pavučiny.", "postedit_score": 95},
-
-  "a:coach8|p:luggage|v:stowed|0": {"text": "Na zavazadlové polici u dveří leží jediný kufr.", "score": 94, "postedit": "Na zavazadlové polici u dveří leží jediný kufr.", "postedit_score": 96},
-  "a:coach8|p:luggage|v:stowed|1": {"text": "Police nad hlavou nesou obvyklou hrstku tašek.", "score": 93, "postedit": "Police nad hlavou nesou obvyklou hrstku tašek.", "postedit_score": 95},
-  "a:coach8|p:luggage|v:stowed|2": {"text": "Na zavazadlové polici jede jeden kufr s pevnou skořepinou, jako předtím.", "score": 93, "postedit": "Na zavazadlové polici jede jeden kufr s pevnou skořepinou, jako předtím.", "postedit_score": 95},
-  "a:coach8|p:luggage|x:gone|0": {"text": "Zavazadlová police je teď prázdná.", "score": 95, "postedit": "Zavazadlová police je teď prázdná.", "postedit_score": 96},
-  "a:coach8|p:luggage|x:gone|1": {"text": "Kufr u dveří je pryč.", "score": 95, "postedit": "Kufr u dveří je pryč.", "postedit_score": 96},
-  "a:coach8|p:luggage|x:gone|2": {"text": "Tentokrát na policích žádné tašky nejsou.", "score": 94, "postedit": "Tentokrát na policích žádné tašky nejsou.", "postedit_score": 96},
-  "a:coach8|p:luggage|x:more|0": {"text": "Zavazadlová police je nacpaná k prasknutí, mnohem víc tašek než předtím.", "score": 94, "postedit": "Zavazadlová police je nacpaná k prasknutí, mnohem víc tašek než předtím.", "postedit_score": 95},
-  "a:coach8|p:luggage|x:more|1": {"text": "Kufry jsou teď naskládané skoro až ke stropu.", "score": 94, "postedit": "Kufry jsou teď naskládané skoro až ke stropu.", "postedit_score": 96},
-  "a:coach8|p:luggage|x:more|2": {"text": "Police přetékají zavazadly, která tu nebyla.", "score": 94, "postedit": "Police přetékají zavazadly, která tu nebyla.", "postedit_score": 95},
-  "a:coach8|p:luggage|x:open|0": {"text": "Kufr na polici leží otevřený, prázdný.", "score": 94, "postedit": "Kufr na polici leží otevřený, prázdný.", "postedit_score": 96},
-  "a:coach8|p:luggage|x:open|1": {"text": "Jeden kufr se rozvalil dokořán po zavazadlové polici.", "score": 93, "postedit": "Jeden kufr se rozvalil dokořán po zavazadlové polici.", "postedit_score": 95},
-  "a:coach8|p:luggage|x:open|2": {"text": "Kufr s pevnou skořepinou zeje otevřený, jeho obsah je pryč.", "score": 93, "postedit": "Kufr s pevnou skořepinou zeje otevřený, jeho obsah je pryč.", "postedit_score": 95},
-
-  "a:coach8|p:table|v:coffee|0": {"text": "Na sklápěcím stolku u uličky stojí nedopitá káva.", "score": 93, "postedit": "Na sklápěcím stolku u uličky stojí nedopitá káva.", "postedit_score": 95},
-  "a:coach8|p:table|v:coffee|1": {"text": "Stolek je sklopený, na něm chladne papírový kelímek, jako vždycky.", "score": 93, "postedit": "Stolek je sklopený, na něm chladne papírový kelímek, jako vždycky.", "postedit_score": 95},
-  "a:coach8|p:table|v:coffee|2": {"text": "Na stolku něčí káva, ze které se ještě slabě kouří.", "score": 93, "postedit": "Na stolku něčí káva, ze které se ještě slabě kouří.", "postedit_score": 95},
-  "a:coach8|p:table|x:empty|0": {"text": "Stolek je prázdný, kelímek s kávou je pryč.", "score": 94, "postedit": "Stolek je prázdný, kelímek s kávou je pryč.", "postedit_score": 96},
-  "a:coach8|p:table|x:empty|1": {"text": "Na sklápěcím stolku teď nic není.", "score": 95, "postedit": "Na sklápěcím stolku teď nic není.", "postedit_score": 96},
-  "a:coach8|p:table|x:empty|2": {"text": "Tentokrát na stolku žádný kelímek není.", "score": 94, "postedit": "Tentokrát na stolku žádný kelímek není.", "postedit_score": 96},
-  "a:coach8|p:table|x:cold|0": {"text": "Káva na stolku vychladla, na hladině se udělal škraloup.", "score": 93, "postedit": "Káva na stolku vychladla, na hladině se udělal škraloup.", "postedit_score": 95},
-  "a:coach8|p:table|x:cold|1": {"text": "Kelímek je teď úplně studený, dávno opuštěný.", "score": 94, "postedit": "Kelímek je teď úplně studený, dávno opuštěný.", "postedit_score": 95},
-  "a:coach8|p:table|x:cold|2": {"text": "Káva stojí studená a nehybná, ani stopa páry.", "score": 93, "postedit": "Káva stojí studená a nehybná, ani stopa páry.", "postedit_score": 95},
-  "a:coach8|p:table|x:many|0": {"text": "Stolek je teď plný kelímků, ne jeden, ale spousta.", "score": 94, "postedit": "Stolek je teď plný kelímků, ne jeden, ale spousta.", "postedit_score": 95},
-  "a:coach8|p:table|x:many|1": {"text": "Na sklápěcím stolku se tísní několik káv tam, kde byla jedna.", "score": 93, "postedit": "Na sklápěcím stolku se tísní několik káv tam, kde byla jedna.", "postedit_score": 95},
-  "a:coach8|p:table|x:many|2": {"text": "Stolek je zaneřáděný víc kelímky, než by kdo dokázal vypít.", "score": 93, "postedit": "Stolek je zaneřáděný víc kelímky, než by kdo dokázal vypít.", "postedit_score": 95},
-  "a:coach8|p:table|x:spilled|0": {"text": "Káva se rozlila, po stolku se rozlévá tmavá skvrna.", "score": 94, "postedit": "Káva se rozlila, po stolku se rozlévá tmavá skvrna.", "postedit_score": 95},
-  "a:coach8|p:table|x:spilled|1": {"text": "Kelímek je převržený, káva stéká přes okraj stolku.", "score": 93, "postedit": "Kelímek je převržený, káva stéká přes okraj stolku.", "postedit_score": 95},
-  "a:coach8|p:table|x:spilled|2": {"text": "Káva se rozlévá po stolku a kape na podlahu.", "score": 94, "postedit": "Káva se rozlévá po stolku a kape na podlahu.", "postedit_score": 95},
-
-  "a:coach8|p:sense|v:steady|0": {"text": "Vlak se zdá přesně tak dlouhý, jako byl vždycky.", "score": 94, "postedit": "Vlak se zdá přesně tak dlouhý, jako byl vždycky.", "postedit_score": 96},
-  "a:coach8|p:sense|v:steady|1": {"text": "Neseš uličkou tutéž unavenou trpělivost, vagon za vagonem.", "score": 93, "postedit": "Neseš uličkou tutéž unavenou trpělivost, vagon za vagonem.", "postedit_score": 95},
-  "a:coach8|p:sense|v:steady|2": {"text": "Všechno působí tak všedně, jak má noční vlak působit.", "score": 93, "postedit": "Všechno působí tak všedně, jak má noční vlak působit.", "postedit_score": 95},
-  "a:coach8|p:sense|x:forget|0": {"text": "Na okamžik si nevzpomeneš, kolik vagonů už máš za sebou.", "score": 93, "postedit": "Na okamžik si nevzpomeneš, kolik vagonů už máš za sebou.", "postedit_score": 95},
-  "a:coach8|p:sense|x:forget|1": {"text": "Ztrácíš počet vozů za sebou a to tě děsí.", "score": 93, "postedit": "Ztrácíš počet vozů za sebou a to tě děsí.", "postedit_score": 95},
-  "a:coach8|p:sense|x:forget|2": {"text": "Vůbec si nevybavuješ, jak jsi do tohohle vlaku nastupoval.", "score": 93, "postedit": "Vůbec si nevybavuješ, jak jsi do tohohle vlaku nastupoval.", "postedit_score": 95},
-  "a:coach8|p:sense|x:calm|0": {"text": "Cítíš náhlý, falešný klid, jako bys už dorazil.", "score": 93, "postedit": "Cítíš náhlý, falešný klid, jako bys už dorazil.", "postedit_score": 95},
-  "a:coach8|p:sense|x:calm|1": {"text": "Zmocňuje se tě zvláštní spokojenost, která sem vůbec nepatří.", "score": 93, "postedit": "Zmocňuje se tě zvláštní spokojenost, která sem vůbec nepatří.", "postedit_score": 95},
-  "a:coach8|p:sense|x:calm|2": {"text": "Necítíš vůbec žádný spěch, a právě to působí špatně.", "score": 94, "postedit": "Necítíš vůbec žádný spěch, a právě to působí špatně.", "postedit_score": 95},
-  "a:coach8|p:sense|x:watched|0": {"text": "Cítíš na sobě pohled, přestože všichni cestující spí.", "score": 94, "postedit": "Cítíš na sobě pohled, přestože všichni cestující spí.", "postedit_score": 96},
-  "a:coach8|p:sense|x:watched|1": {"text": "Nemůžeš se zbavit jistoty, že někdo stojí za tebou.", "score": 93, "postedit": "Nemůžeš se zbavit jistoty, že někdo stojí za tebou.", "postedit_score": 95},
-  "a:coach8|p:sense|x:watched|2": {"text": "Zátylek tě brní, jsi si jistý, že už nejsi sám jako předtím.", "score": 92, "postedit": "Zátylek tě brní, jsi si jistý, že už nejsi sám jako předtím.", "postedit_score": 95},
-
-  "a:coach8|adaptive|repeat_inspect|0": {"text": "Znovu se díváš na {THING}. Ani pořádně nevíš proč.", "score": 92, "postedit": "Znovu se díváš na {THING}. Ani pořádně nevíš proč.", "postedit_score": 95},
-  "a:coach8|adaptive|repeat_inspect|1": {"text": "Tvůj pohled zamíří rovnou na {THING}, jako už pořád.", "score": 92, "postedit": "Tvůj pohled zamíří rovnou na {THING}, jako už pořád.", "postedit_score": 95},
-  "a:coach8|adaptive|repeat_inspect|2": {"text": "Znovu ti pohled sklouzne na {THING}.", "score": 93, "postedit": "Znovu ti pohled sklouzne na {THING}.", "postedit_score": 95},
-  "a:coach8|adaptive|long_look|0": {"text": "Prohlížíš si to dýl než obvykle. Nepamatuješ si, že by ses rozhodl zastavit.", "score": 93, "postedit": "Prohlížíš si to dýl než obvykle. Nepamatuješ si, že by ses rozhodl zastavit.", "postedit_score": 95},
-  "a:coach8|adaptive|long_look|1": {"text": "Uvědomíš si, že stojíš v uličce. Jak dlouho už?", "score": 93, "postedit": "Uvědomíš si, že stojíš v uličce. Jak dlouho už?", "postedit_score": 95},
-  "a:coach8|adaptive|long_look|2": {"text": "Vlak se dál houpe a ty nevíš, jak dlouho už zíráš do prázdna.", "score": 92, "postedit": "Vlak se dál houpe a ty nevíš, jak dlouho už zíráš do prázdna.", "postedit_score": 95},
-
-  "a:coach8|framing|intro|0": {"text": "POSLEDNÍ VLAK", "score": 95, "postedit": "POSLEDNÍ VLAK", "postedit_score": 96},
-  "a:coach8|framing|intro|2": {"text": "Průvodčí ti cvakl lístek a kývl směrem k čelu vlaku. Vagon 8, tudy.", "score": 92, "postedit": "Průvodčí ti cvakl lístek a kývl směrem k čelu vlaku. Vagon 8, tudy.", "postedit_score": 95},
-  "a:coach8|framing|intro|3": {"text": "To bylo před delší chvílí. Pořád jdeš a každý vůz vypadá stejně.", "score": 93, "postedit": "To bylo před delší chvílí. Pořád jdeš a každý vůz vypadá stejně.", "postedit_score": 95},
-  "a:coach8|framing|intro|5": {"text": "Dokud je vagon přesně takový, jak si ho pamatuješ, jdi dál kupředu.", "score": 92, "postedit": "Dokud je vagon přesně takový, jak si ho pamatuješ, jdi dál kupředu.", "postedit_score": 95},
-  "a:coach8|framing|intro|6": {"text": "Pokud se cokoli změnilo, otoč se. Tenhle tě skládá zpátky.", "score": 92, "postedit": "Pokud se cokoli změnilo, otoč se. Tenhle tě skládá zpátky.", "postedit_score": 95},
-  "a:coach8|framing|intro|8": {"text": "Osm vagonů a konečně si budeš moct sednout.", "score": 94, "postedit": "Osm vagonů a konečně si budeš moct sednout.", "postedit_score": 95},
-  "a:coach8|framing|intro|9": {"text": "Ztrať jistotu a vlak tě vrátí tam, kde jsi začal.", "score": 92, "postedit": "Ztrať jistotu a vlak tě vrátí tam, kde jsi začal.", "postedit_score": 95},
-
-  "a:coach8|framing|win|0": {"text": "Odsuneš ještě jedny dveře a čísla sedadel hlásají 8.", "score": 93, "postedit": "Odsuneš ještě jedny dveře a čísla sedadel hlásají 8.", "postedit_score": 95},
-  "a:coach8|framing|win|1": {"text": "Vagon 8. Tvoje místo, prázdné a čekající, u černého okna.", "score": 93, "postedit": "Vagon 8. Tvoje místo, prázdné a čekající, u černého okna.", "postedit_score": 95},
-  "a:coach8|framing|win|2": {"text": "Konečně se do něj zaboříš. Vlak se řítí dál nocí.", "score": 94, "postedit": "Konečně se do něj zaboříš. Vlak se řítí dál nocí.", "postedit_score": 95},
-  "a:coach8|framing|win|3": {"text": "Našel jsi svoje místo.", "score": 95, "postedit": "Našel jsi svoje místo.", "postedit_score": 96}
+ "a:coach8|act2|end|platform|0": {
+  "postedit": "Sestoupíš na nástupiště a dveře se za tebou se syčením zavřou.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Sestoupíš na nástupiště a dveře se za tebou se syčením zavřou."
+ },
+ "a:coach8|act2|end|platform|1": {
+  "postedit": "Vlak beze tebe odklouže pryč do tunelu.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Vlak beze tebe odklouže pryč do tunelu."
+ },
+ "a:coach8|act2|end|platform|2": {
+  "postedit": "Cedule na prázdném nástupišti hlásá stanici, o které jsi nikdy neslyšel, a jediný spoj na tabuli je vlak, který právě odjel.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Cedule na prázdném nástupišti hlásá stanici, o které jsi nikdy neslyšel, a jediný spoj na tabuli je vlak, který právě odjel."
+ },
+ "a:coach8|act2|exit|action": {
+  "postedit": "vystoupit na nástupiště",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "vystoupit na nástupiště"
+ },
+ "a:coach8|act2|exit|tempt": {
+  "postedit": "Vlak zpomaluje a dveře na konci vozu se otevírají na osvětlené nástupiště. Stačí sestoupit a jsi venku.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Vlak zpomaluje a dveře na konci vozu se otevírají na osvětlené nástupiště. Stačí sestoupit a jsi venku."
+ },
+ "a:coach8|act2|exit|utterance": {
+  "postedit": "Cestující se k tobě konečně otočí a promluví hlasem, který už znáš: „Projel jsi svou stanici.“",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Cestující se k tobě konečně otočí a promluví hlasem, který už znáš: „Projel jsi svou stanici.“"
+ },
+ "a:coach8|act2|flashback|0": {
+  "postedit": "Jednou jsi měl místo, kus dozadu, přehozený kabát. Vstal jsi, abys našel vagon 8.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Jednou jsi měl místo, kus dozadu, přehozený kabát. Vstal jsi, abys našel vagon 8."
+ },
+ "a:coach8|act2|flashback|1": {
+  "postedit": "Někdo tě měl čekat na konečné. To jméno ti utíká.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Někdo tě měl čekat na konečné. To jméno ti utíká."
+ },
+ "a:coach8|act2|flashback|2": {
+  "postedit": "Kabát spícího cestujícího je stejný jako tvůj. Podruhé se nepodíváš.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Kabát spícího cestujícího je stejný jako tvůj. Podruhé se nepodíváš."
+ },
+ "a:coach8|act2|flashback|3": {
+  "postedit": "Vzkaz vyrytý do stolku je psaný tvou vlastní rukou. Stojí na něm zase, nebo osm.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Vzkaz vyrytý do stolku je psaný tvou vlastní rukou. Stojí na něm zase, nebo osm."
+ },
+ "a:coach8|act2|flashback|4": {
+  "postedit": "Byl sis jistý, že příští stanice je tvoje. Příští stanice je vždycky příští stanice.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Byl sis jistý, že příští stanice je tvoje. Příští stanice je vždycky příští stanice."
+ },
+ "a:coach8|act2|t:luggage|fold|0": {
+  "postedit": "Uvnitř je řada vagonů, složená do malička a ustupující. Když vzhlédneš, jsi znovu u prvního vagonu.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Uvnitř je řada vagonů, složená do malička a ustupující. Když vzhlédneš, jsi znovu u prvního vagonu."
+ },
+ "a:coach8|act2|t:luggage|herring|0": {
+  "postedit": "Inkoust na visačce je pořád mokrý. Nejspíš byl mokrý pořád.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Inkoust na visačce je pořád mokrý. Nejspíš byl mokrý pořád."
+ },
+ "a:coach8|act2|t:luggage|herring|1": {
+  "postedit": "Na visačce jsou tvé vlastní iniciály, tvým písmem. Běžné iniciály.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Na visačce jsou tvé vlastní iniciály, tvým písmem. Běžné iniciály."
+ },
+ "a:coach8|act2|t:luggage|reaction|0": {
+  "postedit": "Něčí složené košile, brožovaná kniha, útržek lístku. Všední věci, které někam jedou.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Něčí složené košile, brožovaná kniha, útržek lístku. Všední věci, které někam jedou."
+ },
+ "a:coach8|act2|t:luggage|reaction|1": {
+  "postedit": "Je těžší, než vypadá, a nechce se otevřít dokořán.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Je těžší, než vypadá, a nechce se otevřít dokořán."
+ },
+ "a:coach8|act2|t:luggage|verb": {
+  "postedit": "otevřít zavazadlo",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "otevřít zavazadlo"
+ },
+ "a:coach8|act2|t:passenger|fold|0": {
+  "postedit": "Ze spánku vysloví tvé jméno, zřetelně, jednou, a ten zvuk tě odnese zpátky k prvnímu vagonu.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Ze spánku vysloví tvé jméno, zřetelně, jednou, a ten zvuk tě odnese zpátky k prvnímu vagonu."
+ },
+ "a:coach8|act2|t:passenger|herring|0": {
+  "postedit": "Jeho kabát má stejný střih jako tvůj. Kabáty jsou kabáty.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Jeho kabát má stejný střih jako tvůj. Kabáty jsou kabáty."
+ },
+ "a:coach8|act2|t:passenger|herring|1": {
+  "postedit": "Na vteřinu je tvář pod kapucí obrácená k tobě. Pak už není.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Na vteřinu je tvář pod kapucí obrácená k tobě. Pak už není."
+ },
+ "a:coach8|act2|t:passenger|reaction|0": {
+  "postedit": "Zamumlání, žádná slova, která bys udržel. Neprobudí se.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Zamumlání, žádná slova, která bys udržel. Neprobudí se."
+ },
+ "a:coach8|act2|t:passenger|reaction|1": {
+  "postedit": "Pohne se, uvelebí se a jeho dech se srovná s tvým.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Pohne se, uvelebí se a jeho dech se srovná s tvým."
+ },
+ "a:coach8|act2|t:passenger|verb": {
+  "postedit": "šťouchnout do spícího cestujícího",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "šťouchnout do spícího cestujícího"
+ },
+ "a:coach8|act2|t:table|fold|0": {
+  "postedit": "Přejíždíš prstem po čárkách a ztratíš počet, a to ztracení tě vrátí k vagonu jedna.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Přejíždíš prstem po čárkách a ztratíš počet, a to ztracení tě vrátí k vagonu jedna."
+ },
+ "a:coach8|act2|t:table|herring|0": {
+  "postedit": "Vedle mokrý kroužek od kávy, jako by někdo právě odešel. Lidé právě odešli.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Vedle mokrý kroužek od kávy, jako by někdo právě odešel. Lidé právě odešli."
+ },
+ "a:coach8|act2|t:table|herring|1": {
+  "postedit": "Rýhy vypadají čerstvě, jako před pár minutami. Nebo ohlazené léty. Nedokážeš to rozeznat.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Rýhy vypadají čerstvě, jako před pár minutami. Nebo ohlazené léty. Nedokážeš to rozeznat."
+ },
+ "a:coach8|act2|t:table|reaction|0": {
+  "postedit": "Písmena vyrytá do laminátu klíčem nebo hřebíkem. Většinou ZASE. A čárky.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Písmena vyrytá do laminátu klíčem nebo hřebíkem. Většinou ZASE. A čárky."
+ },
+ "a:coach8|act2|t:table|reaction|1": {
+  "postedit": "Pod novějšími rýhami starší, ohlazené rukama skoro dohladka.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Pod novějšími rýhami starší, ohlazené rukama skoro dohladka."
+ },
+ "a:coach8|act2|t:table|verb": {
+  "postedit": "přečíst vyrytý vzkaz",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "přečíst vyrytý vzkaz"
+ },
+ "a:coach8|act2|t:window|fold|0": {
+  "postedit": "Díváš se do tmy, dokud není vším, co zbývá, a vagon se kolem tvého odrazu přeskládá, zpátky na začátek.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Díváš se do tmy, dokud není vším, co zbývá, a vagon se kolem tvého odrazu přeskládá, zpátky na začátek."
+ },
+ "a:coach8|act2|t:window|herring|0": {
+  "postedit": "Na skle se zamlží a mizí otisk dlaně, který není tvůj. Nebo je.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Na skle se zamlží a mizí otisk dlaně, který není tvůj. Nebo je."
+ },
+ "a:coach8|act2|t:window|herring|1": {
+  "postedit": "Světla tam venku, která by mohla být město, nebo taky vlak, zdvojený.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Světla tam venku, která by mohla být město, nebo taky vlak, zdvojený."
+ },
+ "a:coach8|act2|t:window|reaction|0": {
+  "postedit": "Tvůj odraz se za tebou opožďuje o půl vteřiny.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Tvůj odraz se za tebou opožďuje o půl vteřiny."
+ },
+ "a:coach8|act2|t:window|reaction|1": {
+  "postedit": "Černé sklo, tunel, a pak nástupiště klouzající kolem příliš rychle na přečtení.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Černé sklo, tunel, a pak nástupiště klouzající kolem příliš rychle na přečtení."
+ },
+ "a:coach8|act2|t:window|verb": {
+  "postedit": "podívat se z okna",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "podívat se z okna"
+ },
+ "a:coach8|adaptive|long_look|0": {
+  "postedit": "Prohlížíš si to dýl než obvykle. Nepamatuješ si, že by ses rozhodl zastavit.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Prohlížíš si to dýl než obvykle. Nepamatuješ si, že by ses rozhodl zastavit."
+ },
+ "a:coach8|adaptive|long_look|1": {
+  "postedit": "Uvědomíš si, že stojíš v uličce. Jak dlouho už?",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Uvědomíš si, že stojíš v uličce. Jak dlouho už?"
+ },
+ "a:coach8|adaptive|long_look|2": {
+  "postedit": "Vlak se dál houpe a ty nevíš, jak dlouho už zíráš do prázdna.",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "Vlak se dál houpe a ty nevíš, jak dlouho už zíráš do prázdna."
+ },
+ "a:coach8|adaptive|repeat_inspect|0": {
+  "postedit": "Znovu se díváš na {THING}. Ani pořádně nevíš proč.",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "Znovu se díváš na {THING}. Ani pořádně nevíš proč."
+ },
+ "a:coach8|adaptive|repeat_inspect|1": {
+  "postedit": "Tvůj pohled zamíří rovnou na {THING}, jako už pořád.",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "Tvůj pohled zamíří rovnou na {THING}, jako už pořád."
+ },
+ "a:coach8|adaptive|repeat_inspect|2": {
+  "postedit": "Znovu ti pohled sklouzne na {THING}.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Znovu ti pohled sklouzne na {THING}."
+ },
+ "a:coach8|attempt": {
+  "postedit": "{n}krát skrz tenhle vlak, a tentokrát dojel na tvou stanici.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "{n}krát skrz tenhle vlak, a tentokrát dojel na tvou stanici."
+ },
+ "a:coach8|attempt_first": {
+  "postedit": "První jízda, a vagon se ani jednou nesložil zpátky.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "První jízda, a vagon se ani jednou nesložil zpátky."
+ },
+ "a:coach8|framing|cutscene|0": {
+  "postedit": "Něco ve vagonu se změnilo a tys prošel dál kolem toho.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Něco ve vagonu se změnilo a tys prošel dál kolem toho."
+ },
+ "a:coach8|framing|cutscene|1": {
+  "postedit": "Pokud vagon není přesně takový, jak si ho pamatuješ, otoč se. Pokud je, jdi dál kupředu.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Pokud vagon není přesně takový, jak si ho pamatuješ, otoč se. Pokud je, jdi dál kupředu."
+ },
+ "a:coach8|framing|intro|0": {
+  "postedit": "POSLEDNÍ VLAK",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "POSLEDNÍ VLAK"
+ },
+ "a:coach8|framing|intro|2": {
+  "postedit": "Průvodčí ti cvakl lístek a kývl směrem k čelu vlaku. Vagon 8, tudy.",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "Průvodčí ti cvakl lístek a kývl směrem k čelu vlaku. Vagon 8, tudy."
+ },
+ "a:coach8|framing|intro|3": {
+  "postedit": "To bylo před delší chvílí. Pořád jdeš a každý vůz vypadá stejně.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "To bylo před delší chvílí. Pořád jdeš a každý vůz vypadá stejně."
+ },
+ "a:coach8|framing|intro|5": {
+  "postedit": "Dokud je vagon přesně takový, jak si ho pamatuješ, jdi dál kupředu.",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "Dokud je vagon přesně takový, jak si ho pamatuješ, jdi dál kupředu."
+ },
+ "a:coach8|framing|intro|6": {
+  "postedit": "Pokud se cokoli změnilo, otoč se. Tenhle tě skládá zpátky.",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "Pokud se cokoli změnilo, otoč se. Tenhle tě skládá zpátky."
+ },
+ "a:coach8|framing|intro|8": {
+  "postedit": "Osm vagonů a konečně si budeš moct sednout.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Osm vagonů a konečně si budeš moct sednout."
+ },
+ "a:coach8|framing|intro|9": {
+  "postedit": "Ztrať jistotu a vlak tě vrátí tam, kde jsi začal.",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "Ztrať jistotu a vlak tě vrátí tam, kde jsi začal."
+ },
+ "a:coach8|framing|win|0": {
+  "postedit": "Odsuneš ještě jedny dveře a čísla sedadel hlásají 8.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Odsuneš ještě jedny dveře a čísla sedadel hlásají 8."
+ },
+ "a:coach8|framing|win|1": {
+  "postedit": "Vagon 8. Tvoje místo, prázdné a čekající, u černého okna.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Vagon 8. Tvoje místo, prázdné a čekající, u černého okna."
+ },
+ "a:coach8|framing|win|2": {
+  "postedit": "Konečně se do něj zaboříš. Vlak se řítí dál nocí.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Konečně se do něj zaboříš. Vlak se řítí dál nocí."
+ },
+ "a:coach8|framing|win|3": {
+  "postedit": "Našel jsi svoje místo.",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "Našel jsi svoje místo."
+ },
+ "a:coach8|go_on": {
+  "postedit": "Další vagon",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "Další vagon"
+ },
+ "a:coach8|label|door": {
+  "postedit": "spojovací dveře",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "spojovací dveře"
+ },
+ "a:coach8|label|lighting": {
+  "postedit": "světlo",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "světlo"
+ },
+ "a:coach8|label|luggage": {
+  "postedit": "zavazadlovou polici",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "zavazadlovou polici"
+ },
+ "a:coach8|label|passenger": {
+  "postedit": "spícího cestujícího",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "spícího cestujícího"
+ },
+ "a:coach8|label|seatnum": {
+  "postedit": "čísla sedadel",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "čísla sedadel"
+ },
+ "a:coach8|label|sense": {
+  "postedit": "ten pocit",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "ten pocit"
+ },
+ "a:coach8|label|sound": {
+  "postedit": "zvuk",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "zvuk"
+ },
+ "a:coach8|label|table": {
+  "postedit": "stolek",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "stolek"
+ },
+ "a:coach8|label|window": {
+  "postedit": "okno",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "okno"
+ },
+ "a:coach8|p:door|v:closed|0": {
+  "postedit": "Spojovací dveře na konci vozu jsou zavřené, jejich sklo tmavé.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Spojovací dveře na konci vozu jsou zavřené, jejich sklo tmavé."
+ },
+ "a:coach8|p:door|v:closed|1": {
+  "postedit": "Automatické dveře do dalšího vozu jsou zavřené, jako obvykle.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Automatické dveře do dalšího vozu jsou zavřené, jako obvykle."
+ },
+ "a:coach8|p:door|v:closed|2": {
+  "postedit": "Koncové dveře jsou zavřené, průchod za nimi je v šeru.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Koncové dveře jsou zavřené, průchod za nimi je v šeru."
+ },
+ "a:coach8|p:door|x:glass|0": {
+  "postedit": "Sklo ve spojovacích dveřích je zamlžené, otisk dlaně na něm.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Sklo ve spojovacích dveřích je zamlžené, otisk dlaně na něm."
+ },
+ "a:coach8|p:door|x:glass|1": {
+  "postedit": "Něco maže okénko koncových dveří z druhé strany.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Něco maže okénko koncových dveří z druhé strany."
+ },
+ "a:coach8|p:door|x:glass|2": {
+  "postedit": "Sklo spojovacích dveří je popraskané do pavučiny.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Sklo spojovacích dveří je popraskané do pavučiny."
+ },
+ "a:coach8|p:door|x:locked|0": {
+  "postedit": "Na spojovacích dveřích svítí červené světlo: ZAMČENO.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Na spojovacích dveřích svítí červené světlo: ZAMČENO."
+ },
+ "a:coach8|p:door|x:locked|1": {
+  "postedit": "Koncové dveře ukazují kontrolku zámku, která byla předtím zelená.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Koncové dveře ukazují kontrolku zámku, která byla předtím zelená."
+ },
+ "a:coach8|p:door|x:locked|2": {
+  "postedit": "Na dveřích do dalšího vozu stojí NEVSTUPOVAT.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Na dveřích do dalšího vozu stojí NEVSTUPOVAT."
+ },
+ "a:coach8|p:door|x:open|0": {
+  "postedit": "Spojovací dveře se zasekly dokořán, dovnitř proudí studený vzduch.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Spojovací dveře se zasekly dokořán, dovnitř proudí studený vzduch."
+ },
+ "a:coach8|p:door|x:open|1": {
+  "postedit": "Automatické dveře se nechtějí zavřít, průchod za nimi hučí.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Automatické dveře se nechtějí zavřít, průchod za nimi hučí."
+ },
+ "a:coach8|p:door|x:open|2": {
+  "postedit": "Koncové dveře zejí dokořán do rozechvělého průchodu.",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "Koncové dveře zejí dokořán do rozechvělého průchodu."
+ },
+ "a:coach8|p:lighting|v:dim|0": {
+  "postedit": "Světla ve voze jsou ztlumená na noc, měkký jantarový nádech.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Světla ve voze jsou ztlumená na noc, měkký jantarový nádech."
+ },
+ "a:coach8|p:lighting|v:dim|1": {
+  "postedit": "Tlumené noční osvětlení se táhne podél zavazadlových polic, jako vždycky.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Tlumené noční osvětlení se táhne podél zavazadlových polic, jako vždycky."
+ },
+ "a:coach8|p:lighting|v:dim|2": {
+  "postedit": "Stropní světla jsou stažená do jantarového nočního režimu.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Stropní světla jsou stažená do jantarového nočního režimu."
+ },
+ "a:coach8|p:lighting|v:dim|3": {
+  "postedit": "Vagon je zalitý stejným měkkým zlatem jako ten předchozí.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Vagon je zalitý stejným měkkým zlatem jako ten předchozí."
+ },
+ "a:coach8|p:lighting|x:bright|0": {
+  "postedit": "Světla svítí naplno, ostře a bíle, ne v nočním režimu.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Světla svítí naplno, ostře a bíle, ne v nočním režimu."
+ },
+ "a:coach8|p:lighting|x:bright|1": {
+  "postedit": "Tenhle vagon je nasvícený mnohem jasněji než ten předchozí.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Tenhle vagon je nasvícený mnohem jasněji než ten předchozí."
+ },
+ "a:coach8|p:lighting|x:bright|2": {
+  "postedit": "Měkký jantar je pryč, všechno září bílou.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Měkký jantar je pryč, všechno září bílou."
+ },
+ "a:coach8|p:lighting|x:flicker|0": {
+  "postedit": "Světla ve voze zablikají s pohybem vlaku, pak se ustálí.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Světla ve voze zablikají s pohybem vlaku, pak se ustálí."
+ },
+ "a:coach8|p:lighting|x:flicker|1": {
+  "postedit": "Jeden světelný pruh nad hlavou zakolísá.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Jeden světelný pruh nad hlavou zakolísá."
+ },
+ "a:coach8|p:lighting|x:flicker|2": {
+  "postedit": "Jantarové světlo zhasne a zase se rozsvítí.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Jantarové světlo zhasne a zase se rozsvítí."
+ },
+ "a:coach8|p:lighting|x:off|0": {
+  "postedit": "Ve voze je tma, jen nouzové pásky u podlahy svítí.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Ve voze je tma, jen nouzové pásky u podlahy svítí."
+ },
+ "a:coach8|p:lighting|x:off|1": {
+  "postedit": "Světla tady zhasla, září jen značky v uličce.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Světla tady zhasla, září jen značky v uličce."
+ },
+ "a:coach8|p:lighting|x:off|2": {
+  "postedit": "Tma, jen tenká čára světla podél podlahy.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Tma, jen tenká čára světla podél podlahy."
+ },
+ "a:coach8|p:luggage|v:stowed|0": {
+  "postedit": "Na zavazadlové polici u dveří leží jediný kufr.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Na zavazadlové polici u dveří leží jediný kufr."
+ },
+ "a:coach8|p:luggage|v:stowed|1": {
+  "postedit": "Police nad hlavou nesou obvyklou hrstku tašek.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Police nad hlavou nesou obvyklou hrstku tašek."
+ },
+ "a:coach8|p:luggage|v:stowed|2": {
+  "postedit": "Na zavazadlové polici jede jeden kufr s pevnou skořepinou, jako předtím.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Na zavazadlové polici jede jeden kufr s pevnou skořepinou, jako předtím."
+ },
+ "a:coach8|p:luggage|x:gone|0": {
+  "postedit": "Zavazadlová police je teď prázdná.",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "Zavazadlová police je teď prázdná."
+ },
+ "a:coach8|p:luggage|x:gone|1": {
+  "postedit": "Kufr u dveří je pryč.",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "Kufr u dveří je pryč."
+ },
+ "a:coach8|p:luggage|x:gone|2": {
+  "postedit": "Tentokrát na policích žádné tašky nejsou.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Tentokrát na policích žádné tašky nejsou."
+ },
+ "a:coach8|p:luggage|x:more|0": {
+  "postedit": "Zavazadlová police je nacpaná k prasknutí, mnohem víc tašek než předtím.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Zavazadlová police je nacpaná k prasknutí, mnohem víc tašek než předtím."
+ },
+ "a:coach8|p:luggage|x:more|1": {
+  "postedit": "Kufry jsou teď naskládané skoro až ke stropu.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Kufry jsou teď naskládané skoro až ke stropu."
+ },
+ "a:coach8|p:luggage|x:more|2": {
+  "postedit": "Police přetékají zavazadly, která tu nebyla.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Police přetékají zavazadly, která tu nebyla."
+ },
+ "a:coach8|p:luggage|x:open|0": {
+  "postedit": "Kufr na polici leží otevřený, prázdný.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Kufr na polici leží otevřený, prázdný."
+ },
+ "a:coach8|p:luggage|x:open|1": {
+  "postedit": "Jeden kufr se rozvalil dokořán po zavazadlové polici.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Jeden kufr se rozvalil dokořán po zavazadlové polici."
+ },
+ "a:coach8|p:luggage|x:open|2": {
+  "postedit": "Kufr s pevnou skořepinou zeje otevřený, jeho obsah je pryč.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Kufr s pevnou skořepinou zeje otevřený, jeho obsah je pryč."
+ },
+ "a:coach8|p:passenger|v:sleeping|0": {
+  "postedit": "U vzdáleného okna spí osamělý cestující, kabát přes obličej.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "U vzdáleného okna spí osamělý cestující, kabát přes obličej."
+ },
+ "a:coach8|p:passenger|v:sleeping|1": {
+  "postedit": "Jeden cestující podřimuje uprostřed vozu, hlavu zvrácenou dozadu.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Jeden cestující podřimuje uprostřed vozu, hlavu zvrácenou dozadu."
+ },
+ "a:coach8|p:passenger|v:sleeping|2": {
+  "postedit": "Táž spící postava se hrbí na sedadle u okna, jako předtím.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Táž spící postava se hrbí na sedadle u okna, jako předtím."
+ },
+ "a:coach8|p:passenger|x:awake|0": {
+  "postedit": "Cestující je teď vzhůru, sedí vzpřímeně, úplně nehybně.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Cestující je teď vzhůru, sedí vzpřímeně, úplně nehybně."
+ },
+ "a:coach8|p:passenger|x:awake|1": {
+  "postedit": "Spáčovy oči jsou otevřené, upřené do uličky.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Spáčovy oči jsou otevřené, upřené do uličky."
+ },
+ "a:coach8|p:passenger|x:awake|2": {
+  "postedit": "Cestující už nespí. Sleduje, jak procházíš kolem.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Cestující už nespí. Sleduje, jak procházíš kolem."
+ },
+ "a:coach8|p:passenger|x:gone|0": {
+  "postedit": "Sedadlo, kde cestující spal, je teď prázdné.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Sedadlo, kde cestující spal, je teď prázdné."
+ },
+ "a:coach8|p:passenger|x:gone|1": {
+  "postedit": "Tentokrát ve voze nikdo nespí.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Tentokrát ve voze nikdo nespí."
+ },
+ "a:coach8|p:passenger|x:gone|2": {
+  "postedit": "Dřímající cestující je pryč, zůstal jen složený kabát.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Dřímající cestující je pryč, zůstal jen složený kabát."
+ },
+ "a:coach8|p:passenger|x:moved|0": {
+  "postedit": "Spící cestující se přesunul na sedadlo blíž k uličce.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Spící cestující se přesunul na sedadlo blíž k uličce."
+ },
+ "a:coach8|p:passenger|x:moved|1": {
+  "postedit": "Dřímající postava je blíž než předtím, teď na tvé straně.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Dřímající postava je blíž než předtím, teď na tvé straně."
+ },
+ "a:coach8|p:passenger|x:moved|2": {
+  "postedit": "Cestující spí na jiném sedadle než před chvílí.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Cestující spí na jiném sedadle než před chvílí."
+ },
+ "a:coach8|p:passenger|x:speaks|0": {
+  "postedit": "Spící cestující zamumlá, aniž se probudí: „zase?“",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Spící cestující zamumlá, aniž se probudí: „zase?“"
+ },
+ "a:coach8|p:passenger|x:speaks|1": {
+  "postedit": "Zpod kabátu tlumený hlas: „vždyť jsi tu byl právě teď.“",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Zpod kabátu tlumený hlas: „vždyť jsi tu byl právě teď.“"
+ },
+ "a:coach8|p:passenger|x:speaks|2": {
+  "postedit": "Dřímající postava vysloví název tvé stanice, i když jsi ho nikomu neřekl.",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "Dřímající postava vysloví název tvé stanice, i když jsi ho nikomu neřekl."
+ },
+ "a:coach8|p:passenger|x:two|0": {
+  "postedit": "Teď tu spí dva cestující, kde byl jeden.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Teď tu spí dva cestující, kde byl jeden."
+ },
+ "a:coach8|p:passenger|x:two|1": {
+  "postedit": "Tentokrát jsou tu dva kabáty přes obličej, ne jeden.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Tentokrát jsou tu dva kabáty přes obličej, ne jeden."
+ },
+ "a:coach8|p:passenger|x:two|2": {
+  "postedit": "K první spící postavě přibyla druhá.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "K první spící postavě přibyla druhá."
+ },
+ "a:coach8|p:seatnum|v:eight|0": {
+  "postedit": "Nálepky na sedadlech hlásají 8A, 8B, 8C podél celé řady.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Nálepky na sedadlech hlásají 8A, 8B, 8C podél celé řady."
+ },
+ "a:coach8|p:seatnum|v:eight|1": {
+  "postedit": "Sedadla značí drobná mosazná čísla: řada 8, jako vždycky.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Sedadla značí drobná mosazná čísla: řada 8, jako vždycky."
+ },
+ "a:coach8|p:seatnum|v:eight|2": {
+  "postedit": "Panel s číslem vozu u dveří svítí VAGON 8.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Panel s číslem vozu u dveří svítí VAGON 8."
+ },
+ "a:coach8|p:seatnum|x:letters|0": {
+  "postedit": "Nálepky na sedadlech hlásají 8X, 8Y, 8Z, písmena, která sem nepatří.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Nálepky na sedadlech hlásají 8X, 8Y, 8Z, písmena, která sem nepatří."
+ },
+ "a:coach8|p:seatnum|x:letters|1": {
+  "postedit": "Řada je očíslovaná abecedou, kterou nepoznáváš.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Řada je očíslovaná abecedou, kterou nepoznáváš."
+ },
+ "a:coach8|p:seatnum|x:letters|2": {
+  "postedit": "Označení sedadel jsou teď jen symboly, ne čísla.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Označení sedadel jsou teď jen symboly, ne čísla."
+ },
+ "a:coach8|p:seatnum|x:missing|0": {
+  "postedit": "Čísla sedadel byla vypáčena, zůstaly jen holé díry po šroubech.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Čísla sedadel byla vypáčena, zůstaly jen holé díry po šroubech."
+ },
+ "a:coach8|p:seatnum|x:missing|1": {
+  "postedit": "Panel s číslem vozu u dveří je zhaslý a prázdný.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Panel s číslem vozu u dveří je zhaslý a prázdný."
+ },
+ "a:coach8|p:seatnum|x:missing|2": {
+  "postedit": "Tentokrát na sedadlech nejsou vůbec žádná čísla.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Tentokrát na sedadlech nejsou vůbec žádná čísla."
+ },
+ "a:coach8|p:seatnum|x:wrong|0": {
+  "postedit": "Nálepky na sedadlech teď hlásají řadu 7, ne 8.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Nálepky na sedadlech teď hlásají řadu 7, ne 8."
+ },
+ "a:coach8|p:seatnum|x:wrong|1": {
+  "postedit": "Panel s číslem vozu hlásá VAGON 9.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Panel s číslem vozu hlásá VAGON 9."
+ },
+ "a:coach8|p:seatnum|x:wrong|2": {
+  "postedit": "Mosazná čísla říkají řadu 6, byl sis jistý, že je to 8.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Mosazná čísla říkají řadu 6, byl sis jistý, že je to 8."
+ },
+ "a:coach8|p:sense|v:steady|0": {
+  "postedit": "Vlak se zdá přesně tak dlouhý, jako byl vždycky.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Vlak se zdá přesně tak dlouhý, jako byl vždycky."
+ },
+ "a:coach8|p:sense|v:steady|1": {
+  "postedit": "Neseš uličkou tutéž unavenou trpělivost, vagon za vagonem.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Neseš uličkou tutéž unavenou trpělivost, vagon za vagonem."
+ },
+ "a:coach8|p:sense|v:steady|2": {
+  "postedit": "Všechno působí tak všedně, jak má noční vlak působit.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Všechno působí tak všedně, jak má noční vlak působit."
+ },
+ "a:coach8|p:sense|x:calm|0": {
+  "postedit": "Cítíš náhlý, falešný klid, jako bys už dorazil.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Cítíš náhlý, falešný klid, jako bys už dorazil."
+ },
+ "a:coach8|p:sense|x:calm|1": {
+  "postedit": "Zmocňuje se tě zvláštní spokojenost, která sem vůbec nepatří.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Zmocňuje se tě zvláštní spokojenost, která sem vůbec nepatří."
+ },
+ "a:coach8|p:sense|x:calm|2": {
+  "postedit": "Necítíš vůbec žádný spěch, a právě to působí špatně.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Necítíš vůbec žádný spěch, a právě to působí špatně."
+ },
+ "a:coach8|p:sense|x:forget|0": {
+  "postedit": "Na okamžik si nevzpomeneš, kolik vagonů už máš za sebou.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Na okamžik si nevzpomeneš, kolik vagonů už máš za sebou."
+ },
+ "a:coach8|p:sense|x:forget|1": {
+  "postedit": "Ztrácíš počet vozů za sebou a to tě děsí.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Ztrácíš počet vozů za sebou a to tě děsí."
+ },
+ "a:coach8|p:sense|x:forget|2": {
+  "postedit": "Vůbec si nevybavuješ, jak jsi do tohohle vlaku nastupoval.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Vůbec si nevybavuješ, jak jsi do tohohle vlaku nastupoval."
+ },
+ "a:coach8|p:sense|x:watched|0": {
+  "postedit": "Cítíš na sobě pohled, přestože všichni cestující spí.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Cítíš na sobě pohled, přestože všichni cestující spí."
+ },
+ "a:coach8|p:sense|x:watched|1": {
+  "postedit": "Nemůžeš se zbavit jistoty, že někdo stojí za tebou.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Nemůžeš se zbavit jistoty, že někdo stojí za tebou."
+ },
+ "a:coach8|p:sense|x:watched|2": {
+  "postedit": "Zátylek tě brní, jsi si jistý, že už nejsi sám jako předtím.",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "Zátylek tě brní, jsi si jistý, že už nejsi sám jako předtím."
+ },
+ "a:coach8|p:sound|v:rhythm|0": {
+  "postedit": "Koleje pod podlahou tepou svým pravidelným rytmem.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Koleje pod podlahou tepou svým pravidelným rytmem."
+ },
+ "a:coach8|p:sound|v:rhythm|1": {
+  "postedit": "Vlak si hučí dál, kola klapou přes spoje kolejnic.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Vlak si hučí dál, kola klapou přes spoje kolejnic."
+ },
+ "a:coach8|p:sound|v:rhythm|2": {
+  "postedit": "To známé houpání a rachot rozjetého vlaku.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "To známé houpání a rachot rozjetého vlaku."
+ },
+ "a:coach8|p:sound|x:announce|0": {
+  "postedit": "Zazní gong, pak tlumené hlášení, kterému nerozumíš.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Zazní gong, pak tlumené hlášení, kterému nerozumíš."
+ },
+ "a:coach8|p:sound|x:announce|1": {
+  "postedit": "Z reproduktoru zapraská hlas a zase utichne.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Z reproduktoru zapraská hlas a zase utichne."
+ },
+ "a:coach8|p:sound|x:announce|2": {
+  "postedit": "Ozve se hlášení, skoro jako by pozpátku.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Ozve se hlášení, skoro jako by pozpátku."
+ },
+ "a:coach8|p:sound|x:faster|0": {
+  "postedit": "Koleje tepou rychleji, než mají, s rostoucím kvílením.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Koleje tepou rychleji, než mají, s rostoucím kvílením."
+ },
+ "a:coach8|p:sound|x:faster|1": {
+  "postedit": "Vlak zrychluje, rachot stoupá do výšky.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Vlak zrychluje, rachot stoupá do výšky."
+ },
+ "a:coach8|p:sound|x:faster|2": {
+  "postedit": "Všechno drnčí silněji, zrychluješ.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Všechno drnčí silněji, zrychluješ."
+ },
+ "a:coach8|p:sound|x:silence|0": {
+  "postedit": "Kola ztichla. Necítíš vůbec žádný pohyb.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Kola ztichla. Necítíš vůbec žádný pohyb."
+ },
+ "a:coach8|p:sound|x:silence|1": {
+  "postedit": "Zvuk vlaku ustal. Naprostý klid.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Zvuk vlaku ustal. Naprostý klid."
+ },
+ "a:coach8|p:sound|x:silence|2": {
+  "postedit": "Žádný rachot, žádné houpání. Vlak možná vůbec nejede.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Žádný rachot, žádné houpání. Vlak možná vůbec nejede."
+ },
+ "a:coach8|p:sound|x:slowing|0": {
+  "postedit": "Rytmus kolejí se zpomaluje. Zastavuješ?",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Rytmus kolejí se zpomaluje. Zastavuješ?"
+ },
+ "a:coach8|p:sound|x:slowing|1": {
+  "postedit": "Rachot se vleče, jako by vlak ztrácel rychlost.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Rachot se vleče, jako by vlak ztrácel rychlost."
+ },
+ "a:coach8|p:sound|x:slowing|2": {
+  "postedit": "Údery pod podlahou se mezi klapnutími protahují.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Údery pod podlahou se mezi klapnutími protahují."
+ },
+ "a:coach8|p:table|v:coffee|0": {
+  "postedit": "Na sklápěcím stolku u uličky stojí nedopitá káva.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Na sklápěcím stolku u uličky stojí nedopitá káva."
+ },
+ "a:coach8|p:table|v:coffee|1": {
+  "postedit": "Stolek je sklopený, na něm chladne papírový kelímek, jako vždycky.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Stolek je sklopený, na něm chladne papírový kelímek, jako vždycky."
+ },
+ "a:coach8|p:table|v:coffee|2": {
+  "postedit": "Na stolku něčí káva, ze které se ještě slabě kouří.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Na stolku něčí káva, ze které se ještě slabě kouří."
+ },
+ "a:coach8|p:table|x:cold|0": {
+  "postedit": "Káva na stolku vychladla, na hladině se udělal škraloup.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Káva na stolku vychladla, na hladině se udělal škraloup."
+ },
+ "a:coach8|p:table|x:cold|1": {
+  "postedit": "Kelímek je teď úplně studený, dávno opuštěný.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Kelímek je teď úplně studený, dávno opuštěný."
+ },
+ "a:coach8|p:table|x:cold|2": {
+  "postedit": "Káva stojí studená a nehybná, ani stopa páry.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Káva stojí studená a nehybná, ani stopa páry."
+ },
+ "a:coach8|p:table|x:empty|0": {
+  "postedit": "Stolek je prázdný, kelímek s kávou je pryč.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Stolek je prázdný, kelímek s kávou je pryč."
+ },
+ "a:coach8|p:table|x:empty|1": {
+  "postedit": "Na sklápěcím stolku teď nic není.",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "Na sklápěcím stolku teď nic není."
+ },
+ "a:coach8|p:table|x:empty|2": {
+  "postedit": "Tentokrát na stolku žádný kelímek není.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Tentokrát na stolku žádný kelímek není."
+ },
+ "a:coach8|p:table|x:many|0": {
+  "postedit": "Stolek je teď plný kelímků, ne jeden, ale spousta.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Stolek je teď plný kelímků, ne jeden, ale spousta."
+ },
+ "a:coach8|p:table|x:many|1": {
+  "postedit": "Na sklápěcím stolku se tísní několik káv tam, kde byla jedna.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Na sklápěcím stolku se tísní několik káv tam, kde byla jedna."
+ },
+ "a:coach8|p:table|x:many|2": {
+  "postedit": "Stolek je zaneřáděný víc kelímky, než by kdo dokázal vypít.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Stolek je zaneřáděný víc kelímky, než by kdo dokázal vypít."
+ },
+ "a:coach8|p:table|x:spilled|0": {
+  "postedit": "Káva se rozlila, po stolku se rozlévá tmavá skvrna.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Káva se rozlila, po stolku se rozlévá tmavá skvrna."
+ },
+ "a:coach8|p:table|x:spilled|1": {
+  "postedit": "Kelímek je převržený, káva stéká přes okraj stolku.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Kelímek je převržený, káva stéká přes okraj stolku."
+ },
+ "a:coach8|p:table|x:spilled|2": {
+  "postedit": "Káva se rozlévá po stolku a kape na podlahu.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Káva se rozlévá po stolku a kape na podlahu."
+ },
+ "a:coach8|p:window|v:night|0": {
+  "postedit": "Za oknem černá krajina a tvůj vlastní matný odraz.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Za oknem černá krajina a tvůj vlastní matný odraz."
+ },
+ "a:coach8|p:window|v:night|1": {
+  "postedit": "Okno ukazuje jen noc a přízrak vozu.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Okno ukazuje jen noc a přízrak vozu."
+ },
+ "a:coach8|p:window|v:night|2": {
+  "postedit": "Za oknem se míhají tmavá pole, tu a tam rozseté vzdálené světlo.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Za oknem se míhají tmavá pole, tu a tam rozseté vzdálené světlo."
+ },
+ "a:coach8|p:window|x:daylight|0": {
+  "postedit": "Okno září denním světlem. Ještě před chvílí byla noc.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Okno září denním světlem. Ještě před chvílí byla noc."
+ },
+ "a:coach8|p:window|x:daylight|1": {
+  "postedit": "Za sklem je náhle, nemožně, den.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Za sklem je náhle, nemožně, den."
+ },
+ "a:coach8|p:window|x:daylight|2": {
+  "postedit": "Okno zaplňuje sluneční světlo tam, kde byla jen tma.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Okno zaplňuje sluneční světlo tam, kde byla jen tma."
+ },
+ "a:coach8|p:window|x:reflection|0": {
+  "postedit": "Tvůj odraz ve skle se za tebou opožďuje o půl vteřiny.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Tvůj odraz ve skle se za tebou opožďuje o půl vteřiny."
+ },
+ "a:coach8|p:window|x:reflection|1": {
+  "postedit": "Odraz v okně tak úplně neodpovídá vozu.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Odraz v okně tak úplně neodpovídá vozu."
+ },
+ "a:coach8|p:window|x:reflection|2": {
+  "postedit": "V odrazu okna stojí někdo, kdo ve voze není.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "V odrazu okna stojí někdo, kdo ve voze není."
+ },
+ "a:coach8|p:window|x:station|0": {
+  "postedit": "Za oknem klouže osvětlené nástupiště, stanice, bez hlášení.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Za oknem klouže osvětlené nástupiště, stanice, bez hlášení."
+ },
+ "a:coach8|p:window|x:station|1": {
+  "postedit": "Venku míjí nástupiště stanice, prázdné a jasné.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Venku míjí nástupiště stanice, prázdné a jasné."
+ },
+ "a:coach8|p:window|x:station|2": {
+  "postedit": "Za sklem klouže stanice, ani jsi necítil, že vlak zpomalil.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Za sklem klouže stanice, ani jsi necítil, že vlak zpomalil."
+ },
+ "a:coach8|p:window|x:tunnel|0": {
+  "postedit": "Okno je úplně černé, tunel, hučící, bez konce.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Okno je úplně černé, tunel, hučící, bez konce."
+ },
+ "a:coach8|p:window|x:tunnel|1": {
+  "postedit": "Teď jsi v tunelu, sklo ukazuje jen ubíhající tmu.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Teď jsi v tunelu, sklo ukazuje jen ubíhající tmu."
+ },
+ "a:coach8|p:window|x:tunnel|2": {
+  "postedit": "Za oknem ubíhá jen černá stěna tunelu.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Za oknem ubíhá jen černá stěna tunelu."
+ },
+ "a:coach8|progress": {
+  "postedit": "Vagon {level} / {goal}",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "Vagon {level} / {goal}"
+ },
+ "a:coach8|share_prompt": {
+  "postedit": "Podrž dveře.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Podrž dveře."
+ },
+ "a:coach8|tagline": {
+  "postedit": "Průvodčí řekl vagon 8. Zdá se, že se k němu vlak nikdy nedostane.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Průvodčí řekl vagon 8. Zdá se, že se k němu vlak nikdy nedostane."
+ },
+ "a:coach8|title_main": {
+  "postedit": "Vagon 8",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "Vagon 8"
+ },
+ "a:coach8|title|0": {
+  "postedit": "Vagon 8",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "Vagon 8"
+ },
+ "a:coach8|title|1": {
+  "postedit": "Vagon 8",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "Vagon 8"
+ },
+ "a:coach8|title|2": {
+  "postedit": "Vagon 8",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "Vagon 8"
+ },
+ "a:coach8|title|3": {
+  "postedit": "Vagon 8",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "Vagon 8"
+ },
+ "a:coach8|title|4": {
+  "postedit": "Vůz 8",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Vůz 8"
+ },
+ "a:coach8|title|5": {
+  "postedit": "Vagon osm",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Vagon osm"
+ },
+ "a:coach8|title|6": {
+  "postedit": "VAGON 8",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "VAGON 8"
+ },
+ "a:coach8|title|7": {
+  "postedit": "Vagon  8",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "Vagon  8"
+ },
+ "a:coach8|turn_back": {
+  "postedit": "O vagon zpět",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "O vagon zpět"
+ },
+ "a:hallway-eight|act2|end|lobby|0": {
+  "postedit": "Prorazíš osvětlenými dveřmi a čekáš ulici.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Prorazíš osvětlenými dveřmi a čekáš ulici."
+ },
+ "a:hallway-eight|act2|end|lobby|1": {
+  "postedit": "Je to hala, kde jsi začal, sklo pořád zamčené, noc za ním pořád černá.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Je to hala, kde jsi začal, sklo pořád zamčené, noc za ním pořád černá."
+ },
+ "a:hallway-eight|act2|end|lobby|2": {
+  "postedit": "Chodba, kterou jsi prošel, prostě zmizela. Jsi zpátky na začátku budovy, která už nemá cestu ven.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Chodba, kterou jsi prošel, prostě zmizela. Jsi zpátky na začátku budovy, která už nemá cestu ven."
+ },
+ "a:hallway-eight|act2|exit|action": {
+  "postedit": "projít jimi",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "projít jimi"
+ },
+ "a:hallway-eight|act2|exit|tempt": {
+  "postedit": "Dveře před tebou stojí otevřené, nad nimi svítí zelený nápis EXIT. Ulice musí být hned za nimi.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Dveře před tebou stojí otevřené, nad nimi svítí zelený nápis EXIT. Ulice musí být hned za nimi."
+ },
+ "a:hallway-eight|act2|flashback|0": {
+  "postedit": "Pár dveří zpátky ještě svítí stolní lampa. Šálek kávy vychladlý u vlastního kroužku. Hodiny ukazují čas, který hodiny ukázat nemůžou.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Pár dveří zpátky ještě svítí stolní lampa. Šálek kávy vychladlý u vlastního kroužku. Hodiny ukazují čas, který hodiny ukázat nemůžou."
+ },
+ "a:hallway-eight|act2|flashback|1": {
+  "postedit": "V místnosti, ke které jsi ještě nedošel, vibruje telefon. Jméno na displeji je skoro tvoje.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "V místnosti, ke které jsi ještě nedošel, vibruje telefon. Jméno na displeji je skoro tvoje."
+ },
+ "a:hallway-eight|act2|flashback|2": {
+  "postedit": "U šesté jsi měl dveře haly na dosah. Vrátil ses pro něco, co už jsi zapomněl.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "U šesté jsi měl dveře haly na dosah. Vrátil ses pro něco, co už jsi zapomněl."
+ },
+ "a:hallway-eight|act2|flashback|3": {
+  "postedit": "Muž v šedém kdysi dávno podržel požární dveře a podíval se na tebe tak, jak se díváš na někoho, koho se chystáš nechat za sebou.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Muž v šedém kdysi dávno podržel požární dveře a podíval se na tebe tak, jak se díváš na někoho, koho se chystáš nechat za sebou."
+ },
+ "a:hallway-eight|act2|flashback|4": {
+  "postedit": "Už jsi kdysi napočítal do osmi. Skoro jistě. Skoro jistě jsi k té osmičce nikdy nedošel.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Už jsi kdysi napočítal do osmi. Skoro jistě. Skoro jistě jsi k té osmičce nikdy nedošel."
+ },
+ "a:hallway-eight|act2|t:camera|fold|0": {
+  "postedit": "Kamera sleduje tvou ruku zpátky, odkud jsi přišel, a tvé nohy následují kameru, a jsi zase na začátku.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Kamera sleduje tvou ruku zpátky, odkud jsi přišel, a tvé nohy následují kameru, a jsi zase na začátku."
+ },
+ "a:hallway-eight|act2|t:camera|herring|0": {
+  "postedit": "Červené světlo, které si nepamatuješ, jednou blikne. Nejspíš svítilo pořád.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Červené světlo, které si nepamatuješ, jednou blikne. Nejspíš svítilo pořád."
+ },
+ "a:hallway-eight|act2|t:camera|herring|1": {
+  "postedit": "Na vteřinu se objektiv zamlží, jako by na něj někdo dýchl zevnitř.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Na vteřinu se objektiv zamlží, jako by na něj někdo dýchl zevnitř."
+ },
+ "a:hallway-eight|act2|t:camera|reaction|0": {
+  "postedit": "Beze spěchu se otočí a zastaví se na tobě. Nic jiného se nehne.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Beze spěchu se otočí a zastaví se na tobě. Nic jiného se nehne."
+ },
+ "a:hallway-eight|act2|t:camera|reaction|1": {
+  "postedit": "Objektiv se sklopí do úrovně tvých očí a trpělivě tam setrvá.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Objektiv se sklopí do úrovně tvých očí a trpělivě tam setrvá."
+ },
+ "a:hallway-eight|act2|t:camera|verb": {
+  "postedit": "zamávat na kameru",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "zamávat na kameru"
+ },
+ "a:hallway-eight|act2|t:door|fold|0": {
+  "postedit": "Otevřou se na úsek chodby, kterým jsi už prošel. Číslo v tvé hlavě je pryč. Jsi zase na začátku.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Otevřou se na úsek chodby, kterým jsi už prošel. Číslo v tvé hlavě je pryč. Jsi zase na začátku."
+ },
+ "a:hallway-eight|act2|t:door|herring|0": {
+  "postedit": "Kov je teplý, teplejší, než by zamčené dveře měly být. Nejspíš to nic neznamená.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Kov je teplý, teplejší, než by zamčené dveře měly být. Nejspíš to nic neznamená."
+ },
+ "a:hallway-eight|act2|t:door|herring|1": {
+  "postedit": "Pode dveřmi táhne, což tam předtím nebylo. Nebo bylo, a ty sis nikdy nevšiml.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Pode dveřmi táhne, což tam předtím nebylo. Nebo bylo, a ty sis nikdy nevšiml."
+ },
+ "a:hallway-eight|act2|t:door|reaction|0": {
+  "postedit": "Klika se trochu pootočí a zastaví, jako by ji někdo držel z druhé strany.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Klika se trochu pootočí a zastaví, jako by ji někdo držel z druhé strany."
+ },
+ "a:hallway-eight|act2|t:door|reaction|1": {
+  "postedit": "Přiložíš k nim ucho. Něco na druhé straně ztichne, jako ztichne místnost, když vejdeš.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Přiložíš k nim ucho. Něco na druhé straně ztichne, jako ztichne místnost, když vejdeš."
+ },
+ "a:hallway-eight|act2|t:door|verb": {
+  "postedit": "zkusit servisní dveře",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "zkusit servisní dveře"
+ },
+ "a:hallway-eight|act2|t:figure|fold|0": {
+  "postedit": "Konečně se otočí, a je to tvář, kterou znáš až moc dobře, a ten pohled tě vrátí na začátek.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Konečně se otočí, a je to tvář, kterou znáš až moc dobře, a ten pohled tě vrátí na začátek."
+ },
+ "a:hallway-eight|act2|t:figure|herring|0": {
+  "postedit": "Na okamžik jeho oblek vypadá jako tvůj. Šedá je šedá.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Na okamžik jeho oblek vypadá jako tvůj. Šedá je šedá."
+ },
+ "a:hallway-eight|act2|t:figure|herring|1": {
+  "postedit": "Je o něco blíž než ve chvíli, kdy jsi zavolal. Jistě jen tou chůzí.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Je o něco blíž než ve chvíli, kdy jsi zavolal. Jistě jen tou chůzí."
+ },
+ "a:hallway-eight|act2|t:figure|reaction|0": {
+  "postedit": "Tvůj hlas se rozejde chodbou a nevrátí se. Neotočí se.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Tvůj hlas se rozejde chodbou a nevrátí se. Neotočí se."
+ },
+ "a:hallway-eight|act2|t:figure|reaction|1": {
+  "postedit": "Zaváhá, na půl kroku, jako zaváháš u vlastního jména v davu. Pak jde dál.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Zaváhá, na půl kroku, jako zaváháš u vlastního jména v davu. Pak jde dál."
+ },
+ "a:hallway-eight|act2|t:figure|verb": {
+  "postedit": "zavolat na muže v šedém",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "zavolat na muže v šedém"
+ },
+ "a:hallway-eight|act2|t:poster|fold|0": {
+  "postedit": "Nakloníš se blíž, dokud nezbydou jen tečky, a když ustoupíš, chodba se kolem tebe přeskládala.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Nakloníš se blíž, dokud nezbydou jen tečky, a když ustoupíš, chodba se kolem tebe přeskládala."
+ },
+ "a:hallway-eight|act2|t:poster|herring|0": {
+  "postedit": "Inkoust je pořád lepkavý. Čerstvě vytištěno. Nic to neznamená, a ty víš, že to nic neznamená, a přesto ruku ucukneš.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Inkoust je pořád lepkavý. Čerstvě vytištěno. Nic to neznamená, a ty víš, že to nic neznamená, a přesto ruku ucukneš."
+ },
+ "a:hallway-eight|act2|t:poster|herring|1": {
+  "postedit": "Barvy jsou příliš jasné na to, jak vybledle vypadal ještě před chvílí. Klam světla.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Barvy jsou příliš jasné na to, jak vybledle vypadal ještě před chvílí. Klam světla."
+ },
+ "a:hallway-eight|act2|t:poster|reaction|0": {
+  "postedit": "Zblízka je pláž jen tečky inkoustu. Místo, kam ses chystal.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Zblízka je pláž jen tečky inkoustu. Místo, kam ses chystal."
+ },
+ "a:hallway-eight|act2|t:poster|reaction|1": {
+  "postedit": "Roh byl odlepen a přitisknut zpátky tolikrát, že papír změkl.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Roh byl odlepen a přitisknut zpátky tolikrát, že papír změkl."
+ },
+ "a:hallway-eight|act2|t:poster|verb": {
+  "postedit": "prohlédnout si plakát zblízka",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "prohlédnout si plakát zblízka"
+ },
+ "a:hallway-eight|attempt": {
+  "postedit": "{n}krát touhle chodbou, a tentokrát se otevřela.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "{n}krát touhle chodbou, a tentokrát se otevřela."
+ },
+ "a:hallway-eight|attempt_first": {
+  "postedit": "Poprvé skrz, a chodba tě pustila.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Poprvé skrz, a chodba tě pustila."
+ },
+ "a:hallway-eight|framing|cutscene|0": {
+  "postedit": "Něco v chodbě se změnilo a tys prošel dál kolem toho.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Něco v chodbě se změnilo a tys prošel dál kolem toho."
+ },
+ "a:hallway-eight|framing|cutscene|1": {
+  "postedit": "Pokud úsek není přesně takový, jak si ho pamatuješ, otoč se. Pokud je, jdi dál.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Pokud úsek není přesně takový, jak si ho pamatuješ, otoč se. Pokud je, jdi dál."
+ },
+ "a:hallway-eight|share_prompt": {
+  "postedit": "Nech dveře otevřené.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Nech dveře otevřené."
+ },
+ "a:stairway8|act2|end|climb|0": {
+  "postedit": "Vezmeš to zkratkou přes dveře, jistý, že tě vysadí v přízemí.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Vezmeš to zkratkou přes dveře, jistý, že tě vysadí v přízemí."
+ },
+ "a:stairway8|act2|end|climb|1": {
+  "postedit": "Číslo na zdi je vyšší než patro, kde jsi začal.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Číslo na zdi je vyšší než patro, kde jsi začal."
+ },
+ "a:stairway8|act2|end|climb|2": {
+  "postedit": "Rameno dolů se stalo ramenem nahoru a každé dveře odsud se otevírají na schody, které jen stoupají.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Rameno dolů se stalo ramenem nahoru a každé dveře odsud se otevírají na schody, které jen stoupají."
+ },
+ "a:stairway8|act2|exit|action": {
+  "postedit": "vzít to zkratkou",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "vzít to zkratkou"
+ },
+ "a:stairway8|act2|exit|tempt": {
+  "postedit": "Níž visí otevřené dveře na podestě a za nimi schody jako by padaly rovnou na ulici. Zkratka dolů.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Níž visí otevřené dveře na podestě a za nimi schody jako by padaly rovnou na ulici. Zkratka dolů."
+ },
+ "a:stairway8|act2|flashback|0": {
+  "postedit": "Jednou jsi vyjel výtahem nahoru. Pamatuješ si dveře, jak se zavíraly na něčí tvář.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Jednou jsi vyjel výtahem nahoru. Pamatuješ si dveře, jak se zavíraly na něčí tvář."
+ },
+ "a:stairway8|act2|flashback|1": {
+  "postedit": "Bylo tu patro, které jsi měl navštívit. Číslo teď říct nedokážeš, jen to, že se ti nechtělo jít.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Bylo tu patro, které jsi měl navštívit. Číslo teď říct nedokážeš, jen to, že se ti nechtělo jít."
+ },
+ "a:stairway8|act2|flashback|2": {
+  "postedit": "Postava dole ti poprvé zamávala nahoru a ty sis namluvil, že to bylo mířené na někoho jiného.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Postava dole ti poprvé zamávala nahoru a ty sis namluvil, že to bylo mířené na někoho jiného."
+ },
+ "a:stairway8|act2|flashback|3": {
+  "postedit": "Tyhle rýhy jsi už četl. Jedna z nich je počet čárek a přesahuje osm.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Tyhle rýhy jsi už četl. Jedna z nich je počet čárek a přesahuje osm."
+ },
+ "a:stairway8|act2|flashback|4": {
+  "postedit": "Byl sis jistý, že přízemí je na řadě. Jistý sis byl už i předtím.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Byl sis jistý, že přízemí je na řadě. Jistý sis byl už i předtím."
+ },
+ "a:stairway8|act2|t:door|fold|0": {
+  "postedit": "Rozlétnou se na podestu, kterou jsi minul o tři patra výš. Počet je pryč. Jsi zase nahoře.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Rozlétnou se na podestu, kterou jsi minul o tři patra výš. Počet je pryč. Jsi zase nahoře."
+ },
+ "a:stairway8|act2|t:door|herring|0": {
+  "postedit": "Nátěr na nich je lepkavý, čerstvě hotový, přestože cedule vedle nich je stářím zežloutlá.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Nátěr na nich je lepkavý, čerstvě hotový, přestože cedule vedle nich je stářím zežloutlá."
+ },
+ "a:stairway8|act2|t:door|herring|1": {
+  "postedit": "Škvírou stoupá studený průvan, který nenese nic, co bys dokázal pojmenovat.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Škvírou stoupá studený průvan, který nenese nic, co bys dokázal pojmenovat."
+ },
+ "a:stairway8|act2|t:door|reaction|0": {
+  "postedit": "Panel povolí na šířku prstu a zastaví se, drží ho řetěz, který nevidíš.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Panel povolí na šířku prstu a zastaví se, drží ho řetěz, který nevidíš."
+ },
+ "a:stairway8|act2|t:door|reaction|1": {
+  "postedit": "Za nimi, slabě, zvuk téhož schodiště, jak klesá.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Za nimi, slabě, zvuk téhož schodiště, jak klesá."
+ },
+ "a:stairway8|act2|t:door|verb": {
+  "postedit": "zkusit dveře na podestě",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "zkusit dveře na podestě"
+ },
+ "a:stairway8|act2|t:figure|fold|0": {
+  "postedit": "Stoupá ti vstříc, beze spěchu, a když dorazí na tvou podestu, jsi nějak zase nahoře, sám.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Stoupá ti vstříc, beze spěchu, a když dorazí na tvou podestu, jsi nějak zase nahoře, sám."
+ },
+ "a:stairway8|act2|t:figure|herring|0": {
+  "postedit": "Kabát tam dole má barvu tvého. Většina kabátů ji má.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Kabát tam dole má barvu tvého. Většina kabátů ji má."
+ },
+ "a:stairway8|act2|t:figure|herring|1": {
+  "postedit": "Je o podestu blíž než ve chvíli, kdy jsi zavolal. Vždyť jsi šel.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Je o podestu blíž než ve chvíli, kdy jsi zavolal. Vždyť jsi šel."
+ },
+ "a:stairway8|act2|t:figure|reaction|0": {
+  "postedit": "Tvůj hlas se vrátí o kousek pozdě, tvým vlastním tónem.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Tvůj hlas se vrátí o kousek pozdě, tvým vlastním tónem."
+ },
+ "a:stairway8|act2|t:figure|reaction|1": {
+  "postedit": "Hluboko dole se ke zvuku zvedne tvář, nebo její stín.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Hluboko dole se ke zvuku zvedne tvář, nebo její stín."
+ },
+ "a:stairway8|act2|t:figure|verb": {
+  "postedit": "zavolat dolů do schodiště",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "zavolat dolů do schodiště"
+ },
+ "a:stairway8|act2|t:notice|fold|0": {
+  "postedit": "Dočteš až dolů a dole stojí ZAČÁTEK, a je to tak.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Dočteš až dolů a dole stojí ZAČÁTEK, a je to tak."
+ },
+ "a:stairway8|act2|t:notice|herring|0": {
+  "postedit": "Páska, která ji drží, je čerstvá, ještě lesklá. Cedule jako tahle se pořád vyměňují.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Páska, která ji drží, je čerstvá, ještě lesklá. Cedule jako tahle se pořád vyměňují."
+ },
+ "a:stairway8|act2|t:notice|herring|1": {
+  "postedit": "Papír je teplý, jako by právě vyjel ze stroje. Budovy jsou v noci zvláštní.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Papír je teplý, jako by právě vyjel ze stroje. Budovy jsou v noci zvláštní."
+ },
+ "a:stairway8|act2|t:notice|reaction|0": {
+  "postedit": "VÝTAH MIMO PROVOZ, POUŽIJTE SCHODY. Někdo dvakrát tvrdě podtrhl POUŽIJTE.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "VÝTAH MIMO PROVOZ, POUŽIJTE SCHODY. Někdo dvakrát tvrdě podtrhl POUŽIJTE."
+ },
+ "a:stairway8|act2|t:notice|reaction|1": {
+  "postedit": "Pod tiskem někdo tužkou připsal číslo a přeškrtl ho.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Pod tiskem někdo tužkou připsal číslo a přeškrtl ho."
+ },
+ "a:stairway8|act2|t:notice|verb": {
+  "postedit": "přečíst ceduli",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "přečíst ceduli"
+ },
+ "a:stairway8|act2|t:railing|fold|0": {
+  "postedit": "Sleduješ ho očima dolů a tvé nohy následují tvé oči, a zase stoupáš, na začátku.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Sleduješ ho očima dolů a tvé nohy následují tvé oči, a zase stoupáš, na začátku."
+ },
+ "a:stairway8|act2|t:railing|herring|0": {
+  "postedit": "Studené tam, kde jsi ho o podestu výš nechal teplé. Nic to neznamená.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Studené tam, kde jsi ho o podestu výš nechal teplé. Nic to neznamená."
+ },
+ "a:stairway8|act2|t:railing|herring|1": {
+  "postedit": "Má odstín zelené, který si u něj nepamatuješ. Světlo je tady dole špatné.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Má odstín zelené, který si u něj nepamatuješ. Světlo je tady dole špatné."
+ },
+ "a:stairway8|act2|t:railing|reaction|0": {
+  "postedit": "Je studenější než vzduch a slabě vibruje, jako vibruje zábradlí, když ho hluboko dole drží ještě někdo.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Je studenější než vzduch a slabě vibruje, jako vibruje zábradlí, když ho hluboko dole drží ještě někdo."
+ },
+ "a:stairway8|act2|t:railing|reaction|1": {
+  "postedit": "Tvá ruka na něm nezanechá otisk, ačkoli by měla.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Tvá ruka na něm nezanechá otisk, ačkoli by měla."
+ },
+ "a:stairway8|act2|t:railing|verb": {
+  "postedit": "chytit se zábradlí",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "chytit se zábradlí"
+ },
+ "a:stairway8|attempt": {
+  "postedit": "{n}krát po těchhle schodech dolů, a tentokrát tě pustily ven.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "{n}krát po těchhle schodech dolů, a tentokrát tě pustily ven."
+ },
+ "a:stairway8|attempt_first": {
+  "postedit": "První sestup, a schodiště tě ani jednou neobrátilo zpátky.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "První sestup, a schodiště tě ani jednou neobrátilo zpátky."
+ },
+ "a:stairway8|framing|cutscene|0": {
+  "postedit": "Něco na podestě se změnilo a tys sešel dál kolem toho.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Něco na podestě se změnilo a tys sešel dál kolem toho."
+ },
+ "a:stairway8|framing|cutscene|1": {
+  "postedit": "Pokud podesta není přesně taková, jak si ji pamatuješ, vylez zpátky nahoru. Pokud je, sestupuj dál.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Pokud podesta není přesně taková, jak si ji pamatuješ, vylez zpátky nahoru. Pokud je, sestupuj dál."
+ },
+ "a:stairway8|share_prompt": {
+  "postedit": "Nech dveře dole otevřené.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Nech dveře dole otevřené."
+ },
+ "ui|a11y_close": {
+  "postedit": "Zavřít",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Zavřít"
+ },
+ "ui|a11y_settings": {
+  "postedit": "Nastavení zobrazení",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Nastavení zobrazení"
+ },
+ "ui|a11y_sound_off": {
+  "postedit": "Zvuk vypnutý",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Zvuk vypnutý"
+ },
+ "ui|a11y_sound_on": {
+  "postedit": "Zvuk zapnutý",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Zvuk zapnutý"
+ },
+ "ui|ach_d_cold": {
+  "postedit": "Uteč, aniž by ses podíval podruhé.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Uteč, aniž by ses podíval podruhé."
+ },
+ "ui|ach_d_eight_times": {
+  "postedit": "Uteč z jednoho místa osmkrát.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Uteč z jednoho místa osmkrát."
+ },
+ "ui|ach_d_end_coach8": {
+  "postedit": "Najdi druhý konec Coach 8.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Najdi druhý konec Coach 8."
+ },
+ "ui|ach_d_end_hallway-eight": {
+  "postedit": "Najdi druhý konec Hallway 8.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Najdi druhý konec Hallway 8."
+ },
+ "ui|ach_d_end_stairway8": {
+  "postedit": "Najdi druhý konec Stairway 8.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Najdi druhý konec Stairway 8."
+ },
+ "ui|ach_d_flash_coach8": {
+  "postedit": "Spatři každý útržek v Coach 8.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Spatři každý útržek v Coach 8."
+ },
+ "ui|ach_d_flash_hallway-eight": {
+  "postedit": "Spatři každý útržek v Hallway 8.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Spatři každý útržek v Hallway 8."
+ },
+ "ui|ach_d_flash_stairway8": {
+  "postedit": "Spatři každý útržek v Stairway 8.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Spatři každý útržek v Stairway 8."
+ },
+ "ui|ach_d_flawless": {
+  "postedit": "Uteč z místa bez jediného návratu na začátek.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Uteč z místa bez jediného návratu na začátek."
+ },
+ "ui|ach_d_hard_all": {
+  "postedit": "Uteč ze všech tří na těžké.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Uteč ze všech tří na těžké."
+ },
+ "ui|ach_d_hard_coach8": {
+  "postedit": "Uteč z Coach 8 na těžké.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Uteč z Coach 8 na těžké."
+ },
+ "ui|ach_d_hard_hallway-eight": {
+  "postedit": "Uteč z Hallway 8 na těžké.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Uteč z Hallway 8 na těžké."
+ },
+ "ui|ach_d_hard_stairway8": {
+  "postedit": "Uteč ze Stairway 8 na těžké.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Uteč ze Stairway 8 na těžké."
+ },
+ "ui|ach_d_insane_all": {
+  "postedit": "Uteč ze všech tří na šílené.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Uteč ze všech tří na šílené."
+ },
+ "ui|ach_d_insane_coach8": {
+  "postedit": "Uteč z Coach 8 na šílené.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Uteč z Coach 8 na šílené."
+ },
+ "ui|ach_d_insane_hallway-eight": {
+  "postedit": "Uteč z Hallway 8 na šílené.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Uteč z Hallway 8 na šílené."
+ },
+ "ui|ach_d_insane_stairway8": {
+  "postedit": "Uteč ze Stairway 8 na šílené.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Uteč ze Stairway 8 na šílené."
+ },
+ "ui|ach_d_melon": {
+  "postedit": "Díky, že u nás držíš světla rozsvícená. Za nás všechny z Melon Labs.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Díky, že u nás držíš světla rozsvícená. Za nás všechny z Melon Labs."
+ },
+ "ui|ach_d_nerve": {
+  "postedit": "Otoč se u posledních dveří, a měj pravdu.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Otoč se u posledních dveří, a měj pravdu."
+ },
+ "ui|ach_d_npc_knows": {
+  "postedit": "Nech se poznat tím, kdo je vždycky vepředu.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Nech se poznat tím, kdo je vždycky vepředu."
+ },
+ "ui|ach_d_opening_night": {
+  "postedit": "Hraj v den, kdy hra vyšla.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Hraj v den, kdy hra vyšla."
+ },
+ "ui|ach_d_out_all": {
+  "postedit": "Uteč ze všech tří míst.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Uteč ze všech tří míst."
+ },
+ "ui|ach_d_out_coach8": {
+  "postedit": "Vystup z vlaku.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Vystup z vlaku."
+ },
+ "ui|ach_d_out_hallway-eight": {
+  "postedit": "Uteč z chodby.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Uteč z chodby."
+ },
+ "ui|ach_d_out_stairway8": {
+  "postedit": "Dojdi do přízemí.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Dojdi do přízemí."
+ },
+ "ui|ach_d_shared": {
+  "postedit": "Pošli tohle místo někomu dalšímu.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Pošli tohle místo někomu dalšímu."
+ },
+ "ui|ach_d_steady": {
+  "postedit": "Uteč bez jediného hádání.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Uteč bez jediného hádání."
+ },
+ "ui|ach_d_streak": {
+  "postedit": "Tři čisté útěky za sebou.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Tři čisté útěky za sebou."
+ },
+ "ui|ach_d_total_recall": {
+  "postedit": "Spatři úplně každý útržek, všude.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Spatři úplně každý útržek, všude."
+ },
+ "ui|ach_empty": {
+  "postedit": "Zatím nic. Uteč z nějakého místa a začni.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Zatím nic. Uteč z nějakého místa a začni."
+ },
+ "ui|ach_flash": {
+  "postedit": "Vzpomínky",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Vzpomínky"
+ },
+ "ui|ach_load": {
+  "postedit": "Načíst",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Načíst"
+ },
+ "ui|ach_locked": {
+  "postedit": "Zamčeno",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Zamčeno"
+ },
+ "ui|ach_n_cold": {
+  "postedit": "Za studena",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Za studena"
+ },
+ "ui|ach_n_eight_times": {
+  "postedit": "Osmkrát skrz",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Osmkrát skrz"
+ },
+ "ui|ach_n_end_coach8": {
+  "postedit": "Nástupiště, které není tvoje",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Nástupiště, které není tvoje"
+ },
+ "ui|ach_n_end_hallway-eight": {
+  "postedit": "Hala, která se neotevře",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Hala, která se neotevře"
+ },
+ "ui|ach_n_end_stairway8": {
+  "postedit": "Schody, které jen stoupají",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Schody, které jen stoupají"
+ },
+ "ui|ach_n_flash_coach8": {
+  "postedit": "Vagon, zapamatovaný",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Vagon, zapamatovaný"
+ },
+ "ui|ach_n_flash_hallway-eight": {
+  "postedit": "Chodba, zapamatovaná",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Chodba, zapamatovaná"
+ },
+ "ui|ach_n_flash_stairway8": {
+  "postedit": "Schodiště, zapamatované",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Schodiště, zapamatované"
+ },
+ "ui|ach_n_flawless": {
+  "postedit": "Bez chyby",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Bez chyby"
+ },
+ "ui|ach_n_hard_all": {
+  "postedit": "Nikde nezůstalo měkko",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Nikde nezůstalo měkko"
+ },
+ "ui|ach_n_hard_coach8": {
+  "postedit": "Vagon, tvrději",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Vagon, tvrději"
+ },
+ "ui|ach_n_hard_hallway-eight": {
+  "postedit": "Chodba, tvrději",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Chodba, tvrději"
+ },
+ "ui|ach_n_hard_stairway8": {
+  "postedit": "Schodiště, tvrději",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Schodiště, tvrději"
+ },
+ "ui|ach_n_insane_all": {
+  "postedit": "Nevěř ničemu",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Nevěř ničemu"
+ },
+ "ui|ach_n_insane_coach8": {
+  "postedit": "Vagon, rozvrácený",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Vagon, rozvrácený"
+ },
+ "ui|ach_n_insane_hallway-eight": {
+  "postedit": "Chodba, rozvrácená",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Chodba, rozvrácená"
+ },
+ "ui|ach_n_insane_stairway8": {
+  "postedit": "Schodiště, rozvrácené",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Schodiště, rozvrácené"
+ },
+ "ui|ach_n_melon": {
+  "postedit": "Melounový podporovatel",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Melounový podporovatel"
+ },
+ "ui|ach_n_nerve": {
+  "postedit": "Kuráž",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Kuráž"
+ },
+ "ui|ach_n_npc_knows": {
+  "postedit": "Zná tě",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Zná tě"
+ },
+ "ui|ach_n_opening_night": {
+  "postedit": "Premiéra",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Premiéra"
+ },
+ "ui|ach_n_out_all": {
+  "postedit": "Až úplně ven",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Až úplně ven"
+ },
+ "ui|ach_n_out_coach8": {
+  "postedit": "Ven z Coach 8",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Ven z Coach 8"
+ },
+ "ui|ach_n_out_hallway-eight": {
+  "postedit": "Ven z Hallway 8",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Ven z Hallway 8"
+ },
+ "ui|ach_n_out_stairway8": {
+  "postedit": "Ven ze Stairway 8",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Ven ze Stairway 8"
+ },
+ "ui|ach_n_shared": {
+  "postedit": "Předáno dál",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Předáno dál"
+ },
+ "ui|ach_n_steady": {
+  "postedit": "Klidná ruka",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Klidná ruka"
+ },
+ "ui|ach_n_streak": {
+  "postedit": "V sérii",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "V sérii"
+ },
+ "ui|ach_n_total_recall": {
+  "postedit": "Dokonalá paměť",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Dokonalá paměť"
+ },
+ "ui|ach_open": {
+  "postedit": "Úspěchy",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Úspěchy"
+ },
+ "ui|ach_progress": {
+  "postedit": "{n} z {total} odemčeno",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "{n} z {total} odemčeno"
+ },
+ "ui|ach_save": {
+  "postedit": "Uložit",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Uložit"
+ },
+ "ui|ach_section": {
+  "postedit": "Úspěchy",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Úspěchy"
+ },
+ "ui|again": {
+  "postedit": "Projít to znovu",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Projít to znovu"
+ },
+ "ui|age_normal": {
+  "postedit": "Normální",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Normální"
+ },
+ "ui|age_simple": {
+  "postedit": "Jednoduché",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Jednoduché"
+ },
+ "ui|back": {
+  "postedit": "Zpět",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "Zpět"
+ },
+ "ui|begin": {
+  "postedit": "Začít",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "Začít"
+ },
+ "ui|change": {
+  "postedit": "Změnit scénář",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "Změnit scénář"
+ },
+ "ui|col_recall": {
+  "postedit": "Vybavit si tento útržek",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Vybavit si tento útržek"
+ },
+ "ui|col_recall_empty": {
+  "postedit": "Útržek, který jsi viděl, jeho slova už blednou.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Útržek, který jsi viděl, jeho slova už blednou."
+ },
+ "ui|col_section": {
+  "postedit": "Střípky vzpomínek",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Střípky vzpomínek"
+ },
+ "ui|conf_1": {
+  "postedit": "Jen hádám",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Jen hádám"
+ },
+ "ui|conf_2": {
+  "postedit": "Myslím, že ano",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Myslím, že ano"
+ },
+ "ui|conf_3": {
+  "postedit": "Skoro jistě",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Skoro jistě"
+ },
+ "ui|conf_4": {
+  "postedit": "Určitě",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "Určitě"
+ },
+ "ui|conf_q": {
+  "postedit": "Jak jsi si jistý?",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Jak jsi si jistý?"
+ },
+ "ui|diff_easy": {
+  "postedit": "Lehká",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Lehká"
+ },
+ "ui|diff_hard": {
+  "postedit": "Těžká",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Těžká"
+ },
+ "ui|diff_hint_hard": {
+  "postedit": "Těžká přidává nové druhy změn.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Těžká přidává nové druhy změn."
+ },
+ "ui|diff_hint_insane": {
+  "postedit": "Šílená pokaždé znovu určuje, co je normální.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Šílená pokaždé znovu určuje, co je normální."
+ },
+ "ui|diff_hint_locked": {
+  "postedit": "Uteč jednou a odemkneš Těžkou.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Uteč jednou a odemkneš Těžkou."
+ },
+ "ui|diff_insane": {
+  "postedit": "Šílená",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Šílená"
+ },
+ "ui|diff_normal": {
+  "postedit": "Normální",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Normální"
+ },
+ "ui|end_credits": {
+  "postedit": "Závěrečné titulky",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Závěrečné titulky"
+ },
+ "ui|ending_back": {
+  "postedit": "Zpátky na začátek",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Zpátky na začátek"
+ },
+ "ui|erase": {
+  "postedit": "Vymazat",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Vymazat"
+ },
+ "ui|erase_body": {
+  "postedit": "Zmizí všechno, co si o tobě tohle místo pamatuje: útržky, které sis vybavil, značky, které sis vysloužil, každý pokus. Tohle nelze vzít zpět.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Zmizí všechno, co si o tobě tohle místo pamatuje: útržky, které sis vybavil, značky, které sis vysloužil, každý pokus. Tohle nelze vzít zpět."
+ },
+ "ui|erase_cancel": {
+  "postedit": "Ponechat",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Ponechat"
+ },
+ "ui|erase_title": {
+  "postedit": "Vymazat tvou paměť?",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Vymazat tvou paměť?"
+ },
+ "ui|fold_1": {
+  "postedit": "To jsi byl ty. Sáhl jsi po něčem na tom místě a ono ti složilo cestu zpátky.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "To jsi byl ty. Sáhl jsi po něčem na tom místě a ono ti složilo cestu zpátky."
+ },
+ "ui|fold_2": {
+  "postedit": "Dotýkat se toho, co najdeš, není nikdy nutné. Prohlédni si to, chceš-li, ale špatný dotek tě může poslat sem.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Dotýkat se toho, co najdeš, není nikdy nutné. Prohlédni si to, chceš-li, ale špatný dotek tě může poslat sem."
+ },
+ "ui|fold_hide": {
+  "postedit": "Příště nezobrazovat.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Příště nezobrazovat."
+ },
+ "ui|fold_title": {
+  "postedit": "Zpátky na začátek.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Zpátky na začátek."
+ },
+ "ui|furthest": {
+  "postedit": "nejdál {n}",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "nejdál {n}"
+ },
+ "ui|give_up": {
+  "postedit": "Vzdát to · zpátky na začátek",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Vzdát to · zpátky na začátek"
+ },
+ "ui|hesitate_1": {
+  "postedit": "Zaváháš. Podívej se znovu.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Zaváháš. Podívej se znovu."
+ },
+ "ui|hesitate_2": {
+  "postedit": "Nejsi si jistý. Podíváš se ještě jednou.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Nejsi si jistý. Podíváš se ještě jednou."
+ },
+ "ui|hesitate_3": {
+  "postedit": "Pochybnost tě zastaví. Přečti to ještě jednou.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Pochybnost tě zastaví. Přečti to ještě jednou."
+ },
+ "ui|hesitate_4": {
+  "postedit": "Zadržíš se a necháš oči znovu přejet přes to.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Zadržíš se a necháš oči znovu přejet přes to."
+ },
+ "ui|instructions": {
+  "postedit": "Návod",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Návod"
+ },
+ "ui|language": {
+  "postedit": "Jazyk",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "Jazyk"
+ },
+ "ui|look_back": {
+  "postedit": "Ohlédni se.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Ohlédni se."
+ },
+ "ui|mem_title": {
+  "postedit": "Paměť",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Paměť"
+ },
+ "ui|nudge_arcs": {
+  "postedit": "Dvě další místa se také jmenují 8.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Dvě další místa se také jmenují 8."
+ },
+ "ui|nudge_eight": {
+  "postedit": "Osm útěků z jednoho místa je jiný druh pamatování.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Osm útěků z jednoho místa je jiný druh pamatování."
+ },
+ "ui|nudge_frags": {
+  "postedit": "Je tu {n} vzpomínek, které jsi ještě neviděl.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Je tu {n} vzpomínek, které jsi ještě neviděl."
+ },
+ "ui|promo_bad": {
+  "postedit": "Tenhle kód tady nic nedělá.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Tenhle kód tady nic nedělá."
+ },
+ "ui|promo_go": {
+  "postedit": "Uplatnit",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Uplatnit"
+ },
+ "ui|promo_have": {
+  "postedit": "Už uplatněno.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Už uplatněno."
+ },
+ "ui|promo_hint": {
+  "postedit": "Kód",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Kód"
+ },
+ "ui|promo_ok": {
+  "postedit": "Odemčeno.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Odemčeno."
+ },
+ "ui|read_cold": {
+  "postedit": "Prošel jsi to, aniž by ses podíval podruhé.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Prošel jsi to, aniž by ses podíval podruhé."
+ },
+ "ui|read_nerve": {
+  "postedit": "Otočil ses u úplně posledních dveří, a měl jsi pravdu.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Otočil ses u úplně posledních dveří, a měl jsi pravdu."
+ },
+ "ui|read_steady": {
+  "postedit": "Ani jednou jsi to nenazval hádáním.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Ani jednou jsi to nenazval hádáním."
+ },
+ "ui|rec_cold": {
+  "postedit": "Únik bez druhého pohledu.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Únik bez druhého pohledu."
+ },
+ "ui|rec_nerve": {
+  "postedit": "Otočka u posledních dveří, a správně.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Otočka u posledních dveří, a správně."
+ },
+ "ui|rec_section": {
+  "postedit": "Rekordy",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Rekordy"
+ },
+ "ui|rec_steady": {
+  "postedit": "Únik bez jediného hádání.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Únik bez jediného hádání."
+ },
+ "ui|rec_streak": {
+  "postedit": "Čisté útěky za sebou: {n}",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Čisté útěky za sebou: {n}"
+ },
+ "ui|rules_plain": {
+  "postedit": "Něco se změnilo? Vrať se. Nic se nezměnilo? Jdi dál. Osmkrát za sebou a jsi venku.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Něco se změnilo? Vrať se. Nic se nezměnilo? Jdi dál. Osmkrát za sebou a jsi venku."
+ },
+ "ui|select_lead_1": {
+  "postedit": "Místo, které tak úplně nedokážeš opustit.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Místo, které tak úplně nedokážeš opustit."
+ },
+ "ui|select_lead_2": {
+  "postedit": "Vyber si cestu skrz.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Vyber si cestu skrz."
+ },
+ "ui|set_age": {
+  "postedit": "Čtení",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Čtení"
+ },
+ "ui|set_bright": {
+  "postedit": "Jas",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Jas"
+ },
+ "ui|set_diff": {
+  "postedit": "Obtížnost",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Obtížnost"
+ },
+ "ui|set_done": {
+  "postedit": "Hotovo",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Hotovo"
+ },
+ "ui|set_motion": {
+  "postedit": "Omezit pohyb",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Omezit pohyb"
+ },
+ "ui|set_text": {
+  "postedit": "Velikost textu",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Velikost textu"
+ },
+ "ui|settings_title": {
+  "postedit": "Zobrazení",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Zobrazení"
+ },
+ "ui|share_1": {
+  "postedit": "Je jedno místo, které tak úplně nejde opustit. Já odešel. Teď jsi na řadě ty.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Je jedno místo, které tak úplně nejde opustit. Já odešel. Teď jsi na řadě ty."
+ },
+ "ui|share_2": {
+  "postedit": "Kdesi, odkud tak úplně nejde odejít, někdo našel dveře. Přijď najít ty svoje.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Kdesi, odkud tak úplně nejde odejít, někdo našel dveře. Přijď najít ty svoje."
+ },
+ "ui|share_3": {
+  "postedit": "Osm příležitostí o sobě zapochybovat. Já věřil těm správným. Teď ty.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Osm příležitostí o sobě zapochybovat. Já věřil těm správným. Teď ty."
+ },
+ "ui|share_4": {
+  "postedit": "Teď už znám cestu ven. Neřeknu ti kudy. Přijď se podívat.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Teď už znám cestu ven. Neřeknu ti kudy. Přijď se podívat."
+ },
+ "ui|share_5": {
+  "postedit": "Tiché místo, osm malých pochybností, jedna cesta skrz. Já ji našel. Zvládneš to i ty?",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Tiché místo, osm malých pochybností, jedna cesta skrz. Já ji našel. Zvládneš to i ty?"
+ },
+ "ui|share_6": {
+  "postedit": "Prošel jsem to osmkrát a věřil tomu, co si pamatuju. Zkus, jestli to dokážeš.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Prošel jsem to osmkrát a věřil tomu, co si pamatuju. Zkus, jestli to dokážeš."
+ },
+ "ui|share_7": {
+  "postedit": "Cesta ven závisí na tom, co si pamatuješ. Já si vzpomněl. Teď to zkus ty.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Cesta ven závisí na tom, co si pamatuješ. Já si vzpomněl. Teď to zkus ty."
+ },
+ "ui|share_8": {
+  "postedit": "Mezi mnou a studeným vzduchem stálo osm dveří. Otevřel jsem každé. Jsi na řadě.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Mezi mnou a studeným vzduchem stálo osm dveří. Otevřel jsem každé. Jsi na řadě."
+ },
+ "ui|share_copied": {
+  "postedit": "Odkaz zkopírován",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Odkaz zkopírován"
+ },
+ "ui|share_copy": {
+  "postedit": "Kopírovat odkaz",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Kopírovat odkaz"
+ },
+ "ui|share_native": {
+  "postedit": "Sdílet",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Sdílet"
+ },
+ "ui|view_credits": {
+  "postedit": "Zobrazit titulky",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Zobrazit titulky"
+ }
 }

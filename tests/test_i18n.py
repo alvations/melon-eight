@@ -83,6 +83,22 @@ def test_hidden_locales_are_translated_but_not_exposed():
         assert loc not in offered, f"{loc} must stay hidden"
 
 
+def test_all_locales_are_fully_translated():
+    # Completeness invariant: EVERY locale (exposed or hidden) must carry every
+    # non-empty content key that en_US has, actually translated (non-empty) and
+    # never left with an em-dash. Exposure is a separate allowlist; being hidden
+    # is not a licence to be half-translated. Guards against a repeat of the gap
+    # where the 13 hidden locales had only the core loop prose.
+    en = _compiled(i18n.SOURCE_LOCALE)
+    content_keys = [k for k, v in en.items() if v.strip()]
+    for loc in i18n.LOCALE_CODES:
+        cat = _compiled(loc)
+        missing = [k for k in content_keys if not cat.get(k, "").strip()]
+        assert not missing, f"{loc} missing {len(missing)} content keys, e.g. {missing[:5]}"
+        dashes = [k for k, v in cat.items() if "—" in v]
+        assert not dashes, f"{loc} has em-dashes in {dashes[:5]}"
+
+
 # --- UI-string coverage ----------------------------------------------------
 
 def test_every_ui_string_compiled_for_every_exposed_locale():

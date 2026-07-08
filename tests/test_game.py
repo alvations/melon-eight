@@ -10,6 +10,7 @@ Covers the arc-selection regression (state must survive with NO cookies, as in a
 cross-site iframe), random-walk invariants, the difficulty ramp, and win paths.
 """
 
+import json
 import os
 import random
 import sys
@@ -488,16 +489,21 @@ def test_existing_modes_never_touch_the_insane_baseline():
                             (arc, diff, p)
 
 
+def _insane_varying_prop(h):
+    """A property whose baseline-SAFE pool has >1 value, so insane still
+    randomizes its baseline (some properties fairly collapse to their calm
+    value; the anti-bot property lives in the ones that don't)."""
+    return next(p for p, s in h.properties.items()
+                if len(Hallway._insane_baseline_keys(s, p, h.npc_prop)) > 1)
+
+
 def test_insane_randomizes_baseline_per_run():
-    # Across runs, a property's run-baseline actually varies and is drawn from its
-    # full value set (baseline pools + anomaly pools), not pinned to the global
-    # baseline. Otherwise insane would collapse back into normal.
+    # Across runs, a property's run-baseline actually varies (drawn from its
+    # baseline-safe pool), or insane would collapse back into normal.
     for arc in ARC_IDS:
         h = Hallway(arc)
-        # a property with more than one possible value, to make the test meaningful
-        prop = next(p for p, s in h.properties.items()
-                    if len(Hallway._value_keys(s)) > 1)
-        full = set(Hallway._value_keys(h.properties[prop]))
+        prop = _insane_varying_prop(h)
+        safe = set(Hallway._insane_baseline_keys(h.properties[prop], prop, h.npc_prop))
         seen = set()
         for seed in range(60):
             mem = PlayerMemory(level=0)
@@ -506,7 +512,7 @@ def test_insane_randomizes_baseline_per_run():
             assert set(mem.run_baseline) == set(h.properties), (arc, "baseline gaps")
             seen.add(mem.run_baseline[prop])
         assert len(seen) > 1, (arc, prop, "run-baseline never varied")
-        assert seen <= full and not (seen - full)
+        assert seen <= safe and not (seen - safe)
 
 
 def test_insane_clean_vocabulary_is_not_the_fixed_baseline_set():
@@ -516,8 +522,12 @@ def test_insane_clean_vocabulary_is_not_the_fixed_baseline_set():
     # So a dictionary of "normal-mode clean wording" cannot classify insane loops.
     for arc in ARC_IDS:
         h = Hallway(arc)
-        prop = next(p for p, s in h.properties.items()
-                    if s.get("anomalies") and len(Hallway._value_keys(s)) > 1)
+        # a property whose baseline-safe pool includes a value that is an anomaly
+        # in normal mode (so insane's clean vocabulary genuinely exceeds normal's).
+        prop = next(
+            p for p, s in h.properties.items()
+            if set(Hallway._insane_baseline_keys(s, p, h.npc_prop))
+            & set(s.get("anomalies", {})))
         anomaly_values = set(h.properties[prop]["anomalies"])
         insane_clean_vals = set()
         # Drive many insane runs; on a loop where `prop` is shown and unchanged,
@@ -555,11 +565,16 @@ def test_insane_anomaly_always_differs_from_the_run_baseline():
             for lvl in range(8):
                 mem.level = lvl
                 room = h.build(mem, random.Random(seed * 13 + lvl), None, "insane")
-                for p in room["_anomaly_props"]:
-                    if p is None:
-                        continue
+                # _anomaly_val is the PRIMARY change's value, so it is only
+                # comparable to the primary prop's baseline. (A double change's
+                # second prop can share a value key with the primary, e.g. both
+                # "steady" for lighting/sense, which is not a bug.) The second
+                # prop's value != its baseline is guaranteed by construction:
+                # pick_anomaly(baseline_of=run_baseline) never returns the baseline.
+                p = room["_anomaly_prop"]
+                if p is not None:
                     assert room["_anomaly_val"] != mem.run_baseline.get(p), \
-                        (arc, p, "change equals the run baseline")
+                        (arc, p, "primary change equals the run baseline")
                     checked += 1
         assert checked > 0, (arc, "no insane anomaly ever fired to check")
 
@@ -586,6 +601,55 @@ def test_insane_anomaly_only_on_a_property_seen_at_baseline_this_run():
                         (arc, seed, lvl, p, "changed a prop not yet seen this run")
 
 
+def test_insane_is_strictly_harder_than_hard():
+    # Insane must be the hardest tier: a higher anomaly ramp than hard at every
+    # level past the opening, a higher cap, AND it inherits hard's escalations
+    # (aggro holds) on top of its randomized baseline.
+    from hallway import anomaly_chance
+    for lvl in range(1, 8):
+        assert anomaly_chance(lvl, "insane") >= anomaly_chance(lvl, "hard"), lvl
+    assert anomaly_chance(7, "insane") > anomaly_chance(7, "hard"), "insane cap must exceed hard"
+    # Insane holds aggro items like hard does (memory pressure), across arcs.
+    for arc in ARC_IDS:
+        h = Hallway(arc)
+        if not h.meta.get("late_props"):
+            continue
+        held_runs = 0
+        for seed in range(40):
+            mem = PlayerMemory(level=0)
+            h.build(mem, random.Random(seed), None, "insane")
+            if mem.held:
+                held_runs += 1
+        assert held_runs > 0, (arc, "insane never held an aggro item")
+
+
+def test_insane_baseline_never_reads_as_a_change():
+    # Option-2 fairness fix: an insane run-baseline must never be a value whose
+    # prose announces a change or references the player's memory (which would make
+    # a clean loop read as wrong and a fair turn-back reset the player), nor the
+    # NPC's acknowledgement. Every property still keeps its calm value as a safe
+    # baseline, so the pool is never empty.
+    from hallway import _INSANE_BASELINE_UNSAFE, _NPC_ACK_VALUES
+    for arc in ARC_IDS:
+        h = Hallway(arc)
+        for prop, spec in h.properties.items():
+            keys = Hallway._insane_baseline_keys(spec, prop, h.npc_prop)
+            assert keys, (arc, prop, "insane baseline pool empty")
+            # the calm value(s) must always be allowed
+            for calm in spec.get("values", {}):
+                assert calm in keys, (arc, prop, calm, "calm value dropped")
+            for val in keys:
+                if val in spec.get("values", {}):
+                    continue
+                # every allowed anomaly baseline reads as a plain state
+                assert not (prop == h.npc_prop and val in _NPC_ACK_VALUES), \
+                    (arc, prop, val, "NPC acknowledgement used as baseline")
+                pool = spec["anomalies"][val]
+                bad = [m for s in pool for m in _INSANE_BASELINE_UNSAFE
+                       if m in s.lower()]
+                assert not bad, (arc, prop, val, "change/memory prose as baseline", bad[:2])
+
+
 def test_insane_payload_still_hides_the_answer():
     # Insane must not leak: the public room drops every underscore key, and the
     # run baseline lives only in server memory, never in the payload.
@@ -598,6 +662,40 @@ def test_insane_payload_still_hides_the_answer():
     pub = h.public(room)
     assert not any(k.startswith("_") for k in pub)
     assert "run_baseline" not in pub
+
+
+# --- sign drift fairness ----------------------------------------------------
+
+_ARROWS = set("→←⇢⇠↔⟶⟵➜⭢⭠▶◀")  # → ← ⇢ ⇠ ↔ ⟶ ⟵ ➜ ⭢ ⭠ ▶ ◀
+
+
+def test_sign_drift_never_swaps_the_arrow_glyph():
+    # The {SIGN} drift is a RED HERRING: it must vary only spacing/case, never the
+    # arrow glyph. Arrow changes are a real anomaly (the sign's "reversed" value),
+    # so a clean-loop arrow swap makes a fair turn-back reset the player "wrongly."
+    # Regression: "EXIT ⇢" used to sit in hallway's drift pool.
+    root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    for arc in ARC_IDS:
+        data = json.load(open(os.path.join(root, "data", "arcs", f"{arc}.json"),
+                              encoding="utf-8"))
+        variants = data.get("sign_variants", []) or []
+        drift_arrows = {ch for v in variants for ch in v if ch in _ARROWS}
+        # The drift may use at most ONE arrow glyph (the stable baseline one).
+        assert len(drift_arrows) <= 1, \
+            (arc, "sign drift uses more than one arrow glyph", drift_arrows)
+        # That drift arrow must never also be an arrow an anomaly uses (the change).
+        anomaly_arrows = set()
+        for spec in data["properties"].values():
+            uses_sign = any("{SIGN}" in s
+                            for pool in spec.get("values", {}).values() for s in pool)
+            if not uses_sign:
+                continue
+            for pool in spec.get("anomalies", {}).values():
+                for s in pool:
+                    anomaly_arrows |= {ch for ch in s if ch in _ARROWS}
+        assert not (drift_arrows & anomaly_arrows), \
+            (arc, "a drift arrow collides with an anomaly arrow",
+             drift_arrows & anomaly_arrows)
 
 
 # --- plain runner (no pytest needed) ---------------------------------------

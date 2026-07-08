@@ -61,11 +61,37 @@ ANOMALY_MAX = 0.55    # never so high that "always turn back" wins
 DIFFICULTIES = ("easy", "normal", "hard", "insane")
 EXPOSED_DIFFICULTIES = ("easy", "normal", "hard")
 DEFAULT_DIFFICULTY = "normal"
+
+# The NPC's loop-aware acknowledgement values (the twist): a narrative climax, not
+# a resting state, so never an insane baseline.
+_NPC_ACK_VALUES = ("knows", "speaks")
+# Prose markers that make an anomaly value unfit as an insane BASELINE: it would
+# announce a change (or reference the player's memory / a prior state) while being
+# shown as this run's calm normal. Matched case-insensitively against every
+# sentence of the value's pool. Lean toward over-excluding: a borderline value
+# just falls back to the calm baseline, which is always safe.
+_INSANE_BASELINE_UNSAFE = (
+    "remember", " now", "now,", "no longer", "used to", "a moment ago", "moment ago",
+    "than you", "than it", "than they", "than he", "than before", "than the", "never",
+    " was ", " were ", "has stopped", "has gone", "has moved", "has reversed",
+    "has turned", "has appeared", "has spilled", "have gone", "have been",
+    "have moved", "been prised", "not the", "not a ", "not 8", "not one",
+    "where there", "wrong way", "unannounced", "behind you", "again?", "don't belong",
+    "don't remember", "climbing now", "coming up", "should ", "should be",
+    "different colour", "wasn't there", "gone cold", "gone silent", "gone black",
+    "gone out", "stopped", "moved to", "awake now", "empty now", "much closer",
+    "prised off", "up full", "faster than", "slowing", "raised a hand",
+    "lifts a hand", "looks up", "waiting for you", "turned", "is gone", "is missing",
+    "half-second",
+)
 _DIFF = {
     "easy":   {"base": 0.01, "step": 0.042, "max": 0.30, "floor": 0.0},
     "normal": {"base": ANOMALY_BASE, "step": ANOMALY_STEP, "max": ANOMALY_MAX, "floor": 0.0},
     "hard":   {"base": 0.03, "step": 0.081, "max": 0.60, "floor": 0.0},
-    "insane": {"base": 0.03, "step": 0.085, "max": 0.62, "floor": 0.0},
+    # Insane is strictly the hardest: a clearly higher anomaly ramp than hard, AND
+    # it inherits every hard escalation (aggro holds, cross-loop persist/revert,
+    # the deep double-change) on top of its per-run randomized baseline.
+    "insane": {"base": 0.03, "step": 0.092, "max": 0.66, "floor": 0.0},
 }
 
 
@@ -186,8 +212,31 @@ class Hallway:
     @staticmethod
     def _value_keys(spec: dict) -> List[str]:
         """Every value a property can take: its baseline value pools plus its
-        anomaly value pools. Used by 'insane' to pick a per-run baseline."""
+        anomaly value pools. Used to enumerate the full value set."""
         return list(spec.get("values", {})) + list(spec.get("anomalies", {}))
+
+    @staticmethod
+    def _insane_baseline_keys(spec: dict, prop: str, npc_prop: Optional[str]) -> List[str]:
+        """The values 'insane' may use as this run's baseline for a property.
+
+        Insane randomizes the baseline from the full value set, but an anomaly
+        value whose prose ANNOUNCES a change (or the NPC's acknowledgement) reads
+        as wrong when shown as a calm baseline: "the arrow has reversed" on a clean
+        loop, then a fair turn-back gets reset. So the baseline pool is the calm
+        `values` (always safe) plus only those anomaly values whose every sentence
+        reads as a plain state (no memory/change/comparison marker), and never the
+        NPC twist. Each property keeps at least its calm value, so the pool is
+        never empty; enough properties still randomize to keep insane anti-bot.
+        The CHANGE is still drawn from the full set (a change SHOULD announce one).
+        """
+        keys = list(spec.get("values", {}))
+        for val, pool in spec.get("anomalies", {}).items():
+            if prop == npc_prop and val in _NPC_ACK_VALUES:
+                continue
+            if any(m in s.lower() for s in pool for m in _INSANE_BASELINE_UNSAFE):
+                continue
+            keys.append(val)
+        return keys
 
     @staticmethod
     def _pool_and_kind(spec: dict, val: str):
@@ -236,7 +285,7 @@ class Hallway:
             mem.seen_props = []
             mem.held = {}
             mem.run_baseline = {}
-            if diff == "hard" and late_props:
+            if diff in ("hard", "insane") and late_props:
                 hold_k = 1 if len(late_props) < 2 else rng.randint(1, 2)
             elif diff == "normal" and late_props and rng.random() < 0.15:
                 hold_k = 1
@@ -254,7 +303,10 @@ class Hallway:
             # run's baseline. Reuses existing lines, so no new content or i18n.
             if diff == "insane":
                 for p, spec in self.properties.items():
-                    keys = self._value_keys(spec)
+                    # Draw from the baseline-SAFE pool (calm value + descriptive
+                    # anomalies), never a value whose prose announces a change, so a
+                    # clean loop never reads as wrong. See _insane_baseline_keys.
+                    keys = self._insane_baseline_keys(spec, p, self.npc_prop)
                     if keys:
                         mem.run_baseline[p] = rng.choice(keys)
         # Props still held out of this loop (they reveal on a later loop).
@@ -290,10 +342,17 @@ class Hallway:
         # deliberate clean REVERT (back to baseline right after a change). Both
         # break the "each loop is independent" assumption and test memory across
         # more than one loop. This is the whole of hard mode's escalation.
-        if mem.level > 0 and diff == "hard" and mem.prev_anomaly_prop:
+        if mem.level > 0 and diff in ("hard", "insane") and mem.prev_anomaly_prop:
             r = rng.random()
-            valid = mem.prev_anomaly_val in (
-                self.properties.get(mem.prev_anomaly_prop, {}).get("anomalies", {}))
+            spec = self.properties.get(mem.prev_anomaly_prop, {})
+            if diff == "insane":
+                # In insane a change is any value != this run's baseline (it may be
+                # a calm value too), so validate against the full value set.
+                valid = (mem.prev_anomaly_val in self._value_keys(spec)
+                         and mem.prev_anomaly_val
+                         != mem.run_baseline.get(mem.prev_anomaly_prop))
+            else:
+                valid = mem.prev_anomaly_val in spec.get("anomalies", {})
             if r < 0.22 and valid:
                 has_anomaly = True
                 changed[mem.prev_anomaly_prop] = mem.prev_anomaly_val
@@ -312,10 +371,11 @@ class Hallway:
         # held item) makes the second detail distinct, so the two never collide.
         # The fairness guard shows both, and a correct turn-back flares both lines
         # afterward so the player learns to scan.
-        if (diff == "hard" and changed and len(changed) == 1
+        if (diff in ("hard", "insane") and changed and len(changed) == 1
                 and mem.level >= round(GOAL * 0.5) and rng.random() < 0.30):
             second = anomalies.pick_anomaly(
-                self.properties, rng, excluded_anomaly | set(changed))
+                self.properties, rng, excluded_anomaly | set(changed),
+                baseline_of=(mem.run_baseline if diff == "insane" else None))
             if second:
                 changed[second[0]] = second[1]
 

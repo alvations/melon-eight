@@ -1,193 +1,2582 @@
 {
-  "ui|select_lead_1": {"text": "Een plek die je niet helemaal kunt verlaten.", "score": 93, "postedit": "Een plek die je niet helemaal kunt verlaten.", "postedit_score": 95},
-  "ui|select_lead_2": {"text": "Kies een weg erdoorheen.", "score": 94, "postedit": "Kies een weg erdoorheen.", "postedit_score": 95},
-  "ui|begin": {"text": "Beginnen", "score": 95, "postedit": "Beginnen", "postedit_score": 96},
-  "ui|back": {"text": "Terug", "score": 96, "postedit": "Terug", "postedit_score": 96},
-  "ui|again": {"text": "Loop het opnieuw", "score": 93, "postedit": "Loop het opnieuw", "postedit_score": 95},
-  "ui|change": {"text": "Ander scenario", "score": 94, "postedit": "Ander scenario", "postedit_score": 95},
-  "ui|give_up": {"text": "Opgeven · terug naar het begin", "score": 94, "postedit": "Opgeven · terug naar het begin", "postedit_score": 95},
-  "ui|conf_q": {"text": "Hoe zeker ben je?", "score": 95, "postedit": "Hoe zeker ben je?", "postedit_score": 96},
-  "ui|conf_1": {"text": "Ik gok", "score": 93, "postedit": "Ik gok", "postedit_score": 95},
-  "ui|conf_2": {"text": "Ik denk het", "score": 94, "postedit": "Ik denk het", "postedit_score": 95},
-  "ui|conf_3": {"text": "Vrijwel zeker", "score": 95, "postedit": "Vrijwel zeker", "postedit_score": 96},
-  "ui|conf_4": {"text": "Zeker", "score": 96, "postedit": "Zeker", "postedit_score": 96},
-  "ui|language": {"text": "Taal", "score": 96, "postedit": "Taal", "postedit_score": 96},
-
-  "a:coach8|title_main": {"text": "Rijtuig 8", "score": 95, "postedit": "Rijtuig 8", "postedit_score": 96},
-  "a:coach8|tagline": {"text": "De conducteur zei rijtuig 8. De trein lijkt het nooit te bereiken.", "score": 93, "postedit": "De conducteur zei rijtuig 8. De trein lijkt het nooit te bereiken.", "postedit_score": 95},
-  "a:coach8|go_on": {"text": "Volgend rijtuig", "score": 95, "postedit": "Volgend rijtuig", "postedit_score": 96},
-  "a:coach8|turn_back": {"text": "Rijtuig terug", "score": 94, "postedit": "Rijtuig terug", "postedit_score": 95},
-  "a:coach8|progress": {"text": "Rijtuig {level} / {goal}", "score": 96, "postedit": "Rijtuig {level} / {goal}", "postedit_score": 96},
-
-  "a:coach8|label|lighting": {"text": "de verlichting", "score": 94, "postedit": "de verlichting", "postedit_score": 96},
-  "a:coach8|label|sound": {"text": "het geluid", "score": 95, "postedit": "het geluid", "postedit_score": 96},
-  "a:coach8|label|window": {"text": "het raam", "score": 95, "postedit": "het raam", "postedit_score": 96},
-  "a:coach8|label|passenger": {"text": "de slapende passagier", "score": 94, "postedit": "de slapende passagier", "postedit_score": 96},
-  "a:coach8|label|seatnum": {"text": "de stoelnummers", "score": 94, "postedit": "de stoelnummers", "postedit_score": 95},
-  "a:coach8|label|door": {"text": "de tussendeur", "score": 94, "postedit": "de tussendeur", "postedit_score": 95},
-  "a:coach8|label|luggage": {"text": "het bagagerek", "score": 94, "postedit": "het bagagerek", "postedit_score": 96},
-  "a:coach8|label|table": {"text": "het tafeltje", "score": 94, "postedit": "het tafeltje", "postedit_score": 96},
-  "a:coach8|label|sense": {"text": "dat gevoel", "score": 94, "postedit": "dat gevoel", "postedit_score": 95},
-
-  "a:coach8|title|0": {"text": "Rijtuig 8", "score": 95, "postedit": "Rijtuig 8", "postedit_score": 96},
-  "a:coach8|title|1": {"text": "Rijtuig 8", "score": 95, "postedit": "Rijtuig 8", "postedit_score": 96},
-  "a:coach8|title|2": {"text": "Rijtuig 8", "score": 95, "postedit": "Rijtuig 8", "postedit_score": 96},
-  "a:coach8|title|3": {"text": "Rijtuig 8", "score": 95, "postedit": "Rijtuig 8", "postedit_score": 96},
-  "a:coach8|title|4": {"text": "Wagon 8", "score": 94, "postedit": "Wagon 8", "postedit_score": 95},
-  "a:coach8|title|5": {"text": "Rijtuig acht", "score": 93, "postedit": "Rijtuig acht", "postedit_score": 95},
-  "a:coach8|title|6": {"text": "RIJTUIG 8", "score": 95, "postedit": "RIJTUIG 8", "postedit_score": 96},
-  "a:coach8|title|7": {"text": "Rijtuig  8", "score": 95, "postedit": "Rijtuig  8", "postedit_score": 96},
-
-  "a:coach8|p:lighting|v:dim|0": {"text": "De verlichting in het rijtuig is gedimd voor de nacht, een zachte amberkleurige gloed.", "score": 93, "postedit": "De verlichting in het rijtuig is gedimd voor de nacht, een zachte amberkleurige gloed.", "postedit_score": 95},
-  "a:coach8|p:lighting|v:dim|1": {"text": "Gedempte nachtverlichting gloeit langs de bagagerekken, zoals altijd.", "score": 93, "postedit": "Gedempte nachtverlichting gloeit langs de bagagerekken, zoals altijd.", "postedit_score": 95},
-  "a:coach8|p:lighting|v:dim|2": {"text": "De plafondlampen staan op hun amberkleurige nachtstand.", "score": 94, "postedit": "De plafondlampen staan op hun amberkleurige nachtstand.", "postedit_score": 95},
-  "a:coach8|p:lighting|v:dim|3": {"text": "Het rijtuig baadt in hetzelfde zachte goud als het vorige.", "score": 93, "postedit": "Het rijtuig baadt in hetzelfde zachte goud als het vorige.", "postedit_score": 95},
-  "a:coach8|p:lighting|x:flicker|0": {"text": "De verlichting in het rijtuig flikkert mee met de beweging van de trein en houdt dan stand.", "score": 93, "postedit": "De verlichting in het rijtuig flikkert mee met de beweging van de trein en houdt dan stand.", "postedit_score": 95},
-  "a:coach8|p:lighting|x:flicker|1": {"text": "Eén lichtbalk boven je hapert.", "score": 94, "postedit": "Eén lichtbalk boven je hapert.", "postedit_score": 95},
-  "a:coach8|p:lighting|x:flicker|2": {"text": "Het amberkleurige licht valt uit en gaat weer aan.", "score": 94, "postedit": "Het amberkleurige licht valt uit en gaat weer aan.", "postedit_score": 96},
-  "a:coach8|p:lighting|x:bright|0": {"text": "De lampen branden op vol, hard en wit, niet op de nachtstand.", "score": 93, "postedit": "De lampen branden op vol, hard en wit, niet op de nachtstand.", "postedit_score": 95},
-  "a:coach8|p:lighting|x:bright|1": {"text": "Dit rijtuig is veel feller verlicht dan het vorige.", "score": 94, "postedit": "Dit rijtuig is veel feller verlicht dan het vorige.", "postedit_score": 96},
-  "a:coach8|p:lighting|x:bright|2": {"text": "Het zachte amber is weg; alles schittert wit.", "score": 93, "postedit": "Het zachte amber is weg; alles schittert wit.", "postedit_score": 95},
-  "a:coach8|p:lighting|x:off|0": {"text": "Het rijtuig is donker, op de noodstrips langs de vloer na.", "score": 93, "postedit": "Het rijtuig is donker, op de noodstrips langs de vloer na.", "postedit_score": 95},
-  "a:coach8|p:lighting|x:off|1": {"text": "De lampen zijn hier uit; alleen de gangpadmarkeringen gloeien.", "score": 93, "postedit": "De lampen zijn hier uit; alleen de gangpadmarkeringen gloeien.", "postedit_score": 95},
-  "a:coach8|p:lighting|x:off|2": {"text": "Duisternis, op een dunne streep licht langs de vloer na.", "score": 93, "postedit": "Duisternis, op een dunne streep licht langs de vloer na.", "postedit_score": 95},
-
-  "a:coach8|p:sound|v:rhythm|0": {"text": "De rails slaan hun gestage ritme onder de vloer.", "score": 94, "postedit": "De rails slaan hun gestage ritme onder de vloer.", "postedit_score": 96},
-  "a:coach8|p:sound|v:rhythm|1": {"text": "De trein zoemt voort, de wielen tikkend over de lasnaden.", "score": 93, "postedit": "De trein zoemt voort, de wielen tikkend over de lasnaden.", "postedit_score": 95},
-  "a:coach8|p:sound|v:rhythm|2": {"text": "Dat vertrouwde zwenken en ratelen van een trein op snelheid.", "score": 93, "postedit": "Dat vertrouwde zwenken en ratelen van een trein op snelheid.", "postedit_score": 95},
-  "a:coach8|p:sound|x:slowing|0": {"text": "Het ritme van de rails vertraagt. Sta je stil?", "score": 93, "postedit": "Het ritme van de rails vertraagt. Sta je stil?", "postedit_score": 95},
-  "a:coach8|p:sound|x:slowing|1": {"text": "Het geratel sleept, alsof de trein snelheid verliest.", "score": 94, "postedit": "Het geratel sleept, alsof de trein snelheid verliest.", "postedit_score": 95},
-  "a:coach8|p:sound|x:slowing|2": {"text": "De slag onder de vloer rekt langer uit tussen de tikken.", "score": 93, "postedit": "De slag onder de vloer rekt langer uit tussen de tikken.", "postedit_score": 95},
-  "a:coach8|p:sound|x:silence|0": {"text": "De wielen zijn stil geworden. Je voelt helemaal geen beweging meer.", "score": 94, "postedit": "De wielen zijn stil geworden. Je voelt helemaal geen beweging meer.", "postedit_score": 96},
-  "a:coach8|p:sound|x:silence|1": {"text": "Het geluid van de trein is gestopt. Doodstil.", "score": 94, "postedit": "Het geluid van de trein is gestopt. Doodstil.", "postedit_score": 96},
-  "a:coach8|p:sound|x:silence|2": {"text": "Geen geratel, geen gezwenk. Misschien rijdt de trein niet meer.", "score": 93, "postedit": "Geen geratel, geen gezwenk. Misschien rijdt de trein niet meer.", "postedit_score": 95},
-  "a:coach8|p:sound|x:announce|0": {"text": "Er klinkt een belletje, dan een gedempte omroep die je niet kunt verstaan.", "score": 93, "postedit": "Er klinkt een belletje, dan een gedempte omroep die je niet kunt verstaan.", "postedit_score": 95},
-  "a:coach8|p:sound|x:announce|1": {"text": "De omroepinstallatie kraakt met een stem en valt dan stil.", "score": 93, "postedit": "De omroepinstallatie kraakt met een stem en valt dan stil.", "postedit_score": 95},
-  "a:coach8|p:sound|x:announce|2": {"text": "Er klinkt een omroepbericht, bijna achterstevoren.", "score": 93, "postedit": "Er klinkt een omroepbericht, bijna achterstevoren.", "postedit_score": 95},
-  "a:coach8|p:sound|x:faster|0": {"text": "De rails slaan sneller dan zou moeten, een oplopend gejank.", "score": 93, "postedit": "De rails slaan sneller dan zou moeten, een oplopend gejank.", "postedit_score": 95},
-  "a:coach8|p:sound|x:faster|1": {"text": "De trein versnelt, het geratel klimt in toonhoogte.", "score": 93, "postedit": "De trein versnelt, het geratel klimt in toonhoogte.", "postedit_score": 95},
-  "a:coach8|p:sound|x:faster|2": {"text": "Alles rammelt harder; je gaat sneller.", "score": 94, "postedit": "Alles rammelt harder; je gaat sneller.", "postedit_score": 95},
-
-  "a:coach8|p:window|v:night|0": {"text": "Achter het raam donker landschap en je eigen vage spiegelbeeld.", "score": 93, "postedit": "Achter het raam donker landschap en je eigen vage spiegelbeeld.", "postedit_score": 95},
-  "a:coach8|p:window|v:night|1": {"text": "Het raam toont alleen de nacht en de schim van het rijtuig.", "score": 94, "postedit": "Het raam toont alleen de nacht en de schim van het rijtuig.", "postedit_score": 95},
-  "a:coach8|p:window|v:night|2": {"text": "Donkere velden schieten langs het raam, verre lichtjes verspreid.", "score": 93, "postedit": "Donkere velden schieten langs het raam, verre lichtjes verspreid.", "postedit_score": 95},
-  "a:coach8|p:window|x:station|0": {"text": "Het raam toont een verlicht perron dat voorbijglijdt, een station, onaangekondigd.", "score": 93, "postedit": "Het raam toont een verlicht perron dat voorbijglijdt, een station, onaangekondigd.", "postedit_score": 95},
-  "a:coach8|p:window|x:station|1": {"text": "Buiten passeert een stationsperron, leeg en helder verlicht.", "score": 94, "postedit": "Buiten passeert een stationsperron, leeg en helder verlicht.", "postedit_score": 95},
-  "a:coach8|p:window|x:station|2": {"text": "Een station glijdt langs het glas; je hebt de trein niet voelen vertragen.", "score": 93, "postedit": "Een station glijdt langs het glas; je hebt de trein niet voelen vertragen.", "postedit_score": 95},
-  "a:coach8|p:window|x:reflection|0": {"text": "Je spiegelbeeld in het glas loopt een halve seconde op je achter.", "score": 93, "postedit": "Je spiegelbeeld in het glas loopt een halve seconde op je achter.", "postedit_score": 95},
-  "a:coach8|p:window|x:reflection|1": {"text": "Het spiegelbeeld in het raam komt niet helemaal overeen met het rijtuig.", "score": 94, "postedit": "Het spiegelbeeld in het raam komt niet helemaal overeen met het rijtuig.", "postedit_score": 95},
-  "a:coach8|p:window|x:reflection|2": {"text": "In de weerspiegeling van het raam staat iemand die niet in het rijtuig is.", "score": 93, "postedit": "In de weerspiegeling van het raam staat iemand die niet in het rijtuig is.", "postedit_score": 95},
-  "a:coach8|p:window|x:daylight|0": {"text": "Het raam is fel van daglicht. Zojuist was het nog nacht.", "score": 93, "postedit": "Het raam is fel van daglicht. Zojuist was het nog nacht.", "postedit_score": 95},
-  "a:coach8|p:window|x:daylight|1": {"text": "Buiten het glas is het plotseling, onmogelijk, dag.", "score": 93, "postedit": "Buiten het glas is het plotseling, onmogelijk, dag.", "postedit_score": 95},
-  "a:coach8|p:window|x:daylight|2": {"text": "Zonlicht vult het raam waar eerst alleen duisternis was.", "score": 94, "postedit": "Zonlicht vult het raam waar eerst alleen duisternis was.", "postedit_score": 95},
-  "a:coach8|p:window|x:tunnel|0": {"text": "Het raam is gitzwart, een tunnel, razend, zonder eind.", "score": 93, "postedit": "Het raam is gitzwart, een tunnel, razend, zonder eind.", "postedit_score": 95},
-  "a:coach8|p:window|x:tunnel|1": {"text": "Je zit nu in een tunnel; het glas toont alleen voortsnellende duisternis.", "score": 93, "postedit": "Je zit nu in een tunnel; het glas toont alleen voortsnellende duisternis.", "postedit_score": 95},
-  "a:coach8|p:window|x:tunnel|2": {"text": "Niets dan zwarte tunnelwand stroomt langs het raam.", "score": 93, "postedit": "Niets dan zwarte tunnelwand stroomt langs het raam.", "postedit_score": 95},
-
-  "a:coach8|p:passenger|v:sleeping|0": {"text": "Een eenzame passagier slaapt tegen het verre raam, een jas over het gezicht.", "score": 93, "postedit": "Een eenzame passagier slaapt tegen het verre raam, een jas over het gezicht.", "postedit_score": 95},
-  "a:coach8|p:passenger|v:sleeping|1": {"text": "Eén passagier dommelt halverwege het rijtuig, het hoofd achterover.", "score": 93, "postedit": "Eén passagier dommelt halverwege het rijtuig, het hoofd achterover.", "postedit_score": 95},
-  "a:coach8|p:passenger|v:sleeping|2": {"text": "Dezelfde slapende gestalte hangt onderuit bij het raam, net als eerder.", "score": 93, "postedit": "Dezelfde slapende gestalte hangt onderuit bij het raam, net als eerder.", "postedit_score": 95},
-  "a:coach8|p:passenger|x:gone|0": {"text": "De stoel waar de passagier sliep is nu leeg.", "score": 94, "postedit": "De stoel waar de passagier sliep is nu leeg.", "postedit_score": 96},
-  "a:coach8|p:passenger|x:gone|1": {"text": "Deze keer slaapt er niemand in het rijtuig.", "score": 94, "postedit": "Deze keer slaapt er niemand in het rijtuig.", "postedit_score": 96},
-  "a:coach8|p:passenger|x:gone|2": {"text": "De dommelende passagier is weg; alleen een opgevouwen jas blijft achter.", "score": 93, "postedit": "De dommelende passagier is weg; alleen een opgevouwen jas blijft achter.", "postedit_score": 95},
-  "a:coach8|p:passenger|x:awake|0": {"text": "De passagier is nu wakker, rechtop, doodstil.", "score": 93, "postedit": "De passagier is nu wakker, rechtop, doodstil.", "postedit_score": 95},
-  "a:coach8|p:passenger|x:awake|1": {"text": "De ogen van de slaper zijn open, gericht op het gangpad.", "score": 94, "postedit": "De ogen van de slaper zijn open, gericht op het gangpad.", "postedit_score": 95},
-  "a:coach8|p:passenger|x:awake|2": {"text": "De passagier slaapt niet meer. Hij kijkt je na terwijl je passeert.", "score": 94, "postedit": "De passagier slaapt niet meer. Hij kijkt je na terwijl je passeert.", "postedit_score": 95},
-  "a:coach8|p:passenger|x:moved|0": {"text": "De slapende passagier is naar een stoel dichter bij het gangpad verschoven.", "score": 93, "postedit": "De slapende passagier is naar een stoel dichter bij het gangpad verschoven.", "postedit_score": 95},
-  "a:coach8|p:passenger|x:moved|1": {"text": "De dommelende gestalte is dichterbij dan eerst, nu aan jouw kant.", "score": 93, "postedit": "De dommelende gestalte is dichterbij dan eerst, nu aan jouw kant.", "postedit_score": 95},
-  "a:coach8|p:passenger|x:moved|2": {"text": "De passagier slaapt op een andere stoel dan zojuist.", "score": 93, "postedit": "De passagier slaapt op een andere stoel dan zojuist.", "postedit_score": 95},
-  "a:coach8|p:passenger|x:two|0": {"text": "Er slapen hier nu twee passagiers, waar er eerst één was.", "score": 94, "postedit": "Er slapen hier nu twee passagiers, waar er eerst één was.", "postedit_score": 96},
-  "a:coach8|p:passenger|x:two|1": {"text": "Er zijn deze keer twee jassen over gezichten, niet één.", "score": 92, "postedit": "Er zijn deze keer twee jassen over gezichten, niet één.", "postedit_score": 95},
-  "a:coach8|p:passenger|x:two|2": {"text": "Een tweede slapende gestalte heeft zich bij de eerste gevoegd.", "score": 94, "postedit": "Een tweede slapende gestalte heeft zich bij de eerste gevoegd.", "postedit_score": 96},
-  "a:coach8|p:passenger|x:speaks|0": {"text": "De slapende passagier mompelt, zonder wakker te worden: 'alweer?'", "score": 93, "postedit": "De slapende passagier mompelt, zonder wakker te worden: 'alweer?'", "postedit_score": 95},
-  "a:coach8|p:passenger|x:speaks|1": {"text": "Van onder de jas, een gedempte stem: 'je was hier net nog.'", "score": 93, "postedit": "Van onder de jas, een gedempte stem: 'je was hier net nog.'", "postedit_score": 95},
-  "a:coach8|p:passenger|x:speaks|2": {"text": "De dommelende gestalte noemt de naam van jouw halte, hoewel je die aan niemand hebt verteld.", "score": 92, "postedit": "De dommelende gestalte noemt de naam van jouw halte, hoewel je die aan niemand hebt verteld.", "postedit_score": 95},
-
-  "a:coach8|p:seatnum|v:eight|0": {"text": "De stoelstickers lezen 8A, 8B, 8C langs de rij.", "score": 93, "postedit": "De stoelstickers lezen 8A, 8B, 8C langs de rij.", "postedit_score": 95},
-  "a:coach8|p:seatnum|v:eight|1": {"text": "Kleine koperen cijfers markeren de stoelen: rij 8, zoals altijd.", "score": 93, "postedit": "Kleine koperen cijfers markeren de stoelen: rij 8, zoals altijd.", "postedit_score": 95},
-  "a:coach8|p:seatnum|v:eight|2": {"text": "Het rijtuignummerpaneel bij de deur gloeit RIJTUIG 8.", "score": 93, "postedit": "Het rijtuignummerpaneel bij de deur gloeit RIJTUIG 8.", "postedit_score": 95},
-  "a:coach8|p:seatnum|x:wrong|0": {"text": "De stoelstickers lezen nu rij 7, niet 8.", "score": 94, "postedit": "De stoelstickers lezen nu rij 7, niet 8.", "postedit_score": 96},
-  "a:coach8|p:seatnum|x:wrong|1": {"text": "Het rijtuignummerpaneel leest RIJTUIG 9.", "score": 94, "postedit": "Het rijtuignummerpaneel leest RIJTUIG 9.", "postedit_score": 96},
-  "a:coach8|p:seatnum|x:wrong|2": {"text": "De koperen cijfers zeggen rij 6; je wist zeker dat het 8 was.", "score": 93, "postedit": "De koperen cijfers zeggen rij 6; je wist zeker dat het 8 was.", "postedit_score": 95},
-  "a:coach8|p:seatnum|x:missing|0": {"text": "De stoelnummers zijn eraf gewrikt; alleen kale schroefgaten blijven over.", "score": 93, "postedit": "De stoelnummers zijn eraf gewrikt; alleen kale schroefgaten blijven over.", "postedit_score": 95},
-  "a:coach8|p:seatnum|x:missing|1": {"text": "Het rijtuignummerpaneel bij de deur is donker en leeg.", "score": 93, "postedit": "Het rijtuignummerpaneel bij de deur is donker en leeg.", "postedit_score": 95},
-  "a:coach8|p:seatnum|x:missing|2": {"text": "Er staan deze keer helemaal geen nummers op de stoelen.", "score": 94, "postedit": "Er staan deze keer helemaal geen nummers op de stoelen.", "postedit_score": 96},
-  "a:coach8|p:seatnum|x:letters|0": {"text": "De stoelstickers lezen 8X, 8Y, 8Z, letters die er niet horen.", "score": 93, "postedit": "De stoelstickers lezen 8X, 8Y, 8Z, letters die er niet horen.", "postedit_score": 95},
-  "a:coach8|p:seatnum|x:letters|1": {"text": "De rij is genummerd in een alfabet dat je niet herkent.", "score": 93, "postedit": "De rij is genummerd in een alfabet dat je niet herkent.", "postedit_score": 95},
-  "a:coach8|p:seatnum|x:letters|2": {"text": "De stoellabels zijn nu enkel symbolen, geen cijfers.", "score": 93, "postedit": "De stoellabels zijn nu enkel symbolen, geen cijfers.", "postedit_score": 95},
-
-  "a:coach8|p:door|v:closed|0": {"text": "De tussendeur aan het eind van het rijtuig is dicht, het glas donker.", "score": 93, "postedit": "De tussendeur aan het eind van het rijtuig is dicht, het glas donker.", "postedit_score": 95},
-  "a:coach8|p:door|v:closed|1": {"text": "De automatische deur naar het volgende rijtuig staat dicht, zoals gewoonlijk.", "score": 94, "postedit": "De automatische deur naar het volgende rijtuig staat dicht, zoals gewoonlijk.", "postedit_score": 95},
-  "a:coach8|p:door|v:closed|2": {"text": "De deur aan het eind is dicht, de tussenruimte erachter schemerig.", "score": 93, "postedit": "De deur aan het eind is dicht, de tussenruimte erachter schemerig.", "postedit_score": 95},
-  "a:coach8|p:door|x:open|0": {"text": "De tussendeur zit klem open, koude lucht stroomt erdoor.", "score": 93, "postedit": "De tussendeur zit klem open, koude lucht stroomt erdoor.", "postedit_score": 95},
-  "a:coach8|p:door|x:open|1": {"text": "De automatische deur wil niet dicht; de tussenruimte erachter buldert.", "score": 93, "postedit": "De automatische deur wil niet dicht; de tussenruimte erachter buldert.", "postedit_score": 95},
-  "a:coach8|p:door|x:open|2": {"text": "De deur aan het eind gaapt open naar de schuddende tussenruimte.", "score": 92, "postedit": "De deur aan het eind gaapt open naar de schuddende tussenruimte.", "postedit_score": 95},
-  "a:coach8|p:door|x:locked|0": {"text": "Een rood lampje brandt op de tussendeur: VERGRENDELD.", "score": 94, "postedit": "Een rood lampje brandt op de tussendeur: VERGRENDELD.", "postedit_score": 95},
-  "a:coach8|p:door|x:locked|1": {"text": "De deur aan het eind toont een vergrendelingslampje dat eerst groen was.", "score": 93, "postedit": "De deur aan het eind toont een vergrendelingslampje dat eerst groen was.", "postedit_score": 95},
-  "a:coach8|p:door|x:locked|2": {"text": "De deur naar het volgende rijtuig leest NIET BINNENGAAN.", "score": 94, "postedit": "De deur naar het volgende rijtuig leest NIET BINNENGAAN.", "postedit_score": 95},
-  "a:coach8|p:door|x:glass|0": {"text": "Het glas in de tussendeur is beslagen, met een handafdruk erop.", "score": 93, "postedit": "Het glas in de tussendeur is beslagen, met een handafdruk erop.", "postedit_score": 95},
-  "a:coach8|p:door|x:glass|1": {"text": "Iets besmeurt het raampje van de einddeur aan de andere kant.", "score": 93, "postedit": "Iets besmeurt het raampje van de einddeur aan de andere kant.", "postedit_score": 95},
-  "a:coach8|p:door|x:glass|2": {"text": "Het glas van de tussendeur is gebarsten in een spinnenweb.", "score": 93, "postedit": "Het glas van de tussendeur is gebarsten in een spinnenweb.", "postedit_score": 95},
-
-  "a:coach8|p:luggage|v:stowed|0": {"text": "Eén koffer staat in het bagagerek bij de deur.", "score": 94, "postedit": "Eén koffer staat in het bagagerek bij de deur.", "postedit_score": 96},
-  "a:coach8|p:luggage|v:stowed|1": {"text": "De bagagerekken boven bevatten het gebruikelijke handjevol tassen.", "score": 93, "postedit": "De bagagerekken boven bevatten het gebruikelijke handjevol tassen.", "postedit_score": 95},
-  "a:coach8|p:luggage|v:stowed|2": {"text": "Eén harde koffer reist mee op het bagagerek, net als eerder.", "score": 94, "postedit": "Eén harde koffer reist mee op het bagagerek, net als eerder.", "postedit_score": 95},
-  "a:coach8|p:luggage|x:gone|0": {"text": "Het bagagerek is nu leeg.", "score": 95, "postedit": "Het bagagerek is nu leeg.", "postedit_score": 96},
-  "a:coach8|p:luggage|x:gone|1": {"text": "De koffer bij de deur is weg.", "score": 95, "postedit": "De koffer bij de deur is weg.", "postedit_score": 96},
-  "a:coach8|p:luggage|x:gone|2": {"text": "Er liggen deze keer geen tassen in de rekken.", "score": 94, "postedit": "Er liggen deze keer geen tassen in de rekken.", "postedit_score": 96},
-  "a:coach8|p:luggage|x:more|0": {"text": "Het bagagerek is volgepropt, veel meer tassen dan eerst.", "score": 94, "postedit": "Het bagagerek is volgepropt, veel meer tassen dan eerst.", "postedit_score": 95},
-  "a:coach8|p:luggage|x:more|1": {"text": "De koffers zijn nu bijna tot aan het plafond opgestapeld.", "score": 94, "postedit": "De koffers zijn nu bijna tot aan het plafond opgestapeld.", "postedit_score": 96},
-  "a:coach8|p:luggage|x:more|2": {"text": "De rekken puilen uit van bagage die er niet was.", "score": 94, "postedit": "De rekken puilen uit van bagage die er niet was.", "postedit_score": 95},
-  "a:coach8|p:luggage|x:open|0": {"text": "De koffer in het rek ligt open, leeg.", "score": 94, "postedit": "De koffer in het rek ligt open, leeg.", "postedit_score": 96},
-  "a:coach8|p:luggage|x:open|1": {"text": "Een koffer is opengevallen over het bagagerek.", "score": 93, "postedit": "Een koffer is opengevallen over het bagagerek.", "postedit_score": 95},
-  "a:coach8|p:luggage|x:open|2": {"text": "De harde koffer gaapt open, de inhoud verdwenen.", "score": 93, "postedit": "De harde koffer gaapt open, de inhoud verdwenen.", "postedit_score": 95},
-
-  "a:coach8|p:table|v:coffee|0": {"text": "Een klaptafeltje bij het gangpad draagt een halfopgedronken koffie.", "score": 93, "postedit": "Een klaptafeltje bij het gangpad draagt een halfopgedronken koffie.", "postedit_score": 95},
-  "a:coach8|p:table|v:coffee|1": {"text": "Het klaptafeltje staat neer, een papieren beker koelt erop af, zoals altijd.", "score": 93, "postedit": "Het klaptafeltje staat neer, een papieren beker koelt erop af, zoals altijd.", "postedit_score": 95},
-  "a:coach8|p:table|v:coffee|2": {"text": "Op het tafeltje iemands koffie, nog zwakjes dampend.", "score": 93, "postedit": "Op het tafeltje iemands koffie, nog zwakjes dampend.", "postedit_score": 95},
-  "a:coach8|p:table|x:empty|0": {"text": "Het tafeltje is kaal; de koffiebeker is weg.", "score": 94, "postedit": "Het tafeltje is kaal; de koffiebeker is weg.", "postedit_score": 96},
-  "a:coach8|p:table|x:empty|1": {"text": "Het klaptafeltje draagt nu niets.", "score": 94, "postedit": "Het klaptafeltje draagt nu niets.", "postedit_score": 95},
-  "a:coach8|p:table|x:empty|2": {"text": "Er staat deze keer geen beker op het tafeltje.", "score": 94, "postedit": "Er staat deze keer geen beker op het tafeltje.", "postedit_score": 96},
-  "a:coach8|p:table|x:cold|0": {"text": "De koffie op het tafeltje is koud geworden, met een vel erop.", "score": 93, "postedit": "De koffie op het tafeltje is koud geworden, met een vel erop.", "postedit_score": 95},
-  "a:coach8|p:table|x:cold|1": {"text": "De beker is nu ijskoud, allang achtergelaten.", "score": 94, "postedit": "De beker is nu ijskoud, allang achtergelaten.", "postedit_score": 95},
-  "a:coach8|p:table|x:cold|2": {"text": "De koffie staat koud en stil, zonder enige damp.", "score": 93, "postedit": "De koffie staat koud en stil, zonder enige damp.", "postedit_score": 95},
-  "a:coach8|p:table|x:many|0": {"text": "Het tafeltje staat nu vol bekers, niet één maar vele.", "score": 94, "postedit": "Het tafeltje staat nu vol bekers, niet één maar vele.", "postedit_score": 95},
-  "a:coach8|p:table|x:many|1": {"text": "Meerdere koffies verdringen zich op het klaptafeltje waar er eerst één stond.", "score": 93, "postedit": "Meerdere koffies verdringen zich op het klaptafeltje waar er eerst één stond.", "postedit_score": 95},
-  "a:coach8|p:table|x:many|2": {"text": "Het tafeltje ligt bezaaid met meer bekers dan iemand kan opdrinken.", "score": 93, "postedit": "Het tafeltje ligt bezaaid met meer bekers dan iemand kan opdrinken.", "postedit_score": 95},
-  "a:coach8|p:table|x:spilled|0": {"text": "De koffie is gemorst, een donkere vlek breidt zich uit over het tafeltje.", "score": 94, "postedit": "De koffie is gemorst, een donkere vlek breidt zich uit over het tafeltje.", "postedit_score": 95},
-  "a:coach8|p:table|x:spilled|1": {"text": "De beker is omgevallen, koffie loopt van de rand van het tafeltje.", "score": 93, "postedit": "De beker is omgevallen, koffie loopt van de rand van het tafeltje.", "postedit_score": 95},
-  "a:coach8|p:table|x:spilled|2": {"text": "Koffie plast over het tafeltje en druppelt op de vloer.", "score": 93, "postedit": "Koffie plast over het tafeltje en druppelt op de vloer.", "postedit_score": 95},
-
-  "a:coach8|p:sense|v:steady|0": {"text": "De trein voelt precies zo lang als hij altijd is geweest.", "score": 94, "postedit": "De trein voelt precies zo lang als hij altijd is geweest.", "postedit_score": 96},
-  "a:coach8|p:sense|v:steady|1": {"text": "Je draagt hetzelfde vermoeide geduld door het gangpad, rijtuig na rijtuig.", "score": 93, "postedit": "Je draagt hetzelfde vermoeide geduld door het gangpad, rijtuig na rijtuig.", "postedit_score": 95},
-  "a:coach8|p:sense|v:steady|2": {"text": "Alles voelt zo gewoon als een nachttrein hoort te zijn.", "score": 93, "postedit": "Alles voelt zo gewoon als een nachttrein hoort te zijn.", "postedit_score": 95},
-  "a:coach8|p:sense|x:forget|0": {"text": "Even weet je niet meer door hoeveel rijtuigen je bent gelopen.", "score": 93, "postedit": "Even weet je niet meer door hoeveel rijtuigen je bent gelopen.", "postedit_score": 95},
-  "a:coach8|p:sense|x:forget|1": {"text": "Je verliest de tel van de rijtuigen achter je, en dat maakt je bang.", "score": 93, "postedit": "Je verliest de tel van de rijtuigen achter je, en dat maakt je bang.", "postedit_score": 95},
-  "a:coach8|p:sense|x:forget|2": {"text": "Je kunt je niet herinneren dat je in deze trein bent gestapt.", "score": 94, "postedit": "Je kunt je niet herinneren dat je in deze trein bent gestapt.", "postedit_score": 95},
-  "a:coach8|p:sense|x:calm|0": {"text": "Je voelt je plotseling, ten onrechte, kalm, alsof je al was aangekomen.", "score": 93, "postedit": "Je voelt je plotseling, ten onrechte, kalm, alsof je al was aangekomen.", "postedit_score": 95},
-  "a:coach8|p:sense|x:calm|1": {"text": "Een vreemde tevredenheid daalt over je neer die hier niets te zoeken heeft.", "score": 93, "postedit": "Een vreemde tevredenheid daalt over je neer die hier niets te zoeken heeft.", "postedit_score": 95},
-  "a:coach8|p:sense|x:calm|2": {"text": "Je voelt geen enkele haast, en dat op zich voelt verkeerd.", "score": 94, "postedit": "Je voelt geen enkele haast, en dat op zich voelt verkeerd.", "postedit_score": 95},
-  "a:coach8|p:sense|x:watched|0": {"text": "Je voelt je bekeken, hoewel elke passagier slaapt.", "score": 94, "postedit": "Je voelt je bekeken, hoewel elke passagier slaapt.", "postedit_score": 96},
-  "a:coach8|p:sense|x:watched|1": {"text": "De zekerheid dat er iemand achter je staat, wil niet wijken.", "score": 93, "postedit": "De zekerheid dat er iemand achter je staat, wil niet wijken.", "postedit_score": 95},
-  "a:coach8|p:sense|x:watched|2": {"text": "Je nek prikkelt; je weet zeker dat je niet meer zo alleen bent als daarnet.", "score": 92, "postedit": "Je nek prikkelt; je weet zeker dat je niet meer zo alleen bent als daarnet.", "postedit_score": 95},
-
-  "a:coach8|adaptive|repeat_inspect|0": {"text": "Je kijkt weer naar {THING}. Je weet niet goed waarom.", "score": 92, "postedit": "Je kijkt weer naar {THING}. Je weet niet goed waarom.", "postedit_score": 95},
-  "a:coach8|adaptive|repeat_inspect|1": {"text": "Je blik gaat meteen naar {THING}, zoals tegenwoordig altijd.", "score": 92, "postedit": "Je blik gaat meteen naar {THING}, zoals tegenwoordig altijd.", "postedit_score": 95},
-  "a:coach8|adaptive|repeat_inspect|2": {"text": "Opnieuw gaat je aandacht naar {THING}.", "score": 93, "postedit": "Opnieuw gaat je aandacht naar {THING}.", "postedit_score": 95},
-  "a:coach8|adaptive|long_look|0": {"text": "Je kijkt langer dan gewoonlijk. Je herinnert je niet dat je besloot te stoppen.", "score": 93, "postedit": "Je kijkt langer dan gewoonlijk. Je herinnert je niet dat je besloot te stoppen.", "postedit_score": 95},
-  "a:coach8|adaptive|long_look|1": {"text": "Je beseft dat je in het gangpad staat. Hoe lang al?", "score": 93, "postedit": "Je beseft dat je in het gangpad staat. Hoe lang al?", "postedit_score": 95},
-  "a:coach8|adaptive|long_look|2": {"text": "De trein zwenkt voort, en je weet niet hoe lang je al staart.", "score": 92, "postedit": "De trein zwenkt voort, en je weet niet hoe lang je al staart.", "postedit_score": 95},
-
-  "a:coach8|framing|intro|0": {"text": "LAATSTE TREIN", "score": 95, "postedit": "LAATSTE TREIN", "postedit_score": 96},
-  "a:coach8|framing|intro|2": {"text": "De conducteur knipte je kaartje en knikte naar voren in de trein. Rijtuig 8, die kant op.", "score": 92, "postedit": "De conducteur knipte je kaartje en knikte naar voren in de trein. Rijtuig 8, die kant op.", "postedit_score": 95},
-  "a:coach8|framing|intro|3": {"text": "Dat was een tijd geleden. Je loopt nog steeds, en elk rijtuig ziet er hetzelfde uit.", "score": 93, "postedit": "Dat was een tijd geleden. Je loopt nog steeds, en elk rijtuig ziet er hetzelfde uit.", "postedit_score": 95},
-  "a:coach8|framing|intro|5": {"text": "Zolang een rijtuig precies is zoals je het je herinnert, loop je door naar voren.", "score": 92, "postedit": "Zolang een rijtuig precies is zoals je het je herinnert, loop je door naar voren.", "postedit_score": 95},
-  "a:coach8|framing|intro|6": {"text": "Is er iets veranderd, keer dan om. Dit rijtuig vouwt je terug.", "score": 92, "postedit": "Is er iets veranderd, keer dan om. Dit rijtuig vouwt je terug.", "postedit_score": 95},
-  "a:coach8|framing|intro|8": {"text": "Acht rijtuigen, en je kunt eindelijk gaan zitten.", "score": 94, "postedit": "Acht rijtuigen, en je kunt eindelijk gaan zitten.", "postedit_score": 95},
-  "a:coach8|framing|intro|9": {"text": "Verlies je zekerheid, en de trein zet je terug waar je begon.", "score": 92, "postedit": "Verlies je zekerheid, en de trein zet je terug waar je begon.", "postedit_score": 95},
-
-  "a:coach8|framing|win|0": {"text": "Je schuift nog één deur open, en de stoelnummers lezen 8.", "score": 93, "postedit": "Je schuift nog één deur open, en de stoelnummers lezen 8.", "postedit_score": 95},
-  "a:coach8|framing|win|1": {"text": "Rijtuig 8. Jouw plek, leeg en wachtend, naast een zwart raam.", "score": 93, "postedit": "Rijtuig 8. Jouw plek, leeg en wachtend, naast een zwart raam.", "postedit_score": 95},
-  "a:coach8|framing|win|2": {"text": "Je zakt er eindelijk in neer. De trein snelt voort door de nacht.", "score": 94, "postedit": "Je zakt er eindelijk in neer. De trein snelt voort door de nacht.", "postedit_score": 95},
-  "a:coach8|framing|win|3": {"text": "Je hebt je plek gevonden.", "score": 95, "postedit": "Je hebt je plek gevonden.", "postedit_score": 96}
+ "a:coach8|act2|end|platform|0": {
+  "postedit": "Je stapt af op het perron en de deuren sissen achter je dicht.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Je stapt af op het perron en de deuren sissen achter je dicht."
+ },
+ "a:coach8|act2|end|platform|1": {
+  "postedit": "De trein glijdt zonder jou de tunnel in.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "De trein glijdt zonder jou de tunnel in."
+ },
+ "a:coach8|act2|end|platform|2": {
+  "postedit": "Het bord op het lege perron is een station waar je nooit van gehoord hebt, en de enige dienst op het bord is de trein die net vertrok.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Het bord op het lege perron is een station waar je nooit van gehoord hebt, en de enige dienst op het bord is de trein die net vertrok."
+ },
+ "a:coach8|act2|exit|action": {
+  "postedit": "stap op het perron",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "stap op het perron"
+ },
+ "a:coach8|act2|exit|tempt": {
+  "postedit": "De trein mindert vaart, en een deur aan het eind van het rijtuig gaat open naar een verlicht perron. Stap gewoon af en je bent weg.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "De trein mindert vaart, en een deur aan het eind van het rijtuig gaat open naar een verlicht perron. Stap gewoon af en je bent weg."
+ },
+ "a:coach8|act2|exit|utterance": {
+  "postedit": "De passagier keert zich eindelijk naar je toe en spreekt met een stem die je al kent: 'Je bent je halte voorbijgereden.'",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "De passagier keert zich eindelijk naar je toe en spreekt met een stem die je al kent: 'Je bent je halte voorbijgereden.'"
+ },
+ "a:coach8|act2|flashback|0": {
+  "postedit": "Je had ooit een plek, verder naar achteren, je jas eroverheen. Je stond op om rijtuig 8 te zoeken.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Je had ooit een plek, verder naar achteren, je jas eroverheen. Je stond op om rijtuig 8 te zoeken."
+ },
+ "a:coach8|act2|flashback|1": {
+  "postedit": "Iemand zou je opwachten aan het eind van de lijn. Je kunt de naam niet vasthouden.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Iemand zou je opwachten aan het eind van de lijn. Je kunt de naam niet vasthouden."
+ },
+ "a:coach8|act2|flashback|2": {
+  "postedit": "De jas van de slapende passagier is dezelfde als de jouwe. Je kijkt niet nog eens.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "De jas van de slapende passagier is dezelfde als de jouwe. Je kijkt niet nog eens."
+ },
+ "a:coach8|act2|flashback|3": {
+  "postedit": "De notitie gekrast in het tafeltje is in je eigen handschrift. Er staat alweer, of er staat acht.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "De notitie gekrast in het tafeltje is in je eigen handschrift. Er staat alweer, of er staat acht."
+ },
+ "a:coach8|act2|flashback|4": {
+  "postedit": "Je wist zeker dat de volgende halte de jouwe was. De volgende halte is altijd de volgende halte.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Je wist zeker dat de volgende halte de jouwe was. De volgende halte is altijd de volgende halte."
+ },
+ "a:coach8|act2|t:luggage|fold|0": {
+  "postedit": "Binnenin is de rij rijtuigen, klein gevouwen en wegwijkend. Als je opkijkt sta je weer bij het eerste rijtuig.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Binnenin is de rij rijtuigen, klein gevouwen en wegwijkend. Als je opkijkt sta je weer bij het eerste rijtuig."
+ },
+ "a:coach8|act2|t:luggage|herring|0": {
+  "postedit": "De inkt op het label is nog nat. Het was waarschijnlijk altijd nat.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "De inkt op het label is nog nat. Het was waarschijnlijk altijd nat."
+ },
+ "a:coach8|act2|t:luggage|herring|1": {
+  "postedit": "Je eigen initialen staan op het label, in je eigen handschrift. Veelvoorkomende initialen.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Je eigen initialen staan op het label, in je eigen handschrift. Veelvoorkomende initialen."
+ },
+ "a:coach8|act2|t:luggage|reaction|0": {
+  "postedit": "Iemands opgevouwen overhemden, een pocketboek, een afgescheurd treinkaartje. Gewone dingen, op weg ergens heen.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Iemands opgevouwen overhemden, een pocketboek, een afgescheurd treinkaartje. Gewone dingen, op weg ergens heen."
+ },
+ "a:coach8|act2|t:luggage|reaction|1": {
+  "postedit": "Het is zwaarder dan het lijkt, en het wil niet helemaal open.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Het is zwaarder dan het lijkt, en het wil niet helemaal open."
+ },
+ "a:coach8|act2|t:luggage|verb": {
+  "postedit": "open de bagage",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "open de bagage"
+ },
+ "a:coach8|act2|t:passenger|fold|0": {
+  "postedit": "Ze zeggen je naam in hun slaap, helder, één keer, en het geluid ervan draagt je terug naar het eerste rijtuig.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Ze zeggen je naam in hun slaap, helder, één keer, en het geluid ervan draagt je terug naar het eerste rijtuig."
+ },
+ "a:coach8|act2|t:passenger|herring|0": {
+  "postedit": "Hun jas heeft dezelfde snit als de jouwe. Jassen zijn jassen.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Hun jas heeft dezelfde snit als de jouwe. Jassen zijn jassen."
+ },
+ "a:coach8|act2|t:passenger|herring|1": {
+  "postedit": "Even is het gezicht onder de capuchon naar je toe gekeerd. Dan niet meer.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Even is het gezicht onder de capuchon naar je toe gekeerd. Dan niet meer."
+ },
+ "a:coach8|act2|t:passenger|reaction|0": {
+  "postedit": "Een gemompel, geen woorden die je kunt vasthouden. Ze worden niet wakker.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Een gemompel, geen woorden die je kunt vasthouden. Ze worden niet wakker."
+ },
+ "a:coach8|act2|t:passenger|reaction|1": {
+  "postedit": "Ze verschuiven, en komen tot rust, en hun ademhaling valt in de maat met de jouwe.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Ze verschuiven, en komen tot rust, en hun ademhaling valt in de maat met de jouwe."
+ },
+ "a:coach8|act2|t:passenger|verb": {
+  "postedit": "por de slapende passagier aan",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "por de slapende passagier aan"
+ },
+ "a:coach8|act2|t:table|fold|0": {
+  "postedit": "Je volgt de streepjes met een vinger en verliest de tel, en dat verliezen zet je terug bij rijtuig één.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Je volgt de streepjes met een vinger en verliest de tel, en dat verliezen zet je terug bij rijtuig één."
+ },
+ "a:coach8|act2|t:table|herring|0": {
+  "postedit": "Een koffiering, nog nat, ernaast, alsof er net iemand is weggegaan. Mensen gaan nu eenmaal weg.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Een koffiering, nog nat, ernaast, alsof er net iemand is weggegaan. Mensen gaan nu eenmaal weg."
+ },
+ "a:coach8|act2|t:table|herring|1": {
+  "postedit": "De krassen zien er vers uit, minuten geleden gemaakt. Of door jaren gladgesleten. Je kunt het niet zeggen.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "De krassen zien er vers uit, minuten geleden gemaakt. Of door jaren gladgesleten. Je kunt het niet zeggen."
+ },
+ "a:coach8|act2|t:table|reaction|0": {
+  "postedit": "Letters in het laminaat gekerfd met een sleutel of een spijker. ALWEER, meestal. En een streepjeslijst.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Letters in het laminaat gekerfd met een sleutel of een spijker. ALWEER, meestal. En een streepjeslijst."
+ },
+ "a:coach8|act2|t:table|reaction|1": {
+  "postedit": "Onder de nieuwere tekens, oudere, bijna vlak gesleten door handen.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Onder de nieuwere tekens, oudere, bijna vlak gesleten door handen."
+ },
+ "a:coach8|act2|t:table|verb": {
+  "postedit": "lees de gekraste notitie",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "lees de gekraste notitie"
+ },
+ "a:coach8|act2|t:window|fold|0": {
+  "postedit": "Je staart de duisternis in tot het al is wat er is, en het rijtuig herstelt zich rond je spiegelbeeld, terug bij het begin.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Je staart de duisternis in tot het al is wat er is, en het rijtuig herstelt zich rond je spiegelbeeld, terug bij het begin."
+ },
+ "a:coach8|act2|t:window|herring|0": {
+  "postedit": "Een handafdruk beslaat en vervaagt op het glas die niet de jouwe is. Of wel.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Een handafdruk beslaat en vervaagt op het glas die niet de jouwe is. Of wel."
+ },
+ "a:coach8|act2|t:window|herring|1": {
+  "postedit": "Lichten daarbuiten die een stad zouden kunnen zijn, of de trein, verdubbeld.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Lichten daarbuiten die een stad zouden kunnen zijn, of de trein, verdubbeld."
+ },
+ "a:coach8|act2|t:window|reaction|0": {
+  "postedit": "Je spiegelbeeld loopt een halve seconde op je achter.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Je spiegelbeeld loopt een halve seconde op je achter."
+ },
+ "a:coach8|act2|t:window|reaction|1": {
+  "postedit": "Zwart glas, een tunnel, en dan een perron dat te snel voorbijglijdt om te lezen.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Zwart glas, een tunnel, en dan een perron dat te snel voorbijglijdt om te lezen."
+ },
+ "a:coach8|act2|t:window|verb": {
+  "postedit": "kijk uit het raam",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "kijk uit het raam"
+ },
+ "a:coach8|adaptive|long_look|0": {
+  "postedit": "Je kijkt langer dan gewoonlijk. Je herinnert je niet dat je besloot te stoppen.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Je kijkt langer dan gewoonlijk. Je herinnert je niet dat je besloot te stoppen."
+ },
+ "a:coach8|adaptive|long_look|1": {
+  "postedit": "Je beseft dat je in het gangpad staat. Hoe lang al?",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Je beseft dat je in het gangpad staat. Hoe lang al?"
+ },
+ "a:coach8|adaptive|long_look|2": {
+  "postedit": "De trein zwenkt voort, en je weet niet hoe lang je al staart.",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "De trein zwenkt voort, en je weet niet hoe lang je al staart."
+ },
+ "a:coach8|adaptive|repeat_inspect|0": {
+  "postedit": "Je kijkt weer naar {THING}. Je weet niet goed waarom.",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "Je kijkt weer naar {THING}. Je weet niet goed waarom."
+ },
+ "a:coach8|adaptive|repeat_inspect|1": {
+  "postedit": "Je blik gaat meteen naar {THING}, zoals tegenwoordig altijd.",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "Je blik gaat meteen naar {THING}, zoals tegenwoordig altijd."
+ },
+ "a:coach8|adaptive|repeat_inspect|2": {
+  "postedit": "Opnieuw gaat je aandacht naar {THING}.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Opnieuw gaat je aandacht naar {THING}."
+ },
+ "a:coach8|attempt": {
+  "postedit": "{n} keer door deze trein, en deze keer bereikte hij je halte.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "{n} keer door deze trein, en deze keer bereikte hij je halte."
+ },
+ "a:coach8|attempt_first": {
+  "postedit": "Eerste rit, en het rijtuig vouwde nooit terug.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Eerste rit, en het rijtuig vouwde nooit terug."
+ },
+ "a:coach8|framing|cutscene|0": {
+  "postedit": "Er veranderde iets in het rijtuig, en je liep eraan voorbij.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Er veranderde iets in het rijtuig, en je liep eraan voorbij."
+ },
+ "a:coach8|framing|cutscene|1": {
+  "postedit": "Is een rijtuig niet precies zoals je het je herinnert, keer dan om. Is het dat wel, loop dan door.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Is een rijtuig niet precies zoals je het je herinnert, keer dan om. Is het dat wel, loop dan door."
+ },
+ "a:coach8|framing|intro|0": {
+  "postedit": "LAATSTE TREIN",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "LAATSTE TREIN"
+ },
+ "a:coach8|framing|intro|2": {
+  "postedit": "De conducteur knipte je kaartje en knikte naar voren in de trein. Rijtuig 8, die kant op.",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "De conducteur knipte je kaartje en knikte naar voren in de trein. Rijtuig 8, die kant op."
+ },
+ "a:coach8|framing|intro|3": {
+  "postedit": "Dat was een tijd geleden. Je loopt nog steeds, en elk rijtuig ziet er hetzelfde uit.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Dat was een tijd geleden. Je loopt nog steeds, en elk rijtuig ziet er hetzelfde uit."
+ },
+ "a:coach8|framing|intro|5": {
+  "postedit": "Zolang een rijtuig precies is zoals je het je herinnert, loop je door naar voren.",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "Zolang een rijtuig precies is zoals je het je herinnert, loop je door naar voren."
+ },
+ "a:coach8|framing|intro|6": {
+  "postedit": "Is er iets veranderd, keer dan om. Dit rijtuig vouwt je terug.",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "Is er iets veranderd, keer dan om. Dit rijtuig vouwt je terug."
+ },
+ "a:coach8|framing|intro|8": {
+  "postedit": "Acht rijtuigen, en je kunt eindelijk gaan zitten.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Acht rijtuigen, en je kunt eindelijk gaan zitten."
+ },
+ "a:coach8|framing|intro|9": {
+  "postedit": "Verlies je zekerheid, en de trein zet je terug waar je begon.",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "Verlies je zekerheid, en de trein zet je terug waar je begon."
+ },
+ "a:coach8|framing|win|0": {
+  "postedit": "Je schuift nog één deur open, en de stoelnummers lezen 8.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Je schuift nog één deur open, en de stoelnummers lezen 8."
+ },
+ "a:coach8|framing|win|1": {
+  "postedit": "Rijtuig 8. Jouw plek, leeg en wachtend, naast een zwart raam.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Rijtuig 8. Jouw plek, leeg en wachtend, naast een zwart raam."
+ },
+ "a:coach8|framing|win|2": {
+  "postedit": "Je zakt er eindelijk in neer. De trein snelt voort door de nacht.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Je zakt er eindelijk in neer. De trein snelt voort door de nacht."
+ },
+ "a:coach8|framing|win|3": {
+  "postedit": "Je hebt je plek gevonden.",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "Je hebt je plek gevonden."
+ },
+ "a:coach8|go_on": {
+  "postedit": "Volgend rijtuig",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "Volgend rijtuig"
+ },
+ "a:coach8|label|door": {
+  "postedit": "de tussendeur",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "de tussendeur"
+ },
+ "a:coach8|label|lighting": {
+  "postedit": "de verlichting",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "de verlichting"
+ },
+ "a:coach8|label|luggage": {
+  "postedit": "het bagagerek",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "het bagagerek"
+ },
+ "a:coach8|label|passenger": {
+  "postedit": "de slapende passagier",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "de slapende passagier"
+ },
+ "a:coach8|label|seatnum": {
+  "postedit": "de stoelnummers",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "de stoelnummers"
+ },
+ "a:coach8|label|sense": {
+  "postedit": "dat gevoel",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "dat gevoel"
+ },
+ "a:coach8|label|sound": {
+  "postedit": "het geluid",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "het geluid"
+ },
+ "a:coach8|label|table": {
+  "postedit": "het tafeltje",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "het tafeltje"
+ },
+ "a:coach8|label|window": {
+  "postedit": "het raam",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "het raam"
+ },
+ "a:coach8|p:door|v:closed|0": {
+  "postedit": "De tussendeur aan het eind van het rijtuig is dicht, het glas donker.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "De tussendeur aan het eind van het rijtuig is dicht, het glas donker."
+ },
+ "a:coach8|p:door|v:closed|1": {
+  "postedit": "De automatische deur naar het volgende rijtuig staat dicht, zoals gewoonlijk.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "De automatische deur naar het volgende rijtuig staat dicht, zoals gewoonlijk."
+ },
+ "a:coach8|p:door|v:closed|2": {
+  "postedit": "De deur aan het eind is dicht, de tussenruimte erachter schemerig.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "De deur aan het eind is dicht, de tussenruimte erachter schemerig."
+ },
+ "a:coach8|p:door|x:glass|0": {
+  "postedit": "Het glas in de tussendeur is beslagen, met een handafdruk erop.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Het glas in de tussendeur is beslagen, met een handafdruk erop."
+ },
+ "a:coach8|p:door|x:glass|1": {
+  "postedit": "Iets besmeurt het raampje van de einddeur aan de andere kant.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Iets besmeurt het raampje van de einddeur aan de andere kant."
+ },
+ "a:coach8|p:door|x:glass|2": {
+  "postedit": "Het glas van de tussendeur is gebarsten in een spinnenweb.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Het glas van de tussendeur is gebarsten in een spinnenweb."
+ },
+ "a:coach8|p:door|x:locked|0": {
+  "postedit": "Een rood lampje brandt op de tussendeur: VERGRENDELD.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Een rood lampje brandt op de tussendeur: VERGRENDELD."
+ },
+ "a:coach8|p:door|x:locked|1": {
+  "postedit": "De deur aan het eind toont een vergrendelingslampje dat eerst groen was.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "De deur aan het eind toont een vergrendelingslampje dat eerst groen was."
+ },
+ "a:coach8|p:door|x:locked|2": {
+  "postedit": "De deur naar het volgende rijtuig leest NIET BINNENGAAN.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "De deur naar het volgende rijtuig leest NIET BINNENGAAN."
+ },
+ "a:coach8|p:door|x:open|0": {
+  "postedit": "De tussendeur zit klem open, koude lucht stroomt erdoor.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "De tussendeur zit klem open, koude lucht stroomt erdoor."
+ },
+ "a:coach8|p:door|x:open|1": {
+  "postedit": "De automatische deur wil niet dicht; de tussenruimte erachter buldert.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "De automatische deur wil niet dicht; de tussenruimte erachter buldert."
+ },
+ "a:coach8|p:door|x:open|2": {
+  "postedit": "De deur aan het eind gaapt open naar de schuddende tussenruimte.",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "De deur aan het eind gaapt open naar de schuddende tussenruimte."
+ },
+ "a:coach8|p:lighting|v:dim|0": {
+  "postedit": "De verlichting in het rijtuig is gedimd voor de nacht, een zachte amberkleurige gloed.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "De verlichting in het rijtuig is gedimd voor de nacht, een zachte amberkleurige gloed."
+ },
+ "a:coach8|p:lighting|v:dim|1": {
+  "postedit": "Gedempte nachtverlichting gloeit langs de bagagerekken, zoals altijd.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Gedempte nachtverlichting gloeit langs de bagagerekken, zoals altijd."
+ },
+ "a:coach8|p:lighting|v:dim|2": {
+  "postedit": "De plafondlampen staan op hun amberkleurige nachtstand.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "De plafondlampen staan op hun amberkleurige nachtstand."
+ },
+ "a:coach8|p:lighting|v:dim|3": {
+  "postedit": "Het rijtuig baadt in hetzelfde zachte goud als het vorige.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Het rijtuig baadt in hetzelfde zachte goud als het vorige."
+ },
+ "a:coach8|p:lighting|x:bright|0": {
+  "postedit": "De lampen branden op vol, hard en wit, niet op de nachtstand.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "De lampen branden op vol, hard en wit, niet op de nachtstand."
+ },
+ "a:coach8|p:lighting|x:bright|1": {
+  "postedit": "Dit rijtuig is veel feller verlicht dan het vorige.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Dit rijtuig is veel feller verlicht dan het vorige."
+ },
+ "a:coach8|p:lighting|x:bright|2": {
+  "postedit": "Het zachte amber is weg; alles schittert wit.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Het zachte amber is weg; alles schittert wit."
+ },
+ "a:coach8|p:lighting|x:flicker|0": {
+  "postedit": "De verlichting in het rijtuig flikkert mee met de beweging van de trein en houdt dan stand.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "De verlichting in het rijtuig flikkert mee met de beweging van de trein en houdt dan stand."
+ },
+ "a:coach8|p:lighting|x:flicker|1": {
+  "postedit": "Eén lichtbalk boven je hapert.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Eén lichtbalk boven je hapert."
+ },
+ "a:coach8|p:lighting|x:flicker|2": {
+  "postedit": "Het amberkleurige licht valt uit en gaat weer aan.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Het amberkleurige licht valt uit en gaat weer aan."
+ },
+ "a:coach8|p:lighting|x:off|0": {
+  "postedit": "Het rijtuig is donker, op de noodstrips langs de vloer na.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Het rijtuig is donker, op de noodstrips langs de vloer na."
+ },
+ "a:coach8|p:lighting|x:off|1": {
+  "postedit": "De lampen zijn hier uit; alleen de gangpadmarkeringen gloeien.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "De lampen zijn hier uit; alleen de gangpadmarkeringen gloeien."
+ },
+ "a:coach8|p:lighting|x:off|2": {
+  "postedit": "Duisternis, op een dunne streep licht langs de vloer na.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Duisternis, op een dunne streep licht langs de vloer na."
+ },
+ "a:coach8|p:luggage|v:stowed|0": {
+  "postedit": "Eén koffer staat in het bagagerek bij de deur.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Eén koffer staat in het bagagerek bij de deur."
+ },
+ "a:coach8|p:luggage|v:stowed|1": {
+  "postedit": "De bagagerekken boven bevatten het gebruikelijke handjevol tassen.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "De bagagerekken boven bevatten het gebruikelijke handjevol tassen."
+ },
+ "a:coach8|p:luggage|v:stowed|2": {
+  "postedit": "Eén harde koffer reist mee op het bagagerek, net als eerder.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Eén harde koffer reist mee op het bagagerek, net als eerder."
+ },
+ "a:coach8|p:luggage|x:gone|0": {
+  "postedit": "Het bagagerek is nu leeg.",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "Het bagagerek is nu leeg."
+ },
+ "a:coach8|p:luggage|x:gone|1": {
+  "postedit": "De koffer bij de deur is weg.",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "De koffer bij de deur is weg."
+ },
+ "a:coach8|p:luggage|x:gone|2": {
+  "postedit": "Er liggen deze keer geen tassen in de rekken.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Er liggen deze keer geen tassen in de rekken."
+ },
+ "a:coach8|p:luggage|x:more|0": {
+  "postedit": "Het bagagerek is volgepropt, veel meer tassen dan eerst.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Het bagagerek is volgepropt, veel meer tassen dan eerst."
+ },
+ "a:coach8|p:luggage|x:more|1": {
+  "postedit": "De koffers zijn nu bijna tot aan het plafond opgestapeld.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "De koffers zijn nu bijna tot aan het plafond opgestapeld."
+ },
+ "a:coach8|p:luggage|x:more|2": {
+  "postedit": "De rekken puilen uit van bagage die er niet was.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "De rekken puilen uit van bagage die er niet was."
+ },
+ "a:coach8|p:luggage|x:open|0": {
+  "postedit": "De koffer in het rek ligt open, leeg.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "De koffer in het rek ligt open, leeg."
+ },
+ "a:coach8|p:luggage|x:open|1": {
+  "postedit": "Een koffer is opengevallen over het bagagerek.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Een koffer is opengevallen over het bagagerek."
+ },
+ "a:coach8|p:luggage|x:open|2": {
+  "postedit": "De harde koffer gaapt open, de inhoud verdwenen.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "De harde koffer gaapt open, de inhoud verdwenen."
+ },
+ "a:coach8|p:passenger|v:sleeping|0": {
+  "postedit": "Een eenzame passagier slaapt tegen het verre raam, een jas over het gezicht.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Een eenzame passagier slaapt tegen het verre raam, een jas over het gezicht."
+ },
+ "a:coach8|p:passenger|v:sleeping|1": {
+  "postedit": "Eén passagier dommelt halverwege het rijtuig, het hoofd achterover.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Eén passagier dommelt halverwege het rijtuig, het hoofd achterover."
+ },
+ "a:coach8|p:passenger|v:sleeping|2": {
+  "postedit": "Dezelfde slapende gestalte hangt onderuit bij het raam, net als eerder.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Dezelfde slapende gestalte hangt onderuit bij het raam, net als eerder."
+ },
+ "a:coach8|p:passenger|x:awake|0": {
+  "postedit": "De passagier is nu wakker, rechtop, doodstil.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "De passagier is nu wakker, rechtop, doodstil."
+ },
+ "a:coach8|p:passenger|x:awake|1": {
+  "postedit": "De ogen van de slaper zijn open, gericht op het gangpad.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "De ogen van de slaper zijn open, gericht op het gangpad."
+ },
+ "a:coach8|p:passenger|x:awake|2": {
+  "postedit": "De passagier slaapt niet meer. Hij kijkt je na terwijl je passeert.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "De passagier slaapt niet meer. Hij kijkt je na terwijl je passeert."
+ },
+ "a:coach8|p:passenger|x:gone|0": {
+  "postedit": "De stoel waar de passagier sliep is nu leeg.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "De stoel waar de passagier sliep is nu leeg."
+ },
+ "a:coach8|p:passenger|x:gone|1": {
+  "postedit": "Deze keer slaapt er niemand in het rijtuig.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Deze keer slaapt er niemand in het rijtuig."
+ },
+ "a:coach8|p:passenger|x:gone|2": {
+  "postedit": "De dommelende passagier is weg; alleen een opgevouwen jas blijft achter.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "De dommelende passagier is weg; alleen een opgevouwen jas blijft achter."
+ },
+ "a:coach8|p:passenger|x:moved|0": {
+  "postedit": "De slapende passagier is naar een stoel dichter bij het gangpad verschoven.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "De slapende passagier is naar een stoel dichter bij het gangpad verschoven."
+ },
+ "a:coach8|p:passenger|x:moved|1": {
+  "postedit": "De dommelende gestalte is dichterbij dan eerst, nu aan jouw kant.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "De dommelende gestalte is dichterbij dan eerst, nu aan jouw kant."
+ },
+ "a:coach8|p:passenger|x:moved|2": {
+  "postedit": "De passagier slaapt op een andere stoel dan zojuist.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "De passagier slaapt op een andere stoel dan zojuist."
+ },
+ "a:coach8|p:passenger|x:speaks|0": {
+  "postedit": "De slapende passagier mompelt, zonder wakker te worden: 'alweer?'",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "De slapende passagier mompelt, zonder wakker te worden: 'alweer?'"
+ },
+ "a:coach8|p:passenger|x:speaks|1": {
+  "postedit": "Van onder de jas, een gedempte stem: 'je was hier net nog.'",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Van onder de jas, een gedempte stem: 'je was hier net nog.'"
+ },
+ "a:coach8|p:passenger|x:speaks|2": {
+  "postedit": "De dommelende gestalte noemt de naam van jouw halte, hoewel je die aan niemand hebt verteld.",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "De dommelende gestalte noemt de naam van jouw halte, hoewel je die aan niemand hebt verteld."
+ },
+ "a:coach8|p:passenger|x:two|0": {
+  "postedit": "Er slapen hier nu twee passagiers, waar er eerst één was.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Er slapen hier nu twee passagiers, waar er eerst één was."
+ },
+ "a:coach8|p:passenger|x:two|1": {
+  "postedit": "Er zijn deze keer twee jassen over gezichten, niet één.",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "Er zijn deze keer twee jassen over gezichten, niet één."
+ },
+ "a:coach8|p:passenger|x:two|2": {
+  "postedit": "Een tweede slapende gestalte heeft zich bij de eerste gevoegd.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Een tweede slapende gestalte heeft zich bij de eerste gevoegd."
+ },
+ "a:coach8|p:seatnum|v:eight|0": {
+  "postedit": "De stoelstickers lezen 8A, 8B, 8C langs de rij.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "De stoelstickers lezen 8A, 8B, 8C langs de rij."
+ },
+ "a:coach8|p:seatnum|v:eight|1": {
+  "postedit": "Kleine koperen cijfers markeren de stoelen: rij 8, zoals altijd.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Kleine koperen cijfers markeren de stoelen: rij 8, zoals altijd."
+ },
+ "a:coach8|p:seatnum|v:eight|2": {
+  "postedit": "Het rijtuignummerpaneel bij de deur gloeit RIJTUIG 8.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Het rijtuignummerpaneel bij de deur gloeit RIJTUIG 8."
+ },
+ "a:coach8|p:seatnum|x:letters|0": {
+  "postedit": "De stoelstickers lezen 8X, 8Y, 8Z, letters die er niet horen.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "De stoelstickers lezen 8X, 8Y, 8Z, letters die er niet horen."
+ },
+ "a:coach8|p:seatnum|x:letters|1": {
+  "postedit": "De rij is genummerd in een alfabet dat je niet herkent.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "De rij is genummerd in een alfabet dat je niet herkent."
+ },
+ "a:coach8|p:seatnum|x:letters|2": {
+  "postedit": "De stoellabels zijn nu enkel symbolen, geen cijfers.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "De stoellabels zijn nu enkel symbolen, geen cijfers."
+ },
+ "a:coach8|p:seatnum|x:missing|0": {
+  "postedit": "De stoelnummers zijn eraf gewrikt; alleen kale schroefgaten blijven over.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "De stoelnummers zijn eraf gewrikt; alleen kale schroefgaten blijven over."
+ },
+ "a:coach8|p:seatnum|x:missing|1": {
+  "postedit": "Het rijtuignummerpaneel bij de deur is donker en leeg.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Het rijtuignummerpaneel bij de deur is donker en leeg."
+ },
+ "a:coach8|p:seatnum|x:missing|2": {
+  "postedit": "Er staan deze keer helemaal geen nummers op de stoelen.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Er staan deze keer helemaal geen nummers op de stoelen."
+ },
+ "a:coach8|p:seatnum|x:wrong|0": {
+  "postedit": "De stoelstickers lezen nu rij 7, niet 8.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "De stoelstickers lezen nu rij 7, niet 8."
+ },
+ "a:coach8|p:seatnum|x:wrong|1": {
+  "postedit": "Het rijtuignummerpaneel leest RIJTUIG 9.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Het rijtuignummerpaneel leest RIJTUIG 9."
+ },
+ "a:coach8|p:seatnum|x:wrong|2": {
+  "postedit": "De koperen cijfers zeggen rij 6; je wist zeker dat het 8 was.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "De koperen cijfers zeggen rij 6; je wist zeker dat het 8 was."
+ },
+ "a:coach8|p:sense|v:steady|0": {
+  "postedit": "De trein voelt precies zo lang als hij altijd is geweest.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "De trein voelt precies zo lang als hij altijd is geweest."
+ },
+ "a:coach8|p:sense|v:steady|1": {
+  "postedit": "Je draagt hetzelfde vermoeide geduld door het gangpad, rijtuig na rijtuig.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Je draagt hetzelfde vermoeide geduld door het gangpad, rijtuig na rijtuig."
+ },
+ "a:coach8|p:sense|v:steady|2": {
+  "postedit": "Alles voelt zo gewoon als een nachttrein hoort te zijn.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Alles voelt zo gewoon als een nachttrein hoort te zijn."
+ },
+ "a:coach8|p:sense|x:calm|0": {
+  "postedit": "Je voelt je plotseling, ten onrechte, kalm, alsof je al was aangekomen.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Je voelt je plotseling, ten onrechte, kalm, alsof je al was aangekomen."
+ },
+ "a:coach8|p:sense|x:calm|1": {
+  "postedit": "Een vreemde tevredenheid daalt over je neer die hier niets te zoeken heeft.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Een vreemde tevredenheid daalt over je neer die hier niets te zoeken heeft."
+ },
+ "a:coach8|p:sense|x:calm|2": {
+  "postedit": "Je voelt geen enkele haast, en dat op zich voelt verkeerd.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Je voelt geen enkele haast, en dat op zich voelt verkeerd."
+ },
+ "a:coach8|p:sense|x:forget|0": {
+  "postedit": "Even weet je niet meer door hoeveel rijtuigen je bent gelopen.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Even weet je niet meer door hoeveel rijtuigen je bent gelopen."
+ },
+ "a:coach8|p:sense|x:forget|1": {
+  "postedit": "Je verliest de tel van de rijtuigen achter je, en dat maakt je bang.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Je verliest de tel van de rijtuigen achter je, en dat maakt je bang."
+ },
+ "a:coach8|p:sense|x:forget|2": {
+  "postedit": "Je kunt je niet herinneren dat je in deze trein bent gestapt.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Je kunt je niet herinneren dat je in deze trein bent gestapt."
+ },
+ "a:coach8|p:sense|x:watched|0": {
+  "postedit": "Je voelt je bekeken, hoewel elke passagier slaapt.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Je voelt je bekeken, hoewel elke passagier slaapt."
+ },
+ "a:coach8|p:sense|x:watched|1": {
+  "postedit": "De zekerheid dat er iemand achter je staat, wil niet wijken.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "De zekerheid dat er iemand achter je staat, wil niet wijken."
+ },
+ "a:coach8|p:sense|x:watched|2": {
+  "postedit": "Je nek prikkelt; je weet zeker dat je niet meer zo alleen bent als daarnet.",
+  "postedit_score": 95,
+  "score": 92,
+  "text": "Je nek prikkelt; je weet zeker dat je niet meer zo alleen bent als daarnet."
+ },
+ "a:coach8|p:sound|v:rhythm|0": {
+  "postedit": "De rails slaan hun gestage ritme onder de vloer.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "De rails slaan hun gestage ritme onder de vloer."
+ },
+ "a:coach8|p:sound|v:rhythm|1": {
+  "postedit": "De trein zoemt voort, de wielen tikkend over de lasnaden.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "De trein zoemt voort, de wielen tikkend over de lasnaden."
+ },
+ "a:coach8|p:sound|v:rhythm|2": {
+  "postedit": "Dat vertrouwde zwenken en ratelen van een trein op snelheid.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Dat vertrouwde zwenken en ratelen van een trein op snelheid."
+ },
+ "a:coach8|p:sound|x:announce|0": {
+  "postedit": "Er klinkt een belletje, dan een gedempte omroep die je niet kunt verstaan.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Er klinkt een belletje, dan een gedempte omroep die je niet kunt verstaan."
+ },
+ "a:coach8|p:sound|x:announce|1": {
+  "postedit": "De omroepinstallatie kraakt met een stem en valt dan stil.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "De omroepinstallatie kraakt met een stem en valt dan stil."
+ },
+ "a:coach8|p:sound|x:announce|2": {
+  "postedit": "Er klinkt een omroepbericht, bijna achterstevoren.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Er klinkt een omroepbericht, bijna achterstevoren."
+ },
+ "a:coach8|p:sound|x:faster|0": {
+  "postedit": "De rails slaan sneller dan zou moeten, een oplopend gejank.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "De rails slaan sneller dan zou moeten, een oplopend gejank."
+ },
+ "a:coach8|p:sound|x:faster|1": {
+  "postedit": "De trein versnelt, het geratel klimt in toonhoogte.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "De trein versnelt, het geratel klimt in toonhoogte."
+ },
+ "a:coach8|p:sound|x:faster|2": {
+  "postedit": "Alles rammelt harder; je gaat sneller.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Alles rammelt harder; je gaat sneller."
+ },
+ "a:coach8|p:sound|x:silence|0": {
+  "postedit": "De wielen zijn stil geworden. Je voelt helemaal geen beweging meer.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "De wielen zijn stil geworden. Je voelt helemaal geen beweging meer."
+ },
+ "a:coach8|p:sound|x:silence|1": {
+  "postedit": "Het geluid van de trein is gestopt. Doodstil.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Het geluid van de trein is gestopt. Doodstil."
+ },
+ "a:coach8|p:sound|x:silence|2": {
+  "postedit": "Geen geratel, geen gezwenk. Misschien rijdt de trein niet meer.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Geen geratel, geen gezwenk. Misschien rijdt de trein niet meer."
+ },
+ "a:coach8|p:sound|x:slowing|0": {
+  "postedit": "Het ritme van de rails vertraagt. Sta je stil?",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Het ritme van de rails vertraagt. Sta je stil?"
+ },
+ "a:coach8|p:sound|x:slowing|1": {
+  "postedit": "Het geratel sleept, alsof de trein snelheid verliest.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Het geratel sleept, alsof de trein snelheid verliest."
+ },
+ "a:coach8|p:sound|x:slowing|2": {
+  "postedit": "De slag onder de vloer rekt langer uit tussen de tikken.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "De slag onder de vloer rekt langer uit tussen de tikken."
+ },
+ "a:coach8|p:table|v:coffee|0": {
+  "postedit": "Een klaptafeltje bij het gangpad draagt een halfopgedronken koffie.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Een klaptafeltje bij het gangpad draagt een halfopgedronken koffie."
+ },
+ "a:coach8|p:table|v:coffee|1": {
+  "postedit": "Het klaptafeltje staat neer, een papieren beker koelt erop af, zoals altijd.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Het klaptafeltje staat neer, een papieren beker koelt erop af, zoals altijd."
+ },
+ "a:coach8|p:table|v:coffee|2": {
+  "postedit": "Op het tafeltje iemands koffie, nog zwakjes dampend.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Op het tafeltje iemands koffie, nog zwakjes dampend."
+ },
+ "a:coach8|p:table|x:cold|0": {
+  "postedit": "De koffie op het tafeltje is koud geworden, met een vel erop.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "De koffie op het tafeltje is koud geworden, met een vel erop."
+ },
+ "a:coach8|p:table|x:cold|1": {
+  "postedit": "De beker is nu ijskoud, allang achtergelaten.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "De beker is nu ijskoud, allang achtergelaten."
+ },
+ "a:coach8|p:table|x:cold|2": {
+  "postedit": "De koffie staat koud en stil, zonder enige damp.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "De koffie staat koud en stil, zonder enige damp."
+ },
+ "a:coach8|p:table|x:empty|0": {
+  "postedit": "Het tafeltje is kaal; de koffiebeker is weg.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Het tafeltje is kaal; de koffiebeker is weg."
+ },
+ "a:coach8|p:table|x:empty|1": {
+  "postedit": "Het klaptafeltje draagt nu niets.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Het klaptafeltje draagt nu niets."
+ },
+ "a:coach8|p:table|x:empty|2": {
+  "postedit": "Er staat deze keer geen beker op het tafeltje.",
+  "postedit_score": 96,
+  "score": 94,
+  "text": "Er staat deze keer geen beker op het tafeltje."
+ },
+ "a:coach8|p:table|x:many|0": {
+  "postedit": "Het tafeltje staat nu vol bekers, niet één maar vele.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Het tafeltje staat nu vol bekers, niet één maar vele."
+ },
+ "a:coach8|p:table|x:many|1": {
+  "postedit": "Meerdere koffies verdringen zich op het klaptafeltje waar er eerst één stond.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Meerdere koffies verdringen zich op het klaptafeltje waar er eerst één stond."
+ },
+ "a:coach8|p:table|x:many|2": {
+  "postedit": "Het tafeltje ligt bezaaid met meer bekers dan iemand kan opdrinken.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Het tafeltje ligt bezaaid met meer bekers dan iemand kan opdrinken."
+ },
+ "a:coach8|p:table|x:spilled|0": {
+  "postedit": "De koffie is gemorst, een donkere vlek breidt zich uit over het tafeltje.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "De koffie is gemorst, een donkere vlek breidt zich uit over het tafeltje."
+ },
+ "a:coach8|p:table|x:spilled|1": {
+  "postedit": "De beker is omgevallen, koffie loopt van de rand van het tafeltje.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "De beker is omgevallen, koffie loopt van de rand van het tafeltje."
+ },
+ "a:coach8|p:table|x:spilled|2": {
+  "postedit": "Koffie plast over het tafeltje en druppelt op de vloer.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Koffie plast over het tafeltje en druppelt op de vloer."
+ },
+ "a:coach8|p:window|v:night|0": {
+  "postedit": "Achter het raam donker landschap en je eigen vage spiegelbeeld.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Achter het raam donker landschap en je eigen vage spiegelbeeld."
+ },
+ "a:coach8|p:window|v:night|1": {
+  "postedit": "Het raam toont alleen de nacht en de schim van het rijtuig.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Het raam toont alleen de nacht en de schim van het rijtuig."
+ },
+ "a:coach8|p:window|v:night|2": {
+  "postedit": "Donkere velden schieten langs het raam, verre lichtjes verspreid.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Donkere velden schieten langs het raam, verre lichtjes verspreid."
+ },
+ "a:coach8|p:window|x:daylight|0": {
+  "postedit": "Het raam is fel van daglicht. Zojuist was het nog nacht.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Het raam is fel van daglicht. Zojuist was het nog nacht."
+ },
+ "a:coach8|p:window|x:daylight|1": {
+  "postedit": "Buiten het glas is het plotseling, onmogelijk, dag.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Buiten het glas is het plotseling, onmogelijk, dag."
+ },
+ "a:coach8|p:window|x:daylight|2": {
+  "postedit": "Zonlicht vult het raam waar eerst alleen duisternis was.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Zonlicht vult het raam waar eerst alleen duisternis was."
+ },
+ "a:coach8|p:window|x:reflection|0": {
+  "postedit": "Je spiegelbeeld in het glas loopt een halve seconde op je achter.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Je spiegelbeeld in het glas loopt een halve seconde op je achter."
+ },
+ "a:coach8|p:window|x:reflection|1": {
+  "postedit": "Het spiegelbeeld in het raam komt niet helemaal overeen met het rijtuig.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Het spiegelbeeld in het raam komt niet helemaal overeen met het rijtuig."
+ },
+ "a:coach8|p:window|x:reflection|2": {
+  "postedit": "In de weerspiegeling van het raam staat iemand die niet in het rijtuig is.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "In de weerspiegeling van het raam staat iemand die niet in het rijtuig is."
+ },
+ "a:coach8|p:window|x:station|0": {
+  "postedit": "Het raam toont een verlicht perron dat voorbijglijdt, een station, onaangekondigd.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Het raam toont een verlicht perron dat voorbijglijdt, een station, onaangekondigd."
+ },
+ "a:coach8|p:window|x:station|1": {
+  "postedit": "Buiten passeert een stationsperron, leeg en helder verlicht.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Buiten passeert een stationsperron, leeg en helder verlicht."
+ },
+ "a:coach8|p:window|x:station|2": {
+  "postedit": "Een station glijdt langs het glas; je hebt de trein niet voelen vertragen.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Een station glijdt langs het glas; je hebt de trein niet voelen vertragen."
+ },
+ "a:coach8|p:window|x:tunnel|0": {
+  "postedit": "Het raam is gitzwart, een tunnel, razend, zonder eind.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Het raam is gitzwart, een tunnel, razend, zonder eind."
+ },
+ "a:coach8|p:window|x:tunnel|1": {
+  "postedit": "Je zit nu in een tunnel; het glas toont alleen voortsnellende duisternis.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Je zit nu in een tunnel; het glas toont alleen voortsnellende duisternis."
+ },
+ "a:coach8|p:window|x:tunnel|2": {
+  "postedit": "Niets dan zwarte tunnelwand stroomt langs het raam.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Niets dan zwarte tunnelwand stroomt langs het raam."
+ },
+ "a:coach8|progress": {
+  "postedit": "Rijtuig {level} / {goal}",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "Rijtuig {level} / {goal}"
+ },
+ "a:coach8|share_prompt": {
+  "postedit": "Houd de deuren tegen.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Houd de deuren tegen."
+ },
+ "a:coach8|tagline": {
+  "postedit": "De conducteur zei rijtuig 8. De trein lijkt het nooit te bereiken.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "De conducteur zei rijtuig 8. De trein lijkt het nooit te bereiken."
+ },
+ "a:coach8|title_main": {
+  "postedit": "Rijtuig 8",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "Rijtuig 8"
+ },
+ "a:coach8|title|0": {
+  "postedit": "Rijtuig 8",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "Rijtuig 8"
+ },
+ "a:coach8|title|1": {
+  "postedit": "Rijtuig 8",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "Rijtuig 8"
+ },
+ "a:coach8|title|2": {
+  "postedit": "Rijtuig 8",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "Rijtuig 8"
+ },
+ "a:coach8|title|3": {
+  "postedit": "Rijtuig 8",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "Rijtuig 8"
+ },
+ "a:coach8|title|4": {
+  "postedit": "Wagon 8",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Wagon 8"
+ },
+ "a:coach8|title|5": {
+  "postedit": "Rijtuig acht",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Rijtuig acht"
+ },
+ "a:coach8|title|6": {
+  "postedit": "RIJTUIG 8",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "RIJTUIG 8"
+ },
+ "a:coach8|title|7": {
+  "postedit": "Rijtuig  8",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "Rijtuig  8"
+ },
+ "a:coach8|turn_back": {
+  "postedit": "Rijtuig terug",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Rijtuig terug"
+ },
+ "a:hallway-eight|act2|end|lobby|0": {
+  "postedit": "Je duwt door de verlichte deur, de straat verwachtend.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Je duwt door de verlichte deur, de straat verwachtend."
+ },
+ "a:hallway-eight|act2|end|lobby|1": {
+  "postedit": "Het is de hal waar je begon, het glas nog steeds op slot, de nacht nog steeds zwart erachter.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Het is de hal waar je begon, het glas nog steeds op slot, de nacht nog steeds zwart erachter."
+ },
+ "a:hallway-eight|act2|end|lobby|2": {
+  "postedit": "De gang die je liep is simpelweg verdwenen. Je bent terug bij het begin van een gebouw dat geen uitweg meer heeft.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "De gang die je liep is simpelweg verdwenen. Je bent terug bij het begin van een gebouw dat geen uitweg meer heeft."
+ },
+ "a:hallway-eight|act2|exit|action": {
+  "postedit": "stap er doorheen",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "stap er doorheen"
+ },
+ "a:hallway-eight|act2|exit|tempt": {
+  "postedit": "Een deur verderop staat open, een verlichte UITGANG zoemt groen erboven. De straat moet daar vlak achter zijn.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Een deur verderop staat open, een verlichte UITGANG zoemt groen erboven. De straat moet daar vlak achter zijn."
+ },
+ "a:hallway-eight|act2|flashback|0": {
+  "postedit": "Een bureaulamp brandt nog een paar deuren terug. Een kop koffie koud geworden bij zijn eigen ring. De klok wijst een tijd aan die de klok niet kan aanwijzen.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Een bureaulamp brandt nog een paar deuren terug. Een kop koffie koud geworden bij zijn eigen ring. De klok wijst een tijd aan die de klok niet kan aanwijzen."
+ },
+ "a:hallway-eight|act2|flashback|1": {
+  "postedit": "Een telefoon zoemt in een kamer die je nog niet hebt bereikt. De naam op het scherm is bijna de jouwe.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Een telefoon zoemt in een kamer die je nog niet hebt bereikt. De naam op het scherm is bijna de jouwe."
+ },
+ "a:hallway-eight|act2|flashback|2": {
+  "postedit": "Je had de haldeuren bij zes. Je keerde terug voor iets dat je al bent vergeten.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Je had de haldeuren bij zes. Je keerde terug voor iets dat je al bent vergeten."
+ },
+ "a:hallway-eight|act2|flashback|3": {
+  "postedit": "De man in het grijs hield ooit de branddeur open, lang geleden, en keek je aan zoals je kijkt naar iemand die je op het punt staat achter te laten.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "De man in het grijs hield ooit de branddeur open, lang geleden, en keek je aan zoals je kijkt naar iemand die je op het punt staat achter te laten."
+ },
+ "a:hallway-eight|act2|flashback|4": {
+  "postedit": "Je hebt eerder tot acht geteld. Daar ben je vrijwel zeker van. Je bent er vrijwel zeker van dat je het nooit haalde.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Je hebt eerder tot acht geteld. Daar ben je vrijwel zeker van. Je bent er vrijwel zeker van dat je het nooit haalde."
+ },
+ "a:hallway-eight|act2|t:camera|fold|0": {
+  "postedit": "De camera volgt je hand terug de weg die je kwam, en je voeten volgen de camera, en je bent weer bij het begin.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "De camera volgt je hand terug de weg die je kwam, en je voeten volgen de camera, en je bent weer bij het begin."
+ },
+ "a:hallway-eight|act2|t:camera|herring|0": {
+  "postedit": "Een rood lampje dat je je niet herinnert knippert één keer. Het brandde waarschijnlijk altijd al.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Een rood lampje dat je je niet herinnert knippert één keer. Het brandde waarschijnlijk altijd al."
+ },
+ "a:hallway-eight|act2|t:camera|herring|1": {
+  "postedit": "Even beslaat de lens, alsof er van binnenuit op geademd is.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Even beslaat de lens, alsof er van binnenuit op geademd is."
+ },
+ "a:hallway-eight|act2|t:camera|reaction|0": {
+  "postedit": "Hij draait, onhaastig, en komt op jou tot rust. Niets anders beweegt.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Hij draait, onhaastig, en komt op jou tot rust. Niets anders beweegt."
+ },
+ "a:hallway-eight|act2|t:camera|reaction|1": {
+  "postedit": "De lens kantelt omlaag naar je ooghoogte en houdt daar stand, geduldig.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "De lens kantelt omlaag naar je ooghoogte en houdt daar stand, geduldig."
+ },
+ "a:hallway-eight|act2|t:camera|verb": {
+  "postedit": "zwaai naar de camera",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "zwaai naar de camera"
+ },
+ "a:hallway-eight|act2|t:door|fold|0": {
+  "postedit": "Hij opent op een stuk gang dat je al hebt gelopen. Het getal in je hoofd is weg. Je bent weer bij het begin.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Hij opent op een stuk gang dat je al hebt gelopen. Het getal in je hoofd is weg. Je bent weer bij het begin."
+ },
+ "a:hallway-eight|act2|t:door|herring|0": {
+  "postedit": "Het metaal is warm, warmer dan een gesloten deur zou moeten zijn. Het betekent waarschijnlijk niets.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Het metaal is warm, warmer dan een gesloten deur zou moeten zijn. Het betekent waarschijnlijk niets."
+ },
+ "a:hallway-eight|act2|t:door|herring|1": {
+  "postedit": "Er komt een tocht onderdoor die er eerst niet was. Of wel, en je hebt hem nooit gemerkt.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Er komt een tocht onderdoor die er eerst niet was. Of wel, en je hebt hem nooit gemerkt."
+ },
+ "a:hallway-eight|act2|t:door|reaction|0": {
+  "postedit": "De klink draait een stukje en stopt, alsof hij van de andere kant wordt vastgehouden.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "De klink draait een stukje en stopt, alsof hij van de andere kant wordt vastgehouden."
+ },
+ "a:hallway-eight|act2|t:door|reaction|1": {
+  "postedit": "Je legt je oor ertegen. Iets aan de andere kant valt stil, zoals een kamer doet wanneer je binnenkomt.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Je legt je oor ertegen. Iets aan de andere kant valt stil, zoals een kamer doet wanneer je binnenkomt."
+ },
+ "a:hallway-eight|act2|t:door|verb": {
+  "postedit": "probeer de dienstdeur",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "probeer de dienstdeur"
+ },
+ "a:hallway-eight|act2|t:figure|fold|0": {
+  "postedit": "Hij draait zich eindelijk om, en het is een gezicht dat je maar al te goed kent, en de aanblik ervan zet je terug bij het begin.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Hij draait zich eindelijk om, en het is een gezicht dat je maar al te goed kent, en de aanblik ervan zet je terug bij het begin."
+ },
+ "a:hallway-eight|act2|t:figure|herring|0": {
+  "postedit": "Even lijkt zijn pak op het jouwe. Grijs is grijs.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Even lijkt zijn pak op het jouwe. Grijs is grijs."
+ },
+ "a:hallway-eight|act2|t:figure|herring|1": {
+  "postedit": "Hij is een beetje dichterbij dan toen je riep. Gewoon het lopen, vast.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Hij is een beetje dichterbij dan toen je riep. Gewoon het lopen, vast."
+ },
+ "a:hallway-eight|act2|t:figure|reaction|0": {
+  "postedit": "Je stem gaat de gang in en komt niet terug. Hij draait zich niet om.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Je stem gaat de gang in en komt niet terug. Hij draait zich niet om."
+ },
+ "a:hallway-eight|act2|t:figure|reaction|1": {
+  "postedit": "Hij pauzeert, een halve stap, zoals je pauzeert bij je eigen naam in een menigte. Dan loopt hij door.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Hij pauzeert, een halve stap, zoals je pauzeert bij je eigen naam in een menigte. Dan loopt hij door."
+ },
+ "a:hallway-eight|act2|t:figure|verb": {
+  "postedit": "roep naar de man in het grijs",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "roep naar de man in het grijs"
+ },
+ "a:hallway-eight|act2|t:poster|fold|0": {
+  "postedit": "Je leunt in tot de stippen al zijn wat er is, en als je terugstapt heeft de gang zich rond je gereset.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Je leunt in tot de stippen al zijn wat er is, en als je terugstapt heeft de gang zich rond je gereset."
+ },
+ "a:hallway-eight|act2|t:poster|herring|0": {
+  "postedit": "De inkt is nog kleverig. Vers gedrukt. Het betekent niets, en je weet dat het niets betekent, en toch trekt je hand terug.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "De inkt is nog kleverig. Vers gedrukt. Het betekent niets, en je weet dat het niets betekent, en toch trekt je hand terug."
+ },
+ "a:hallway-eight|act2|t:poster|herring|1": {
+  "postedit": "De kleuren zijn te fel voor hoe verschoten hij er een moment geleden uitzag. Een spel van het licht.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "De kleuren zijn te fel voor hoe verschoten hij er een moment geleden uitzag. Een spel van het licht."
+ },
+ "a:hallway-eight|act2|t:poster|reaction|0": {
+  "postedit": "Van dichtbij is het strand alleen inktstippen. Een plek waar je heen zou gaan.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Van dichtbij is het strand alleen inktstippen. Een plek waar je heen zou gaan."
+ },
+ "a:hallway-eight|act2|t:poster|reaction|1": {
+  "postedit": "De hoek is zo vaak losgetrokken en teruggedrukt dat het papier zacht is geworden.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "De hoek is zo vaak losgetrokken en teruggedrukt dat het papier zacht is geworden."
+ },
+ "a:hallway-eight|act2|t:poster|verb": {
+  "postedit": "kijk beter naar de poster",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "kijk beter naar de poster"
+ },
+ "a:hallway-eight|attempt": {
+  "postedit": "{n} keer door deze gang, en deze keer ging hij open.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "{n} keer door deze gang, en deze keer ging hij open."
+ },
+ "a:hallway-eight|attempt_first": {
+  "postedit": "Eerste keer erdoorheen, en de gang liet je gaan.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Eerste keer erdoorheen, en de gang liet je gaan."
+ },
+ "a:hallway-eight|framing|cutscene|0": {
+  "postedit": "Er veranderde iets in de gang, en je liep eraan voorbij.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Er veranderde iets in de gang, en je liep eraan voorbij."
+ },
+ "a:hallway-eight|framing|cutscene|1": {
+  "postedit": "Is een stuk niet precies zoals je het je herinnert, keer dan om. Is het dat wel, loop dan door.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Is een stuk niet precies zoals je het je herinnert, keer dan om. Is het dat wel, loop dan door."
+ },
+ "a:hallway-eight|share_prompt": {
+  "postedit": "Laat de deur open.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Laat de deur open."
+ },
+ "a:stairway8|act2|end|climb|0": {
+  "postedit": "Je neemt de kortere weg door de deur, zeker dat hij je op de begane grond afzet.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Je neemt de kortere weg door de deur, zeker dat hij je op de begane grond afzet."
+ },
+ "a:stairway8|act2|end|climb|1": {
+  "postedit": "Het nummer op de muur is hoger dan de verdieping waar je begon.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Het nummer op de muur is hoger dan de verdieping waar je begon."
+ },
+ "a:stairway8|act2|end|climb|2": {
+  "postedit": "De trap omlaag is een trap omhoog geworden, en elke deur vanaf hier opent op treden die alleen maar stijgen.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "De trap omlaag is een trap omhoog geworden, en elke deur vanaf hier opent op treden die alleen maar stijgen."
+ },
+ "a:stairway8|act2|exit|action": {
+  "postedit": "neem de kortere weg",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "neem de kortere weg"
+ },
+ "a:stairway8|act2|exit|tempt": {
+  "postedit": "Een overloopdeur hangt open beneden, en erachter lijkt de trap recht naar de straat af te dalen. Een kortere weg omlaag.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Een overloopdeur hangt open beneden, en erachter lijkt de trap recht naar de straat af te dalen. Een kortere weg omlaag."
+ },
+ "a:stairway8|act2|flashback|0": {
+  "postedit": "Je kwam ooit met de lift omhoog. Je herinnert je de deuren die zich sloten voor een gezicht.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Je kwam ooit met de lift omhoog. Je herinnert je de deuren die zich sloten voor een gezicht."
+ },
+ "a:stairway8|act2|flashback|1": {
+  "postedit": "Er was een verdieping die je bezocht. Je kunt het nummer nu niet noemen, alleen dat je er niet heen wilde.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Er was een verdieping die je bezocht. Je kunt het nummer nu niet noemen, alleen dat je er niet heen wilde."
+ },
+ "a:stairway8|act2|flashback|2": {
+  "postedit": "De gestalte beneden zwaaide de eerste keer naar je omhoog, en je hield jezelf voor dat het voor iemand anders bedoeld was.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "De gestalte beneden zwaaide de eerste keer naar je omhoog, en je hield jezelf voor dat het voor iemand anders bedoeld was."
+ },
+ "a:stairway8|act2|flashback|3": {
+  "postedit": "Je hebt deze krassen eerder gelezen. Een ervan is een streepjeslijst, en die gaat voorbij acht.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Je hebt deze krassen eerder gelezen. Een ervan is een streepjeslijst, en die gaat voorbij acht."
+ },
+ "a:stairway8|act2|flashback|4": {
+  "postedit": "Je wist zeker dat de begane grond de volgende was. Je bent eerder zeker geweest.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Je wist zeker dat de begane grond de volgende was. Je bent eerder zeker geweest."
+ },
+ "a:stairway8|act2|t:door|fold|0": {
+  "postedit": "Hij zwaait open naar een overloop die je drie verdiepingen geleden passeerde. De tel is weg. Je bent weer bovenaan.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Hij zwaait open naar een overloop die je drie verdiepingen geleden passeerde. De tel is weg. Je bent weer bovenaan."
+ },
+ "a:stairway8|act2|t:door|herring|0": {
+  "postedit": "De verf erop is kleverig, vers aangebracht, hoewel het bordje ernaast geel is van ouderdom.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "De verf erop is kleverig, vers aangebracht, hoewel het bordje ernaast geel is van ouderdom."
+ },
+ "a:stairway8|act2|t:door|herring|1": {
+  "postedit": "Een koude tocht komt omhoog door de kier, met niets erin dat je kunt benoemen.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Een koude tocht komt omhoog door de kier, met niets erin dat je kunt benoemen."
+ },
+ "a:stairway8|act2|t:door|reaction|0": {
+  "postedit": "De stang geeft een vingerbreedte mee en stopt, een ketting die je niet kunt zien houdt hem tegen.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "De stang geeft een vingerbreedte mee en stopt, een ketting die je niet kunt zien houdt hem tegen."
+ },
+ "a:stairway8|act2|t:door|reaction|1": {
+  "postedit": "Erachter, vaag, het geluid van hetzelfde trappenhuis dat naar beneden gaat.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Erachter, vaag, het geluid van hetzelfde trappenhuis dat naar beneden gaat."
+ },
+ "a:stairway8|act2|t:door|verb": {
+  "postedit": "probeer de overloopdeur",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "probeer de overloopdeur"
+ },
+ "a:stairway8|act2|t:figure|fold|0": {
+  "postedit": "Ze klimt onhaastig omhoog om je te ontmoeten, en als ze je overloop bereikt ben je op de een of andere manier weer bovenaan, alleen.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Ze klimt onhaastig omhoog om je te ontmoeten, en als ze je overloop bereikt ben je op de een of andere manier weer bovenaan, alleen."
+ },
+ "a:stairway8|act2|t:figure|herring|0": {
+  "postedit": "De jas daarbeneden heeft de kleur van de jouwe. De meeste jassen wel.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "De jas daarbeneden heeft de kleur van de jouwe. De meeste jassen wel."
+ },
+ "a:stairway8|act2|t:figure|herring|1": {
+  "postedit": "Het is een overloop dichterbij dan toen je riep. Je hebt tenslotte gelopen.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Het is een overloop dichterbij dan toen je riep. Je hebt tenslotte gelopen."
+ },
+ "a:stairway8|act2|t:figure|reaction|0": {
+  "postedit": "Je stem komt een tel te laat terug, in je eigen toon.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Je stem komt een tel te laat terug, in je eigen toon."
+ },
+ "a:stairway8|act2|t:figure|reaction|1": {
+  "postedit": "Ver beneden kantelt een gezicht omhoog naar het geluid, of de schaduw van een gezicht.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Ver beneden kantelt een gezicht omhoog naar het geluid, of de schaduw van een gezicht."
+ },
+ "a:stairway8|act2|t:figure|verb": {
+  "postedit": "roep naar beneden door de trapkoker",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "roep naar beneden door de trapkoker"
+ },
+ "a:stairway8|act2|t:notice|fold|0": {
+  "postedit": "Je leest tot onderaan en onderaan staat START, en dat is het.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Je leest tot onderaan en onderaan staat START, en dat is het."
+ },
+ "a:stairway8|act2|t:notice|herring|0": {
+  "postedit": "De tape die het vasthoudt is vers, nog glanzend. Mededelingen als deze worden voortdurend vervangen.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "De tape die het vasthoudt is vers, nog glanzend. Mededelingen als deze worden voortdurend vervangen."
+ },
+ "a:stairway8|act2|t:notice|herring|1": {
+  "postedit": "Het papier is warm, alsof het net uit een machine komt. Gebouwen zijn vreemd 's nachts.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Het papier is warm, alsof het net uit een machine komt. Gebouwen zijn vreemd 's nachts."
+ },
+ "a:stairway8|act2|t:notice|reaction|0": {
+  "postedit": "LIFT BUITEN DIENST, NEEM DE TRAP. Iemand heeft NEEM tweemaal onderstreept, hard.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "LIFT BUITEN DIENST, NEEM DE TRAP. Iemand heeft NEEM tweemaal onderstreept, hard."
+ },
+ "a:stairway8|act2|t:notice|reaction|1": {
+  "postedit": "Onder de druk, in potlood, heeft een hand een nummer geschreven en doorgestreept.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Onder de druk, in potlood, heeft een hand een nummer geschreven en doorgestreept."
+ },
+ "a:stairway8|act2|t:notice|verb": {
+  "postedit": "lees de mededeling",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "lees de mededeling"
+ },
+ "a:stairway8|act2|t:railing|fold|0": {
+  "postedit": "Je volgt hem met je ogen omlaag, en je voeten volgen je ogen, en je klimt weer, bij het begin.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Je volgt hem met je ogen omlaag, en je voeten volgen je ogen, en je klimt weer, bij het begin."
+ },
+ "a:stairway8|act2|t:railing|herring|0": {
+  "postedit": "Koud, waar je hem een overloop geleden warm achterliet. Het betekent niets.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Koud, waar je hem een overloop geleden warm achterliet. Het betekent niets."
+ },
+ "a:stairway8|act2|t:railing|herring|1": {
+  "postedit": "Het is een tint groen die je je niet herinnert dat hij was. Het licht hierbeneden is slecht.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Het is een tint groen die je je niet herinnert dat hij was. Het licht hierbeneden is slecht."
+ },
+ "a:stairway8|act2|t:railing|reaction|0": {
+  "postedit": "Hij is kouder dan de lucht, en hij zoemt vaag, zoals een leuning doet wanneer iemand ver beneden hem ook vasthoudt.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Hij is kouder dan de lucht, en hij zoemt vaag, zoals een leuning doet wanneer iemand ver beneden hem ook vasthoudt."
+ },
+ "a:stairway8|act2|t:railing|reaction|1": {
+  "postedit": "Je hand laat er geen afdruk op achter, hoewel dat wel zou moeten.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Je hand laat er geen afdruk op achter, hoewel dat wel zou moeten."
+ },
+ "a:stairway8|act2|t:railing|verb": {
+  "postedit": "grijp de leuning",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "grijp de leuning"
+ },
+ "a:stairway8|attempt": {
+  "postedit": "{n} keer deze trap af, en deze keer lieten ze je eruit.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "{n} keer deze trap af, en deze keer lieten ze je eruit."
+ },
+ "a:stairway8|attempt_first": {
+  "postedit": "Eerste afdaling, en de trap stuurde je nooit terug.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Eerste afdaling, en de trap stuurde je nooit terug."
+ },
+ "a:stairway8|framing|cutscene|0": {
+  "postedit": "Er veranderde iets op de overloop, en je liep er langs naar beneden.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Er veranderde iets op de overloop, en je liep er langs naar beneden."
+ },
+ "a:stairway8|framing|cutscene|1": {
+  "postedit": "Is een overloop niet precies zoals je het je herinnert, ga dan terug omhoog. Is het dat wel, blijf dan afdalen.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Is een overloop niet precies zoals je het je herinnert, ga dan terug omhoog. Is het dat wel, blijf dan afdalen."
+ },
+ "a:stairway8|share_prompt": {
+  "postedit": "Laat de deur beneden open.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Laat de deur beneden open."
+ },
+ "ui|a11y_close": {
+  "postedit": "Sluiten",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Sluiten"
+ },
+ "ui|a11y_settings": {
+  "postedit": "Weergave-instellingen",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Weergave-instellingen"
+ },
+ "ui|a11y_sound_off": {
+  "postedit": "Geluid uit",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Geluid uit"
+ },
+ "ui|a11y_sound_on": {
+  "postedit": "Geluid aan",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Geluid aan"
+ },
+ "ui|ach_d_cold": {
+  "postedit": "Ontsnap zonder een tweede blik.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Ontsnap zonder een tweede blik."
+ },
+ "ui|ach_d_eight_times": {
+  "postedit": "Ontsnap acht keer uit één plek.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Ontsnap acht keer uit één plek."
+ },
+ "ui|ach_d_end_coach8": {
+  "postedit": "Vind het andere einde van Coach 8.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Vind het andere einde van Coach 8."
+ },
+ "ui|ach_d_end_hallway-eight": {
+  "postedit": "Vind het andere einde van Hallway 8.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Vind het andere einde van Hallway 8."
+ },
+ "ui|ach_d_end_stairway8": {
+  "postedit": "Vind het andere einde van Stairway 8.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Vind het andere einde van Stairway 8."
+ },
+ "ui|ach_d_flash_coach8": {
+  "postedit": "Zie elk fragment in Coach 8.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Zie elk fragment in Coach 8."
+ },
+ "ui|ach_d_flash_hallway-eight": {
+  "postedit": "Zie elk fragment in Hallway 8.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Zie elk fragment in Hallway 8."
+ },
+ "ui|ach_d_flash_stairway8": {
+  "postedit": "Zie elk fragment in Stairway 8.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Zie elk fragment in Stairway 8."
+ },
+ "ui|ach_d_flawless": {
+  "postedit": "Ontsnap uit een plek zonder ook maar één keer opnieuw te beginnen.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Ontsnap uit een plek zonder ook maar één keer opnieuw te beginnen."
+ },
+ "ui|ach_d_hard_all": {
+  "postedit": "Ontsnap uit alle drie op moeilijk.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Ontsnap uit alle drie op moeilijk."
+ },
+ "ui|ach_d_hard_coach8": {
+  "postedit": "Ontsnap uit Coach 8 op moeilijk.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Ontsnap uit Coach 8 op moeilijk."
+ },
+ "ui|ach_d_hard_hallway-eight": {
+  "postedit": "Ontsnap uit Hallway 8 op moeilijk.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Ontsnap uit Hallway 8 op moeilijk."
+ },
+ "ui|ach_d_hard_stairway8": {
+  "postedit": "Ontsnap uit Stairway 8 op moeilijk.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Ontsnap uit Stairway 8 op moeilijk."
+ },
+ "ui|ach_d_insane_all": {
+  "postedit": "Ontsnap uit alle drie op waanzinnig.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Ontsnap uit alle drie op waanzinnig."
+ },
+ "ui|ach_d_insane_coach8": {
+  "postedit": "Ontsnap uit Coach 8 op waanzinnig.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Ontsnap uit Coach 8 op waanzinnig."
+ },
+ "ui|ach_d_insane_hallway-eight": {
+  "postedit": "Ontsnap uit Hallway 8 op waanzinnig.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Ontsnap uit Hallway 8 op waanzinnig."
+ },
+ "ui|ach_d_insane_stairway8": {
+  "postedit": "Ontsnap uit Stairway 8 op waanzinnig.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Ontsnap uit Stairway 8 op waanzinnig."
+ },
+ "ui|ach_d_melon": {
+  "postedit": "Bedankt dat je de lichten aan houdt. Namens ons allemaal bij Melon Labs.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Bedankt dat je de lichten aan houdt. Namens ons allemaal bij Melon Labs."
+ },
+ "ui|ach_d_nerve": {
+  "postedit": "Keer om bij de laatste deur, en heb gelijk.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Keer om bij de laatste deur, en heb gelijk."
+ },
+ "ui|ach_d_npc_knows": {
+  "postedit": "Word erkend door degene die altijd voor je uit is.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Word erkend door degene die altijd voor je uit is."
+ },
+ "ui|ach_d_opening_night": {
+  "postedit": "Speel op de dag van de opening.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Speel op de dag van de opening."
+ },
+ "ui|ach_d_out_all": {
+  "postedit": "Ontsnap uit alle drie de plekken.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Ontsnap uit alle drie de plekken."
+ },
+ "ui|ach_d_out_coach8": {
+  "postedit": "Stap uit de trein.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Stap uit de trein."
+ },
+ "ui|ach_d_out_hallway-eight": {
+  "postedit": "Ontsnap uit de gang.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Ontsnap uit de gang."
+ },
+ "ui|ach_d_out_stairway8": {
+  "postedit": "Bereik de begane grond.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Bereik de begane grond."
+ },
+ "ui|ach_d_shared": {
+  "postedit": "Stuur de plek naar iemand anders.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Stuur de plek naar iemand anders."
+ },
+ "ui|ach_d_steady": {
+  "postedit": "Ontsnap zonder een enkele gok.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Ontsnap zonder een enkele gok."
+ },
+ "ui|ach_d_streak": {
+  "postedit": "Drie schone ontsnappingen op rij.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Drie schone ontsnappingen op rij."
+ },
+ "ui|ach_d_total_recall": {
+  "postedit": "Zie elk laatste fragment, overal.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Zie elk laatste fragment, overal."
+ },
+ "ui|ach_empty": {
+  "postedit": "Nog niets. Ontsnap uit een plek om te beginnen.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Nog niets. Ontsnap uit een plek om te beginnen."
+ },
+ "ui|ach_flash": {
+  "postedit": "Flashbacks",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Flashbacks"
+ },
+ "ui|ach_load": {
+  "postedit": "Laden",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Laden"
+ },
+ "ui|ach_locked": {
+  "postedit": "Vergrendeld",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Vergrendeld"
+ },
+ "ui|ach_n_cold": {
+  "postedit": "Zonder omkijken",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Zonder omkijken"
+ },
+ "ui|ach_n_eight_times": {
+  "postedit": "Acht keer erdoorheen",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Acht keer erdoorheen"
+ },
+ "ui|ach_n_end_coach8": {
+  "postedit": "Het perron dat niet van jou is",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Het perron dat niet van jou is"
+ },
+ "ui|ach_n_end_hallway-eight": {
+  "postedit": "De hal die niet opengaat",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "De hal die niet opengaat"
+ },
+ "ui|ach_n_end_stairway8": {
+  "postedit": "De trap die alleen maar stijgt",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "De trap die alleen maar stijgt"
+ },
+ "ui|ach_n_flash_coach8": {
+  "postedit": "Rijtuig, herinnerd",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Rijtuig, herinnerd"
+ },
+ "ui|ach_n_flash_hallway-eight": {
+  "postedit": "Gang, herinnerd",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Gang, herinnerd"
+ },
+ "ui|ach_n_flash_stairway8": {
+  "postedit": "Trappenhuis, herinnerd",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Trappenhuis, herinnerd"
+ },
+ "ui|ach_n_flawless": {
+  "postedit": "Vlekkeloos",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Vlekkeloos"
+ },
+ "ui|ach_n_hard_all": {
+  "postedit": "Nergens meer zacht",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Nergens meer zacht"
+ },
+ "ui|ach_n_hard_coach8": {
+  "postedit": "Rijtuig, harder",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Rijtuig, harder"
+ },
+ "ui|ach_n_hard_hallway-eight": {
+  "postedit": "Gang, harder",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Gang, harder"
+ },
+ "ui|ach_n_hard_stairway8": {
+  "postedit": "Trappenhuis, harder",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Trappenhuis, harder"
+ },
+ "ui|ach_n_insane_all": {
+  "postedit": "Vertrouw niets",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Vertrouw niets"
+ },
+ "ui|ach_n_insane_coach8": {
+  "postedit": "Rijtuig, ontregeld",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Rijtuig, ontregeld"
+ },
+ "ui|ach_n_insane_hallway-eight": {
+  "postedit": "Gang, ontregeld",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Gang, ontregeld"
+ },
+ "ui|ach_n_insane_stairway8": {
+  "postedit": "Trappenhuis, ontregeld",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Trappenhuis, ontregeld"
+ },
+ "ui|ach_n_melon": {
+  "postedit": "Melon-supporter",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Melon-supporter"
+ },
+ "ui|ach_n_nerve": {
+  "postedit": "Lef",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Lef"
+ },
+ "ui|ach_n_npc_knows": {
+  "postedit": "Het kent je",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Het kent je"
+ },
+ "ui|ach_n_opening_night": {
+  "postedit": "Openingsavond",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Openingsavond"
+ },
+ "ui|ach_n_out_all": {
+  "postedit": "Helemaal naar buiten",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Helemaal naar buiten"
+ },
+ "ui|ach_n_out_coach8": {
+  "postedit": "Uit Coach 8",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Uit Coach 8"
+ },
+ "ui|ach_n_out_hallway-eight": {
+  "postedit": "Uit Hallway 8",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Uit Hallway 8"
+ },
+ "ui|ach_n_out_stairway8": {
+  "postedit": "Uit Stairway 8",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Uit Stairway 8"
+ },
+ "ui|ach_n_shared": {
+  "postedit": "Doorgegeven",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Doorgegeven"
+ },
+ "ui|ach_n_steady": {
+  "postedit": "Standvastig",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Standvastig"
+ },
+ "ui|ach_n_streak": {
+  "postedit": "Op dreef",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Op dreef"
+ },
+ "ui|ach_n_total_recall": {
+  "postedit": "Volledige herinnering",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Volledige herinnering"
+ },
+ "ui|ach_open": {
+  "postedit": "Prestaties",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Prestaties"
+ },
+ "ui|ach_progress": {
+  "postedit": "{n} van {total} ontgrendeld",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "{n} van {total} ontgrendeld"
+ },
+ "ui|ach_save": {
+  "postedit": "Opslaan",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Opslaan"
+ },
+ "ui|ach_section": {
+  "postedit": "Prestaties",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Prestaties"
+ },
+ "ui|again": {
+  "postedit": "Loop het opnieuw",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Loop het opnieuw"
+ },
+ "ui|age_normal": {
+  "postedit": "Normaal",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Normaal"
+ },
+ "ui|age_simple": {
+  "postedit": "Eenvoudig",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Eenvoudig"
+ },
+ "ui|back": {
+  "postedit": "Terug",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "Terug"
+ },
+ "ui|begin": {
+  "postedit": "Beginnen",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "Beginnen"
+ },
+ "ui|change": {
+  "postedit": "Ander scenario",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Ander scenario"
+ },
+ "ui|col_recall": {
+  "postedit": "Roep dit fragment op",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Roep dit fragment op"
+ },
+ "ui|col_recall_empty": {
+  "postedit": "Een fragment dat je hebt gezien, de woorden al vervagend.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Een fragment dat je hebt gezien, de woorden al vervagend."
+ },
+ "ui|col_section": {
+  "postedit": "Herinneringen",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Herinneringen"
+ },
+ "ui|conf_1": {
+  "postedit": "Ik gok",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Ik gok"
+ },
+ "ui|conf_2": {
+  "postedit": "Ik denk het",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Ik denk het"
+ },
+ "ui|conf_3": {
+  "postedit": "Vrijwel zeker",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "Vrijwel zeker"
+ },
+ "ui|conf_4": {
+  "postedit": "Zeker",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "Zeker"
+ },
+ "ui|conf_q": {
+  "postedit": "Hoe zeker ben je?",
+  "postedit_score": 96,
+  "score": 95,
+  "text": "Hoe zeker ben je?"
+ },
+ "ui|diff_easy": {
+  "postedit": "Makkelijk",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Makkelijk"
+ },
+ "ui|diff_hard": {
+  "postedit": "Moeilijk",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Moeilijk"
+ },
+ "ui|diff_hint_hard": {
+  "postedit": "Moeilijk voegt nieuwe soorten verandering toe.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Moeilijk voegt nieuwe soorten verandering toe."
+ },
+ "ui|diff_hint_insane": {
+  "postedit": "Waanzinnig herschept wat normaal is, elke keer.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Waanzinnig herschept wat normaal is, elke keer."
+ },
+ "ui|diff_hint_locked": {
+  "postedit": "Ontsnap één keer om Moeilijk te ontgrendelen.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Ontsnap één keer om Moeilijk te ontgrendelen."
+ },
+ "ui|diff_insane": {
+  "postedit": "Waanzinnig",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Waanzinnig"
+ },
+ "ui|diff_normal": {
+  "postedit": "Normaal",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Normaal"
+ },
+ "ui|end_credits": {
+  "postedit": "Aftiteling",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Aftiteling"
+ },
+ "ui|ending_back": {
+  "postedit": "Terug naar het begin",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Terug naar het begin"
+ },
+ "ui|erase": {
+  "postedit": "Wissen",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Wissen"
+ },
+ "ui|erase_body": {
+  "postedit": "Alles wat deze plek zich van je herinnert verdwijnt: de fragmenten die je hebt teruggehaald, de tekens die je hebt verdiend, elke run. Dit kan niet ongedaan worden gemaakt.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Alles wat deze plek zich van je herinnert verdwijnt: de fragmenten die je hebt teruggehaald, de tekens die je hebt verdiend, elke run. Dit kan niet ongedaan worden gemaakt."
+ },
+ "ui|erase_cancel": {
+  "postedit": "Behouden",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Behouden"
+ },
+ "ui|erase_title": {
+  "postedit": "Je geheugen wissen?",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Je geheugen wissen?"
+ },
+ "ui|fold_1": {
+  "postedit": "Dat was jij. Je reikte naar iets in de plek, en die vouwde de weg terug op je.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Dat was jij. Je reikte naar iets in de plek, en die vouwde de weg terug op je."
+ },
+ "ui|fold_2": {
+  "postedit": "Aanraken wat je vindt is nooit nodig. Kijk gerust, maar een verkeerde aanraking kan je hierheen sturen.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Aanraken wat je vindt is nooit nodig. Kijk gerust, maar een verkeerde aanraking kan je hierheen sturen."
+ },
+ "ui|fold_hide": {
+  "postedit": "Dit niet meer tonen.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Dit niet meer tonen."
+ },
+ "ui|fold_title": {
+  "postedit": "Terug naar het begin.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Terug naar het begin."
+ },
+ "ui|furthest": {
+  "postedit": "verst {n}",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "verst {n}"
+ },
+ "ui|give_up": {
+  "postedit": "Opgeven · terug naar het begin",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Opgeven · terug naar het begin"
+ },
+ "ui|hesitate_1": {
+  "postedit": "Je aarzelt. Kijk nog eens.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Je aarzelt. Kijk nog eens."
+ },
+ "ui|hesitate_2": {
+  "postedit": "Je bent niet zeker. Je kijkt nog eens.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Je bent niet zeker. Je kijkt nog eens."
+ },
+ "ui|hesitate_3": {
+  "postedit": "Twijfel houdt je tegen. Lees het nog een keer.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Twijfel houdt je tegen. Lees het nog een keer."
+ },
+ "ui|hesitate_4": {
+  "postedit": "Je houdt je in, en laat je blik er nog eens overheen gaan.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Je houdt je in, en laat je blik er nog eens overheen gaan."
+ },
+ "ui|instructions": {
+  "postedit": "Instructies",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Instructies"
+ },
+ "ui|language": {
+  "postedit": "Taal",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "Taal"
+ },
+ "ui|look_back": {
+  "postedit": "Kijk terug.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Kijk terug."
+ },
+ "ui|mem_title": {
+  "postedit": "Geheugen",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Geheugen"
+ },
+ "ui|nudge_arcs": {
+  "postedit": "Twee andere plekken heten ook 8.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Twee andere plekken heten ook 8."
+ },
+ "ui|nudge_eight": {
+  "postedit": "Acht keer ontsnappen uit één plek is een ander soort herinneren.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Acht keer ontsnappen uit één plek is een ander soort herinneren."
+ },
+ "ui|nudge_frags": {
+  "postedit": "Er zijn hier {n} herinneringen die je nog niet hebt gezien.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Er zijn hier {n} herinneringen die je nog niet hebt gezien."
+ },
+ "ui|promo_bad": {
+  "postedit": "Die code doet hier niets.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Die code doet hier niets."
+ },
+ "ui|promo_go": {
+  "postedit": "Inwisselen",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Inwisselen"
+ },
+ "ui|promo_have": {
+  "postedit": "Al ingewisseld.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Al ingewisseld."
+ },
+ "ui|promo_hint": {
+  "postedit": "Code",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Code"
+ },
+ "ui|promo_ok": {
+  "postedit": "Ontgrendeld.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Ontgrendeld."
+ },
+ "ui|read_cold": {
+  "postedit": "Je liep het zonder een tweede blik.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Je liep het zonder een tweede blik."
+ },
+ "ui|read_nerve": {
+  "postedit": "Je keerde om bij de allerlaatste deur, en je had gelijk.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Je keerde om bij de allerlaatste deur, en je had gelijk."
+ },
+ "ui|read_steady": {
+  "postedit": "Je noemde het geen enkele keer een gok.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Je noemde het geen enkele keer een gok."
+ },
+ "ui|rec_cold": {
+  "postedit": "Ontsnapt zonder een tweede blik.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Ontsnapt zonder een tweede blik."
+ },
+ "ui|rec_nerve": {
+  "postedit": "Omgekeerd bij de laatste deur, en had gelijk.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Omgekeerd bij de laatste deur, en had gelijk."
+ },
+ "ui|rec_section": {
+  "postedit": "Records",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Records"
+ },
+ "ui|rec_steady": {
+  "postedit": "Ontsnapt zonder een enkele gok.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Ontsnapt zonder een enkele gok."
+ },
+ "ui|rec_streak": {
+  "postedit": "Schone ontsnappingen op rij: {n}",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Schone ontsnappingen op rij: {n}"
+ },
+ "ui|rules_plain": {
+  "postedit": "Iets veranderd? Ga terug. Niets veranderd? Ga door. Acht op rij om eruit te komen.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Iets veranderd? Ga terug. Niets veranderd? Ga door. Acht op rij om eruit te komen."
+ },
+ "ui|select_lead_1": {
+  "postedit": "Een plek die je niet helemaal kunt verlaten.",
+  "postedit_score": 95,
+  "score": 93,
+  "text": "Een plek die je niet helemaal kunt verlaten."
+ },
+ "ui|select_lead_2": {
+  "postedit": "Kies een weg erdoorheen.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Kies een weg erdoorheen."
+ },
+ "ui|set_age": {
+  "postedit": "Leesniveau",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Leesniveau"
+ },
+ "ui|set_bright": {
+  "postedit": "Helderheid",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Helderheid"
+ },
+ "ui|set_diff": {
+  "postedit": "Moeilijkheid",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Moeilijkheid"
+ },
+ "ui|set_done": {
+  "postedit": "Klaar",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Klaar"
+ },
+ "ui|set_motion": {
+  "postedit": "Beweging verminderen",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Beweging verminderen"
+ },
+ "ui|set_text": {
+  "postedit": "Tekstgrootte",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Tekstgrootte"
+ },
+ "ui|settings_title": {
+  "postedit": "Weergave",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Weergave"
+ },
+ "ui|share_1": {
+  "postedit": "Er is een plek die je niet helemaal kunt verlaten. Ik ben vertrokken. Nu is het jouw beurt.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Er is een plek die je niet helemaal kunt verlaten. Ik ben vertrokken. Nu is het jouw beurt."
+ },
+ "ui|share_2": {
+  "postedit": "Ergens waar je niet helemaal weg kunt, vond iemand de deur. Kom de jouwe vinden.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Ergens waar je niet helemaal weg kunt, vond iemand de deur. Kom de jouwe vinden."
+ },
+ "ui|share_3": {
+  "postedit": "Acht kansen om aan jezelf te twijfelen. Ik vertrouwde de juiste. Nu jij.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Acht kansen om aan jezelf te twijfelen. Ik vertrouwde de juiste. Nu jij."
+ },
+ "ui|share_4": {
+  "postedit": "Ik ken nu de uitweg. Ik verklap niet waar. Kom maar kijken.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Ik ken nu de uitweg. Ik verklap niet waar. Kom maar kijken."
+ },
+ "ui|share_5": {
+  "postedit": "Een stille plek, acht kleine twijfels, één weg erdoorheen. Ik vond hem. Lukt het jou?",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Een stille plek, acht kleine twijfels, één weg erdoorheen. Ik vond hem. Lukt het jou?"
+ },
+ "ui|share_6": {
+  "postedit": "Ik liep het acht keer en vertrouwde op wat ik me herinnerde. Kijk of jij het kunt.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Ik liep het acht keer en vertrouwde op wat ik me herinnerde. Kijk of jij het kunt."
+ },
+ "ui|share_7": {
+  "postedit": "De uitweg hangt af van wat je je herinnert. Ik herinnerde het me. Nu jij.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "De uitweg hangt af van wat je je herinnert. Ik herinnerde het me. Nu jij."
+ },
+ "ui|share_8": {
+  "postedit": "Acht deuren stonden tussen mij en de koude lucht. Ik opende ze allemaal. Jouw beurt.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Acht deuren stonden tussen mij en de koude lucht. Ik opende ze allemaal. Jouw beurt."
+ },
+ "ui|share_copied": {
+  "postedit": "Link gekopieerd",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Link gekopieerd"
+ },
+ "ui|share_copy": {
+  "postedit": "Link kopiëren",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Link kopiëren"
+ },
+ "ui|share_native": {
+  "postedit": "Delen",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Delen"
+ },
+ "ui|view_credits": {
+  "postedit": "Aftiteling bekijken",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Aftiteling bekijken"
+ }
 }

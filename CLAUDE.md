@@ -315,19 +315,21 @@ Other locales can be fully translated + compiled on disk and still stay hidden
 until promoted into that list. `available_locales()` (served by `/api/langs`)
 enforces this; keep `EXPOSED_LOCALES` authoritative for what ships.
 
-Status: engine + language toggle live. All 21 locales translated for the three
-arcs (coach8, hallway-eight, stairway8) + shared UI, each clearing the level
-gate (120/120 >= 95, 0 leaks; means ~95.2-95.6). Eight are EXPOSED in the picker
-(English, German, French, Portuguese, Japanese, Korean, Simplified Chinese,
-Vietnamese); the other 13 (en_GB, es_ES, fr_CA, it_IT, nl_NL, cs_CZ, zh_TW,
-yue_HK, th_TH, id_ID, ms_MY, hi_IN, ta_IN) are fully translated + compiled on
-disk but hidden until promoted into `i18n.EXPOSED_LOCALES`. The hidden Insane
-difficulty's 10 UI strings (label, hint, four escape badges) are translated for
-the seven non-English exposed locales, matching where the difficulty UI already
-lives (the 13 hidden locales fall back to English on difficulty UI, as they do
-for hard mode). Per-locale iteration
-to the gate is easiest via `scripts/i18n_selfqe.py --loc <code>` (read-only,
-reads a locale straight from its src files; safe to run alongside others).
+Status: engine + language toggle live. **All 21 locales are FULLY translated**,
+every key: the three arcs' loop prose (which cleared the level gate 120/120 >= 95,
+0 leaks; means ~95.2-95.6) AND all peripheral content (Act 2 touch reactions,
+flashbacks, alternate endings, the exit trail, and every UI string, including the
+difficulty + achievement labels for hard and the hidden Insane). Every locale
+reports 0 missing content keys against en_US, 0 em-dashes, 0 answer-key leaks.
+Eight are EXPOSED in the picker (English, German, French, Portuguese, Japanese,
+Korean, Simplified Chinese, Vietnamese); the other 13 (en_GB, es_ES, fr_CA, it_IT,
+nl_NL, cs_CZ, zh_TW, yue_HK, th_TH, id_ID, ms_MY, hi_IN, ta_IN) are complete +
+compiled on disk but hidden until promoted into `i18n.EXPOSED_LOCALES`. (Earlier
+the 13 hidden locales carried only the core loop prose and fell back to English
+for Act 2 flavour + newer UI; that gap is now closed, so all 21 are peers.)
+Per-locale iteration to the gate is easiest via `scripts/i18n_selfqe.py --loc
+<code>` (read-only, reads a locale straight from its src files; safe alongside
+others).
 
 ## UI conventions
 
@@ -417,17 +419,28 @@ owns unlock/selection). Only three are **exposed** (`EXPOSED_DIFFICULTIES` in
   achievement unlocked, except the held studio badge, the date-locked
   opening-night badge, and the four Insane badges themselves (`INSANE_GATE_EXCLUDE`
   in `game.js`; `insaneUnlocked()`). Nobody is expected to reach it for weeks, so
-  it does not affect the launch experience. **What it changes:** every other mode
+  it does not affect the launch experience. **Strictly the hardest tier:** insane
+  has a higher anomaly ramp than hard (step 0.092 vs 0.081, cap 0.66 vs 0.60) AND
+  it inherits every hard escalation, the aggro-item holds, cross-loop
+  persist/revert, and the deep double-change (each hard-only branch is now
+  `diff in ("hard","insane")`, so hard's own path is untouched), on top of its
+  randomized baseline. **What it changes:** every other mode
   shows a *fixed* global baseline vocabulary on clean loops, so a bot could
   memorize the all-clear wording and flag anything outside it. Insane randomizes
-  **this run's baseline** for every property from its *full* value set (baseline
-  pools + anomaly pools, `mem.run_baseline`, chosen at level 0), so "normal" is
-  run-specific and the change is any value that differs from *this run's* baseline
-  (`anomalies.pick_anomaly(baseline_of=...)`). A memorized dictionary cannot tell
-  clean from changed; you must remember what THIS run established. **Fairness:** a
-  change may only land on a property already seen at baseline earlier in the run
-  (the aggro-item guard extended to every property), so level 0 and every detail's
-  first appearance are calm baselines, never the trap. **No new content or i18n
+  **this run's baseline** for every property (`mem.run_baseline`, chosen at level
+  0), so "normal" is run-specific and the change is any value that differs from
+  *this run's* baseline (`anomalies.pick_anomaly(baseline_of=...)`). A memorized
+  dictionary cannot tell clean from changed; you must remember what THIS run
+  established. **Fairness (two guards):** (1) a change may only land on a property
+  already seen at baseline earlier in the run (the aggro-item guard extended to
+  every property), so level 0 and every detail's first appearance are calm
+  baselines, never the trap. (2) The run baseline is drawn only from a property's
+  **baseline-safe** pool (`_insane_baseline_keys`): its calm `values` plus only
+  anomaly values whose prose reads as a plain *state*, never one that *announces a
+  change* ("the arrow has reversed", "you don't remember") nor the NPC twist, so a
+  clean loop never reads as wrong. Properties whose anomalies all announce a change
+  (e.g. the sign) simply keep their calm baseline; enough others still randomize
+  to keep it anti-bot. **No new content or i18n
   for the prose:** a value renders through its existing `v`/`x` line via
   `_pool_and_kind`, so Insane reuses every translated line. Four badges
   (`insane_<arc>` ×3, `insane_all`, tracked in `mem.insaneWins`) reward Insane
@@ -435,8 +448,7 @@ owns unlock/selection). Only three are **exposed** (`EXPOSED_DIFFICULTIES` in
   from the unlock gate (no chicken-and-egg). All of it is isolated behind
   `diff == "insane"`, so easy/normal/hard are byte-for-byte unchanged (regression
   test: `test_existing_modes_never_touch_the_insane_baseline`). The 10 Insane UI
-  strings (label, hint, four escape badges) are translated for the exposed
-  locales.
+  strings (label, hint, four escape badges) are translated for all 21 locales.
 - **Reading register** (`simple`/`normal`, an age-match toggle, default normal):
   simple surfaces a plain-language rule (`rules_plain`) on the intro/onboarding
   for younger readers, and can overlay a `<lang>.simple.json` UI catalog. It does

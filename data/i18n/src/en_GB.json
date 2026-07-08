@@ -1,1058 +1,2582 @@
 {
-  "ui|select_lead_1": {
-    "text": "Somewhere you can't quite leave.",
-    "score": 96,
-    "postedit": "Somewhere you can't quite leave.",
-    "postedit_score": 96
-  },
-  "ui|select_lead_2": {
-    "text": "Choose a way through.",
-    "score": 96,
-    "postedit": "Choose a way through.",
-    "postedit_score": 96
-  },
-  "ui|begin": {
-    "text": "Begin",
-    "score": 96,
-    "postedit": "Begin",
-    "postedit_score": 96
-  },
-  "ui|back": {
-    "text": "Back",
-    "score": 96,
-    "postedit": "Back",
-    "postedit_score": 96
-  },
-  "ui|again": {
-    "text": "Walk it again",
-    "score": 96,
-    "postedit": "Walk it again",
-    "postedit_score": 96
-  },
-  "ui|change": {
-    "text": "Change scenario",
-    "score": 96,
-    "postedit": "Change scenario",
-    "postedit_score": 96
-  },
-  "ui|give_up": {
-    "text": "Give up · back to start",
-    "score": 96,
-    "postedit": "Give up · back to start",
-    "postedit_score": 96
-  },
-  "ui|conf_q": {
-    "text": "How certain are you?",
-    "score": 96,
-    "postedit": "How certain are you?",
-    "postedit_score": 96
-  },
-  "ui|conf_1": {
-    "text": "Guessing",
-    "score": 96,
-    "postedit": "Guessing",
-    "postedit_score": 96
-  },
-  "ui|conf_2": {
-    "text": "I think so",
-    "score": 96,
-    "postedit": "I think so",
-    "postedit_score": 96
-  },
-  "ui|conf_3": {
-    "text": "Almost sure",
-    "score": 96,
-    "postedit": "Almost sure",
-    "postedit_score": 96
-  },
-  "ui|conf_4": {
-    "text": "Certain",
-    "score": 96,
-    "postedit": "Certain",
-    "postedit_score": 96
-  },
-  "ui|language": {
-    "text": "Language",
-    "score": 96,
-    "postedit": "Language",
-    "postedit_score": 96
-  },
-  "a:coach8|title_main": {
-    "text": "Coach 8",
-    "score": 96,
-    "postedit": "Coach 8",
-    "postedit_score": 96
-  },
-  "a:coach8|tagline": {
-    "text": "The conductor said coach 8. The train never seems to reach it.",
-    "score": 96,
-    "postedit": "The conductor said coach 8. The train never seems to reach it.",
-    "postedit_score": 96
-  },
-  "a:coach8|go_on": {
-    "text": "Next coach",
-    "score": 96,
-    "postedit": "Next coach",
-    "postedit_score": 96
-  },
-  "a:coach8|turn_back": {
-    "text": "Back a coach",
-    "score": 96,
-    "postedit": "Back a coach",
-    "postedit_score": 96
-  },
-  "a:coach8|progress": {
-    "text": "Coach {level} / {goal}",
-    "score": 96,
-    "postedit": "Coach {level} / {goal}",
-    "postedit_score": 96
-  },
-  "a:coach8|label|lighting": {
-    "text": "lights",
-    "score": 96,
-    "postedit": "lights",
-    "postedit_score": 96
-  },
-  "a:coach8|label|sound": {
-    "text": "sound",
-    "score": 96,
-    "postedit": "sound",
-    "postedit_score": 96
-  },
-  "a:coach8|label|window": {
-    "text": "window",
-    "score": 96,
-    "postedit": "window",
-    "postedit_score": 96
-  },
-  "a:coach8|label|passenger": {
-    "text": "sleeping passenger",
-    "score": 96,
-    "postedit": "sleeping passenger",
-    "postedit_score": 96
-  },
-  "a:coach8|label|seatnum": {
-    "text": "seat numbers",
-    "score": 96,
-    "postedit": "seat numbers",
-    "postedit_score": 96
-  },
-  "a:coach8|label|door": {
-    "text": "connecting door",
-    "score": 96,
-    "postedit": "connecting door",
-    "postedit_score": 96
-  },
-  "a:coach8|label|luggage": {
-    "text": "luggage rack",
-    "score": 96,
-    "postedit": "luggage rack",
-    "postedit_score": 96
-  },
-  "a:coach8|label|table": {
-    "text": "table",
-    "score": 96,
-    "postedit": "table",
-    "postedit_score": 96
-  },
-  "a:coach8|label|sense": {
-    "text": "feeling",
-    "score": 96,
-    "postedit": "feeling",
-    "postedit_score": 96
-  },
-  "a:coach8|title|0": {
-    "text": "Coach 8",
-    "score": 96,
-    "postedit": "Coach 8",
-    "postedit_score": 96
-  },
-  "a:coach8|title|1": {
-    "text": "Coach 8",
-    "score": 96,
-    "postedit": "Coach 8",
-    "postedit_score": 96
-  },
-  "a:coach8|title|2": {
-    "text": "Coach 8",
-    "score": 96,
-    "postedit": "Coach 8",
-    "postedit_score": 96
-  },
-  "a:coach8|title|3": {
-    "text": "Coach 8",
-    "score": 96,
-    "postedit": "Coach 8",
-    "postedit_score": 96
-  },
-  "a:coach8|title|4": {
-    "text": "Carriage 8",
-    "score": 96,
-    "postedit": "Carriage 8",
-    "postedit_score": 96
-  },
-  "a:coach8|title|5": {
-    "text": "Coach Eight",
-    "score": 96,
-    "postedit": "Coach Eight",
-    "postedit_score": 96
-  },
-  "a:coach8|title|6": {
-    "text": "COACH 8",
-    "score": 96,
-    "postedit": "COACH 8",
-    "postedit_score": 96
-  },
-  "a:coach8|title|7": {
-    "text": "Coach  8",
-    "score": 96,
-    "postedit": "Coach  8",
-    "postedit_score": 96
-  },
-  "a:coach8|p:lighting|v:dim|0": {
-    "text": "The cabin lights are dimmed for night, a soft amber wash.",
-    "score": 96,
-    "postedit": "The cabin lights are dimmed for night, a soft amber wash.",
-    "postedit_score": 96
-  },
-  "a:coach8|p:lighting|v:dim|1": {
-    "text": "Low night-lighting glows along the luggage racks, as always.",
-    "score": 96,
-    "postedit": "Low night-lighting glows along the luggage racks, as always.",
-    "postedit_score": 96
-  },
-  "a:coach8|p:lighting|v:dim|2": {
-    "text": "The overhead lights are down to their amber night setting.",
-    "score": 96,
-    "postedit": "The overhead lights are down to their amber night setting.",
-    "postedit_score": 96
-  },
-  "a:coach8|p:lighting|v:dim|3": {
-    "text": "The coach is lit the same soft gold as the last.",
-    "score": 96,
-    "postedit": "The coach is lit the same soft gold as the last.",
-    "postedit_score": 96
-  },
-  "a:coach8|p:lighting|x:flicker|0": {
-    "text": "The cabin lights flutter with the motion of the train, then hold.",
-    "score": 96,
-    "postedit": "The cabin lights flutter with the motion of the train, then hold.",
-    "postedit_score": 96
-  },
-  "a:coach8|p:lighting|x:flicker|1": {
-    "text": "One strip of lighting stutters overhead.",
-    "score": 96,
-    "postedit": "One strip of lighting stutters overhead.",
-    "postedit_score": 96
-  },
-  "a:coach8|p:lighting|x:flicker|2": {
-    "text": "The amber light trips off, then on again.",
-    "score": 96,
-    "postedit": "The amber light trips off, then on again.",
-    "postedit_score": 96
-  },
-  "a:coach8|p:lighting|x:bright|0": {
-    "text": "The lights are up full, harsh and white, not the night setting.",
-    "score": 96,
-    "postedit": "The lights are up full, harsh and white, not the night setting.",
-    "postedit_score": 96
-  },
-  "a:coach8|p:lighting|x:bright|1": {
-    "text": "This coach is lit far brighter than the last.",
-    "score": 96,
-    "postedit": "This coach is lit far brighter than the last.",
-    "postedit_score": 96
-  },
-  "a:coach8|p:lighting|x:bright|2": {
-    "text": "The soft amber is gone; everything glares white.",
-    "score": 96,
-    "postedit": "The soft amber is gone; everything glares white.",
-    "postedit_score": 96
-  },
-  "a:coach8|p:lighting|x:off|0": {
-    "text": "The cabin is dark but for the emergency floor strips.",
-    "score": 96,
-    "postedit": "The cabin is dark but for the emergency floor strips.",
-    "postedit_score": 96
-  },
-  "a:coach8|p:lighting|x:off|1": {
-    "text": "The lights are out here; only the aisle markers glow.",
-    "score": 96,
-    "postedit": "The lights are out here; only the aisle markers glow.",
-    "postedit_score": 96
-  },
-  "a:coach8|p:lighting|x:off|2": {
-    "text": "Darkness, save a thin line of light along the floor.",
-    "score": 96,
-    "postedit": "Darkness, save a thin line of light along the floor.",
-    "postedit_score": 96
-  },
-  "a:coach8|p:sound|v:rhythm|0": {
-    "text": "The rails beat their steady rhythm beneath the floor.",
-    "score": 96,
-    "postedit": "The rails beat their steady rhythm beneath the floor.",
-    "postedit_score": 96
-  },
-  "a:coach8|p:sound|v:rhythm|1": {
-    "text": "The train hums along, wheels ticking over the joints.",
-    "score": 96,
-    "postedit": "The train hums along, wheels ticking over the joints.",
-    "postedit_score": 96
-  },
-  "a:coach8|p:sound|v:rhythm|2": {
-    "text": "That familiar sway and clatter of a train at speed.",
-    "score": 96,
-    "postedit": "That familiar sway and clatter of a train at speed.",
-    "postedit_score": 96
-  },
-  "a:coach8|p:sound|x:slowing|0": {
-    "text": "The rhythm of the rails is slowing. Are you stopping?",
-    "score": 96,
-    "postedit": "The rhythm of the rails is slowing. Are you stopping?",
-    "postedit_score": 96
-  },
-  "a:coach8|p:sound|x:slowing|1": {
-    "text": "The clatter drags, as if the train is losing speed.",
-    "score": 96,
-    "postedit": "The clatter drags, as if the train is losing speed.",
-    "postedit_score": 96
-  },
-  "a:coach8|p:sound|x:slowing|2": {
-    "text": "The beat beneath the floor stretches longer between ticks.",
-    "score": 96,
-    "postedit": "The beat beneath the floor stretches longer between ticks.",
-    "postedit_score": 96
-  },
-  "a:coach8|p:sound|x:silence|0": {
-    "text": "The wheels have gone silent. You feel no motion at all.",
-    "score": 96,
-    "postedit": "The wheels have gone silent. You feel no motion at all.",
-    "postedit_score": 96
-  },
-  "a:coach8|p:sound|x:silence|1": {
-    "text": "The train sound has stopped. Dead still.",
-    "score": 96,
-    "postedit": "The train sound has stopped. Dead still.",
-    "postedit_score": 96
-  },
-  "a:coach8|p:sound|x:silence|2": {
-    "text": "No clatter, no sway. The train might not be moving.",
-    "score": 96,
-    "postedit": "No clatter, no sway. The train might not be moving.",
-    "postedit_score": 96
-  },
-  "a:coach8|p:sound|x:announce|0": {
-    "text": "A chime sounds, then a muffled announcement you can't make out.",
-    "score": 96,
-    "postedit": "A chime sounds, then a muffled announcement you can't make out.",
-    "postedit_score": 96
-  },
-  "a:coach8|p:sound|x:announce|1": {
-    "text": "The PA crackles with a voice, then cuts off.",
-    "score": 96,
-    "postedit": "The PA crackles with a voice, then cuts off.",
-    "postedit_score": 96
-  },
-  "a:coach8|p:sound|x:announce|2": {
-    "text": "An announcement plays, backwards, almost.",
-    "score": 96,
-    "postedit": "An announcement plays, backwards, almost.",
-    "postedit_score": 96
-  },
-  "a:coach8|p:sound|x:faster|0": {
-    "text": "The rails beat faster than they should, a rising whine.",
-    "score": 96,
-    "postedit": "The rails beat faster than they should, a rising whine.",
-    "postedit_score": 96
-  },
-  "a:coach8|p:sound|x:faster|1": {
-    "text": "The train is accelerating, the clatter climbing in pitch.",
-    "score": 96,
-    "postedit": "The train is accelerating, the clatter climbing in pitch.",
-    "postedit_score": 96
-  },
-  "a:coach8|p:sound|x:faster|2": {
-    "text": "Everything rattles harder; you're speeding up.",
-    "score": 96,
-    "postedit": "Everything rattles harder; you're speeding up.",
-    "postedit_score": 96
-  },
-  "a:coach8|p:window|v:night|0": {
-    "text": "Beyond the window, black countryside and your own faint reflection.",
-    "score": 96,
-    "postedit": "Beyond the window, black countryside and your own faint reflection.",
-    "postedit_score": 96
-  },
-  "a:coach8|p:window|v:night|1": {
-    "text": "The window shows only night and the ghost of the cabin.",
-    "score": 96,
-    "postedit": "The window shows only night and the ghost of the cabin.",
-    "postedit_score": 96
-  },
-  "a:coach8|p:window|v:night|2": {
-    "text": "Dark fields streak past the window, far-off lights scattered.",
-    "score": 96,
-    "postedit": "Dark fields streak past the window, far-off lights scattered.",
-    "postedit_score": 96
-  },
-  "a:coach8|p:window|x:station|0": {
-    "text": "The window shows a lit platform sliding by, a station, unannounced.",
-    "score": 96,
-    "postedit": "The window shows a lit platform sliding by, a station, unannounced.",
-    "postedit_score": 96
-  },
-  "a:coach8|p:window|x:station|1": {
-    "text": "Outside, a station platform passes, empty and bright.",
-    "score": 96,
-    "postedit": "Outside, a station platform passes, empty and bright.",
-    "postedit_score": 96
-  },
-  "a:coach8|p:window|x:station|2": {
-    "text": "A station slides past the glass; you never felt the train slow.",
-    "score": 96,
-    "postedit": "A station slides past the glass; you never felt the train slow.",
-    "postedit_score": 96
-  },
-  "a:coach8|p:window|x:reflection|0": {
-    "text": "Your reflection in the glass is a half-second behind you.",
-    "score": 96,
-    "postedit": "Your reflection in the glass is a half-second behind you.",
-    "postedit_score": 96
-  },
-  "a:coach8|p:window|x:reflection|1": {
-    "text": "The reflection in the window doesn't quite match the cabin.",
-    "score": 96,
-    "postedit": "The reflection in the window doesn't quite match the cabin.",
-    "postedit_score": 96
-  },
-  "a:coach8|p:window|x:reflection|2": {
-    "text": "Someone stands in the window's reflection who isn't in the coach.",
-    "score": 96,
-    "postedit": "Someone stands in the window's reflection who isn't in the coach.",
-    "postedit_score": 96
-  },
-  "a:coach8|p:window|x:daylight|0": {
-    "text": "The window is bright with daylight. It was night a moment ago.",
-    "score": 96,
-    "postedit": "The window is bright with daylight. It was night a moment ago.",
-    "postedit_score": 96
-  },
-  "a:coach8|p:window|x:daylight|1": {
-    "text": "Outside the glass it is suddenly, impossibly, day.",
-    "score": 96,
-    "postedit": "Outside the glass it is suddenly, impossibly, day.",
-    "postedit_score": 96
-  },
-  "a:coach8|p:window|x:daylight|2": {
-    "text": "Sunlight fills the window where there was only dark.",
-    "score": 96,
-    "postedit": "Sunlight fills the window where there was only dark.",
-    "postedit_score": 96
-  },
-  "a:coach8|p:window|x:tunnel|0": {
-    "text": "The window is pure black, a tunnel, roaring, with no end to it.",
-    "score": 96,
-    "postedit": "The window is pure black, a tunnel, roaring, with no end to it.",
-    "postedit_score": 96
-  },
-  "a:coach8|p:window|x:tunnel|1": {
-    "text": "You're in a tunnel now; the glass shows only rushing dark.",
-    "score": 96,
-    "postedit": "You're in a tunnel now; the glass shows only rushing dark.",
-    "postedit_score": 96
-  },
-  "a:coach8|p:window|x:tunnel|2": {
-    "text": "Nothing but black tunnel wall streams past the window.",
-    "score": 96,
-    "postedit": "Nothing but black tunnel wall streams past the window.",
-    "postedit_score": 96
-  },
-  "a:coach8|p:passenger|v:sleeping|0": {
-    "text": "A lone passenger sleeps against the far window, coat over their face.",
-    "score": 96,
-    "postedit": "A lone passenger sleeps against the far window, coat over their face.",
-    "postedit_score": 96
-  },
-  "a:coach8|p:passenger|v:sleeping|1": {
-    "text": "One passenger dozes midway down the coach, head tipped back.",
-    "score": 96,
-    "postedit": "One passenger dozes midway down the coach, head tipped back.",
-    "postedit_score": 96
-  },
-  "a:coach8|p:passenger|v:sleeping|2": {
-    "text": "The same sleeping figure slumps in a window seat, as before.",
-    "score": 96,
-    "postedit": "The same sleeping figure slumps in a window seat, as before.",
-    "postedit_score": 96
-  },
-  "a:coach8|p:passenger|x:gone|0": {
-    "text": "The seat where the passenger slept is empty now.",
-    "score": 96,
-    "postedit": "The seat where the passenger slept is empty now.",
-    "postedit_score": 96
-  },
-  "a:coach8|p:passenger|x:gone|1": {
-    "text": "No one is sleeping in the coach this time.",
-    "score": 96,
-    "postedit": "No one is sleeping in the coach this time.",
-    "postedit_score": 96
-  },
-  "a:coach8|p:passenger|x:gone|2": {
-    "text": "The dozing passenger is gone; only a folded coat remains.",
-    "score": 96,
-    "postedit": "The dozing passenger is gone; only a folded coat remains.",
-    "postedit_score": 96
-  },
-  "a:coach8|p:passenger|x:awake|0": {
-    "text": "The passenger is awake now, sitting upright, very still.",
-    "score": 96,
-    "postedit": "The passenger is awake now, sitting upright, very still.",
-    "postedit_score": 96
-  },
-  "a:coach8|p:passenger|x:awake|1": {
-    "text": "The sleeper's eyes are open, fixed on the aisle.",
-    "score": 96,
-    "postedit": "The sleeper's eyes are open, fixed on the aisle.",
-    "postedit_score": 96
-  },
-  "a:coach8|p:passenger|x:awake|2": {
-    "text": "The passenger no longer sleeps. They watch you pass.",
-    "score": 96,
-    "postedit": "The passenger no longer sleeps. They watch you pass.",
-    "postedit_score": 96
-  },
-  "a:coach8|p:passenger|x:moved|0": {
-    "text": "The sleeping passenger has moved to a seat nearer the aisle.",
-    "score": 96,
-    "postedit": "The sleeping passenger has moved to a seat nearer the aisle.",
-    "postedit_score": 96
-  },
-  "a:coach8|p:passenger|x:moved|1": {
-    "text": "The dozing figure is closer than before, on your side now.",
-    "score": 96,
-    "postedit": "The dozing figure is closer than before, on your side now.",
-    "postedit_score": 96
-  },
-  "a:coach8|p:passenger|x:moved|2": {
-    "text": "The passenger sleeps in a different seat than a moment ago.",
-    "score": 96,
-    "postedit": "The passenger sleeps in a different seat than a moment ago.",
-    "postedit_score": 96
-  },
-  "a:coach8|p:passenger|x:two|0": {
-    "text": "Two passengers sleep here now, where there was one.",
-    "score": 96,
-    "postedit": "Two passengers sleep here now, where there was one.",
-    "postedit_score": 96
-  },
-  "a:coach8|p:passenger|x:two|1": {
-    "text": "There are a pair of coats-over-faces this time, not one.",
-    "score": 96,
-    "postedit": "There are a pair of coats-over-faces this time, not one.",
-    "postedit_score": 96
-  },
-  "a:coach8|p:passenger|x:two|2": {
-    "text": "A second sleeping figure has joined the first.",
-    "score": 96,
-    "postedit": "A second sleeping figure has joined the first.",
-    "postedit_score": 96
-  },
-  "a:coach8|p:passenger|x:speaks|0": {
-    "text": "The sleeping passenger murmurs, without waking: 'again?'",
-    "score": 96,
-    "postedit": "The sleeping passenger murmurs, without waking: 'again?'",
-    "postedit_score": 96
-  },
-  "a:coach8|p:passenger|x:speaks|1": {
-    "text": "From under the coat, a muffled voice: 'you were just here.'",
-    "score": 96,
-    "postedit": "From under the coat, a muffled voice: 'you were just here.'",
-    "postedit_score": 96
-  },
-  "a:coach8|p:passenger|x:speaks|2": {
-    "text": "The dozing figure says the name of your stop, though you told no one.",
-    "score": 96,
-    "postedit": "The dozing figure says the name of your stop, though you told no one.",
-    "postedit_score": 96
-  },
-  "a:coach8|p:seatnum|v:eight|0": {
-    "text": "The seat decals read 8A, 8B, 8C down the row.",
-    "score": 96,
-    "postedit": "The seat decals read 8A, 8B, 8C down the row.",
-    "postedit_score": 96
-  },
-  "a:coach8|p:seatnum|v:eight|1": {
-    "text": "Little brass numbers mark the seats: row 8, as always.",
-    "score": 96,
-    "postedit": "Little brass numbers mark the seats: row 8, as always.",
-    "postedit_score": 96
-  },
-  "a:coach8|p:seatnum|v:eight|2": {
-    "text": "The coach-number panel by the door glows COACH 8.",
-    "score": 96,
-    "postedit": "The coach-number panel by the door glows COACH 8.",
-    "postedit_score": 96
-  },
-  "a:coach8|p:seatnum|x:wrong|0": {
-    "text": "The seat decals read row 7 now, not 8.",
-    "score": 96,
-    "postedit": "The seat decals read row 7 now, not 8.",
-    "postedit_score": 96
-  },
-  "a:coach8|p:seatnum|x:wrong|1": {
-    "text": "The coach-number panel reads COACH 9.",
-    "score": 96,
-    "postedit": "The coach-number panel reads COACH 9.",
-    "postedit_score": 96
-  },
-  "a:coach8|p:seatnum|x:wrong|2": {
-    "text": "The brass numbers say row 6; you were sure it was 8.",
-    "score": 96,
-    "postedit": "The brass numbers say row 6; you were sure it was 8.",
-    "postedit_score": 96
-  },
-  "a:coach8|p:seatnum|x:missing|0": {
-    "text": "The seat numbers have been prised off; bare screw-holes remain.",
-    "score": 96,
-    "postedit": "The seat numbers have been prised off; bare screw-holes remain.",
-    "postedit_score": 96
-  },
-  "a:coach8|p:seatnum|x:missing|1": {
-    "text": "The coach-number panel by the door is dark and blank.",
-    "score": 96,
-    "postedit": "The coach-number panel by the door is dark and blank.",
-    "postedit_score": 96
-  },
-  "a:coach8|p:seatnum|x:missing|2": {
-    "text": "There are no numbers on the seats at all this time.",
-    "score": 96,
-    "postedit": "There are no numbers on the seats at all this time.",
-    "postedit_score": 96
-  },
-  "a:coach8|p:seatnum|x:letters|0": {
-    "text": "The seat decals read 8X, 8Y, 8Z, letters that don't belong.",
-    "score": 96,
-    "postedit": "The seat decals read 8X, 8Y, 8Z, letters that don't belong.",
-    "postedit_score": 96
-  },
-  "a:coach8|p:seatnum|x:letters|1": {
-    "text": "The row is numbered in an alphabet you don't recognise.",
-    "score": 96,
-    "postedit": "The row is numbered in an alphabet you don't recognise.",
-    "postedit_score": 96
-  },
-  "a:coach8|p:seatnum|x:letters|2": {
-    "text": "The seat labels are just symbols now, not numbers.",
-    "score": 96,
-    "postedit": "The seat labels are just symbols now, not numbers.",
-    "postedit_score": 96
-  },
-  "a:coach8|p:door|v:closed|0": {
-    "text": "The connecting door at the coach's end is shut, its glass dark.",
-    "score": 96,
-    "postedit": "The connecting door at the coach's end is shut, its glass dark.",
-    "postedit_score": 96
-  },
-  "a:coach8|p:door|v:closed|1": {
-    "text": "The powered door to the next carriage stands closed, as usual.",
-    "score": 96,
-    "postedit": "The powered door to the next carriage stands closed, as usual.",
-    "postedit_score": 96
-  },
-  "a:coach8|p:door|v:closed|2": {
-    "text": "The end door is closed, the vestibule beyond it dim.",
-    "score": 96,
-    "postedit": "The end door is closed, the vestibule beyond it dim.",
-    "postedit_score": 96
-  },
-  "a:coach8|p:door|x:open|0": {
-    "text": "The connecting door is stuck open, cold air rushing through.",
-    "score": 96,
-    "postedit": "The connecting door is stuck open, cold air rushing through.",
-    "postedit_score": 96
-  },
-  "a:coach8|p:door|x:open|1": {
-    "text": "The powered door won't close; the vestibule roars beyond.",
-    "score": 96,
-    "postedit": "The powered door won't close; the vestibule roars beyond.",
-    "postedit_score": 96
-  },
-  "a:coach8|p:door|x:open|2": {
-    "text": "The end door gapes open onto the shaking vestibule.",
-    "score": 96,
-    "postedit": "The end door gapes open onto the shaking vestibule.",
-    "postedit_score": 96
-  },
-  "a:coach8|p:door|x:locked|0": {
-    "text": "A red light burns on the connecting door: LOCKED.",
-    "score": 96,
-    "postedit": "A red light burns on the connecting door: LOCKED.",
-    "postedit_score": 96
-  },
-  "a:coach8|p:door|x:locked|1": {
-    "text": "The end door shows a locked indicator that was green before.",
-    "score": 96,
-    "postedit": "The end door shows a locked indicator that was green before.",
-    "postedit_score": 96
-  },
-  "a:coach8|p:door|x:locked|2": {
-    "text": "The door to the next coach reads DO NOT ENTER.",
-    "score": 96,
-    "postedit": "The door to the next coach reads DO NOT ENTER.",
-    "postedit_score": 96
-  },
-  "a:coach8|p:door|x:glass|0": {
-    "text": "The glass in the connecting door is fogged, a hand-print on it.",
-    "score": 96,
-    "postedit": "The glass in the connecting door is fogged, a hand-print on it.",
-    "postedit_score": 96
-  },
-  "a:coach8|p:door|x:glass|1": {
-    "text": "Something smears the window of the end door from the far side.",
-    "score": 96,
-    "postedit": "Something smears the window of the end door from the far side.",
-    "postedit_score": 96
-  },
-  "a:coach8|p:door|x:glass|2": {
-    "text": "The connecting door's glass is cracked in a spider's web.",
-    "score": 96,
-    "postedit": "The connecting door's glass is cracked in a spider's web.",
-    "postedit_score": 96
-  },
-  "a:coach8|p:luggage|v:stowed|0": {
-    "text": "A single suitcase sits in the luggage rack by the door.",
-    "score": 96,
-    "postedit": "A single suitcase sits in the luggage rack by the door.",
-    "postedit_score": 96
-  },
-  "a:coach8|p:luggage|v:stowed|1": {
-    "text": "The overhead racks hold the usual scattering of bags.",
-    "score": 96,
-    "postedit": "The overhead racks hold the usual scattering of bags.",
-    "postedit_score": 96
-  },
-  "a:coach8|p:luggage|v:stowed|2": {
-    "text": "One hard-shell case rides the luggage rack, as before.",
-    "score": 96,
-    "postedit": "One hard-shell case rides the luggage rack, as before.",
-    "postedit_score": 96
-  },
-  "a:coach8|p:luggage|x:gone|0": {
-    "text": "The luggage rack is empty now.",
-    "score": 96,
-    "postedit": "The luggage rack is empty now.",
-    "postedit_score": 96
-  },
-  "a:coach8|p:luggage|x:gone|1": {
-    "text": "The suitcase by the door is gone.",
-    "score": 96,
-    "postedit": "The suitcase by the door is gone.",
-    "postedit_score": 96
-  },
-  "a:coach8|p:luggage|x:gone|2": {
-    "text": "There are no bags in the racks this time.",
-    "score": 96,
-    "postedit": "There are no bags in the racks this time.",
-    "postedit_score": 96
-  },
-  "a:coach8|p:luggage|x:more|0": {
-    "text": "The luggage rack is crammed full, far more bags than before.",
-    "score": 96,
-    "postedit": "The luggage rack is crammed full, far more bags than before.",
-    "postedit_score": 96
-  },
-  "a:coach8|p:luggage|x:more|1": {
-    "text": "Cases are stacked nearly to the ceiling now.",
-    "score": 96,
-    "postedit": "Cases are stacked nearly to the ceiling now.",
-    "postedit_score": 96
-  },
-  "a:coach8|p:luggage|x:more|2": {
-    "text": "The racks overflow with luggage that wasn't there.",
-    "score": 96,
-    "postedit": "The racks overflow with luggage that wasn't there.",
-    "postedit_score": 96
-  },
-  "a:coach8|p:luggage|x:open|0": {
-    "text": "The suitcase in the rack lies open, empty.",
-    "score": 96,
-    "postedit": "The suitcase in the rack lies open, empty.",
-    "postedit_score": 96
-  },
-  "a:coach8|p:luggage|x:open|1": {
-    "text": "A case has spilled open across the luggage rack.",
-    "score": 96,
-    "postedit": "A case has spilled open across the luggage rack.",
-    "postedit_score": 96
-  },
-  "a:coach8|p:luggage|x:open|2": {
-    "text": "The hard-shell case gapes open, its contents gone.",
-    "score": 96,
-    "postedit": "The hard-shell case gapes open, its contents gone.",
-    "postedit_score": 96
-  },
-  "a:coach8|p:table|v:coffee|0": {
-    "text": "A fold-down table by the aisle holds a half-finished coffee.",
-    "score": 96,
-    "postedit": "A fold-down table by the aisle holds a half-finished coffee.",
-    "postedit_score": 96
-  },
-  "a:coach8|p:table|v:coffee|1": {
-    "text": "The tray table is down, a paper cup cooling on it, as always.",
-    "score": 96,
-    "postedit": "The tray table is down, a paper cup cooling on it, as always.",
-    "postedit_score": 96
-  },
-  "a:coach8|p:table|v:coffee|2": {
-    "text": "On the table, someone's coffee, still steaming faintly.",
-    "score": 96,
-    "postedit": "On the table, someone's coffee, still steaming faintly.",
-    "postedit_score": 96
-  },
-  "a:coach8|p:table|x:empty|0": {
-    "text": "The table is bare; the coffee cup is gone.",
-    "score": 96,
-    "postedit": "The table is bare; the coffee cup is gone.",
-    "postedit_score": 96
-  },
-  "a:coach8|p:table|x:empty|1": {
-    "text": "The tray table holds nothing now.",
-    "score": 96,
-    "postedit": "The tray table holds nothing now.",
-    "postedit_score": 96
-  },
-  "a:coach8|p:table|x:empty|2": {
-    "text": "There's no cup on the table this time.",
-    "score": 96,
-    "postedit": "There's no cup on the table this time.",
-    "postedit_score": 96
-  },
-  "a:coach8|p:table|x:cold|0": {
-    "text": "The coffee on the table has gone cold, a skin across the top.",
-    "score": 96,
-    "postedit": "The coffee on the table has gone cold, a skin across the top.",
-    "postedit_score": 96
-  },
-  "a:coach8|p:table|x:cold|1": {
-    "text": "The cup is stone cold now, long abandoned.",
-    "score": 96,
-    "postedit": "The cup is stone cold now, long abandoned.",
-    "postedit_score": 96
-  },
-  "a:coach8|p:table|x:cold|2": {
-    "text": "The coffee sits cold and still, no steam at all.",
-    "score": 96,
-    "postedit": "The coffee sits cold and still, no steam at all.",
-    "postedit_score": 96
-  },
-  "a:coach8|p:table|x:many|0": {
-    "text": "The table is crowded with cups now, not one but many.",
-    "score": 96,
-    "postedit": "The table is crowded with cups now, not one but many.",
-    "postedit_score": 96
-  },
-  "a:coach8|p:table|x:many|1": {
-    "text": "Several coffees crowd the tray table where there was one.",
-    "score": 96,
-    "postedit": "Several coffees crowd the tray table where there was one.",
-    "postedit_score": 96
-  },
-  "a:coach8|p:table|x:many|2": {
-    "text": "The table is cluttered with more cups than anyone could drink.",
-    "score": 96,
-    "postedit": "The table is cluttered with more cups than anyone could drink.",
-    "postedit_score": 96
-  },
-  "a:coach8|p:table|x:spilled|0": {
-    "text": "The coffee has spilled, a dark stain spreading over the table.",
-    "score": 96,
-    "postedit": "The coffee has spilled, a dark stain spreading over the table.",
-    "postedit_score": 96
-  },
-  "a:coach8|p:table|x:spilled|1": {
-    "text": "The cup is tipped, coffee running off the table's edge.",
-    "score": 96,
-    "postedit": "The cup is tipped, coffee running off the table's edge.",
-    "postedit_score": 96
-  },
-  "a:coach8|p:table|x:spilled|2": {
-    "text": "Coffee pools across the table, dripping to the floor.",
-    "score": 96,
-    "postedit": "Coffee pools across the table, dripping to the floor.",
-    "postedit_score": 96
-  },
-  "a:coach8|p:sense|v:steady|0": {
-    "text": "The train feels exactly as long as it always has.",
-    "score": 96,
-    "postedit": "The train feels exactly as long as it always has.",
-    "postedit_score": 96
-  },
-  "a:coach8|p:sense|v:steady|1": {
-    "text": "You carry the same tired patience up the aisle, coach after coach.",
-    "score": 96,
-    "postedit": "You carry the same tired patience up the aisle, coach after coach.",
-    "postedit_score": 96
-  },
-  "a:coach8|p:sense|v:steady|2": {
-    "text": "Everything feels as ordinary as a night train should.",
-    "score": 96,
-    "postedit": "Everything feels as ordinary as a night train should.",
-    "postedit_score": 96
-  },
-  "a:coach8|p:sense|x:forget|0": {
-    "text": "For a moment you can't remember how many coaches you've walked.",
-    "score": 96,
-    "postedit": "For a moment you can't remember how many coaches you've walked.",
-    "postedit_score": 96
-  },
-  "a:coach8|p:sense|x:forget|1": {
-    "text": "You lose count of the carriages behind you, and it frightens you.",
-    "score": 96,
-    "postedit": "You lose count of the carriages behind you, and it frightens you.",
-    "postedit_score": 96
-  },
-  "a:coach8|p:sense|x:forget|2": {
-    "text": "You can't recall boarding this train at all.",
-    "score": 96,
-    "postedit": "You can't recall boarding this train at all.",
-    "postedit_score": 96
-  },
-  "a:coach8|p:sense|x:calm|0": {
-    "text": "You feel suddenly, wrongly calm, as if you'd already arrived.",
-    "score": 96,
-    "postedit": "You feel suddenly, wrongly calm, as if you'd already arrived.",
-    "postedit_score": 96
-  },
-  "a:coach8|p:sense|x:calm|1": {
-    "text": "A strange contentment settles over you that has no business being here.",
-    "score": 96,
-    "postedit": "A strange contentment settles over you that has no business being here.",
-    "postedit_score": 96
-  },
-  "a:coach8|p:sense|x:calm|2": {
-    "text": "You feel no urgency at all, and that itself feels wrong.",
-    "score": 96,
-    "postedit": "You feel no urgency at all, and that itself feels wrong.",
-    "postedit_score": 96
-  },
-  "a:coach8|p:sense|x:watched|0": {
-    "text": "You feel watched, though every passenger is asleep.",
-    "score": 96,
-    "postedit": "You feel watched, though every passenger is asleep.",
-    "postedit_score": 96
-  },
-  "a:coach8|p:sense|x:watched|1": {
-    "text": "The certainty that someone is behind you won't leave.",
-    "score": 96,
-    "postedit": "The certainty that someone is behind you won't leave.",
-    "postedit_score": 96
-  },
-  "a:coach8|p:sense|x:watched|2": {
-    "text": "Your neck prickles; you are sure you are not alone in the way you were.",
-    "score": 96,
-    "postedit": "Your neck prickles; you are sure you are not alone in the way you were.",
-    "postedit_score": 96
-  },
-  "a:coach8|adaptive|repeat_inspect|0": {
-    "text": "You look at the {THING} again. You aren't sure why.",
-    "score": 96,
-    "postedit": "You look at the {THING} again. You aren't sure why.",
-    "postedit_score": 96
-  },
-  "a:coach8|adaptive|repeat_inspect|1": {
-    "text": "Your eyes go straight to the {THING}, the way they always seem to now.",
-    "score": 96,
-    "postedit": "Your eyes go straight to the {THING}, the way they always seem to now.",
-    "postedit_score": 96
-  },
-  "a:coach8|adaptive|repeat_inspect|2": {
-    "text": "The {THING} draws your attention once more.",
-    "score": 96,
-    "postedit": "The {THING} draws your attention once more.",
-    "postedit_score": 96
-  },
-  "a:coach8|adaptive|long_look|0": {
-    "text": "You spend longer looking than usual. You don't remember deciding to stop.",
-    "score": 96,
-    "postedit": "You spend longer looking than usual. You don't remember deciding to stop.",
-    "postedit_score": 96
-  },
-  "a:coach8|adaptive|long_look|1": {
-    "text": "You realise you've been standing in the aisle. For how long?",
-    "score": 96,
-    "postedit": "You realise you've been standing in the aisle. For how long?",
-    "postedit_score": 96
-  },
-  "a:coach8|adaptive|long_look|2": {
-    "text": "The train sways on, and you don't know how long you've been staring.",
-    "score": 96,
-    "postedit": "The train sways on, and you don't know how long you've been staring.",
-    "postedit_score": 96
-  },
-  "a:coach8|framing|intro|0": {
-    "text": "LAST TRAIN",
-    "score": 96,
-    "postedit": "LAST TRAIN",
-    "postedit_score": 96
-  },
-  "a:coach8|framing|intro|2": {
-    "text": "The conductor clipped your ticket and nodded up the train. Coach 8, that way.",
-    "score": 96,
-    "postedit": "The conductor clipped your ticket and nodded up the train. Coach 8, that way.",
-    "postedit_score": 96
-  },
-  "a:coach8|framing|intro|3": {
-    "text": "That was a while ago. You're still walking, and every carriage looks the same.",
-    "score": 96,
-    "postedit": "That was a while ago. You're still walking, and every carriage looks the same.",
-    "postedit_score": 96
-  },
-  "a:coach8|framing|intro|5": {
-    "text": "While a carriage is exactly as you remember it, keep walking forward.",
-    "score": 96,
-    "postedit": "While a carriage is exactly as you remember it, keep walking forward.",
-    "postedit_score": 96
-  },
-  "a:coach8|framing|intro|6": {
-    "text": "If anything has changed, turn around. This one is folding you back.",
-    "score": 96,
-    "postedit": "If anything has changed, turn around. This one is folding you back.",
-    "postedit_score": 96
-  },
-  "a:coach8|framing|intro|8": {
-    "text": "Eight coaches, and you can finally sit down.",
-    "score": 96,
-    "postedit": "Eight coaches, and you can finally sit down.",
-    "postedit_score": 96
-  },
-  "a:coach8|framing|intro|9": {
-    "text": "Lose your certainty, and the train sets you back where you started.",
-    "score": 96,
-    "postedit": "Lose your certainty, and the train sets you back where you started.",
-    "postedit_score": 96
-  },
-  "a:coach8|framing|win|0": {
-    "text": "You slide open one more door, and the seat numbers read 8.",
-    "score": 96,
-    "postedit": "You slide open one more door, and the seat numbers read 8.",
-    "postedit_score": 96
-  },
-  "a:coach8|framing|win|1": {
-    "text": "Coach 8. Your seat, empty and waiting, beside a black window.",
-    "score": 96,
-    "postedit": "Coach 8. Your seat, empty and waiting, beside a black window.",
-    "postedit_score": 96
-  },
-  "a:coach8|framing|win|2": {
-    "text": "You sink into it at last. The train rushes on through the night.",
-    "score": 96,
-    "postedit": "You sink into it at last. The train rushes on through the night.",
-    "postedit_score": 96
-  },
-  "a:coach8|framing|win|3": {
-    "text": "You found your seat.",
-    "score": 96,
-    "postedit": "You found your seat.",
-    "postedit_score": 96
-  }
+ "a:coach8|act2|end|platform|0": {
+  "postedit": "You step down onto the platform and the doors hiss shut behind you.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "You step down onto the platform and the doors hiss shut behind you."
+ },
+ "a:coach8|act2|end|platform|1": {
+  "postedit": "The train slides away into the tunnel without you.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "The train slides away into the tunnel without you."
+ },
+ "a:coach8|act2|end|platform|2": {
+  "postedit": "The sign on the empty platform is a station you have never heard of, and the only service on the board is the train that just left.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "The sign on the empty platform is a station you have never heard of, and the only service on the board is the train that just left."
+ },
+ "a:coach8|act2|exit|action": {
+  "postedit": "step onto the platform",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "step onto the platform"
+ },
+ "a:coach8|act2|exit|tempt": {
+  "postedit": "The train slows, and a door at the end of the coach opens onto a lit platform. Just step down and you are off.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "The train slows, and a door at the end of the coach opens onto a lit platform. Just step down and you are off."
+ },
+ "a:coach8|act2|exit|utterance": {
+  "postedit": "The passenger turns to you at last, and speaks in a voice you already know: \"You have ridden past your stop.\"",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "The passenger turns to you at last, and speaks in a voice you already know: \"You have ridden past your stop.\""
+ },
+ "a:coach8|act2|flashback|0": {
+  "postedit": "You had a seat once, further back, your coat over it. You got up to find coach 8.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "You had a seat once, further back, your coat over it. You got up to find coach 8."
+ },
+ "a:coach8|act2|flashback|1": {
+  "postedit": "Someone was meeting you at the end of the line. You cannot hold the name.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Someone was meeting you at the end of the line. You cannot hold the name."
+ },
+ "a:coach8|act2|flashback|2": {
+  "postedit": "The sleeping passenger's coat is the same as yours. You do not look again.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "The sleeping passenger's coat is the same as yours. You do not look again."
+ },
+ "a:coach8|act2|flashback|3": {
+  "postedit": "The note scratched on the table is in your own hand. It says again, or it says eight.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "The note scratched on the table is in your own hand. It says again, or it says eight."
+ },
+ "a:coach8|act2|flashback|4": {
+  "postedit": "You were sure the next stop was yours. The next stop is always the next stop.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "You were sure the next stop was yours. The next stop is always the next stop."
+ },
+ "a:coach8|act2|t:luggage|fold|0": {
+  "postedit": "Inside is the row of carriages, folded small and receding. When you look up you are at the first coach again.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Inside is the row of carriages, folded small and receding. When you look up you are at the first coach again."
+ },
+ "a:coach8|act2|t:luggage|herring|0": {
+  "postedit": "The tag's ink is still wet. It was probably always wet.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "The tag's ink is still wet. It was probably always wet."
+ },
+ "a:coach8|act2|t:luggage|herring|1": {
+  "postedit": "Your own initials are on the tag, in your hand. Common initials.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Your own initials are on the tag, in your hand. Common initials."
+ },
+ "a:coach8|act2|t:luggage|reaction|0": {
+  "postedit": "Someone's folded shirts, a paperback, a ticket stub. Ordinary things, going somewhere.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Someone's folded shirts, a paperback, a ticket stub. Ordinary things, going somewhere."
+ },
+ "a:coach8|act2|t:luggage|reaction|1": {
+  "postedit": "It is heavier than it looks, and it does not want to open all the way.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "It is heavier than it looks, and it does not want to open all the way."
+ },
+ "a:coach8|act2|t:luggage|verb": {
+  "postedit": "open the luggage",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "open the luggage"
+ },
+ "a:coach8|act2|t:passenger|fold|0": {
+  "postedit": "They say your name in their sleep, clearly, once, and the sound of it carries you back to the first coach.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "They say your name in their sleep, clearly, once, and the sound of it carries you back to the first coach."
+ },
+ "a:coach8|act2|t:passenger|herring|0": {
+  "postedit": "Their coat is the same cut as yours. Coats are coats.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Their coat is the same cut as yours. Coats are coats."
+ },
+ "a:coach8|act2|t:passenger|herring|1": {
+  "postedit": "For a second the face under the hood is turned toward you. Then it is not.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "For a second the face under the hood is turned toward you. Then it is not."
+ },
+ "a:coach8|act2|t:passenger|reaction|0": {
+  "postedit": "A murmur, no words you can keep. They do not wake.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "A murmur, no words you can keep. They do not wake."
+ },
+ "a:coach8|act2|t:passenger|reaction|1": {
+  "postedit": "They shift, and settle, and their breathing falls into step with yours.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "They shift, and settle, and their breathing falls into step with yours."
+ },
+ "a:coach8|act2|t:passenger|verb": {
+  "postedit": "nudge the sleeping passenger",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "nudge the sleeping passenger"
+ },
+ "a:coach8|act2|t:table|fold|0": {
+  "postedit": "You trace the tally with a finger and lose count, and the losing puts you back at coach one.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "You trace the tally with a finger and lose count, and the losing puts you back at coach one."
+ },
+ "a:coach8|act2|t:table|herring|0": {
+  "postedit": "A ring of coffee still wet beside it, as if someone just left. People just left.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "A ring of coffee still wet beside it, as if someone just left. People just left."
+ },
+ "a:coach8|act2|t:table|herring|1": {
+  "postedit": "The scratches look raw, made minutes ago. Or polished by years. You cannot tell.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "The scratches look raw, made minutes ago. Or polished by years. You cannot tell."
+ },
+ "a:coach8|act2|t:table|reaction|0": {
+  "postedit": "Letters gouged into the laminate by a key or a nail. AGAIN, mostly. And a tally.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Letters gouged into the laminate by a key or a nail. AGAIN, mostly. And a tally."
+ },
+ "a:coach8|act2|t:table|reaction|1": {
+  "postedit": "Under the newer marks, older ones, smoothed almost flat by hands.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Under the newer marks, older ones, smoothed almost flat by hands."
+ },
+ "a:coach8|act2|t:table|verb": {
+  "postedit": "read the scratched note",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "read the scratched note"
+ },
+ "a:coach8|act2|t:window|fold|0": {
+  "postedit": "You watch the dark until it is all there is, and the coach resets around your reflection, back at the start.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "You watch the dark until it is all there is, and the coach resets around your reflection, back at the start."
+ },
+ "a:coach8|act2|t:window|herring|0": {
+  "postedit": "A handprint fogs and fades on the glass that is not yours. Or is.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "A handprint fogs and fades on the glass that is not yours. Or is."
+ },
+ "a:coach8|act2|t:window|herring|1": {
+  "postedit": "Lights out there that could be a town, or could be the train, doubled.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Lights out there that could be a town, or could be the train, doubled."
+ },
+ "a:coach8|act2|t:window|reaction|0": {
+  "postedit": "Your reflection lags a half second behind you.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Your reflection lags a half second behind you."
+ },
+ "a:coach8|act2|t:window|reaction|1": {
+  "postedit": "Black glass, a tunnel, and then a platform sliding by too fast to read.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Black glass, a tunnel, and then a platform sliding by too fast to read."
+ },
+ "a:coach8|act2|t:window|verb": {
+  "postedit": "look out the window",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "look out the window"
+ },
+ "a:coach8|adaptive|long_look|0": {
+  "postedit": "You spend longer looking than usual. You don't remember deciding to stop.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "You spend longer looking than usual. You don't remember deciding to stop."
+ },
+ "a:coach8|adaptive|long_look|1": {
+  "postedit": "You realise you've been standing in the aisle. For how long?",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "You realise you've been standing in the aisle. For how long?"
+ },
+ "a:coach8|adaptive|long_look|2": {
+  "postedit": "The train sways on, and you don't know how long you've been staring.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "The train sways on, and you don't know how long you've been staring."
+ },
+ "a:coach8|adaptive|repeat_inspect|0": {
+  "postedit": "You look at the {THING} again. You aren't sure why.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "You look at the {THING} again. You aren't sure why."
+ },
+ "a:coach8|adaptive|repeat_inspect|1": {
+  "postedit": "Your eyes go straight to the {THING}, the way they always seem to now.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "Your eyes go straight to the {THING}, the way they always seem to now."
+ },
+ "a:coach8|adaptive|repeat_inspect|2": {
+  "postedit": "The {THING} draws your attention once more.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "The {THING} draws your attention once more."
+ },
+ "a:coach8|attempt": {
+  "postedit": "{n} times through this train, and this time it reached your stop.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "{n} times through this train, and this time it reached your stop."
+ },
+ "a:coach8|attempt_first": {
+  "postedit": "First ride, and the coach never doubled back.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "First ride, and the coach never doubled back."
+ },
+ "a:coach8|framing|cutscene|0": {
+  "postedit": "Something in the coach changed, and you moved on past it.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Something in the coach changed, and you moved on past it."
+ },
+ "a:coach8|framing|cutscene|1": {
+  "postedit": "If a coach is not exactly as you remember, turn back. If it is, keep moving on.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "If a coach is not exactly as you remember, turn back. If it is, keep moving on."
+ },
+ "a:coach8|framing|intro|0": {
+  "postedit": "LAST TRAIN",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "LAST TRAIN"
+ },
+ "a:coach8|framing|intro|2": {
+  "postedit": "The conductor clipped your ticket and nodded up the train. Coach 8, that way.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "The conductor clipped your ticket and nodded up the train. Coach 8, that way."
+ },
+ "a:coach8|framing|intro|3": {
+  "postedit": "That was a while ago. You're still walking, and every carriage looks the same.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "That was a while ago. You're still walking, and every carriage looks the same."
+ },
+ "a:coach8|framing|intro|5": {
+  "postedit": "While a carriage is exactly as you remember it, keep walking forward.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "While a carriage is exactly as you remember it, keep walking forward."
+ },
+ "a:coach8|framing|intro|6": {
+  "postedit": "If anything has changed, turn around. This one is folding you back.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "If anything has changed, turn around. This one is folding you back."
+ },
+ "a:coach8|framing|intro|8": {
+  "postedit": "Eight coaches, and you can finally sit down.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "Eight coaches, and you can finally sit down."
+ },
+ "a:coach8|framing|intro|9": {
+  "postedit": "Lose your certainty, and the train sets you back where you started.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "Lose your certainty, and the train sets you back where you started."
+ },
+ "a:coach8|framing|win|0": {
+  "postedit": "You slide open one more door, and the seat numbers read 8.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "You slide open one more door, and the seat numbers read 8."
+ },
+ "a:coach8|framing|win|1": {
+  "postedit": "Coach 8. Your seat, empty and waiting, beside a black window.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "Coach 8. Your seat, empty and waiting, beside a black window."
+ },
+ "a:coach8|framing|win|2": {
+  "postedit": "You sink into it at last. The train rushes on through the night.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "You sink into it at last. The train rushes on through the night."
+ },
+ "a:coach8|framing|win|3": {
+  "postedit": "You found your seat.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "You found your seat."
+ },
+ "a:coach8|go_on": {
+  "postedit": "Next coach",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "Next coach"
+ },
+ "a:coach8|label|door": {
+  "postedit": "connecting door",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "connecting door"
+ },
+ "a:coach8|label|lighting": {
+  "postedit": "lights",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "lights"
+ },
+ "a:coach8|label|luggage": {
+  "postedit": "luggage rack",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "luggage rack"
+ },
+ "a:coach8|label|passenger": {
+  "postedit": "sleeping passenger",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "sleeping passenger"
+ },
+ "a:coach8|label|seatnum": {
+  "postedit": "seat numbers",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "seat numbers"
+ },
+ "a:coach8|label|sense": {
+  "postedit": "feeling",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "feeling"
+ },
+ "a:coach8|label|sound": {
+  "postedit": "sound",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "sound"
+ },
+ "a:coach8|label|table": {
+  "postedit": "table",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "table"
+ },
+ "a:coach8|label|window": {
+  "postedit": "window",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "window"
+ },
+ "a:coach8|p:door|v:closed|0": {
+  "postedit": "The connecting door at the coach's end is shut, its glass dark.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "The connecting door at the coach's end is shut, its glass dark."
+ },
+ "a:coach8|p:door|v:closed|1": {
+  "postedit": "The powered door to the next carriage stands closed, as usual.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "The powered door to the next carriage stands closed, as usual."
+ },
+ "a:coach8|p:door|v:closed|2": {
+  "postedit": "The end door is closed, the vestibule beyond it dim.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "The end door is closed, the vestibule beyond it dim."
+ },
+ "a:coach8|p:door|x:glass|0": {
+  "postedit": "The glass in the connecting door is fogged, a hand-print on it.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "The glass in the connecting door is fogged, a hand-print on it."
+ },
+ "a:coach8|p:door|x:glass|1": {
+  "postedit": "Something smears the window of the end door from the far side.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "Something smears the window of the end door from the far side."
+ },
+ "a:coach8|p:door|x:glass|2": {
+  "postedit": "The connecting door's glass is cracked in a spider's web.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "The connecting door's glass is cracked in a spider's web."
+ },
+ "a:coach8|p:door|x:locked|0": {
+  "postedit": "A red light burns on the connecting door: LOCKED.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "A red light burns on the connecting door: LOCKED."
+ },
+ "a:coach8|p:door|x:locked|1": {
+  "postedit": "The end door shows a locked indicator that was green before.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "The end door shows a locked indicator that was green before."
+ },
+ "a:coach8|p:door|x:locked|2": {
+  "postedit": "The door to the next coach reads DO NOT ENTER.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "The door to the next coach reads DO NOT ENTER."
+ },
+ "a:coach8|p:door|x:open|0": {
+  "postedit": "The connecting door is stuck open, cold air rushing through.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "The connecting door is stuck open, cold air rushing through."
+ },
+ "a:coach8|p:door|x:open|1": {
+  "postedit": "The powered door won't close; the vestibule roars beyond.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "The powered door won't close; the vestibule roars beyond."
+ },
+ "a:coach8|p:door|x:open|2": {
+  "postedit": "The end door gapes open onto the shaking vestibule.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "The end door gapes open onto the shaking vestibule."
+ },
+ "a:coach8|p:lighting|v:dim|0": {
+  "postedit": "The cabin lights are dimmed for night, a soft amber wash.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "The cabin lights are dimmed for night, a soft amber wash."
+ },
+ "a:coach8|p:lighting|v:dim|1": {
+  "postedit": "Low night-lighting glows along the luggage racks, as always.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "Low night-lighting glows along the luggage racks, as always."
+ },
+ "a:coach8|p:lighting|v:dim|2": {
+  "postedit": "The overhead lights are down to their amber night setting.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "The overhead lights are down to their amber night setting."
+ },
+ "a:coach8|p:lighting|v:dim|3": {
+  "postedit": "The coach is lit the same soft gold as the last.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "The coach is lit the same soft gold as the last."
+ },
+ "a:coach8|p:lighting|x:bright|0": {
+  "postedit": "The lights are up full, harsh and white, not the night setting.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "The lights are up full, harsh and white, not the night setting."
+ },
+ "a:coach8|p:lighting|x:bright|1": {
+  "postedit": "This coach is lit far brighter than the last.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "This coach is lit far brighter than the last."
+ },
+ "a:coach8|p:lighting|x:bright|2": {
+  "postedit": "The soft amber is gone; everything glares white.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "The soft amber is gone; everything glares white."
+ },
+ "a:coach8|p:lighting|x:flicker|0": {
+  "postedit": "The cabin lights flutter with the motion of the train, then hold.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "The cabin lights flutter with the motion of the train, then hold."
+ },
+ "a:coach8|p:lighting|x:flicker|1": {
+  "postedit": "One strip of lighting stutters overhead.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "One strip of lighting stutters overhead."
+ },
+ "a:coach8|p:lighting|x:flicker|2": {
+  "postedit": "The amber light trips off, then on again.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "The amber light trips off, then on again."
+ },
+ "a:coach8|p:lighting|x:off|0": {
+  "postedit": "The cabin is dark but for the emergency floor strips.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "The cabin is dark but for the emergency floor strips."
+ },
+ "a:coach8|p:lighting|x:off|1": {
+  "postedit": "The lights are out here; only the aisle markers glow.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "The lights are out here; only the aisle markers glow."
+ },
+ "a:coach8|p:lighting|x:off|2": {
+  "postedit": "Darkness, save a thin line of light along the floor.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "Darkness, save a thin line of light along the floor."
+ },
+ "a:coach8|p:luggage|v:stowed|0": {
+  "postedit": "A single suitcase sits in the luggage rack by the door.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "A single suitcase sits in the luggage rack by the door."
+ },
+ "a:coach8|p:luggage|v:stowed|1": {
+  "postedit": "The overhead racks hold the usual scattering of bags.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "The overhead racks hold the usual scattering of bags."
+ },
+ "a:coach8|p:luggage|v:stowed|2": {
+  "postedit": "One hard-shell case rides the luggage rack, as before.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "One hard-shell case rides the luggage rack, as before."
+ },
+ "a:coach8|p:luggage|x:gone|0": {
+  "postedit": "The luggage rack is empty now.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "The luggage rack is empty now."
+ },
+ "a:coach8|p:luggage|x:gone|1": {
+  "postedit": "The suitcase by the door is gone.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "The suitcase by the door is gone."
+ },
+ "a:coach8|p:luggage|x:gone|2": {
+  "postedit": "There are no bags in the racks this time.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "There are no bags in the racks this time."
+ },
+ "a:coach8|p:luggage|x:more|0": {
+  "postedit": "The luggage rack is crammed full, far more bags than before.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "The luggage rack is crammed full, far more bags than before."
+ },
+ "a:coach8|p:luggage|x:more|1": {
+  "postedit": "Cases are stacked nearly to the ceiling now.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "Cases are stacked nearly to the ceiling now."
+ },
+ "a:coach8|p:luggage|x:more|2": {
+  "postedit": "The racks overflow with luggage that wasn't there.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "The racks overflow with luggage that wasn't there."
+ },
+ "a:coach8|p:luggage|x:open|0": {
+  "postedit": "The suitcase in the rack lies open, empty.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "The suitcase in the rack lies open, empty."
+ },
+ "a:coach8|p:luggage|x:open|1": {
+  "postedit": "A case has spilled open across the luggage rack.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "A case has spilled open across the luggage rack."
+ },
+ "a:coach8|p:luggage|x:open|2": {
+  "postedit": "The hard-shell case gapes open, its contents gone.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "The hard-shell case gapes open, its contents gone."
+ },
+ "a:coach8|p:passenger|v:sleeping|0": {
+  "postedit": "A lone passenger sleeps against the far window, coat over their face.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "A lone passenger sleeps against the far window, coat over their face."
+ },
+ "a:coach8|p:passenger|v:sleeping|1": {
+  "postedit": "One passenger dozes midway down the coach, head tipped back.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "One passenger dozes midway down the coach, head tipped back."
+ },
+ "a:coach8|p:passenger|v:sleeping|2": {
+  "postedit": "The same sleeping figure slumps in a window seat, as before.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "The same sleeping figure slumps in a window seat, as before."
+ },
+ "a:coach8|p:passenger|x:awake|0": {
+  "postedit": "The passenger is awake now, sitting upright, very still.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "The passenger is awake now, sitting upright, very still."
+ },
+ "a:coach8|p:passenger|x:awake|1": {
+  "postedit": "The sleeper's eyes are open, fixed on the aisle.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "The sleeper's eyes are open, fixed on the aisle."
+ },
+ "a:coach8|p:passenger|x:awake|2": {
+  "postedit": "The passenger no longer sleeps. They watch you pass.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "The passenger no longer sleeps. They watch you pass."
+ },
+ "a:coach8|p:passenger|x:gone|0": {
+  "postedit": "The seat where the passenger slept is empty now.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "The seat where the passenger slept is empty now."
+ },
+ "a:coach8|p:passenger|x:gone|1": {
+  "postedit": "No one is sleeping in the coach this time.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "No one is sleeping in the coach this time."
+ },
+ "a:coach8|p:passenger|x:gone|2": {
+  "postedit": "The dozing passenger is gone; only a folded coat remains.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "The dozing passenger is gone; only a folded coat remains."
+ },
+ "a:coach8|p:passenger|x:moved|0": {
+  "postedit": "The sleeping passenger has moved to a seat nearer the aisle.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "The sleeping passenger has moved to a seat nearer the aisle."
+ },
+ "a:coach8|p:passenger|x:moved|1": {
+  "postedit": "The dozing figure is closer than before, on your side now.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "The dozing figure is closer than before, on your side now."
+ },
+ "a:coach8|p:passenger|x:moved|2": {
+  "postedit": "The passenger sleeps in a different seat than a moment ago.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "The passenger sleeps in a different seat than a moment ago."
+ },
+ "a:coach8|p:passenger|x:speaks|0": {
+  "postedit": "The sleeping passenger murmurs, without waking: 'again?'",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "The sleeping passenger murmurs, without waking: 'again?'"
+ },
+ "a:coach8|p:passenger|x:speaks|1": {
+  "postedit": "From under the coat, a muffled voice: 'you were just here.'",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "From under the coat, a muffled voice: 'you were just here.'"
+ },
+ "a:coach8|p:passenger|x:speaks|2": {
+  "postedit": "The dozing figure says the name of your stop, though you told no one.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "The dozing figure says the name of your stop, though you told no one."
+ },
+ "a:coach8|p:passenger|x:two|0": {
+  "postedit": "Two passengers sleep here now, where there was one.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "Two passengers sleep here now, where there was one."
+ },
+ "a:coach8|p:passenger|x:two|1": {
+  "postedit": "There are a pair of coats-over-faces this time, not one.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "There are a pair of coats-over-faces this time, not one."
+ },
+ "a:coach8|p:passenger|x:two|2": {
+  "postedit": "A second sleeping figure has joined the first.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "A second sleeping figure has joined the first."
+ },
+ "a:coach8|p:seatnum|v:eight|0": {
+  "postedit": "The seat decals read 8A, 8B, 8C down the row.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "The seat decals read 8A, 8B, 8C down the row."
+ },
+ "a:coach8|p:seatnum|v:eight|1": {
+  "postedit": "Little brass numbers mark the seats: row 8, as always.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "Little brass numbers mark the seats: row 8, as always."
+ },
+ "a:coach8|p:seatnum|v:eight|2": {
+  "postedit": "The coach-number panel by the door glows COACH 8.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "The coach-number panel by the door glows COACH 8."
+ },
+ "a:coach8|p:seatnum|x:letters|0": {
+  "postedit": "The seat decals read 8X, 8Y, 8Z, letters that don't belong.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "The seat decals read 8X, 8Y, 8Z, letters that don't belong."
+ },
+ "a:coach8|p:seatnum|x:letters|1": {
+  "postedit": "The row is numbered in an alphabet you don't recognise.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "The row is numbered in an alphabet you don't recognise."
+ },
+ "a:coach8|p:seatnum|x:letters|2": {
+  "postedit": "The seat labels are just symbols now, not numbers.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "The seat labels are just symbols now, not numbers."
+ },
+ "a:coach8|p:seatnum|x:missing|0": {
+  "postedit": "The seat numbers have been prised off; bare screw-holes remain.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "The seat numbers have been prised off; bare screw-holes remain."
+ },
+ "a:coach8|p:seatnum|x:missing|1": {
+  "postedit": "The coach-number panel by the door is dark and blank.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "The coach-number panel by the door is dark and blank."
+ },
+ "a:coach8|p:seatnum|x:missing|2": {
+  "postedit": "There are no numbers on the seats at all this time.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "There are no numbers on the seats at all this time."
+ },
+ "a:coach8|p:seatnum|x:wrong|0": {
+  "postedit": "The seat decals read row 7 now, not 8.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "The seat decals read row 7 now, not 8."
+ },
+ "a:coach8|p:seatnum|x:wrong|1": {
+  "postedit": "The coach-number panel reads COACH 9.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "The coach-number panel reads COACH 9."
+ },
+ "a:coach8|p:seatnum|x:wrong|2": {
+  "postedit": "The brass numbers say row 6; you were sure it was 8.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "The brass numbers say row 6; you were sure it was 8."
+ },
+ "a:coach8|p:sense|v:steady|0": {
+  "postedit": "The train feels exactly as long as it always has.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "The train feels exactly as long as it always has."
+ },
+ "a:coach8|p:sense|v:steady|1": {
+  "postedit": "You carry the same tired patience up the aisle, coach after coach.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "You carry the same tired patience up the aisle, coach after coach."
+ },
+ "a:coach8|p:sense|v:steady|2": {
+  "postedit": "Everything feels as ordinary as a night train should.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "Everything feels as ordinary as a night train should."
+ },
+ "a:coach8|p:sense|x:calm|0": {
+  "postedit": "You feel suddenly, wrongly calm, as if you'd already arrived.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "You feel suddenly, wrongly calm, as if you'd already arrived."
+ },
+ "a:coach8|p:sense|x:calm|1": {
+  "postedit": "A strange contentment settles over you that has no business being here.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "A strange contentment settles over you that has no business being here."
+ },
+ "a:coach8|p:sense|x:calm|2": {
+  "postedit": "You feel no urgency at all, and that itself feels wrong.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "You feel no urgency at all, and that itself feels wrong."
+ },
+ "a:coach8|p:sense|x:forget|0": {
+  "postedit": "For a moment you can't remember how many coaches you've walked.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "For a moment you can't remember how many coaches you've walked."
+ },
+ "a:coach8|p:sense|x:forget|1": {
+  "postedit": "You lose count of the carriages behind you, and it frightens you.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "You lose count of the carriages behind you, and it frightens you."
+ },
+ "a:coach8|p:sense|x:forget|2": {
+  "postedit": "You can't recall boarding this train at all.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "You can't recall boarding this train at all."
+ },
+ "a:coach8|p:sense|x:watched|0": {
+  "postedit": "You feel watched, though every passenger is asleep.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "You feel watched, though every passenger is asleep."
+ },
+ "a:coach8|p:sense|x:watched|1": {
+  "postedit": "The certainty that someone is behind you won't leave.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "The certainty that someone is behind you won't leave."
+ },
+ "a:coach8|p:sense|x:watched|2": {
+  "postedit": "Your neck prickles; you are sure you are not alone in the way you were.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "Your neck prickles; you are sure you are not alone in the way you were."
+ },
+ "a:coach8|p:sound|v:rhythm|0": {
+  "postedit": "The rails beat their steady rhythm beneath the floor.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "The rails beat their steady rhythm beneath the floor."
+ },
+ "a:coach8|p:sound|v:rhythm|1": {
+  "postedit": "The train hums along, wheels ticking over the joints.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "The train hums along, wheels ticking over the joints."
+ },
+ "a:coach8|p:sound|v:rhythm|2": {
+  "postedit": "That familiar sway and clatter of a train at speed.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "That familiar sway and clatter of a train at speed."
+ },
+ "a:coach8|p:sound|x:announce|0": {
+  "postedit": "A chime sounds, then a muffled announcement you can't make out.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "A chime sounds, then a muffled announcement you can't make out."
+ },
+ "a:coach8|p:sound|x:announce|1": {
+  "postedit": "The PA crackles with a voice, then cuts off.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "The PA crackles with a voice, then cuts off."
+ },
+ "a:coach8|p:sound|x:announce|2": {
+  "postedit": "An announcement plays, backwards, almost.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "An announcement plays, backwards, almost."
+ },
+ "a:coach8|p:sound|x:faster|0": {
+  "postedit": "The rails beat faster than they should, a rising whine.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "The rails beat faster than they should, a rising whine."
+ },
+ "a:coach8|p:sound|x:faster|1": {
+  "postedit": "The train is accelerating, the clatter climbing in pitch.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "The train is accelerating, the clatter climbing in pitch."
+ },
+ "a:coach8|p:sound|x:faster|2": {
+  "postedit": "Everything rattles harder; you're speeding up.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "Everything rattles harder; you're speeding up."
+ },
+ "a:coach8|p:sound|x:silence|0": {
+  "postedit": "The wheels have gone silent. You feel no motion at all.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "The wheels have gone silent. You feel no motion at all."
+ },
+ "a:coach8|p:sound|x:silence|1": {
+  "postedit": "The train sound has stopped. Dead still.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "The train sound has stopped. Dead still."
+ },
+ "a:coach8|p:sound|x:silence|2": {
+  "postedit": "No clatter, no sway. The train might not be moving.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "No clatter, no sway. The train might not be moving."
+ },
+ "a:coach8|p:sound|x:slowing|0": {
+  "postedit": "The rhythm of the rails is slowing. Are you stopping?",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "The rhythm of the rails is slowing. Are you stopping?"
+ },
+ "a:coach8|p:sound|x:slowing|1": {
+  "postedit": "The clatter drags, as if the train is losing speed.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "The clatter drags, as if the train is losing speed."
+ },
+ "a:coach8|p:sound|x:slowing|2": {
+  "postedit": "The beat beneath the floor stretches longer between ticks.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "The beat beneath the floor stretches longer between ticks."
+ },
+ "a:coach8|p:table|v:coffee|0": {
+  "postedit": "A fold-down table by the aisle holds a half-finished coffee.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "A fold-down table by the aisle holds a half-finished coffee."
+ },
+ "a:coach8|p:table|v:coffee|1": {
+  "postedit": "The tray table is down, a paper cup cooling on it, as always.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "The tray table is down, a paper cup cooling on it, as always."
+ },
+ "a:coach8|p:table|v:coffee|2": {
+  "postedit": "On the table, someone's coffee, still steaming faintly.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "On the table, someone's coffee, still steaming faintly."
+ },
+ "a:coach8|p:table|x:cold|0": {
+  "postedit": "The coffee on the table has gone cold, a skin across the top.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "The coffee on the table has gone cold, a skin across the top."
+ },
+ "a:coach8|p:table|x:cold|1": {
+  "postedit": "The cup is stone cold now, long abandoned.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "The cup is stone cold now, long abandoned."
+ },
+ "a:coach8|p:table|x:cold|2": {
+  "postedit": "The coffee sits cold and still, no steam at all.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "The coffee sits cold and still, no steam at all."
+ },
+ "a:coach8|p:table|x:empty|0": {
+  "postedit": "The table is bare; the coffee cup is gone.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "The table is bare; the coffee cup is gone."
+ },
+ "a:coach8|p:table|x:empty|1": {
+  "postedit": "The tray table holds nothing now.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "The tray table holds nothing now."
+ },
+ "a:coach8|p:table|x:empty|2": {
+  "postedit": "There's no cup on the table this time.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "There's no cup on the table this time."
+ },
+ "a:coach8|p:table|x:many|0": {
+  "postedit": "The table is crowded with cups now, not one but many.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "The table is crowded with cups now, not one but many."
+ },
+ "a:coach8|p:table|x:many|1": {
+  "postedit": "Several coffees crowd the tray table where there was one.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "Several coffees crowd the tray table where there was one."
+ },
+ "a:coach8|p:table|x:many|2": {
+  "postedit": "The table is cluttered with more cups than anyone could drink.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "The table is cluttered with more cups than anyone could drink."
+ },
+ "a:coach8|p:table|x:spilled|0": {
+  "postedit": "The coffee has spilled, a dark stain spreading over the table.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "The coffee has spilled, a dark stain spreading over the table."
+ },
+ "a:coach8|p:table|x:spilled|1": {
+  "postedit": "The cup is tipped, coffee running off the table's edge.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "The cup is tipped, coffee running off the table's edge."
+ },
+ "a:coach8|p:table|x:spilled|2": {
+  "postedit": "Coffee pools across the table, dripping to the floor.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "Coffee pools across the table, dripping to the floor."
+ },
+ "a:coach8|p:window|v:night|0": {
+  "postedit": "Beyond the window, black countryside and your own faint reflection.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "Beyond the window, black countryside and your own faint reflection."
+ },
+ "a:coach8|p:window|v:night|1": {
+  "postedit": "The window shows only night and the ghost of the cabin.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "The window shows only night and the ghost of the cabin."
+ },
+ "a:coach8|p:window|v:night|2": {
+  "postedit": "Dark fields streak past the window, far-off lights scattered.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "Dark fields streak past the window, far-off lights scattered."
+ },
+ "a:coach8|p:window|x:daylight|0": {
+  "postedit": "The window is bright with daylight. It was night a moment ago.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "The window is bright with daylight. It was night a moment ago."
+ },
+ "a:coach8|p:window|x:daylight|1": {
+  "postedit": "Outside the glass it is suddenly, impossibly, day.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "Outside the glass it is suddenly, impossibly, day."
+ },
+ "a:coach8|p:window|x:daylight|2": {
+  "postedit": "Sunlight fills the window where there was only dark.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "Sunlight fills the window where there was only dark."
+ },
+ "a:coach8|p:window|x:reflection|0": {
+  "postedit": "Your reflection in the glass is a half-second behind you.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "Your reflection in the glass is a half-second behind you."
+ },
+ "a:coach8|p:window|x:reflection|1": {
+  "postedit": "The reflection in the window doesn't quite match the cabin.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "The reflection in the window doesn't quite match the cabin."
+ },
+ "a:coach8|p:window|x:reflection|2": {
+  "postedit": "Someone stands in the window's reflection who isn't in the coach.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "Someone stands in the window's reflection who isn't in the coach."
+ },
+ "a:coach8|p:window|x:station|0": {
+  "postedit": "The window shows a lit platform sliding by, a station, unannounced.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "The window shows a lit platform sliding by, a station, unannounced."
+ },
+ "a:coach8|p:window|x:station|1": {
+  "postedit": "Outside, a station platform passes, empty and bright.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "Outside, a station platform passes, empty and bright."
+ },
+ "a:coach8|p:window|x:station|2": {
+  "postedit": "A station slides past the glass; you never felt the train slow.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "A station slides past the glass; you never felt the train slow."
+ },
+ "a:coach8|p:window|x:tunnel|0": {
+  "postedit": "The window is pure black, a tunnel, roaring, with no end to it.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "The window is pure black, a tunnel, roaring, with no end to it."
+ },
+ "a:coach8|p:window|x:tunnel|1": {
+  "postedit": "You're in a tunnel now; the glass shows only rushing dark.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "You're in a tunnel now; the glass shows only rushing dark."
+ },
+ "a:coach8|p:window|x:tunnel|2": {
+  "postedit": "Nothing but black tunnel wall streams past the window.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "Nothing but black tunnel wall streams past the window."
+ },
+ "a:coach8|progress": {
+  "postedit": "Coach {level} / {goal}",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "Coach {level} / {goal}"
+ },
+ "a:coach8|share_prompt": {
+  "postedit": "Hold the doors.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Hold the doors."
+ },
+ "a:coach8|tagline": {
+  "postedit": "The conductor said coach 8. The train never seems to reach it.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "The conductor said coach 8. The train never seems to reach it."
+ },
+ "a:coach8|title_main": {
+  "postedit": "Coach 8",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "Coach 8"
+ },
+ "a:coach8|title|0": {
+  "postedit": "Coach 8",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "Coach 8"
+ },
+ "a:coach8|title|1": {
+  "postedit": "Coach 8",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "Coach 8"
+ },
+ "a:coach8|title|2": {
+  "postedit": "Coach 8",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "Coach 8"
+ },
+ "a:coach8|title|3": {
+  "postedit": "Coach 8",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "Coach 8"
+ },
+ "a:coach8|title|4": {
+  "postedit": "Carriage 8",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "Carriage 8"
+ },
+ "a:coach8|title|5": {
+  "postedit": "Coach Eight",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "Coach Eight"
+ },
+ "a:coach8|title|6": {
+  "postedit": "COACH 8",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "COACH 8"
+ },
+ "a:coach8|title|7": {
+  "postedit": "Coach  8",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "Coach  8"
+ },
+ "a:coach8|turn_back": {
+  "postedit": "Back a coach",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "Back a coach"
+ },
+ "a:hallway-eight|act2|end|lobby|0": {
+  "postedit": "You push through the lit door expecting the street.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "You push through the lit door expecting the street."
+ },
+ "a:hallway-eight|act2|end|lobby|1": {
+  "postedit": "It is the lobby you started in, the glass still locked, the night still black behind it.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "It is the lobby you started in, the glass still locked, the night still black behind it."
+ },
+ "a:hallway-eight|act2|end|lobby|2": {
+  "postedit": "The corridor you walked is simply gone. You are back at the beginning of a building that no longer has a way out.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "The corridor you walked is simply gone. You are back at the beginning of a building that no longer has a way out."
+ },
+ "a:hallway-eight|act2|exit|action": {
+  "postedit": "step through it",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "step through it"
+ },
+ "a:hallway-eight|act2|exit|tempt": {
+  "postedit": "A door ahead stands open, a lit EXIT humming green above it. The street must be just through there.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "A door ahead stands open, a lit EXIT humming green above it. The street must be just through there."
+ },
+ "a:hallway-eight|act2|flashback|0": {
+  "postedit": "A desk lamp still burns a few doors back. A cup of coffee gone cold at its own ring. The clock reads a time the clock cannot read.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "A desk lamp still burns a few doors back. A cup of coffee gone cold at its own ring. The clock reads a time the clock cannot read."
+ },
+ "a:hallway-eight|act2|flashback|1": {
+  "postedit": "A phone is buzzing in a room you have not reached yet. The name on the screen is almost yours.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "A phone is buzzing in a room you have not reached yet. The name on the screen is almost yours."
+ },
+ "a:hallway-eight|act2|flashback|2": {
+  "postedit": "You had the lobby doors at six. You turned back for something you have already forgotten.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "You had the lobby doors at six. You turned back for something you have already forgotten."
+ },
+ "a:hallway-eight|act2|flashback|3": {
+  "postedit": "The man in grey held the fire door once, a long time ago, and looked at you the way you look at someone you are about to leave behind.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "The man in grey held the fire door once, a long time ago, and looked at you the way you look at someone you are about to leave behind."
+ },
+ "a:hallway-eight|act2|flashback|4": {
+  "postedit": "You have counted to eight before. You are almost sure of it. You are almost sure you never reached it.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "You have counted to eight before. You are almost sure of it. You are almost sure you never reached it."
+ },
+ "a:hallway-eight|act2|t:camera|fold|0": {
+  "postedit": "The camera follows your hand back the way you came, and your feet follow the camera, and you are at the start again.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "The camera follows your hand back the way you came, and your feet follow the camera, and you are at the start again."
+ },
+ "a:hallway-eight|act2|t:camera|herring|0": {
+  "postedit": "A red light you do not remember blinks once. It was probably always on.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "A red light you do not remember blinks once. It was probably always on."
+ },
+ "a:hallway-eight|act2|t:camera|herring|1": {
+  "postedit": "For a second the lens fogs, as if breathed on from the inside.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "For a second the lens fogs, as if breathed on from the inside."
+ },
+ "a:hallway-eight|act2|t:camera|reaction|0": {
+  "postedit": "It swivels, unhurried, and settles on you. Nothing else moves.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "It swivels, unhurried, and settles on you. Nothing else moves."
+ },
+ "a:hallway-eight|act2|t:camera|reaction|1": {
+  "postedit": "The lens tilts down to your eyeline and holds there, patient.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "The lens tilts down to your eyeline and holds there, patient."
+ },
+ "a:hallway-eight|act2|t:camera|verb": {
+  "postedit": "wave at the camera",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "wave at the camera"
+ },
+ "a:hallway-eight|act2|t:door|fold|0": {
+  "postedit": "It opens onto a stretch of corridor you have already walked. The number in your head is gone. You are at the start again.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "It opens onto a stretch of corridor you have already walked. The number in your head is gone. You are at the start again."
+ },
+ "a:hallway-eight|act2|t:door|herring|0": {
+  "postedit": "The metal is warm, warmer than a locked door should be. It probably means nothing.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "The metal is warm, warmer than a locked door should be. It probably means nothing."
+ },
+ "a:hallway-eight|act2|t:door|herring|1": {
+  "postedit": "There is a draft under it that was not there before. Or was, and you never noticed.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "There is a draft under it that was not there before. Or was, and you never noticed."
+ },
+ "a:hallway-eight|act2|t:door|reaction|0": {
+  "postedit": "The handle turns a little and stops, as if held from the other side.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "The handle turns a little and stops, as if held from the other side."
+ },
+ "a:hallway-eight|act2|t:door|reaction|1": {
+  "postedit": "You put your ear to it. Something on the far side goes quiet, the way a room does when you enter.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "You put your ear to it. Something on the far side goes quiet, the way a room does when you enter."
+ },
+ "a:hallway-eight|act2|t:door|verb": {
+  "postedit": "try the maintenance door",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "try the maintenance door"
+ },
+ "a:hallway-eight|act2|t:figure|fold|0": {
+  "postedit": "He turns, finally, and it is a face you know too well, and the sight of it puts you back at the start.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "He turns, finally, and it is a face you know too well, and the sight of it puts you back at the start."
+ },
+ "a:hallway-eight|act2|t:figure|herring|0": {
+  "postedit": "For a moment his suit looks like yours. Grey is grey.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "For a moment his suit looks like yours. Grey is grey."
+ },
+ "a:hallway-eight|act2|t:figure|herring|1": {
+  "postedit": "He is a little nearer than when you called. Just the walking, surely.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "He is a little nearer than when you called. Just the walking, surely."
+ },
+ "a:hallway-eight|act2|t:figure|reaction|0": {
+  "postedit": "Your voice goes down the corridor and does not come back. He does not turn.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Your voice goes down the corridor and does not come back. He does not turn."
+ },
+ "a:hallway-eight|act2|t:figure|reaction|1": {
+  "postedit": "He pauses, a half step, the way you pause at your own name in a crowd. Then he walks on.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "He pauses, a half step, the way you pause at your own name in a crowd. Then he walks on."
+ },
+ "a:hallway-eight|act2|t:figure|verb": {
+  "postedit": "call out to the man in grey",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "call out to the man in grey"
+ },
+ "a:hallway-eight|act2|t:poster|fold|0": {
+  "postedit": "You lean in until the dots are all there is, and when you step back the corridor has reset around you.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "You lean in until the dots are all there is, and when you step back the corridor has reset around you."
+ },
+ "a:hallway-eight|act2|t:poster|herring|0": {
+  "postedit": "The ink is still tacky. Freshly printed. It means nothing, and you know it means nothing, and still your hand pulls back.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "The ink is still tacky. Freshly printed. It means nothing, and you know it means nothing, and still your hand pulls back."
+ },
+ "a:hallway-eight|act2|t:poster|herring|1": {
+  "postedit": "The colours are too bright for how faded it looked a moment ago. A trick of the light.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "The colours are too bright for how faded it looked a moment ago. A trick of the light."
+ },
+ "a:hallway-eight|act2|t:poster|reaction|0": {
+  "postedit": "Up close the beach is only dots of ink. A place you were going to go.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Up close the beach is only dots of ink. A place you were going to go."
+ },
+ "a:hallway-eight|act2|t:poster|reaction|1": {
+  "postedit": "The corner has been peeled and pressed back so many times the paper has gone soft.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "The corner has been peeled and pressed back so many times the paper has gone soft."
+ },
+ "a:hallway-eight|act2|t:poster|verb": {
+  "postedit": "look closer at the poster",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "look closer at the poster"
+ },
+ "a:hallway-eight|attempt": {
+  "postedit": "{n} times down this corridor, and this time it opened.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "{n} times down this corridor, and this time it opened."
+ },
+ "a:hallway-eight|attempt_first": {
+  "postedit": "First time through, and the corridor let you go.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "First time through, and the corridor let you go."
+ },
+ "a:hallway-eight|framing|cutscene|0": {
+  "postedit": "Something in the corridor changed, and you walked on past it.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Something in the corridor changed, and you walked on past it."
+ },
+ "a:hallway-eight|framing|cutscene|1": {
+  "postedit": "If a stretch is not exactly as you remember, turn back. If it is, walk on.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "If a stretch is not exactly as you remember, turn back. If it is, walk on."
+ },
+ "a:hallway-eight|share_prompt": {
+  "postedit": "Leave the door open.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Leave the door open."
+ },
+ "a:stairway8|act2|end|climb|0": {
+  "postedit": "You take the shortcut door, sure it drops you at the ground.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "You take the shortcut door, sure it drops you at the ground."
+ },
+ "a:stairway8|act2|end|climb|1": {
+  "postedit": "The number on the wall is higher than the floor you began on.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "The number on the wall is higher than the floor you began on."
+ },
+ "a:stairway8|act2|end|climb|2": {
+  "postedit": "The flight down has become a flight up, and every door from here opens onto stairs that only rise.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "The flight down has become a flight up, and every door from here opens onto stairs that only rise."
+ },
+ "a:stairway8|act2|exit|action": {
+  "postedit": "take the shortcut",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "take the shortcut"
+ },
+ "a:stairway8|act2|exit|tempt": {
+  "postedit": "A landing door hangs open below, and past it the stairs seem to drop straight to the street. A shortcut down.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "A landing door hangs open below, and past it the stairs seem to drop straight to the street. A shortcut down."
+ },
+ "a:stairway8|act2|flashback|0": {
+  "postedit": "You came up in the lift once. You remember the doors closing on a face.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "You came up in the lift once. You remember the doors closing on a face."
+ },
+ "a:stairway8|act2|flashback|1": {
+  "postedit": "There was a floor you were visiting. You cannot say the number now, only that you did not want to go.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "There was a floor you were visiting. You cannot say the number now, only that you did not want to go."
+ },
+ "a:stairway8|act2|flashback|2": {
+  "postedit": "The figure below waved up at you the first time, and you told yourself it was meant for someone else.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "The figure below waved up at you the first time, and you told yourself it was meant for someone else."
+ },
+ "a:stairway8|act2|flashback|3": {
+  "postedit": "You have read these scratches before. One of them is a tally, and it goes past eight.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "You have read these scratches before. One of them is a tally, and it goes past eight."
+ },
+ "a:stairway8|act2|flashback|4": {
+  "postedit": "You were sure the ground floor was next. You have been sure before.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "You were sure the ground floor was next. You have been sure before."
+ },
+ "a:stairway8|act2|t:door|fold|0": {
+  "postedit": "It swings open onto a landing you passed three floors ago. The count is gone. You are at the top again.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "It swings open onto a landing you passed three floors ago. The count is gone. You are at the top again."
+ },
+ "a:stairway8|act2|t:door|herring|0": {
+  "postedit": "The paint on it is tacky, freshly done, though the sign beside it is yellow with age.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "The paint on it is tacky, freshly done, though the sign beside it is yellow with age."
+ },
+ "a:stairway8|act2|t:door|herring|1": {
+  "postedit": "A cold draft comes up through the gap, carrying nothing you can name.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "A cold draft comes up through the gap, carrying nothing you can name."
+ },
+ "a:stairway8|act2|t:door|reaction|0": {
+  "postedit": "The bar gives a finger's width and stops, a chain you cannot see holding it.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "The bar gives a finger's width and stops, a chain you cannot see holding it."
+ },
+ "a:stairway8|act2|t:door|reaction|1": {
+  "postedit": "Behind it, faintly, the sound of the same stairwell going down.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Behind it, faintly, the sound of the same stairwell going down."
+ },
+ "a:stairway8|act2|t:door|verb": {
+  "postedit": "try the landing door",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "try the landing door"
+ },
+ "a:stairway8|act2|t:figure|fold|0": {
+  "postedit": "It climbs to meet you, unhurried, and when it reaches your landing you are somehow back at the top, alone.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "It climbs to meet you, unhurried, and when it reaches your landing you are somehow back at the top, alone."
+ },
+ "a:stairway8|act2|t:figure|herring|0": {
+  "postedit": "The coat down there is the colour of yours. Most coats are.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "The coat down there is the colour of yours. Most coats are."
+ },
+ "a:stairway8|act2|t:figure|herring|1": {
+  "postedit": "It is a landing nearer than when you called. You have been walking, after all.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "It is a landing nearer than when you called. You have been walking, after all."
+ },
+ "a:stairway8|act2|t:figure|reaction|0": {
+  "postedit": "Your voice comes back a beat late, in your own tone.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Your voice comes back a beat late, in your own tone."
+ },
+ "a:stairway8|act2|t:figure|reaction|1": {
+  "postedit": "Far below, a face tips up toward the sound, or the shadow of one.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Far below, a face tips up toward the sound, or the shadow of one."
+ },
+ "a:stairway8|act2|t:figure|verb": {
+  "postedit": "call down the stairwell",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "call down the stairwell"
+ },
+ "a:stairway8|act2|t:notice|fold|0": {
+  "postedit": "You read to the bottom and the bottom says START, and it is.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "You read to the bottom and the bottom says START, and it is."
+ },
+ "a:stairway8|act2|t:notice|herring|0": {
+  "postedit": "The tape holding it is fresh, still shiny. Notices like this are always being replaced.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "The tape holding it is fresh, still shiny. Notices like this are always being replaced."
+ },
+ "a:stairway8|act2|t:notice|herring|1": {
+  "postedit": "The paper is warm, as if just off a machine. Buildings are strange at night.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "The paper is warm, as if just off a machine. Buildings are strange at night."
+ },
+ "a:stairway8|act2|t:notice|reaction|0": {
+  "postedit": "LIFT OUT OF ORDER, USE STAIRS. Someone has underlined USE, twice, hard.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "LIFT OUT OF ORDER, USE STAIRS. Someone has underlined USE, twice, hard."
+ },
+ "a:stairway8|act2|t:notice|reaction|1": {
+  "postedit": "Below the print, in pencil, a hand has written a number and crossed it out.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Below the print, in pencil, a hand has written a number and crossed it out."
+ },
+ "a:stairway8|act2|t:notice|verb": {
+  "postedit": "read the notice",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "read the notice"
+ },
+ "a:stairway8|act2|t:railing|fold|0": {
+  "postedit": "You follow it down with your eyes, and your feet follow your eyes, and you are climbing again, at the start.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "You follow it down with your eyes, and your feet follow your eyes, and you are climbing again, at the start."
+ },
+ "a:stairway8|act2|t:railing|herring|0": {
+  "postedit": "Cold, where you left it warm a landing ago. It means nothing.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Cold, where you left it warm a landing ago. It means nothing."
+ },
+ "a:stairway8|act2|t:railing|herring|1": {
+  "postedit": "It is a shade of green you do not remember it being. The light down here is bad.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "It is a shade of green you do not remember it being. The light down here is bad."
+ },
+ "a:stairway8|act2|t:railing|reaction|0": {
+  "postedit": "It is colder than the air, and it hums faintly, the way a rail does when someone far below holds it too.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "It is colder than the air, and it hums faintly, the way a rail does when someone far below holds it too."
+ },
+ "a:stairway8|act2|t:railing|reaction|1": {
+  "postedit": "Your hand leaves no print on it, though it should.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Your hand leaves no print on it, though it should."
+ },
+ "a:stairway8|act2|t:railing|verb": {
+  "postedit": "grip the handrail",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "grip the handrail"
+ },
+ "a:stairway8|attempt": {
+  "postedit": "{n} times down these stairs, and this time they let you out.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "{n} times down these stairs, and this time they let you out."
+ },
+ "a:stairway8|attempt_first": {
+  "postedit": "First descent, and the stair never turned you back.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "First descent, and the stair never turned you back."
+ },
+ "a:stairway8|framing|cutscene|0": {
+  "postedit": "Something on the landing changed, and you went down past it.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Something on the landing changed, and you went down past it."
+ },
+ "a:stairway8|framing|cutscene|1": {
+  "postedit": "If a landing is not exactly as you remember, go back up. If it is, keep going down.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "If a landing is not exactly as you remember, go back up. If it is, keep going down."
+ },
+ "a:stairway8|share_prompt": {
+  "postedit": "Leave the door open below.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Leave the door open below."
+ },
+ "ui|a11y_close": {
+  "postedit": "Close",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Close"
+ },
+ "ui|a11y_settings": {
+  "postedit": "Display settings",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Display settings"
+ },
+ "ui|a11y_sound_off": {
+  "postedit": "Sound off",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Sound off"
+ },
+ "ui|a11y_sound_on": {
+  "postedit": "Sound on",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Sound on"
+ },
+ "ui|ach_d_cold": {
+  "postedit": "Escape without a second look.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Escape without a second look."
+ },
+ "ui|ach_d_eight_times": {
+  "postedit": "Escape one place eight times.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Escape one place eight times."
+ },
+ "ui|ach_d_end_coach8": {
+  "postedit": "Find Coach 8's other ending.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Find Coach 8's other ending."
+ },
+ "ui|ach_d_end_hallway-eight": {
+  "postedit": "Find Hallway 8's other ending.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Find Hallway 8's other ending."
+ },
+ "ui|ach_d_end_stairway8": {
+  "postedit": "Find Stairway 8's other ending.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Find Stairway 8's other ending."
+ },
+ "ui|ach_d_flash_coach8": {
+  "postedit": "See every fragment in Coach 8.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "See every fragment in Coach 8."
+ },
+ "ui|ach_d_flash_hallway-eight": {
+  "postedit": "See every fragment in Hallway 8.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "See every fragment in Hallway 8."
+ },
+ "ui|ach_d_flash_stairway8": {
+  "postedit": "See every fragment in Stairway 8.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "See every fragment in Stairway 8."
+ },
+ "ui|ach_d_flawless": {
+  "postedit": "Escape a place without a single reset.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Escape a place without a single reset."
+ },
+ "ui|ach_d_hard_all": {
+  "postedit": "Escape all three on hard.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Escape all three on hard."
+ },
+ "ui|ach_d_hard_coach8": {
+  "postedit": "Escape Coach 8 on hard.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Escape Coach 8 on hard."
+ },
+ "ui|ach_d_hard_hallway-eight": {
+  "postedit": "Escape Hallway 8 on hard.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Escape Hallway 8 on hard."
+ },
+ "ui|ach_d_hard_stairway8": {
+  "postedit": "Escape Stairway 8 on hard.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Escape Stairway 8 on hard."
+ },
+ "ui|ach_d_insane_all": {
+  "postedit": "Escape all three on insane.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Escape all three on insane."
+ },
+ "ui|ach_d_insane_coach8": {
+  "postedit": "Escape Coach 8 on insane.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Escape Coach 8 on insane."
+ },
+ "ui|ach_d_insane_hallway-eight": {
+  "postedit": "Escape Hallway 8 on insane.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Escape Hallway 8 on insane."
+ },
+ "ui|ach_d_insane_stairway8": {
+  "postedit": "Escape Stairway 8 on insane.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Escape Stairway 8 on insane."
+ },
+ "ui|ach_d_melon": {
+  "postedit": "Thank you for keeping the lights on. From all of us at Melon Labs.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Thank you for keeping the lights on. From all of us at Melon Labs."
+ },
+ "ui|ach_d_nerve": {
+  "postedit": "Turn back at the final door, and be right.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Turn back at the final door, and be right."
+ },
+ "ui|ach_d_npc_knows": {
+  "postedit": "Be acknowledged by the one who is always ahead.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Be acknowledged by the one who is always ahead."
+ },
+ "ui|ach_d_opening_night": {
+  "postedit": "Play on the day it opened.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Play on the day it opened."
+ },
+ "ui|ach_d_out_all": {
+  "postedit": "Escape all three places.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Escape all three places."
+ },
+ "ui|ach_d_out_coach8": {
+  "postedit": "Step off the train.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Step off the train."
+ },
+ "ui|ach_d_out_hallway-eight": {
+  "postedit": "Escape the corridor.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Escape the corridor."
+ },
+ "ui|ach_d_out_stairway8": {
+  "postedit": "Reach the ground floor.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Reach the ground floor."
+ },
+ "ui|ach_d_shared": {
+  "postedit": "Send the place to someone else.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Send the place to someone else."
+ },
+ "ui|ach_d_steady": {
+  "postedit": "Escape without a single guess.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Escape without a single guess."
+ },
+ "ui|ach_d_streak": {
+  "postedit": "Three clean escapes in a row.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Three clean escapes in a row."
+ },
+ "ui|ach_d_total_recall": {
+  "postedit": "See every last fragment, everywhere.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "See every last fragment, everywhere."
+ },
+ "ui|ach_empty": {
+  "postedit": "Nothing yet. Escape a place to begin.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Nothing yet. Escape a place to begin."
+ },
+ "ui|ach_flash": {
+  "postedit": "Flashbacks",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Flashbacks"
+ },
+ "ui|ach_load": {
+  "postedit": "Load",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Load"
+ },
+ "ui|ach_locked": {
+  "postedit": "Locked",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Locked"
+ },
+ "ui|ach_n_cold": {
+  "postedit": "Cold read",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Cold read"
+ },
+ "ui|ach_n_eight_times": {
+  "postedit": "Eight times through",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Eight times through"
+ },
+ "ui|ach_n_end_coach8": {
+  "postedit": "The platform that isn't yours",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "The platform that isn't yours"
+ },
+ "ui|ach_n_end_hallway-eight": {
+  "postedit": "The lobby that won't open",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "The lobby that won't open"
+ },
+ "ui|ach_n_end_stairway8": {
+  "postedit": "The stairs that only climb",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "The stairs that only climb"
+ },
+ "ui|ach_n_flash_coach8": {
+  "postedit": "Coach, remembered",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Coach, remembered"
+ },
+ "ui|ach_n_flash_hallway-eight": {
+  "postedit": "Hallway, remembered",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Hallway, remembered"
+ },
+ "ui|ach_n_flash_stairway8": {
+  "postedit": "Stairway, remembered",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Stairway, remembered"
+ },
+ "ui|ach_n_flawless": {
+  "postedit": "Flawless",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Flawless"
+ },
+ "ui|ach_n_hard_all": {
+  "postedit": "Nowhere left soft",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Nowhere left soft"
+ },
+ "ui|ach_n_hard_coach8": {
+  "postedit": "Coach, harder",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Coach, harder"
+ },
+ "ui|ach_n_hard_hallway-eight": {
+  "postedit": "Hallway, harder",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Hallway, harder"
+ },
+ "ui|ach_n_hard_stairway8": {
+  "postedit": "Stairway, harder",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Stairway, harder"
+ },
+ "ui|ach_n_insane_all": {
+  "postedit": "Trust nothing",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Trust nothing"
+ },
+ "ui|ach_n_insane_coach8": {
+  "postedit": "Coach, unmade",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Coach, unmade"
+ },
+ "ui|ach_n_insane_hallway-eight": {
+  "postedit": "Hallway, unmade",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Hallway, unmade"
+ },
+ "ui|ach_n_insane_stairway8": {
+  "postedit": "Stairway, unmade",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Stairway, unmade"
+ },
+ "ui|ach_n_melon": {
+  "postedit": "Melon Supporter",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Melon Supporter"
+ },
+ "ui|ach_n_nerve": {
+  "postedit": "Nerve",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Nerve"
+ },
+ "ui|ach_n_npc_knows": {
+  "postedit": "It knows you",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "It knows you"
+ },
+ "ui|ach_n_opening_night": {
+  "postedit": "Opening night",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Opening night"
+ },
+ "ui|ach_n_out_all": {
+  "postedit": "All the way out",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "All the way out"
+ },
+ "ui|ach_n_out_coach8": {
+  "postedit": "Out of Coach 8",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Out of Coach 8"
+ },
+ "ui|ach_n_out_hallway-eight": {
+  "postedit": "Out of Hallway 8",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Out of Hallway 8"
+ },
+ "ui|ach_n_out_stairway8": {
+  "postedit": "Out of Stairway 8",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Out of Stairway 8"
+ },
+ "ui|ach_n_shared": {
+  "postedit": "Passed it on",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Passed it on"
+ },
+ "ui|ach_n_steady": {
+  "postedit": "Steady",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Steady"
+ },
+ "ui|ach_n_streak": {
+  "postedit": "On a roll",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "On a roll"
+ },
+ "ui|ach_n_total_recall": {
+  "postedit": "Total recall",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Total recall"
+ },
+ "ui|ach_open": {
+  "postedit": "Achievements",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Achievements"
+ },
+ "ui|ach_progress": {
+  "postedit": "{n} of {total} unlocked",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "{n} of {total} unlocked"
+ },
+ "ui|ach_save": {
+  "postedit": "Save",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Save"
+ },
+ "ui|ach_section": {
+  "postedit": "Achievements",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Achievements"
+ },
+ "ui|again": {
+  "postedit": "Walk it again",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "Walk it again"
+ },
+ "ui|age_normal": {
+  "postedit": "Normal",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Normal"
+ },
+ "ui|age_simple": {
+  "postedit": "Simple",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Simple"
+ },
+ "ui|back": {
+  "postedit": "Back",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "Back"
+ },
+ "ui|begin": {
+  "postedit": "Begin",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "Begin"
+ },
+ "ui|change": {
+  "postedit": "Change scenario",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "Change scenario"
+ },
+ "ui|col_recall": {
+  "postedit": "Recall this fragment",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Recall this fragment"
+ },
+ "ui|col_recall_empty": {
+  "postedit": "A fragment you have seen, its words already fading.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "A fragment you have seen, its words already fading."
+ },
+ "ui|col_section": {
+  "postedit": "Recollections",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Recollections"
+ },
+ "ui|conf_1": {
+  "postedit": "Guessing",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "Guessing"
+ },
+ "ui|conf_2": {
+  "postedit": "I think so",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "I think so"
+ },
+ "ui|conf_3": {
+  "postedit": "Almost sure",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "Almost sure"
+ },
+ "ui|conf_4": {
+  "postedit": "Certain",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "Certain"
+ },
+ "ui|conf_q": {
+  "postedit": "How certain are you?",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "How certain are you?"
+ },
+ "ui|diff_easy": {
+  "postedit": "Easy",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Easy"
+ },
+ "ui|diff_hard": {
+  "postedit": "Hard",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Hard"
+ },
+ "ui|diff_hint_hard": {
+  "postedit": "Hard adds new kinds of change.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Hard adds new kinds of change."
+ },
+ "ui|diff_hint_insane": {
+  "postedit": "Insane remakes what normal is, every run.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Insane remakes what normal is, every run."
+ },
+ "ui|diff_hint_locked": {
+  "postedit": "Escape once to unlock Hard.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Escape once to unlock Hard."
+ },
+ "ui|diff_insane": {
+  "postedit": "Insane",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Insane"
+ },
+ "ui|diff_normal": {
+  "postedit": "Normal",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Normal"
+ },
+ "ui|end_credits": {
+  "postedit": "End Credits",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "End Credits"
+ },
+ "ui|ending_back": {
+  "postedit": "Back to the start",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Back to the start"
+ },
+ "ui|erase": {
+  "postedit": "Erase",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Erase"
+ },
+ "ui|erase_body": {
+  "postedit": "Everything this place remembers of you goes: the fragments you have recollected, the marks you have earned, every run. This cannot be undone.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Everything this place remembers of you goes: the fragments you have recollected, the marks you have earned, every run. This cannot be undone."
+ },
+ "ui|erase_cancel": {
+  "postedit": "Keep it",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Keep it"
+ },
+ "ui|erase_title": {
+  "postedit": "Erase your memory?",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Erase your memory?"
+ },
+ "ui|fold_1": {
+  "postedit": "That was you. You reached for something in the place, and it folded the way back on you.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "That was you. You reached for something in the place, and it folded the way back on you."
+ },
+ "ui|fold_2": {
+  "postedit": "Touching what you find is never necessary. Look if you like, but a wrong touch can send you here.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Touching what you find is never necessary. Look if you like, but a wrong touch can send you here."
+ },
+ "ui|fold_hide": {
+  "postedit": "Don't show this again.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Don't show this again."
+ },
+ "ui|fold_title": {
+  "postedit": "Back to the start.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Back to the start."
+ },
+ "ui|furthest": {
+  "postedit": "furthest {n}",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "furthest {n}"
+ },
+ "ui|give_up": {
+  "postedit": "Give up · back to start",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "Give up · back to start"
+ },
+ "ui|hesitate_1": {
+  "postedit": "You hesitate. Look again.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "You hesitate. Look again."
+ },
+ "ui|hesitate_2": {
+  "postedit": "You're not sure. You take another look.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "You're not sure. You take another look."
+ },
+ "ui|hesitate_3": {
+  "postedit": "Doubt stops you. Read it once more.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Doubt stops you. Read it once more."
+ },
+ "ui|hesitate_4": {
+  "postedit": "You hold back, and let your eyes travel over it again.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "You hold back, and let your eyes travel over it again."
+ },
+ "ui|instructions": {
+  "postedit": "Instructions",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Instructions"
+ },
+ "ui|language": {
+  "postedit": "Language",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "Language"
+ },
+ "ui|look_back": {
+  "postedit": "Look back.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Look back."
+ },
+ "ui|mem_title": {
+  "postedit": "Memory",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Memory"
+ },
+ "ui|nudge_arcs": {
+  "postedit": "Two other places are also called 8.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Two other places are also called 8."
+ },
+ "ui|nudge_eight": {
+  "postedit": "Eight escapes from one place is a different kind of remembering.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Eight escapes from one place is a different kind of remembering."
+ },
+ "ui|nudge_frags": {
+  "postedit": "There are {n} memories here you have not seen yet.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "There are {n} memories here you have not seen yet."
+ },
+ "ui|promo_bad": {
+  "postedit": "That code does nothing here.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "That code does nothing here."
+ },
+ "ui|promo_go": {
+  "postedit": "Redeem",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Redeem"
+ },
+ "ui|promo_have": {
+  "postedit": "Already redeemed.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Already redeemed."
+ },
+ "ui|promo_hint": {
+  "postedit": "Code",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Code"
+ },
+ "ui|promo_ok": {
+  "postedit": "Unlocked.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Unlocked."
+ },
+ "ui|read_cold": {
+  "postedit": "You walked it without a second look.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "You walked it without a second look."
+ },
+ "ui|read_nerve": {
+  "postedit": "You turned back at the very last door, and you were right.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "You turned back at the very last door, and you were right."
+ },
+ "ui|read_steady": {
+  "postedit": "You never once called it a guess.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "You never once called it a guess."
+ },
+ "ui|rec_cold": {
+  "postedit": "Escaped without a second look.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Escaped without a second look."
+ },
+ "ui|rec_nerve": {
+  "postedit": "Turned back at the final door, and was right.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Turned back at the final door, and was right."
+ },
+ "ui|rec_section": {
+  "postedit": "Records",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Records"
+ },
+ "ui|rec_steady": {
+  "postedit": "Escaped without a single guess.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Escaped without a single guess."
+ },
+ "ui|rec_streak": {
+  "postedit": "Clean escapes in a row: {n}",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Clean escapes in a row: {n}"
+ },
+ "ui|rules_plain": {
+  "postedit": "Something changed? Go back. Nothing changed? Go on. Eight in a row to get out.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Something changed? Go back. Nothing changed? Go on. Eight in a row to get out."
+ },
+ "ui|select_lead_1": {
+  "postedit": "Somewhere you can't quite leave.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "Somewhere you can't quite leave."
+ },
+ "ui|select_lead_2": {
+  "postedit": "Choose a way through.",
+  "postedit_score": 96,
+  "score": 96,
+  "text": "Choose a way through."
+ },
+ "ui|set_age": {
+  "postedit": "Reading",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Reading"
+ },
+ "ui|set_bright": {
+  "postedit": "Brightness",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Brightness"
+ },
+ "ui|set_diff": {
+  "postedit": "Difficulty",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Difficulty"
+ },
+ "ui|set_done": {
+  "postedit": "Done",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Done"
+ },
+ "ui|set_motion": {
+  "postedit": "Reduce motion",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Reduce motion"
+ },
+ "ui|set_text": {
+  "postedit": "Text size",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Text size"
+ },
+ "ui|settings_title": {
+  "postedit": "Display",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Display"
+ },
+ "ui|share_1": {
+  "postedit": "There is a place you can't quite leave. I left. Now it's your turn.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "There is a place you can't quite leave. I left. Now it's your turn."
+ },
+ "ui|share_2": {
+  "postedit": "Somewhere you can't quite leave, someone found the door. Come find yours.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Somewhere you can't quite leave, someone found the door. Come find yours."
+ },
+ "ui|share_3": {
+  "postedit": "Eight chances to doubt yourself. I trusted the right ones. Now you.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Eight chances to doubt yourself. I trusted the right ones. Now you."
+ },
+ "ui|share_4": {
+  "postedit": "I know the way out now. I won't tell you where. Come and see.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "I know the way out now. I won't tell you where. Come and see."
+ },
+ "ui|share_5": {
+  "postedit": "A quiet place, eight small doubts, one way through. I found it. Can you?",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "A quiet place, eight small doubts, one way through. I found it. Can you?"
+ },
+ "ui|share_6": {
+  "postedit": "I walked it eight times and trusted what I remembered. See if you can.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "I walked it eight times and trusted what I remembered. See if you can."
+ },
+ "ui|share_7": {
+  "postedit": "The way out comes down to what you remember. I remembered. Now you try.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "The way out comes down to what you remember. I remembered. Now you try."
+ },
+ "ui|share_8": {
+  "postedit": "Eight doors stood between me and the cold air. I opened every one. Your turn.",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Eight doors stood between me and the cold air. I opened every one. Your turn."
+ },
+ "ui|share_copied": {
+  "postedit": "Link copied",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Link copied"
+ },
+ "ui|share_copy": {
+  "postedit": "Copy link",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Copy link"
+ },
+ "ui|share_native": {
+  "postedit": "Share",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "Share"
+ },
+ "ui|view_credits": {
+  "postedit": "View credits",
+  "postedit_score": 95,
+  "score": 94,
+  "text": "View credits"
+ }
 }
