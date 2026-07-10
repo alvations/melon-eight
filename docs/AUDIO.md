@@ -68,10 +68,11 @@ silent shuffle. After the result, `ambience.run(dir)` may add a hurried flurry
 
 ## Level-matching (keep it this way)
 
-The room-tone beds are level-matched with a **per-arc `BUS` map** in `play()`:
-each arc's `bus` is set so its measured loudness (RMS) matches the landing theme.
-The low-frequency arcs (coach especially) need the most lift because sub-bass
-reads quiet on laptop speakers. The movement SFX are left at their natural level
+The room-tone beds are set with a **per-arc `BUS` map** in `play()`, originally
+derived by measuring each bed's loudness (RMS) against the landing theme. Hallway
+and stairway sit near the landing theme; **coach is deliberately the quietest bed**
+(`BUS.coach = 0.8`, an almost-empty-subway hush, well below landing) by owner
+preference, not a measured match. The movement SFX are left at their natural level
 (a firm footstep is meant to sit a little above the room tone); only the beds are
 calibrated. These values are **derived from measurement, not guessed.** If you
 retune a bed, re-measure so the arcs stay matched to landing.

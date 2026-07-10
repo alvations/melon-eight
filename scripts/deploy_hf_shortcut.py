@@ -83,21 +83,16 @@ def main() -> None:
     except Exception as exc:  # non-fatal
         print(f"Could not set SECRET_KEY (set it manually if you want): {exc}")
 
+    # Same lean upload AND the same preflight self-check as the canonical deploy,
+    # from the single source of truth in deploy_hf, so the two can never drift.
+    import deploy_hf
+    deploy_hf._preflight()
     api.upload_folder(
         folder_path=ROOT,
         repo_id=REPO_ID,
         repo_type="space",
         commit_message=f"Deploy shortcut test build ({GOAL} stages, non-canonical)",
-        # Same lean upload as the canonical deploy: only the runtime game, not the
-        # dev tool-chain, tests, docs, reviews, or the i18n source/audit.
-        ignore_patterns=[
-            ".git*", "**/__pycache__/**", "*.pyc", ".venv/**", "venv/**", ".env",
-            "tests/**", "scripts/**", "package.json", "package-lock.json",
-            "node_modules/**", "*.cjs", "docs/**", "CLAUDE.md", "llm-benchmark/**",
-            "data/i18n/src/**", "data/i18n/lines.json", "data/i18n/levels.json",
-            "static/audio/**", "shots/**", "video/**",
-            "theme-out/**", "sfx-out/**", "audio-out/**", "*.webm",
-        ],
+        ignore_patterns=deploy_hf.IGNORE_PATTERNS,
     )
     print(f"\nDone -> https://huggingface.co/spaces/{REPO_ID}")
     print(f"Reaches the end screen in {GOAL} correct calls. Test-only build.")

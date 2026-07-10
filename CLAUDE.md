@@ -66,7 +66,35 @@ python scripts/make_private_hf.py --public   # public on release day
 
 The `Dockerfile` targets HF Spaces (port 7860, **single gunicorn worker**: game
 state is in-memory per process; do not scale workers). README front matter is the
-Space card (`sdk: docker`, `app_port: 7860`).
+Space card (`sdk: docker`, `app_port: 7860`). `deploy_hf.py` runs a **preflight**
+first: it boots the game from ONLY the lean upload set and hits its endpoints, so
+a broken build never ships (`tests/test_deploy.py` runs the same check in the
+suite). App startup prints `[8-boot]` diagnostics to stderr (visible in the Space
+logs), and `GET /healthz` returns `ok`.
+
+**Two deploy targets, one engine (keep it this way).** 8 ships to the Flask
+server (HF/Docker/Fly) AND to **itch.io** as a static HTML5 bundle. itch has no
+backend, so the itch build runs the *same* Flask engine in the browser via
+**Pyodide**: `scripts/build_itch.py` packs the runtime Python (`app.py` + engine
+modules + arcs + compiled i18n) into `app.tar`, and `static/itch-boot.js` loads
+Pyodide, `micropip`-installs Flask, unpacks it, and routes `/api/*` through
+Flask's `test_client`. There is **no second, hand-maintained JS engine** to drift
+out of sync; `game.js` is byte-identical to the server's. Build one or both:
+`python scripts/build_itch.py` (-> `dist/hallway8-itch.zip`) or
+`python scripts/build_all.py` (HF preflight + itch bundle, so *every build*
+produces both). `itch-boot.js` and `dist/` are excluded from the HF upload
+(`deploy_hf.IGNORE_PATTERNS`), so the server path is untouched. Guarded by
+`tests/test_itch.py` (boots from only `app.tar` and serves every endpoint like
+the browser shim). Full itch upload steps are in **docs/HOSTING.md**. The Pyodide
+boot itself can only be verified in a real browser (the sandbox has no outbound
+network for the CDN), so smoke-play once after the first itch upload.
+
+**Heads-up (HF pricing):** Hugging Face now requires **PRO** to run **Docker**
+Spaces on free cpu-basic (`create_repo` returns HTTP 402). `deploy_hf.py` catches
+that and prints the options. Since 8 is a Flask backend (the answer lives
+server-side), it cannot be a free *Static* Space. Free alternatives that run the
+same portable `Dockerfile` (Fly.io with the committed `fly.toml`, Render, Cloud
+Run) are in **docs/HOSTING.md**: always pin **one** instance (in-memory state).
 
 **Shortcut test build (non-canonical).** `GOAL` (in `hallway.py`) reads `H8_GOAL`
 (clamped 1..8), so `H8_GOAL=3 python app.py` reaches the end screen in 3 calls for
@@ -211,11 +239,14 @@ train are spaced wider (`_every(30000, 54000)`, ~once every 42s), still met in a
 normal climb but interrupting the quiet less. The cadence test caps every
 window's midpoint at 45s so events stay audible.
 
-**Level-matching (keep it this way):** each arc's room tone is calibrated to the
-**landing theme's** loudness via a per-arc `BUS` map in `play()` (derived from RMS
-measurement). The movement SFX (footsteps) play at their natural level, a hair
-above the room tone, by owner preference; only the beds are calibrated. Retuning a
-bed means re-measuring so the arcs stay matched to landing. `tests/test_audio.py`
+**Level-matching (keep it this way):** each arc's room tone is set via a per-arc
+`BUS` map in `play()` (originally derived from RMS measurement against the
+**landing theme**). Hallway and stairway sit near the landing theme's loudness;
+**coach is deliberately the quietest bed** (owner tuning, well below landing,
+`BUS.coach = 0.8`, an almost-empty-subway hush). The movement SFX (footsteps) play
+at their natural level, a hair above the room tone, by owner preference; only the
+beds are calibrated. Retuning a bed means re-measuring; keep hallway/stairway near
+landing and coach the quiet outlier. `tests/test_audio.py`
 guards the level-match, the ~30s cadence, and `unlock()`. **Mobile / iframe audio:** `ambience.unlock()` resumes a suspended
 AudioContext, and `game.js` calls it **synchronously on the first gesture**
 (capture phase, not `{once}`), before any `await`: iOS/Safari and the cross-site

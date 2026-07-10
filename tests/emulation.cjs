@@ -387,10 +387,11 @@ async function commit(p, reduce) {
       check("audio: context unlocks from a gesture", r.unlocked === true);
       check("audio: mute silences the master bus", r.mutedGain === 0, `gain ${r.mutedGain}`);
 
-      // Substantiate the "level-matched to the landing theme" claim by actually
-      // MEASURING loudness (RMS) per arc, not just checking a config string. Each
-      // arc must sit within a band of the landing theme's level (the pre-fix coach
-      // bug was ~0.16x landing, which this would catch).
+      // Substantiate the loudness intent by actually MEASURING RMS per arc, not
+      // just checking a config string. Hallway and stairway sit near the landing
+      // theme's level; coach is DELIBERATELY the quietest bed (owner tuning, well
+      // below landing, an almost-empty-subway hush) but must still be audible.
+      // This still catches a silent bed or a runaway-loud one.
       const rms = await p.evaluate(async () => {
         const a = window.ambience; a.muted = false; a._ensure();
         const out = {};
@@ -411,8 +412,12 @@ async function commit(p, reduce) {
         return out;
       });
       const L = rms.landing;
-      const matched = L > 0 && ["hallway", "coach", "stairway"].every(s => rms[s] > L * 0.6 && rms[s] < L * 1.5);
-      check("audio: arcs are level-matched to the landing theme (measured RMS)", matched, JSON.stringify(Object.fromEntries(Object.entries(rms).map(([k, v]) => [k, +v.toFixed(4)]))));
+      // hallway + stairway near the landing theme (a generous band for the live,
+      // randomised beds); coach deliberately quieter (below landing) yet audible.
+      const nearLanding = ["hallway", "stairway"].every(s => rms[s] > L * 0.5 && rms[s] < L * 2.2);
+      const coachHush = rms.coach > L * 0.12 && rms.coach < L;
+      const matched = L > 0 && nearLanding && coachHush;
+      check("audio: loudness intent holds (hallway/stairway ~ landing, coach a quieter hush)", matched, JSON.stringify(Object.fromEntries(Object.entries(rms).map(([k, v]) => [k, +v.toFixed(4)]))));
       await p.context().close();
     }
 

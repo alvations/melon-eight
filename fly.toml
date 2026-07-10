@@ -1,0 +1,34 @@
+# Fly.io config for hosting 8 (a free alternative to Hugging Face Docker Spaces).
+# Builds the repo-root Dockerfile as-is. See docs/HOSTING.md.
+#
+# IMPORTANT: exactly ONE machine. Game state (and each loop's answer) is in memory
+# in a single gunicorn process; multiple machines would split state and break runs.
+#
+#   fly launch --copy-config --no-deploy   # pick an app name + region
+#   fly deploy
+#   fly scale count 1
+
+app = "hallway8"                # change to your own unique app name on first launch
+primary_region = "iad"          # pick a region near you
+
+[build]
+  dockerfile = "Dockerfile"
+
+[http_service]
+  internal_port = 7860          # matches the Dockerfile EXPOSE / gunicorn bind
+  force_https = true
+  auto_stop_machines = false    # keep the one machine warm so a run never drops
+  auto_start_machines = true
+  min_machines_running = 1      # single, always-on instance (in-memory state)
+
+  [http_service.checks]
+    [http_service.checks.health]
+      method = "get"
+      path = "/healthz"
+      interval = "30s"
+      timeout = "5s"
+      grace_period = "20s"
+
+[[vm]]
+  size = "shared-cpu-1x"
+  memory = "256mb"

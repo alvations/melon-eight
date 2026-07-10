@@ -984,7 +984,10 @@ body[data-bright="2"] { --dim: #dcdcd7 !important; --dim2: #c6cad0 !important; }
 /* Reduced motion: no roll. Read it statically, scrolled by hand. */
 html.motion-reduce .credits-roll {
   position: static;
-  transform: translateX(-50%);
+  /* Static flow is centered by `margin: 0 auto` + the fixed width; the base
+     rule's translateX(-50%) (which corrects for `left: 50%` in the animated,
+     absolutely-positioned layout) would push it off-centre here, so clear it. */
+  transform: none;
   animation: none;
   margin: 0 auto;
   padding: 3rem 0;

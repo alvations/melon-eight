@@ -15,7 +15,15 @@ from __future__ import annotations
 import os
 import random
 import secrets
+import sys
 from typing import Dict
+
+
+def _boot(msg: str) -> None:
+    """Startup diagnostics to stderr (captured in the Hugging Face Space logs), so
+    a container that never becomes healthy tells us WHY instead of just timing
+    out. Prefixed and flushed so it is easy to grep in the build/runtime logs."""
+    print(f"[8-boot] {msg}", file=sys.stderr, flush=True)
 
 from flask import (
     Flask,
@@ -31,13 +39,40 @@ from hallway import (
 )
 from memory import PlayerMemory
 
+import platform  # noqa: E402
+import tempfile  # noqa: E402
+
+_boot(f"python {platform.python_version()} on {sys.platform}; "
+      f"cwd={os.getcwd()} HOME={os.environ.get('HOME')} "
+      f"uid={os.getuid() if hasattr(os, 'getuid') else 'n/a'}")
+_boot(f"env PORT={os.environ.get('PORT')} HOST={os.environ.get('HOST')} "
+      f"SECRET_KEY={'set' if os.environ.get('SECRET_KEY') else 'unset(random)'}")
+# The HF Spaces filesystem is read-only except /tmp; a stray write would crash a
+# worker. Confirm /tmp is writable so we can rule that in or out from the logs.
+try:
+    with tempfile.NamedTemporaryFile() as _t:
+        _t.write(b"ok")
+    _boot("tmp is writable")
+except Exception as exc:  # noqa: BLE001
+    _boot(f"WARNING: tmp NOT writable: {exc!r}")
+
 app = Flask(__name__)
 app.secret_key = os.environ.get("SECRET_KEY", secrets.token_hex(32))
 
 # Available arcs, and a cache of one Hallway per arc (each just holds parsed
 # JSON, so sharing them across requests is safe).
-ARCS = {a["id"]: a for a in list_arcs()}
+try:
+    ARCS = {a["id"]: a for a in list_arcs()}
+    _boot(f"arcs loaded: {list(ARCS)}")
+except Exception as exc:  # surface an arc-load failure loudly in the Space logs
+    _boot(f"FATAL: could not load arcs: {exc!r}")
+    raise
+try:
+    _boot(f"locales available: {[l['code'] for l in i18n.available_locales()]}")
+except Exception as exc:  # noqa: BLE001
+    _boot(f"WARNING: locales failed to enumerate: {exc!r}")
 _HALLWAYS: Dict[str, Hallway] = {}
+_boot("app module import complete; gunicorn can now bind and serve")
 
 
 def get_hallway(arc_id: str) -> Hallway:
@@ -195,6 +230,21 @@ def _localized_arcs(locale: str) -> list:
 @app.route("/")
 def index():
     return render_template("index.html")
+
+
+# A tiny, dependency-free health endpoint. If the Space health-check (or you) hits
+# this and gets "ok", the app is up; if the container is "not healthy", the logs
+# above (or the absence of the [8-boot] "ready" line) say why.
+_served_first = False
+
+
+@app.route("/healthz")
+def healthz():
+    global _served_first
+    if not _served_first:
+        _served_first = True
+        _boot("first request served; the app is live and healthy")
+    return "ok", 200
 
 
 @app.route("/api/langs", methods=["GET"])

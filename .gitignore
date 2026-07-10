@@ -10,3 +10,7 @@ package-lock.json
 # Local outputs from the dev tools (screenshots, ad-hoc renders)
 shots/
 *.local.png
+
+# Build output (the itch.io static bundle + zip). Rebuilt from source by
+# scripts/build_itch.py; never committed.
+dist/
